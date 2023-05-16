@@ -1,5 +1,5 @@
 ---
-title: Terms of Service
+title: Rules
 date: 2023-05-15 12:05:23
 ---
 
