@@ -88,7 +88,7 @@ tags:
       margin-left: 75px;
     }
     [character] p {
-      width: 100%;
+      max-width: calc(100% - 75px);
       margin-left: 75px;
     }
     [character] p:first-child {

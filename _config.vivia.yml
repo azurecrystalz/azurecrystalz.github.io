@@ -42,11 +42,11 @@ links:
   - name: Twitter
     icon: fa-brands fa-twitter      # Find icon codes at https://fontawesome.com/search
     url: https://twitter.com/azurecrystalz
-  - name: Steam
+  - name: Tumblr
     icon: fa-brands fa-tumblr
     url: https://azurecrystalz.tumblr.com
-  - name: GitHub
-    icon: fa-regular fa-message-smile
+  - name: CuriousCat
+    icon: fa-regular fa-shield-cat
     url: https://curiouscat.live/azurecrystalz
 
 comment:
