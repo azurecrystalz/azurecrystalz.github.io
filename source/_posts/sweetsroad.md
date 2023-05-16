@@ -93,6 +93,7 @@ tags:
 <div style="margin-top: 3%">
   <style>
     [character] {
+      --dark-mode: hsl(var(--hue), 30%, 30%);
       display: flex;
     }
     [character]::before {
@@ -102,6 +103,16 @@ tags:
     [character] p {
       max-width: calc(100% - 75px);
       margin-left: 75px;
+      color: inherit;
+    }
+    :root[theme='dark'] [character] p {
+      background: var(--dark-mode);
+    }
+    :root[theme='light'] [character] p {
+      background: var(--light-mode);
+    }
+    :root[theme='dark'] [character] p .thought {
+      color: #9f9fff;
     }
     [character] p:first-child {
       margin-top: 20px;
@@ -195,7 +206,7 @@ tags:
   </div>
 
 {% bubble Niki %}
-  Sorry to keep you waiting~ Here are my homemade snowball cookies![1]
+  Sorry to keep you waiting~ Here are my homemade snowball cookies!<sup>[1]</sup>
 {% endbubble %}
 
 {% bubble Kohaku %}
@@ -247,7 +258,7 @@ tags:
 {% endbubble %}
 
 {% bubble Niki %}
-  Mogumogu...mm![2] Mayo-chan's butter sable is actually really good! You can't die when you make such good food, so live for my sake!
+  Mogumogu...mm!<sup>[2]</sup> Mayo-chan's butter sable is actually really good! You can't die when you make such good food, so live for my sake!
 {% endbubble %}
 
 {% bubble HiMERU %}
@@ -271,7 +282,7 @@ tags:
 {% bubble HiMERU %}
   Ufufu. Now then, HiMERU will present it.
 
-  HiMERU is square cream puffs[3].
+  HiMERU is square cream puffs<sup>[3]</sup>.
 {% endbubble %}
 
 {% bubble Niki %}

@@ -81,6 +81,7 @@ tags:
 <div style="margin-top: 3%">
   <style>
     [character] {
+      --dark-mode: hsl(var(--hue), 30%, 30%);
       display: flex;
     }
     [character]::before {
@@ -90,6 +91,16 @@ tags:
     [character] p {
       max-width: calc(100% - 75px);
       margin-left: 75px;
+      color: inherit;
+    }
+    :root[theme='dark'] [character] p {
+      background: var(--dark-mode);
+    }
+    :root[theme='dark'] [character] p .thought {
+      color: #9f9fff;
+    }
+    :root[theme='light'] [character] p {
+      background: var(--light-mode);
     }
     [character] p:first-child {
       margin-top: 20px;

@@ -88,6 +88,7 @@ tags:
 <div style="margin-top: 3%">
   <style>
     [character] {
+      --dark-mode: hsl(var(--hue), 30%, 30%);
       display: flex;
     }
     [character]::before {
@@ -97,6 +98,16 @@ tags:
     [character] p {
       max-width: calc(100% - 75px);
       margin-left: 75px;
+      color: inherit;
+    }
+    :root[theme='dark'] [character] p {
+      background: var(--dark-mode);
+    }
+    :root[theme='light'] [character] p {
+      background: var(--light-mode);
+    }
+    :root[theme='dark'] [character] p .thought {
+      color: #9f9fff;
     }
     [character] p:first-child {
       margin-top: 20px;
@@ -129,7 +140,7 @@ tags:
   {% endbubble %}
 
   {% bubble Mitsuru %}
-    Jiii~[1]...
+    Jiii~<sup>[1]</sup>...
   {% endbubble %}
 
   {% bubble HiMERU %}
@@ -287,7 +298,7 @@ tags:
   {% endbubble %}
 
   {% bubble Rinne %}
-    Oh, it's Merumeru! Are you here for lunch? Isn't it late for that? Well, I'm having lunch right now too. Whatcha eating Merumeru, hayashi rice[2]? If it's good, then I'll order it too. Gimme a bite~
+    Oh, it's Merumeru! Are you here for lunch? Isn't it late for that? Well, I'm having lunch right now too. Whatcha eating Merumeru, hayashi rice<sup>[2]</sup>? If it's good, then I'll order it too. Gimme a bite~
   {% endbubble %}
 
   {% bubble HiMERU %}
