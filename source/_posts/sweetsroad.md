@@ -127,6 +127,22 @@ tags:
       left: 65px;
       top: 37px;
     }
+    .msr-narration {
+      display: flex;
+      align-items: center;
+      margin: 20px 0px;
+      gap: 5px;
+    }
+    .msr-narration::before {
+      content: "";
+      display: inline-block;
+      background: var(--article-text);
+      height: 1px;
+      width: 15%;
+    }
+    .msr-narration p {
+      margin: 0;
+    }
   </style>
 
 {% bubble Niki %}
