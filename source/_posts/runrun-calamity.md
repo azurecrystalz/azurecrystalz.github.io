@@ -2,9 +2,8 @@
 title: The "Runrun" Calamity
 date: 2023-05-15 12:42:04
 categories:
-- [Enstars, HiMERU]
+- [Enstars, Crazy:B]
 tags:
-- Umeda Chitose
 - HiMERU
 - Amagi Rinne
 - Hibiki Wataru

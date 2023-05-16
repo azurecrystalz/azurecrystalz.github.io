@@ -1,18 +1,24 @@
 ---
 title: Sweets Road
 date: 2023-05-15 15:19:34
-categories:
+categories: 
+- [Enstars, Crazy:B]
 tags:
+- Shiina Niki
+- Oukawa Kohaku
+- Suou Tsukasa
+- HiMERU
+- Ayase Mayoi
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('[BLOOMED_CARD_URL]')"></div>
+      <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1065401186343194667/1107853828352655512/28Cycle_of_Delicacy29_Niki_Shiina_Frameless_Bloomed.webp')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
               <div class="title-area__title">Sweets Road</div>
               <div class="title-area__subtitle">スイーツロード</div>
-              <div class="title-area__start"><a href="[STORY_LINK_GOES_HERE]">Start Reading</a></div>
+              <div class="title-area__start"><a href="/2023/05/15/sweetsroad/">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
@@ -111,6 +117,8 @@ tags:
       top: 37px;
     }
   </style>
+
+
 
   <!-- CONTENT GOES HERE -->
 
