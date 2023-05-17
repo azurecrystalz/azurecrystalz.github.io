@@ -1,4 +1,3 @@
-
 # # Footer
 # copyright: |-
 #   <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></br>
@@ -15,8 +14,7 @@
 #   All website licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a></br>
 
 # Miscellaneous
-# favicon: /favicon.png
-
+favicon: https://cdn.discordapp.com/attachments/1104895555571830880/1108512176437739520/202B001F-0BEA-4A51-A539-D3A829025D83.png
 # valine comment system. https://valine.js.org
 # valine:
 #   enable: false # if you want use valine,please set this value is true
@@ -29,5 +27,4 @@
 #   lang: zh-cn # i18n: zh-cn/en
 #   placeholder: Just go go # valine comment input placeholder(like: Please leave your footprints )
 #   guest_info: nick,mail,link #valine comment header info
-
 
