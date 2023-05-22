@@ -1,5 +1,5 @@
 ---
-title: Please, God
+title: Please, God ☆
 date: 2023-05-16 11:45:34
 categories:
 - Enstars, Crazy:B
@@ -18,7 +18,7 @@ tags:
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
               <div class="title-area__title">Please, God</div>
-              <div class="title-area__subtitle"><!-- STORY JP TITLE --> </div>
+              <div class="title-area__subtitle">神さまにお願い☆</div>
               <div class="title-area__start"><a href="/2023/05/16/please-god/">Start Reading</a></div>
           </div>
           <div class="info-area">

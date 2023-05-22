@@ -1,39 +1,32 @@
 ---
-title: Kaguyahime
-date: 2023-05-18 11:45:34
+title: 
+date: 
 categories:
-  - [Enstars, Getto Spectacle]
+  - 
 tags:
-  - Kazehaya Tatsumi
-  - Shinkai Kanata
-  - Tomoe Hiyori
-  - Hidaka Hokuto
-  - Narukami Arashi
+  - 
 ---
 
 <div class="story-wrapper mobile-reverse" style="--storyColor: #ec8dab;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
   <div class="grid-wrapper">
       <div class="story-background"
-      style="background-image: url('https://cdn.discordapp.com/attachments/1107544413837725736/1107544426382889030/latest.png')">
+      style="background-image: url('[BLOOMED_CARD_BANNER_URL]')">
     </div>
     <div class="story-box" style="background: #62454D">
       <div class="story-cover">
-        <div><img src="https://cdn.discordapp.com/attachments/1108310788436938793/1108323928289595412/IMG_0061.png">
+        <div><img src="[UNBLOOMED_CARD_URL]">
         </div>
       </div>
       <div class="title-area">
-        <div class="title-area__title">Princess Kaguya</div>
-        <div class="title-area__subtitle">かぐや姫 (Kaguya-hime)</div>
+        <div class="title-area__title"><!-- STORY ENG TITLE --></div>
+        <div class="title-area__subtitle"><!-- STORY JP TITLE --></div>
         <div class="title-area__start">
           <a href="#1">Start Reading</a>
         </div>
       </div>
       <div class="info-area">
         <div class="synopsis">
-          This time, the Shuffle Project partners with a popular educational program based on the theme of Princess
-          Kaguya. The five members begin living together at a training camp, but they're not in sync with each other.
-          Then, Hiyori reveals something to <span style="display:inline-block">them...<a
-              href="https://twitter.com/ensemble_stars/status/1431496771394588678">➹</a></span>
+          <!-- SYNOPSIS HERE -->
         </div>
         <div class="info">
           <div class="info-item season">
@@ -41,7 +34,7 @@ tags:
               Season
             </div>
             <div class="value">
-              Winter
+              <!-- SEASON -->
             </div>
           </div>
           <div class="info-item chapters">
@@ -49,7 +42,7 @@ tags:
               Chapters
             </div>
             <div class="value">
-              15
+              <!-- CHAPTERS -->
             </div>
           </div>
           <div class="info-item writer">
@@ -57,19 +50,17 @@ tags:
               Writer
             </div>
             <div class="value">
-              Kino Seitaro with Akira
+              <!-- WRITERS-->
             </div>
           </div>
           <div class="info-item characters">
             <div class="label">
-              Characters
+                  Characters
             </div>
             <div class="value">
-              <a href="/categories/Enstars/Hokuto" character="Hokuto"></a>
-              <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-              <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
-              <a href="/categories/Enstars/Hiyori" character="Hiyori"></a>
-              <a href="/categories/Enstars/Arashi" character="Arashi"></a>
+                <!-- 
+                  <a href="/tags/[CHARACTER_LAST_NAME]-[CHARACTER_FIRST_NAME]/" character="[CHARACTER_FIRST_AME]" title="[CHARACTER_FIRST_NAME]"></a> -->
+                  <!-- COPY AND PASTE THE ABOVE FOR EACH CHARACTER THAT APPEARS IN THE STORY -->
             </div>
           </div>
           <div class="info-item tl">
