@@ -19,7 +19,7 @@ tags:
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
-                After receiving a mysterious letter from someone telling him to meet him in front of the museum to discuss something important, Kohaku is surprised that the sender was someone unexpected...
+                After receiving a mysterious letter from someone telling him to meet to discuss something important, Kohaku is surprised that the sender was someone unexpected...
               </div>
               <div class="info">
                   <div class="info-item season">
