@@ -164,7 +164,7 @@ tags:
   {% endbubble %}
     
   {% bubble Kohaku %}
-    N-Nagisa-han? If you're calling for me, then the one that called me out here....
+    N-Nagisa-han? If you're calling for me, then the one that invited me here....
   {% endbubble %}
 
   {% bubble Nagisa %}
@@ -190,7 +190,7 @@ tags:
   {% endbubble %}
 
   {% bubble Kohaku %}
-    Well, that's the Vice President for you. But then, what's the "important thing" you wanted...?
+    Well, that's the Vice President for you. So then, what's the "important thing" you wanted...?
   {% endbubble %}
 
   {% bubble Nagisa %}
@@ -202,7 +202,7 @@ tags:
   {% endbubble %}
 
   {% bubble Nagisa %}
-    ...I believe it'd be easier to see the exhibit more than to explain. Let's go inside, shall we?
+    ...I believe it'd be easier to see the exhibit than to explain. Let's go inside, shall we?
   {% endbubble %}
 
   {% bubble Kohaku %}
@@ -220,7 +220,7 @@ tags:
   {% endbubble %}
 
   {% bubble Nagisa %}
-    ...What's wrong? Could it be that the skeletal model surprised you?
+    ...What's wrong? Could it be that the skeletal display surprised you?
   {% endbubble %}
 
   {% bubble Kohaku %}
@@ -228,7 +228,7 @@ tags:
   {% endbubble %}
 
   {% bubble Nagisa %}
-    Well it's a replica, so not really. However these models' shapes and sizes are meant to get as close as possible to the real thing...same for the colors. Paint is used to show the texture.
+    ...Well it's a replica, so not really. However these displays' shapes and sizes are meant to get as close as possible to the real thing...same for the colors. Paint is used to show the texture.
   {% endbubble %}
 
 ![unblm](https://media.discordapp.net/attachments/1065401186343194667/1110073386480185364/29B43F37-6834-437F-BD18-B59D542081A9.png?width=1646&height=760)
@@ -293,7 +293,7 @@ tags:
   {% bubble Nagisa %}
     ....Yes. Once I learned how to buy ingredients, my worldview broadened. I found more fun and interesting things...
     
-    Kohaku-kun, I think your worldview is going to continue to widen.
+    Kohaku-kun, I think your worldview will continue to widen.
   {% endbubble %}
 
   {% bubble Kohaku %}
@@ -301,7 +301,7 @@ tags:
   {% endbubble %}
 
   {% bubble Nagisa %}
-    N...As of now, your vision is still only partway open.
+    ...As of now, your vision is still only partially open.
     
     With a desire to dive in, chase, and push forward--that tenacity will bring to you an unseen future.
   {% endbubble %}
@@ -321,7 +321,7 @@ tags:
   {% endbubble %}
 
   {% bubble Nagisa %}
-    Finding something you're interested in and gained some new insight today would be the most important reason for coming to the museum. Fortunately, the special exhibit is still open for a longer period of time, so I can come again another time.
+    Finding something you're interested in and gaining some new insight today would be the most important reason for coming to the museum. Fortunately, the temporary exhibit is still open for a longer period of time, so I can come again another time.
   {% endbubble %}
 
   {% bubble Kohaku %}

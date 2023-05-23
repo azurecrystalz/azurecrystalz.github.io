@@ -151,7 +151,7 @@ tags:
   {% endbubble %}
   
   {% bubble Rinne %}
-    <th>*(Well then, I guess that leaves me no choice but to kill time here. I really wish I had anything to cure my boredom…ah–)*</th>
+    <th>*(Well then, I guess that leaves me no choice but to kill time here. I really wish I had anything to cure my boredom…Ah–)*</th>
   {% endbubble %}
 
   ![ah](https://64.media.tumblr.com/2eb2c210cdb4332befc102c6c6a6dcae/de82d7849d1301c7-83/s2048x3072/8b2dee2195c15d48b2e57a2703714ae95e72e718.png)
@@ -187,11 +187,11 @@ tags:
   {% bubble Rinne %}
     I had some free time and I saw a friend of mine, so is there an issue if I wanna go talk to them?
     
-    We’re dorm mates, so why don’t you play nice with me a bit? Gyahaha!
+    We’re roommates, so why don’t you play nice with me a bit? Gyahaha!
   {% endbubble %}
 
   {% bubble Hiyori %}
-    Dorm mates…well then, why don’t you go ask Kanata-kun to play with you? He’s definitely not as lucky as me, but he’s got some good luck as well.
+    Roommates...Well then, why don’t you go ask Kanata-kun to play with you? He’s definitely not as lucky as me, but he’s got some good luck as well.
   {% endbubble %}
 
   {% bubble Rinne %}
@@ -207,7 +207,7 @@ tags:
   {% endbubble %}
 
   {% bubble Hiyori %}
-    Fufu. Whether you believe it or not is on you, Rinne-senpai.
+    Fufu. Whether you believe it or not is up to you, Rinne-senpai.
   {% endbubble %}
 
   <div class="msr-narration">
@@ -219,15 +219,15 @@ tags:
   {% endbubble %}
 
   {% bubble Rinne %}
-    <th>*(I think I’ll head to the pachinko parlor, to start. There’s new machine’s that opened up that I want to try out…nn?)*</th>
+    <th>*(I think I’ll head to the pachinko parlor, to start. There’s new machines that opened up that I want to try out…nn?)*</th>
   {% endbubble %}
 
   {% bubble Kanata %}
-    ...zzz
+    ...zzz.
   {% endbubble %}
 
   {% bubble Rinne %}
-    <th>*(I had no idea you were already back, Kanna-cchi. I didn’t even realize it at all. He looks like he’s having a happy and peaceful sleep. Is he having a good dream?)*</th>
+    <th>*(I had no idea you were already back, Kana-cchi. I didn’t even realize it at all. He looks like he’s having a happy and peaceful sleep. Is he having a good dream?)*</th>
   {% endbubble %}
 
   {% bubble Rinne %}
@@ -355,7 +355,7 @@ tags:
   {% endbubble %}
 
   {% bubble Kanata %}
-    I’m feeling “fine”, I’m just confused. “Chief”-san lately has been spoiling me extravagantly.
+    I’m feeling “fine”, I’m just confused. “Chief”-san has been extravagantly spoiling me lately.
   {% endbubble %}
 
   {% bubble Hiyori %}
@@ -363,7 +363,7 @@ tags:
   {% endbubble %}
 
   {% bubble Kanata %}
-    Yes. He bought me an “inflatable pool” and he tried taking me to a “fishfood” restaurant.
+    Yes. He bought me an “inflatable pool” and he tried taking me to a "seafood" restaurant.
     
     I don’t understand his true “intentions”. It’s really troubling.
   {% endbubble %}
@@ -383,7 +383,7 @@ tags:
   {% endbubble %}
 
   {% bubble Kanata %}
-    Fumu, so that’s why he was acting like a “kiss up”.
+    Fumu, so that’s why he was acting like a “suck up”.
     
     I don’t like it, the feeling of being used you know?
   {% endbubble %}
@@ -401,7 +401,7 @@ tags:
   {% bubble Rinne %}
     Aah…haha. Did you catch me praying to you this whole time?
     
-    Wish I heard that a little earlier, since I just lost big time. Haa, in this world there really is no such thing as a quick-deal.
+    Wish I'd heard that a little earlier, since I just lost big time. Haa, there really is no such thing as a quick-deal in this world.
   {% endbubble %}
 
   {% bubble Hiyori %}
@@ -432,7 +432,7 @@ tags:
 
 ### Translation Notes
 
-**[1]:** Sorry if my usage of “ii-hiyori”/“warui hiyori” is incorrect, I genuinely can’t tell if it’s treated as a noun or adjective, but I’ll trust HiyoriPs to understand
+**[1]:** For anyone that needs the explanation: it's a pun of sorts made on Hiyori's name to describe if he finds something good or bad.
 
 **[2]:** Rinne interpreted Hiyori incorrectly and heard “tisshu” (meaning tissue) instead of “qisshu” (meaning quiche).
 

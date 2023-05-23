@@ -148,7 +148,7 @@ tags:
 {% bubble Niki %}
   Alright~, thank you for waiting! Here's Suou-kun's croque-monsieúr and Kohaku-chan's curry.
 
-  You two must be close to be having lunch together! Are you two hanging out?
+  You two must be close if you're having lunch together! Are you two hanging out?
 {% endbubble %}
 
 {% bubble Kohaku %}
@@ -174,7 +174,7 @@ tags:
 {% endbubble %}
 
 {% bubble Niki %}
-  Got it. I get it now, so don't pinch my cheeks~
+  Got it! I get it now, so don't pinch my cheeks~
 {% endbubble %}
 
 {% bubble Tsukasa %}
@@ -188,7 +188,7 @@ tags:
 {% bubble Tsukasa %}
   I was a member of both "Circles" first, before you. That means you definitely joined when you found out I was in them.
 
-  Which *means*, you wanted to join both clubs because *I* was there, right Koha-kun~?
+  Which *means*, you wanted to join both clubs because *I* was there. Right, Koha-kun~?
 {% endbubble %}
 
 {% bubble Kohaku %}
@@ -204,7 +204,7 @@ tags:
 {% bubble Niki %}
   So you'd be looking for a place that's a hidden gem, right? 
 
-  Hmm...why don't I make it? The "Sweets Club" has never ordered from me before, so I think I fit the bill~
+  Hmm...Why don't I make it? The "Sweets Club" has never ordered from me before, so I think I fit the bill~
 {% endbubble %}
 
 {% bubble Tsukasa %}
@@ -238,7 +238,7 @@ tags:
 {% bubble Tsukasa %}
   Thank you. Now then, I'll take your word for it...
 
-  *"Marvelous~"* It's delicious. It has a gentle flavour and could go well with any kind of tea.
+  *"Marvelous~"* It's delicious. It has a gentle flavor and could go well with any kind of tea.
 {% endbubble %}
 
 {% bubble Kohaku %}
@@ -268,17 +268,21 @@ tags:
 {% endbubble %}
 
 {% bubble Mayoi %}
-  I, I can accept that too, but um...I made homemade butter sable. But when compared to Shiina-san's, who's a professional chef...
+  I, I can accept that too, but um...
+  
+  I made homemade butter sable. But when compared to Shiina-san's, who's a professional chef...
 
   Aah, I want to die. It's so embarrassing.
 {% endbubble %}
 
 {% bubble Niki %}
-  Mogumogu...mm!<sup>[2]</sup> Mayo-chan's butter sable is actually really good! You can't die when you make such good food, so live for my sake!
+  Mogumogu...mm!<sup>[2]</sup> Mayo-chan's butter sable is actually really good! 
+  
+  You can't die when you make such good food, so live for my sake!
 {% endbubble %}
 
 {% bubble HiMERU %}
-  You're too stubborn, Shiina. This isn't a speed-eating competition, calm down.
+  You're being too persistent, Shiina. This isn't a speed-eating competition, calm down.
 {% endbubble %}
 
 {% bubble Niki %}
@@ -286,7 +290,7 @@ tags:
 {% endbubble %}
 
 {% bubble Mayoi %}
-  Nono, please don't fret. Seeing Shiina-san eat so well is refreshing. Seeing him going on a mindless gorge sometimes is scary, though.
+  Nono, please don't fret. Seeing Shiina-san eat so well is refreshing. Seeing him going on a mindless binge is scary, though...♪
 {% endbubble %}
 
 {% bubble Kohaku %}
