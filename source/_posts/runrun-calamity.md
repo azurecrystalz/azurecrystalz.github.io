@@ -74,7 +74,7 @@ tags:
                           Proofreaders
                       </div>
                       <div class="value">
-                          <a href="https://twitter.com/HELLOGlRLS">son</a>...?
+                          <a href="https://twitter.com/HELLOGlRLS">son</a>...? (coding help), mello and shay (proofing help)
                       </div>
                   </div>
               </div>

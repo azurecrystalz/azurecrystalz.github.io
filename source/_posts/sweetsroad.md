@@ -78,7 +78,7 @@ tags:
                           Proofreaders
                       </div>
                       <div class="value">
-                      N/A
+                      mello and shay
                           <!-- PROOFREADER LIST (IF ANY) -->
                       </div>
                   </div>

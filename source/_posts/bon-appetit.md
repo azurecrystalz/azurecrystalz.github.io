@@ -80,7 +80,7 @@ tags:
                           Proofreaders
                       </div>
                       <div class="value">
-                      N/A
+                      mello, pix, and shay
                           <!-- PROOFREADER LIST (IF ANY) -->
                       </div>
                   </div>
@@ -168,13 +168,13 @@ tags:
 {% endbubble %}
 
 {% bubble Hinata %}
-  All three treats in a row make for a pretty *sweet* sight~ All these sweets loom scrumptious! 
+  All three treats in a row make for a pretty *sweet* sight~ All these sweets look tasty! 
 {% endbubble %}
 
 {% bubble Hiiro %}
-  Just like the name of the place, “Fruit Parlor”, says, theres a variety of different fruits on everything on the menu.
+  Just like the name of the place, “Fruit Parlor”, says, there’s a variety of different fruits on everything on the menu.
   
-  I’m unfamiliar with what a “parlor” is, but after following Shiina-san I was able to discover beautiful food. I’m so happy.
+  I’m unfamiliar with what a “parlor” is, but after following Shiina-san, I was able to discover beautiful food. I’m so happy.
 {% endbubble %}
 
 {% bubble Niki %}
@@ -182,11 +182,11 @@ tags:
 {% endbubble %}
 
 {% bubble Hinata %}
-  Ahaha. When I heard you were coming to the Fruit Parlor, I couldn’t resist since I’ve got a sweet tooth.
+  Ahaha. When I heard you were coming to the Fruit Parlor, I couldn’t resist, since I’ve got a sweet tooth.
 {% endbubble %}
 
 {% bubble Hiiro %}
-  Umu. Likewise, I heard it was a good place with splendid food…there’s still so much in the city I don’t know about.
+  Umu. Likewise, I heard it was a good place with splendid food… There’s still so much in the city I don’t know about.
 {% endbubble %}
 
 ![itadakeeee!](https://64.media.tumblr.com/b667aa1ee3b8435a22bd9d8dc27d7d92/269a675dc4112e70-63/s1280x1920/2694b50527e4bb1c68bbe09d90424da4096bcb1d.png)
@@ -206,7 +206,7 @@ tags:
 {% endbubble %}
 
 {% bubble Hinata %}
-  Oh right, if you're gonna need a reference for a recipe, do you wanna bite? Cuz this parfait is taaaasty~
+  Oh right, if you're gonna need a reference for a recipe, do you want a bite? Cuz this parfait is taaaasty~
 {% endbubble %}
 
 {% bubble Niki %}
@@ -226,7 +226,7 @@ tags:
 {% endbubble %}
 
 {% bubble Hinata %}
-  Soooo true~ Shiina-senpai we're lucky to be in the same room as you. Ah, that reminds me--
+  Soooo true~ Shiina-senpai, we're lucky to be in the same room as you. Ah, that reminds me--
 {% endbubble %}
 
 {% bubble Niki %}
@@ -234,7 +234,7 @@ tags:
 {% endbubble %}
 
 {% bubble Hinata %}
-  Oh don't mind me! While you're eating so happily like that, just turn this way a bit please!
+  Oh, don't mind me! While you're eating so happily like that, just turn this way a bit please!
 {% endbubble %}
 
 {% bubble Niki %}
@@ -262,7 +262,7 @@ tags:
 {% endbubble %}
 
 {% bubble Hiiro %}
-  That's true, Nii-san's show was recently. However, is there a specific rule for the order?
+  That's true, Nii-san's show was recent. However, is there a specific rule for the order?
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -270,23 +270,23 @@ tags:
   
   ...But let's just leave that be for a bit. The pamphlet for the "Feature Live" features a bunch of off-shots<sup>[2]</sup> of the idols. I thought having this fun time with Shiina-senpai was the perfect chance for an off-shot picture, so I took one~
   
-  Shiina-senpai, if out on your day off from work, that means your "off" now right?
+  Shiina-senpai, if you're out on your day off, that means you're "off" now, right?
 {% endbubble %}
 
 {% bubble Niki %}
-  I guess? I mean I'm eating food and being really random but it isn't any different from what I do everyday...so maybe it's fine for an offshoot?
+  I guess? I mean, I'm eating food and being really random, but it isn't any different from what I do everyday... So maybe it's fine for an offshoot?
 {% endbubble %}
 
 {% bubble Hinata %}
-  I *know* right? And here's....another shot~!
+  I *know*, right? And here's....another shot~!
 {% endbubble %}
 
 {% bubble Hiiro %}
-  Then, I'll give it my best to take pictures of Shiina-senpai too. I've improving at using a camera recently~
+  Then, I'll do my best to take pictures of Shiina-senpai too. I've improved at using a camera recently~
 {% endbubble %}
 
 {% bubble Niki %}
-  Having two cameras being pointed at me feels weird but if it really is my turn then it would be a big help if I had a few pictures. I'd be grateful if you randomly took a few.
+  Having two cameras being pointed at me feels weird, but if it really is my turn, then it would be a big help if I had a few pictures. I'd be grateful if you randomly took a few.
 {% endbubble %}
 
 {% bubble Hiiro %}
@@ -294,7 +294,7 @@ tags:
 {% endbubble %}
 
 {% bubble Hinata %}
-  That's right. Instead of sending them to Shiina-senpai it'd just be faster to send them to Anzu-san first. I'll send them and explain~.
+  That's right. Instead of sending them to Shiina-senpai, it'd just be faster to send them to Anzu-san first. I'll send them and explain~
 {% endbubble %}
 
 {% bubble Niki %}
@@ -312,7 +312,7 @@ tags:
 {% endbubble %}
 
 {% bubble Niki %}
-  Even if it's sweets, savor it well you two~
+  Even if they’re just sweets, savor them well, you two~
 {% endbubble %}
 
 <div class="msr-narration">
@@ -326,21 +326,21 @@ tags:
 
   --Ah, Nee-san, when did you get here?! Please come in instead of staying by the door!
   
-  You didn't want to get in the way so you watched and waited for me to finish work? Nono, Nee-san didn't you contact me beforehand? You could've just talked to me at any point with no problem yknow.
+  You didn't want to get in the way so you watched and waited for me to finish work? Nono, Nee-san, didn't you contact me beforehand? You could've just talked to me at any point with no problem, y’know.
 {% endbubble %}
 
 {% bubble Niki %}
-  ...So, um. About my "Feature Live", I know it's my turn for it but what did you want to meet up today for?
+  ...So, um. About my "Feature Live", I know it's my turn for it, but what did you want to meet up for?
   
-  Eh? A picture? Oh you're talking about the one the other two took? I'm happy you like them, it's all thanks to Hinata-kun and Otouto-san...
+  Eh? A picture? Oh, you're talking about the one the other two took? I'm happy you like them, it's all thanks to Hinata-kun and Otouto-san...
 
-  Is this...what I was hoping for? You're asking what kind of moments do I want to post and which off-shot pictures I think are good? Uummmm, I mean if it's just a picture of good food then I have no problem, but it's gonna be in the pamphlet so I have to be in the pictures right?
+  Is this...what I was hoping for? You're asking what kind of moments do I want to post and which off-shot pictures I think are good? Uummmm, I mean, if it's just a picture of good food then I have no problem, but it's gonna be in the pamphlet, so I have to be in the pictures, right?
 {% endbubble %}
 
 {% bubble Niki %}
   .....
 
-  Sorry, I should stay quiet. It's an "off-shoot" so I was just thinking about my time off...
+  Sorry, I should stay quiet. It's an "off-shoot", so I was just thinking about my time off...
 
   ? You're asking if I even *have* time off, what do you mean by that?
   
@@ -352,7 +352,7 @@ tags:
 ![off?](https://64.media.tumblr.com/a10f0c22077d56db17d146858faf7348/269a675dc4112e70-e2/s1280x1920/64ea8c7d36dd4e993fbf1116eda4c9fa24410745.png)
 
 {% bubble Niki %}
-  Uuu I'm gonna go crazy. What in the world do I consider as time off?
+  Uuu, I'm gonna go crazy. What in the world do I consider as time off?
   
   You're asking if I don't have days off to at least tell you what I do in my spare time?
 
@@ -366,7 +366,6 @@ tags:
 
 # Chapter 2
 ***
-
 ![what is it](https://64.media.tumblr.com/19f099ff3da2e08f54f6fb68bae83903/f094a20b3c9210fb-a2/s1280x1920/39d7dd0b04c1b6f9fdaa4582ee68340f6998d3d1.png)
 
 {% bubble Niki %}
@@ -374,7 +373,7 @@ tags:
 {% endbubble %}
 
 {% bubble Niki %}
-  <th>*(I just kept Nee-san in the dark for a while and in the end the only thing I could think of was cooking...to be fair I **did** try to think of something apart from cooking, but I all I could come up with was mahjong and pachinko with Rinne-kun!)*</th>
+  <th>*(I just kept Nee-san in the dark for a while, and in the end the only thing I could think of was cooking... To be fair I **did** try to think of something apart from cooking, but all I could come up with was playing mahjong and pachinko with Rinne-kun!)*</th>
 {% endbubble %}
 
 {% bubble Niki %}
@@ -382,7 +381,7 @@ tags:
 {% endbubble %}
 
 {% bubble Niki %}
-  <th>*(...Even when it came to my "personalized outfit"<sup>[1]</sup>. I kept talking about cooking only because it's something I love and am interested in. I couldn't think up of any ideas. This time I really want to come up with my own ideas without Nee-san's help, even if it's just a bit.)*</th>
+  <th>*(...Even when it came to my "personalized outfit"<sup>[1]</sup>. I kept talking about cooking, only because it's something I love and am interested in. I couldn't think of any ideas. This time I really want to come up with my own ideas without Nee-san's help, even if it's just a bit.)*</th>
 {% endbubble %}
 
 {% bubble Niki %}
@@ -392,7 +391,7 @@ tags:
 {% endbubble %}
 
 {% bubble Unknown %}
-  Kunkun<sup>[2]</sup>...what's that tasty smell?
+  Kunkun<sup>[2]</sup>... What's that tasty smell?
 {% endbubble %}
 
 {% bubble Niki %}
@@ -410,15 +409,15 @@ tags:
 {% endbubble %}
 
 {% bubble Sora %}
-  Haha~? Now that you mention it, Sora does feel a bit hungry. Could he eat together with you?
+  HaHa~? Now that you mention it, Sora does feel a bit hungry. Could he eat together with you?
 {% endbubble %}
 
 {% bubble Niki %}
-  Absolutely~ Just sit an wait a sec please, I'll bring it over~
+  Absolutely~ Just sit and wait a sec please, I'll bring it over~
 {% endbubble %}
 
 {% bubble Sora %}
-  Hihi~, it's super warm and tasty! Chef Onii-san<sup>[3]</sup>, you make a really good cook!
+  HiHi~, it's super warm and tasty! Chef Onii-san<sup>[3]</sup>, you make a really good cook!
 {% endbubble %}
 
 {% bubble Niki %}
@@ -440,7 +439,7 @@ tags:
 {% endbubble %}
 
 {% bubble Niki %}
-  Ohhh, Harukawa-kun could you tell from your senses? I'm the same way, since I can tell a lot of things by smell.
+  Ohhh, Harukawa-kun, could you tell from your senses? I'm the same way, since I can tell a lot of things by smell.
 {% endbubble %}
 
 {% bubble Sora %}
@@ -450,7 +449,7 @@ tags:
 {% bubble Niki %}
   I'm pretty sensitive to that kind of thing.
   
-  No matter how much someone disguises themself, I can smell it out and see right through it~
+  No matter how much someone disguises themselves, I can smell it out and see right through it~
 {% endbubble %}
 
 {% bubble Sora %}
@@ -494,13 +493,13 @@ tags:
 ![love to cook](https://64.media.tumblr.com/3a3030945dd4fb87b3988ab932856b5a/f094a20b3c9210fb-55/s1280x1920/6e3674285cd998ba29aebd8b63c5491ac9df4689.png)
 
 {% bubble Sora %}
-  Chef Onii-san you really like to cook...
+  Chef Onii-san, you really like to cook...
   
-  No, you really, really, *really* love cooking don't you~? Sora thought it was amazing, so what would be wrong with it?
+  No, you really, really, *really* love cooking, don't you~? Sora thought it was amazing, so what would be wrong with it?
 {% endbubble %}
 
 {% bubble Niki %}
-  Because, if all I can think up of is cooking then no matter how you look at it that's not an idea right?
+  Because, if all I can think up of is cooking, then no matter how you look at it that's not an idea, right?
 {% endbubble %}
 
 {% bubble Sora %}
@@ -538,17 +537,17 @@ tags:
 {% bubble Niki %}
   That's right, I'm both an idol and a cook.
   
-  I was thinking about that for a while, but then I thought if all I could think off was cooking I'd just make one ingredient called food.
+  I was thinking about that for a while, but then I thought, if all I could think of was cooking, I'd just make one ingredient called food.
   
-  That picture you just took is of me and food. It's a in different taste than the picture of me eating sweets the day before right? My face expression changes depending on the kind of food I make and eat.
+  That picture you just took is of me and food. It's a different taste than the picture of me eating sweets the day before, right? My facial expression changes depending on the kind of food I make and eat.
   
-  No matter what, I love cooking. I thought it wouldn't be a bad idea for my fans to see me like that but...what do you think?
+  No matter what, I love cooking. I thought it wouldn't be a bad idea for my fans to see me like that, but...what do you think?
 {% endbubble %}
 
 {% bubble Niki %}
   ....? "Sounds like you, but it's going to make for one hungry pamphlet"?
   
-  Nyahaha. It really *would* make people hungry if all they saw was pictures of me and my food right? But, that's all I've got.
+  Nyahaha. It really *would* make people hungry if all they saw was pictures of me and my food, right? But, that's all I've got.
   
   Please give the pamphlet a read, and get as excited as you can for the live--I'll perform a live that will make the dinner after the show taste even better!
   
@@ -564,7 +563,6 @@ tags:
 **[3]:** I think this is the first time Sora has interacted with Niki so for anyone editing the wiki this is the nickname used!
 **[4]:** Choking noises, written exactly as shown in the dialogue box (・・；)
 
-> **TL Note:** I realized I have literally never translated Sora before ever JFHSKS I tried to use the same method as I did for HiMERU just less formal. Please forgive me for any errors in the way he refers to himself + if he doesn't sound "animated" or if he sounds stiff :')
 
 
 
