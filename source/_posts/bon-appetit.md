@@ -152,7 +152,8 @@ tags:
 
 # Chapter 1
 ***
-Image
+
+![pudding](https://64.media.tumblr.com/f05a98668a7405d0c191fc8eeba05823/269a675dc4112e70-fd/s2048x3072/3e9e42f5d1168d8d465f2bd642899014181c7431.png)
 
 {% bubble Hiiro %}
   I ordered the lightly vanilla scented "pudding a-la-mode"!
@@ -188,14 +189,13 @@ Image
   Umu. Likewise, I heard it was a good place with splendid food…there’s still so much in the city I don’t know about.
 {% endbubble %}
 
-EDITED IMG
+![itadakeeee!](https://64.media.tumblr.com/b667aa1ee3b8435a22bd9d8dc27d7d92/269a675dc4112e70-63/s1280x1920/2694b50527e4bb1c68bbe09d90424da4096bcb1d.png)
 
 {% bubble Niki %}
   …Oop. I’m gonna dig in now. Thank you for the meaaaal~!
 {% endbubble %}
 
 > ***Hinata + Hiiro:*** Thank you for the meal!
-
 
 {% bubble Niki %}
   Just so you know, a "parlor" is a Western-type restaurant that offers a bunch of casual foods and drinks.
@@ -253,7 +253,7 @@ EDITED IMG
   ...Not exactly, I actually overheard something back at the agency. Shiina-senpai's turn for a "Feature Live" is coming up.
 {% endbubble %}
 
-Image
+![already?!](https://64.media.tumblr.com/fd35c7c1db0e517a6bd93c13ff46ebaa/269a675dc4112e70-78/s1280x1920/37e9103b168b672c9aa8272a15ab0d9d9f8ac860.png)
 
 {% bubble Niki %}
   Heeeh, my "Feature Live"...
@@ -319,7 +319,7 @@ Image
    <p>That Night.</p>
 </div>
 
-Image
+![overworking](https://64.media.tumblr.com/1960133192aad4e6489b44e5b6baa973/269a675dc4112e70-88/s1280x1920/c449c61bdd57dab2606d775659f7a3ee89243f33.png)
 
 {% bubble Niki %}
   (Tomorrow's prep, check. Sweeping the restaurant and keeping the kitchen clean, check. That's pretty much it for work today, all that's left is waiting for Nee-san here--)
@@ -349,7 +349,7 @@ Image
   Wait, wouldn't that count as a chef's job?
 {% endbubble %}
 
-Image
+![off?](https://64.media.tumblr.com/a10f0c22077d56db17d146858faf7348/269a675dc4112e70-e2/s1280x1920/64ea8c7d36dd4e993fbf1116eda4c9fa24410745.png)
 
 {% bubble Niki %}
   Uuu I'm gonna go crazy. What in the world do I consider as time off?
@@ -359,8 +359,213 @@ Image
   J-just wait a moment please. I'll try to figure out how I normally am!
 {% endbubble %}
 
+### Translation Notes (Chapter 1)
+
 **[1]:** An abbreviation meaning "Social Networking Sites", social media basically
 **[2]:** Hinata calls them off-shots in the dialogue box written in ktkn. The idea of it described in other FS2 stories is that the pamphlet needs candid (in the moment) pictures of idols in their free time.
+
+# Chapter 2
+***
+
+![what is it](https://64.media.tumblr.com/19f099ff3da2e08f54f6fb68bae83903/f094a20b3c9210fb-a2/s1280x1920/39d7dd0b04c1b6f9fdaa4582ee68340f6998d3d1.png)
+
+{% bubble Niki %}
+  My time off, just *what* is it~…?
+{% endbubble %}
+
+{% bubble Niki %}
+  <th>*(I just kept Nee-san in the dark for a while and in the end the only thing I could think of was cooking...to be fair I **did** try to think of something apart from cooking, but I all I could come up with was mahjong and pachinko with Rinne-kun!)*</th>
+{% endbubble %}
+
+{% bubble Niki %}
+  Sigh. Being optimistic is harder than I thought...
+{% endbubble %}
+
+{% bubble Niki %}
+  <th>*(...Even when it came to my "personalized outfit"<sup>[1]</sup>. I kept talking about cooking only because it's something I love and am interested in. I couldn't think up of any ideas. This time I really want to come up with my own ideas without Nee-san's help, even if it's just a bit.)*</th>
+{% endbubble %}
+
+{% bubble Niki %}
+  But, the more I work my brain the hungrier I get~...
+  
+  Good thing I decided to make a night snack. I'll think about all this once the bowl is empty. Mogumogu.
+{% endbubble %}
+
+{% bubble Unknown %}
+  Kunkun<sup>[2]</sup>...what's that tasty smell?
+{% endbubble %}
+
+{% bubble Niki %}
+  Harukawa-kun? What are you doing here at this hour?
+{% endbubble %}
+
+![like rice](https://64.media.tumblr.com/fd064134056cefee5a2766e2c4bfb460/f094a20b3c9210fb-b6/s1280x1920/4dc3732b89d4e6a603451d2c74e2c08c83262a9b.png)
+
+{% bubble Sora %}
+  Oh nothing~. But, it kind of smelled like rice so Sora found himself wandering over...?
+{% endbubble %}
+
+{% bubble Niki %}
+  If you're wandering around, then surely you're hungry. Here, I made this so you're free to eat some if you want?
+{% endbubble %}
+
+{% bubble Sora %}
+  Haha~? Now that you mention it, Sora does feel a bit hungry. Could he eat together with you?
+{% endbubble %}
+
+{% bubble Niki %}
+  Absolutely~ Just sit an wait a sec please, I'll bring it over~
+{% endbubble %}
+
+{% bubble Sora %}
+  Hihi~, it's super warm and tasty! Chef Onii-san<sup>[3]</sup>, you make a really good cook!
+{% endbubble %}
+
+{% bubble Niki %}
+  Fufuuun~ That's because I *am* a cook.
+{% endbubble %}
+
+{% bubble Sora %}
+  Right now it seems like something is bothering you though, Chef Onii-san.
+{% endbubble %}
+
+![help](https://64.media.tumblr.com/c1294c45ae72ea1d825bf8c6ab2ad06c/f094a20b3c9210fb-ef/s1280x1920/c4641612d1a331457674024afa97c5376c299849.png)
+
+{% bubble Niki %}
+  Mugu!? ...Ngugu, gokun!<sup>[4]</sup> H-how could you tell?!
+{% endbubble %}
+
+{% bubble Sora %}
+  Because that's what your "colors" looked like? It's hard to put into words but...
+{% endbubble %}
+
+{% bubble Niki %}
+  Ohhh, Harukawa-kun could you tell from your senses? I'm the same way, since I can tell a lot of things by smell.
+{% endbubble %}
+
+{% bubble Sora %}
+  Eh?
+{% endbubble %}
+
+{% bubble Niki %}
+  I'm pretty sensitive to that kind of thing.
+  
+  No matter how much someone disguises themself, I can smell it out and see right through it~
+{% endbubble %}
+
+{% bubble Sora %}
+  Huhu ♪. Unexpectedly, we're closer than Sora thought~? It's surprising, but it's delightful...
+  
+  Sora wants to hear your story, Chef Onii-san!
+{% endbubble %}
+
+{% bubble Niki %}
+  My story?
+{% endbubble %}
+
+{% bubble Sora %}
+  Right~ Sora is a magician that makes everyone happy! If there's any trouble with using the magic, then he can guide them to a happier direction!
+  
+  That's why, why don't you try telling Sora about what's wrong? Sora wants to help Chef Onii-san with his cooking.
+{% endbubble %}
+
+{% bubble Niki %}
+  If you insist...I'm starting to feel like I want you to listen to me too. It's a silly personal problem of mine, but I want you to listen and keep this between you and me. So--
+{% endbubble %}
+
+<div class="msr-narration">
+   <p>A few minutes later.</p>
+</div>
+
+{% bubble Niki %}
+  ...And so, I don't know what my time off is!
+{% endbubble %}
+
+{% bubble Sora %}
+  So that's what's wrong~ Chef Onii-san, you're lost on what your off time is?
+{% endbubble %}
+
+{% bubble Niki %}
+  That's right. When I have time off, when I'm not working as an idol or in the kitchen...I've thought about it so much, but everything I do is for cooking: eating out, thinking up of a recipe, and going abroad to find new ingredients.
+  
+  Even "Niki's Kitchen" is a Circle based on cooking. With the "Overnight Outdoor's Club" too, I was in charge of cooking. Everything just comes back to cooking...! I'm buried from head to toe in food!
+{% endbubble %}
+
+![love to cook](https://64.media.tumblr.com/3a3030945dd4fb87b3988ab932856b5a/f094a20b3c9210fb-55/s1280x1920/6e3674285cd998ba29aebd8b63c5491ac9df4689.png)
+
+{% bubble Sora %}
+  Chef Onii-san you really like to cook...
+  
+  No, you really, really, *really* love cooking don't you~? Sora thought it was amazing, so what would be wrong with it?
+{% endbubble %}
+
+{% bubble Niki %}
+  Because, if all I can think up of is cooking then no matter how you look at it that's not an idea right?
+{% endbubble %}
+
+{% bubble Sora %}
+  Not at all! You love it so much that you never get sick of it, you think about it everyday and get carried away with it. It's wonderful to keep constantly exploring something~
+  
+  That's why, we should show that love to everyone. It would make you happy if you showed that "love" to others...wouldn't it?
+{% endbubble %}
+
+{% bubble Niki %}
+  ...It wouldn't make a difference.
+
+  Thank you, Harukawa-kun. It's my call now...so I'll think about it for just a bit longer~
+{% endbubble %}
+
+<div class="msr-narration">
+   <p>A few days later.</p>
+</div>
+
+![calling](https://64.media.tumblr.com/28b44a3eb81fdce30aeaefc6cfd1d34e/f094a20b3c9210fb-bb/s1280x1920/0d49a6ba10bf84c0814233e202f9032e34f8ed68.png)
+
+{% bubble Niki %}
+  Nee-san! Sorry to call you so suddenly when you're busy. I really wanted to have lunch with you today, Nee-san. I'm happy you came!
+  
+  Now? I'm finishing everything up, it'll be ready soon~ 
+  
+  ...Yep, perfect. Nee-san, I'm sure this'll suit your tastes~
+  
+  Ah, that's right. Could you take a picture of me now? For the pamphlet's offshots...
+  
+  How do I look? "Well, like a cook"?--
+{% endbubble %}
+
+![unbl](https://64.media.tumblr.com/4903dbb6dda62939a628988d41b1043b/f094a20b3c9210fb-db/s1280x1920/f8cc0f1adde632e739abb8fc311ad9b5e3d024c4.png)
+
+{% bubble Niki %}
+  That's right, I'm both an idol and a cook.
+  
+  I was thinking about that for a while, but then I thought if all I could think off was cooking I'd just make one ingredient called food.
+  
+  That picture you just took is of me and food. It's a in different taste than the picture of me eating sweets the day before right? My face expression changes depending on the kind of food I make and eat.
+  
+  No matter what, I love cooking. I thought it wouldn't be a bad idea for my fans to see me like that but...what do you think?
+{% endbubble %}
+
+{% bubble Niki %}
+  ....? "Sounds like you, but it's going to make for one hungry pamphlet"?
+  
+  Nyahaha. It really *would* make people hungry if all they saw was pictures of me and my food right? But, that's all I've got.
+  
+  Please give the pamphlet a read, and get as excited as you can for the live--I'll perform a live that will make the dinner after the show taste even better!
+  
+  Well then, thank you for waiting. For lunch today is my very own special, a lunch plate with a side of sweets~
+  
+  I want to think about everything together while we eat. About a "Feature Live" that will leave everyone full and satisfied...~
+{% endbubble %}
+
+### Translation Notes (Chapter 2)
+
+**[1]:** Referring to his FS1 story. Anzu helped completely with the design.
+**[2]:** JP onomatopoeia for "sniff sniff" like taking a short whiff of something.
+**[3]:** I think this is the first time Sora has interacted with Niki so for anyone editing the wiki this is the nickname used!
+**[4]:** Choking noises, written exactly as shown in the dialogue box (・・；)
+
+> **TL Note:** I realized I have literally never translated Sora before ever JFHSKS I tried to use the same method as I did for HiMERU just less formal. Please forgive me for any errors in the way he refers to himself + if he doesn't sound "animated" or if he sounds stiff :')
+
 
 
   <!-- CONTENT GOES HERE -->
