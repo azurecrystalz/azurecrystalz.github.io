@@ -107,10 +107,18 @@ Work in Progress !! Come back later to see the full list!
       <img src="https://cdn.discordapp.com/attachments/1065401186343194667/1108058866907873310/28Auspiciousness_and_Gods29_Rinne_Amagi_Frameless_Bloomed.webp" alt="Please, God">
     </div>
     <a href="/2023/05/16/please-god" class="storyName" target="_blank">
-      <span>Please, God</span> 
-      <span class="read">
-      </span>
+      <span>Please, God</span>
+      <span class="read"></span>
     </a>
-    </div>
   </div>
+  <div class="story">
+    <div class="image">
+      <img src="https://media.discordapp.net/attachments/1110345002015535124/1110712529501556746/IMG_4866.png?width=828&height=1036" alt="The Runrun Calamity">
+    </div>
+    <a href="/2023/05/15/runrun-calamity" class="storyName" target="_blank">
+      <span>The Runrun Calamity</span>
+      <span class="read"></span>
+    </a>
+  </div>
+  <!-- this is where you'd put more stories starting with <div class="story"> -->
 </div>
