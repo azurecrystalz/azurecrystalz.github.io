@@ -17,7 +17,7 @@ tags:
           <div class="title-area">
               <div class="title-area__title">Bon Appetit!</div>
               <div class="title-area__subtitle">ボナペティート !</div>
-              <div class="title-area__start"><a href="[STORY_LINK_GOES_HERE]">Start Reading</a></div>
+              <div class="title-area__start"><a href="/2023/05/22/bon-appetit/">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
