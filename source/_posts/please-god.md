@@ -157,7 +157,7 @@ tags:
   ![ah](https://64.media.tumblr.com/2eb2c210cdb4332befc102c6c6a6dcae/de82d7849d1301c7-83/s2048x3072/8b2dee2195c15d48b2e57a2703714ae95e72e718.png)
 
   {% bubble Rinne %}
-    Hey, Hiyori-chan~! It’s great to see ya! I can’t really tell why, but seeing Hiyori-chan feels like a good sign. Must be the benefits of your “ii-hiyori”[1]♪
+    Hey, Hiyori-chan~! It’s great to see ya! I can’t really tell why, but seeing Hiyori-chan feels like a good sign. Must be the benefits of your “ii-hiyori”<sup>[1]</sup>♪
   {% endbubble %}
 
   {% bubble Hiyori %}
@@ -175,7 +175,7 @@ tags:
   {% endbubble %}
 
   {% bubble Rinne %}
-    Oioi, you like eating tissues[2]? You’re like a goat eating paper.
+    Oioi, you like eating tissues<sup>[2]</sup>? You’re like a goat eating paper.
     
     Hiyori-chan try saying “meh-meh”♪
   {% endbubble %}

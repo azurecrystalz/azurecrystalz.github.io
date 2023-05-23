@@ -24,7 +24,7 @@ tags:
                   <a href="https://twitter.com/azurecrystalz">aurora</a>
               </div>
             </div>
-      </div>
+        </div>
   </div>
 </div>
 

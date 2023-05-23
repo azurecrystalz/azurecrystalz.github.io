@@ -16,7 +16,15 @@ tags:
                 Contains a translation for the lyrics of the preview version of "視線 Hold me Tight" and potentially the full version when it comes out.
               </div>
           </div>
-      </div>
+          <div class="info-item tl">
+              <div class="label">
+                  Translator
+              </div>
+              <div class="value">
+                  <a href="https://twitter.com/azurecrystalz">aurora</a>
+              </div>
+            </div>
+        </div>
   </div>
 </div>
 

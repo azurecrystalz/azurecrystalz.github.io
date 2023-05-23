@@ -175,8 +175,10 @@ tags:
 
   {% bubble Nagisa %}
     ....There's a special exhibit for ores and fossils happening in the museum now. I was looking for someone to accompany me.
-    
-    ...While I was thinking of who, I decided you'd be best since I've shared rocks with you before[1].
+  {% endbubble %}
+  
+  {% bubble Nagisa %}
+    ...While I was thinking of who, I decided you'd be best since I've shared rocks with you before<sup>[1]</sup>.
   {% endbubble %}
 
   {% bubble Kohaku %}
@@ -240,7 +242,7 @@ tags:
   {% endbubble %}
 
   {% bubble Kohaku %}
-    Yeah, I've never had connections to this kind of place. I remember you mentioned before how the "Antique Market" was kinda like a museum[2]. I think that was just limited to telling the history of idols.
+    Yeah, I've never had connections to this kind of place. I remember you mentioned before how the "Antique Market" was kinda like a museum<sup>[2]</sup>. I think that was just limited to telling the history of idols.
   {% endbubble %}
 
   {% bubble Nagisa %}
@@ -270,7 +272,7 @@ tags:
   {% endbubble %}
 
   {% bubble Kohaku %}
-    Like I was saying, I haven't got any connections to this place. I never did much studying[3], so I don't really get what the meaning of all this history is...When I ran out into the world and became an idol, I thought my worldview had gotten just a bit bigger.
+    Like I was saying, I haven't got any connections to this place. I never did much studying<sup>[3]</sup>, so I don't really get what the meaning of all this history is...When I ran out into the world and became an idol, I thought my worldview had gotten just a bit bigger.
 
     But when it comes to going to a *specific* place, I'm lost all over again. I know learning is a part of life, but I know that whatever I've learned is still only a little bit.
   {% endbubble %}

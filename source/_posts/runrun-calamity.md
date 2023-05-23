@@ -148,12 +148,16 @@ tags:
   {% endbubble %}
 
   {% bubble Rinne %}
-    Just ask me when I get back. Listen, I can't afford to let today's winning luck slip me by. Sooo, I'll catch ya later Himerunrun!
+    Just ask me when I get back. Listen, I can't afford to let today's winning luck slip me by. *Sooo*, I'll catch ya later Himerunrun!
   {% endbubble %}
 
   {% bubble HiMERU %}
-    ...Good grief. Even when you do come back, the first thing you'll do is make a ruckus over what you're going to eat. Or actually, he used "Himerunrun" instead of "Merumeru", what was that? Why doesn't he just stop doing what he wants, not just with how he acts, but with what he calls others too--
+    ...Good grief. Even when you *do* come back, the first thing you'll do is make a ruckus over what you're going to eat.
+    
+    Or actually, he used "Himerunrun" instead of "Merumeru", what was that? Why doesn't he just stop doing what he wants, not just with how he acts, but with what he calls others too--
   {% endbubble %}
+
+![starre](https://64.media.tumblr.com/e7be7c2d31cfee5a8b05a42c2c578ea8/8ebfe99c4449d2c4-5b/s2048x3072/2481b8c68327bd8842fb383e7b68db1780cf5f46.png)
 
   {% bubble Mitsuru %}
     Jiii~<sup>[1]</sup>...
@@ -170,7 +174,9 @@ tags:
   {% endbubble %}
 
   {% bubble HiMERU %}
-    Your entire upper body was visibly peeking out. If you really wanted to observe your target in secret, you would need to hide better. ...Why don’t you tell HiMERU what you wanted from him?
+    Your entire upper body was visibly peeking out. If you really wanted to observe your target in secret, you would need to hide better.
+    
+    ...Why don’t you tell HiMERU what you wanted from him?
   {% endbubble %}
 
   {% bubble Mitsuru %}
@@ -182,7 +188,9 @@ tags:
   {% endbubble %}
 
   {% bubble Mitsuru %}
-    Because I thought it was cute?? Also I've been wondering what would be okay for me to call you since no one else around here has a name in English~
+    Because I thought it was cute??
+    
+    Also I've been wondering what would be okay for me to call you since no one else around here has a name in English♪
   {% endbubble %}
 
   {% bubble HiMERU %}
@@ -198,31 +206,39 @@ tags:
   {% endbubble %}
 
   {% bubble Mitsuru %}
-    Really? It makes me feel like I'm skipping, and it really does make me feel cheerful so I like it! I wanna be "Mitsurunrun" too. So since HiME-chan-senpai is "Himerunun", I should be "Mitsurunrun" then, right?
+    Really? It makes me feel like I'm skipping, and it really does make me feel cheerful so I like it! I wanna be "Mitsurunrun" too. 
+    
+    *Sooo* since HiME-chan-senpai is "Himerunun", I should be "Mitsurunrun" then, right?
   {% endbubble %}
 
   {% bubble HiMERU %}
-    Well, let's see. Since HiMERU's name ends in "--ru", we can guess that's the reason Amagi had given him the name. If we use that logic on you, Tenma, then it wouldn't be wrong to use "Mitsurunrun".
+    Well, let's see. Since HiMERU's name ends in "--ru", we can guess that's the reason Amagi had given him the name.
+    
+    If we use that logic on you, Tenma, then it wouldn't be wrong to use "Mitsurunrun".
   {% endbubble %}
 
   {% bubble Mitsuru %}
-    Kyakya~! I got the "green light"! I'm gonna spend the whole entire day as "Mitsurunrun"! Instead of dashing home today, I think I'm gonna skip! Thanks, HiME-chan-senpai!
+    Kyakya♪! I got the "green light"! I'm gonna spend the whole entire day as "Mitsurunrun"!
+    
+    Instead of dashing home today, I think I'm gonna skip! Thanks, HiME-chan-senpai!
   {% endbubble %}
 
   {% bubble HiMERU %}
-    <th>(...He sure did leave with a skip in his step. Besides that, how is he possibly going to spend his time as "Mitsurunrun"...?)</th>
+    <th>*(...He sure did leave with a skip in his step. Besides that, how is he possibly going to spend his time as "Mitsurunrun"...?)*</th>
   {% endbubble %}
 
   <div class="msr-narration">
     <p>The next day.</p>
   </div>
 
+![watatatatt](https://64.media.tumblr.com/5bbc95e3ff69d3afb24013ee3354315e/8ebfe99c4449d2c4-20/s2048x3072/7f0c233a70d349794c13c1350d8c7ad6395ef3bf.png)
+
   {% bubble Wataru %}
-    A quick step, skip, and jump onto your back! Hello~! Here's your very own Hibiki Wataru~...newly renamed "Watarunrun"~!
+    A quick step, skip, and jump onto your back! Hello! Here's your very own Hibiki Wataru...newly renamed "Watarunrun"☆
   {% endbubble %}
 
   {% bubble HiMERU %}
-    <th>*--?!*</th>
+    --?!
   {% endbubble %}
 
   {% bubble Wataru %}
@@ -250,7 +266,7 @@ tags:
   {% endbubble %}
 
   {% bubble Wataru %}
-    Correct\~! You're a genius, "Himerunrun"-san\~. And so, as someone whose name also ends with "--ru", I followed his lead and became "Watarunrun"!
+    Correct\~! You're a genius, "Himerunrun"-san♪. And so, as someone whose name also ends with "--ru", I followed his lead and became "Watarunrun"!
   {% endbubble %}
 
   {% bubble HiMERU %}
@@ -258,7 +274,9 @@ tags:
   {% endbubble %}
 
   {% bubble Wataru %}
-    And because I became "Watarunrun", Subaru-kun also became "Subarunrun"~. We had a really fun time in our dorm room last night. I tried calling Butler-san "Yuzurunrun" to initiate him into our group, but he refused with a beaming smile yknow?
+    And because I became "Watarunrun", Subaru-kun also became "Subarunrun"~. We had a really fun time in our dorm room last night.
+    
+    I tried calling Butler-san "Yuzurunrun" to initiate him into our group, but he refused with a beaming smile yknow?
   {% endbubble %}
 
   {% bubble HiMERU %}
@@ -270,16 +288,20 @@ tags:
   {% endbubble %}
 
   {% bubble HiMERU %}
-    Um, no. HiMERU's chest doesn't flutter, and HiMERU's name is "HiMERU", so please continue to use that. HiMERU is nothing but "HiMERU", so there will be trouble if other names are used.
+    Um, no. HiMERU's chest doesn't flutter, and HiMERU's name is "HiMERU", so please continue to use that.
+    
+    HiMERU is nothing but "HiMERU", so there will be trouble if other names are used.
   {% endbubble %}
 
   {% bubble Wataru %}
-    Fumu, is that so? From an actor's perspective, it's a great pleasure to treasure the relationships formed with each role~
+    Fumu, is that so? From an actor's perspective, it's a great pleasure to treasure the relationships formed with each role♪
   {% endbubble %}
 
   {% bubble HiMERU %}
     <th>*(Nothing about it seems pleasurable, but HiMERU will leave it at that. Remaining in Seisou Hall will only make it more likely to run into more people. It would be better to go somewhere to relax...)*</th>
   {% endbubble %}
+
+![...](https://64.media.tumblr.com/9a828801d07ffe67299db11492c4bded/8ebfe99c4449d2c4-88/s2048x3072/c8897795c109b3b0ed0e2c0450eba8a253ca742b.png)
 
   {% bubble HiMERU %}
     .........
@@ -290,7 +312,7 @@ tags:
   {% endbubble %}
 
   {% bubble HiMERU %}
-    <th>*(Even if this was just some sort of coincidence, this outcome of people is way too ridiculous. HiMERU has the feeling the other person is trying to escape too.)*</th>
+    <th>*(Even if this was just some sort of coincidence, this outcome of people is **way** too ridiculous. HiMERU has the feeling the other person is trying to escape too.)*</th>
   {% endbubble %}
 
   {% bubble Kaoru %}
@@ -313,8 +335,14 @@ tags:
     ?
   {% endbubble %}
 
+![hayashi](https://64.media.tumblr.com/2bcc5f5e1a28d3b2761c129315c96cfa/8ebfe99c4449d2c4-5b/s2048x3072/d4ce6627c4586be4368e64f913819f4ba640e904.png)
+
   {% bubble Rinne %}
-    Oh, it's Merumeru! Are you here for lunch? Isn't it late for that? Well, I'm having lunch right now too. Whatcha eating Merumeru, hayashi rice<sup>[2]</sup>? If it's good, then I'll order it too. Gimme a bite~
+    Oh, it's Merumeru♪ Are you here for lunch?
+    
+    Isn't it late for that? Well, I'm having lunch right now too.
+    
+    Whatcha eating Merumeru, hayashi rice<sup>[2]</sup>? If it's good, then I'll order it too. Gimme a bite~
   {% endbubble %}
 
   {% bubble HiMERU %}
@@ -322,19 +350,27 @@ tags:
   {% endbubble %}
 
   {% bubble Rinne %}
-    Nn? Merumeru has always been Merumeru, hasn't he? That is to say, since you paid so much attention to it that means Merumeru has approved of the name "Merumeru", right\~? Y'know, you've been reeeaaal quiet about it these past few days. I'd say you like it\~.
+    Nn? Merumeru has always been Merumeru, hasn't he? That is to say, since you paid so much attention to it *that* means Merumeru has approved of the name "Merumeru", right~?
+    
+    Y'know, you've been reeeaaal quiet about it these past few days. I'd say you like it♪
   {% endbubble %}
 
   {% bubble HiMERU %}
-    This is only because it's a choice out of a very few amount of options. So don't get carried away with it. HiMERU is HiMERU. In the future please refrain from adding any additional ridiculous names.
+    This is only because it's a choice out of a very few amount of options. So don't get carried away with it.
+    
+    HiMERU is HiMERU. In the future please refrain from adding any additional ridiculous names.
   {% endbubble %}
 
   {% bubble Rinne %}
     You say that, but I was actually thinking that it's time for a new name. Just to shake things up?
   {% endbubble %}
 
+  ![just merumeru](https://64.media.tumblr.com/99fd83f1af29cbd9ef322740d289625d/8ebfe99c4449d2c4-eb/s2048x3072/96fb8f2389b2d7e23fc7b3b062c7d59c1350076b.png)
+
   {% bubble HiMERU %}
-    That's not it! ...Anyway, to avoid any and all unnecessary trouble, Merumeru is fine. Just Merumeru. Seriously, why is it that you try to take amusement in HiMERU? It'd be better not treating it like a joke.
+    That's not it! ...Anyway, to avoid any and all unnecessary trouble, Merumeru is fine. *Just* Merumeru.
+    
+    Seriously, why is it that you try to take amusement in HiMERU? It'd be better not treating it like a joke.
   {% endbubble %}
 
 ### Translation notes:

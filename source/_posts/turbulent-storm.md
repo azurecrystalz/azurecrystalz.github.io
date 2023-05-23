@@ -2,7 +2,7 @@
 title: Turbulent Storm
 date: 2023-05-22 19:55:17
 categories:
-- [Enstars,2wink]
+- [Enstars, 2wink]
 tags:
 - Aoi Hinata
 - Aoi Yuuta
@@ -18,7 +18,15 @@ tags:
                 Contains a translation for the game version of "Turbulent Storm" and possibly a full ver when it's available.
               </div>
           </div>
-      </div>
+          <div class="info-item tl">
+              <div class="label">
+                  Translator
+              </div>
+              <div class="value">
+                  <a href="https://twitter.com/azurecrystalz">aurora</a>
+              </div>
+            </div>
+        </div>
   </div>
 </div>
 
