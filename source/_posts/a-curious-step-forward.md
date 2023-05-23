@@ -2,7 +2,7 @@
 title: A Curious Step Forward
 date: 2023-05-21 22:20:58
 categories:
-- Crazy:B
+- [Enstars, Crazy:B]
 tags:
 - Oukawa Kohaku
 - Ran Nagisa
