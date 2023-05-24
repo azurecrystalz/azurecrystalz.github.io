@@ -235,7 +235,23 @@ date: 2023-05-22 21:50:01
         </span>
       </a>
       </div>
-      <!---
+    </div>
+  <h2>FS2 5* Stories</h2>
+  <div class="stories">
+    <div class="story">
+      <div class="image">
+        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1110923946255196261/IMG_4896.png" alt="Bon Appetit">
+      </div>
+      <a href="https://azurecrystalz.github.io/2023/05/22/bon-appetit/" class="storyName" target="_blank">
+      <!-- maybe turn fs2 img into gif if it works -->
+        <span>Bon Appetit!</span>
+        <span class="read"></span>
+      </a>
+    </div>
+    </div>
+<!-- add sections above this point -->
+<!--- 
+story template looks like this:
       <div class="story">
       <div class="image">
         <img src="[UNBL-URL]" alt="[STORY NAME]">
@@ -248,8 +264,6 @@ date: 2023-05-22 21:50:01
       </div>
     </div>
     --->
-    <!-- before this comment is where you'd put more stories -->
-    </div>
   </div>
   
   <h2>Song Lyrics</h2>
