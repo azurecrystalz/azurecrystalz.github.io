@@ -101,6 +101,9 @@ date: 2023-05-22 21:50:01
 
 Work in Progress !! Come back later to see the full list!
 
+
+
+## ES2 4* Stories
 <div class="stories">
   <div class="story">
     <div class="image">
@@ -140,18 +143,22 @@ Work in Progress !! Come back later to see the full list!
       </span>
     </a>
     </div>
+    <!---
     <div class="story">
     <div class="image">
-      <img src="https://media.discordapp.net/attachments/1110345002015535124/1110712530193617036/IMG_4868.png" alt="A Curious Step Forward">
+      <img src="[UNBL-URL]" alt="[STORY NAME]">
     </div>
-    <a href="/2023/05/21/a-curious-step-forward" class="storyName" target="_blank">
+    <a href="[STORY URL]" class="storyName" target="_blank">
       <span>Example</span> 
       <span class="read">
       </span>
     </a>
     </div>
   </div>
+  --->
   <!-- before this comment is where you'd put more stories -->
   </div>
  </div>
 </div>
+
+## Header
