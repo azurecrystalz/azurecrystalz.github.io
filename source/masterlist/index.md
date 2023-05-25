@@ -126,7 +126,7 @@ date: 2023-05-22 21:50:01
 }
 
 #songs .song-figure .song-image.rotate {
-  animation: rotate 6s linear 0s infinite forwards;
+  animation: rotate 12s linear 0s infinite forwards;
 }
 
 #songs .song-figure .song-caption:link, #songs .song-figure .song-caption:visited {
@@ -189,12 +189,12 @@ date: 2023-05-22 21:50:01
       height: 80vw;
     }
 }
-
 </style>
 
 <div>
-  Work in Progress !! Come back later to see the full list!
-  <h2>FS 5* Stories: Series 1</h2>
+  <i><strong>Work in Progress !! Come back later to see the full list!</i></strong>
+  <h2>Featured Scout 5* Stories: Series 1</h2>
+  <h5>Crazy:B</h5>
   <div class="stories">
   <div class="story">
       <div class="image">
@@ -227,12 +227,15 @@ date: 2023-05-22 21:50:01
       <div class="image">
         <img src="https://media.discordapp.net/attachments/1110345002015535124/1111078108842426438/28Amber-Colored_Blossom_in_Bloom29_Kohaku_Oukawa_Frameless.webp?width=828&height=1036" alt="Sakura, Sakura">
       </div>
-      <a href="[STORY-URL]" class="storyName" target="_blank">
-        <span>Sakura, Sakura (Unadded)</span>
+      <a href="/2023/05/24/sakura-sakura/" class="storyName" target="_blank">
+        <span>Sakura, Sakura</span>
         <span class="read"></span>
       </a>
     </div>
-    <div class="story">
+  </div>
+  <h5>2wink</h5>
+  <div class="stories">
+  <div class="story">
       <div class="image">
         <img src="https://media.discordapp.net/attachments/1110345002015535124/1111078107651248168/hinafsunb.png?width=828&height=1036" alt="Daybreak Heliolite">
       </div>
@@ -251,7 +254,8 @@ date: 2023-05-22 21:50:01
       </a>
     </div>
   </div>
-  <h2>FS 5* Stories: Series 2</h2>
+  <h2>Featured Scout 5* Stories: Series 2</h2>
+  <h5>Crazy:B</h5>
   <div class="stories">
   <div class="story">
       <div class="image">
@@ -273,7 +277,8 @@ date: 2023-05-22 21:50:01
       </a>
     </div>
     </div>
-  <h2>ES2 4* Stories</h2>
+  <h2>Ensquare Outfit 4* Stories: Series 2</h2>
+  <h5>Crazy:B</h5>
   <div class="stories">
     <div class="story">
       <div class="image">
@@ -331,50 +336,17 @@ story template looks like this:
     --->
   </div>
   
-  <h2>Song Lyrics</h2>
+  <h2>Song Translations</h2>
   <div id="songs">
     <div class="song-item">
       <figure class="song-figure">
-        <a href="#" class="song-caption">
+        <a href="/2023/05/22/turbulent-storm/" class="song-caption">
           <figcaption>
             <h4>Turbulent Storm</h4>
             <p>(Game ver)</p>
           </figcaption>
         </a>
         <img src="https://i1.sndcdn.com/artworks-phdvndiqxyq4z12f-0kXmBw-t500x500.jpg" class="song-image rotate" />
-      </figure>
-    </div>
-    <div class="song-item">
-      <figure class="song-figure">
-        <img src="https://i1.sndcdn.com/artworks-phdvndiqxyq4z12f-0kXmBw-t500x500.jpg" class="song-image rotate" />
-        <a href="#" class="song-caption">
-          <figcaption>
-            <h4>Turbulent Storm</h4>
-            <p>(Game ver)</p>
-          </figcaption>
-        </a>
-      </figure>
-    </div>
-    <div class="song-item">
-      <figure class="song-figure">
-        <img src="https://i1.sndcdn.com/artworks-phdvndiqxyq4z12f-0kXmBw-t500x500.jpg" class="song-image rotate" />
-        <a href="#" class="song-caption">
-          <figcaption>
-            <h4>Turbulent Storm</h4>
-            <p>(Game ver)</p>
-          </figcaption>
-        </a>
-      </figure>
-    </div>
-    <div class="song-item">
-      <figure class="song-figure">
-        <img src="https://i1.sndcdn.com/artworks-phdvndiqxyq4z12f-0kXmBw-t500x500.jpg" class="song-image rotate" />
-        <a href="#" class="song-caption">
-          <figcaption>
-            <h4>Turbulent Storm</h4>
-            <p>(Game ver)</p>
-          </figcaption>
-        </a>
       </figure>
     </div>
   </div>
