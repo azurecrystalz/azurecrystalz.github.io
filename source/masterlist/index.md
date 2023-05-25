@@ -194,7 +194,85 @@ date: 2023-05-22 21:50:01
 
 <div>
   Work in Progress !! Come back later to see the full list!
-
+  <h2>FS 5* Stories: Series 1</h2>
+  <div class="stories">
+  <div class="story">
+      <div class="image">
+        <img src="https://media.discordapp.net/attachments/1110345002015535124/1111078108192317471/rinnefs1.png?width=828&height=1036" alt="The Bees Knees">
+      </div>
+      <a href="[STORY-URL]" class="storyName" target="_blank">
+        <span>The Bees Knees (Unadded)</span>
+        <span class="read"></span>
+      </a>
+    </div>
+    <div class="story">
+      <div class="image">
+        <img src="https://media.discordapp.net/attachments/1110345002015535124/1111078107248599102/himerufs.png?width=828&height=1036" alt="Past, Present, and...">
+      </div>
+      <a href="[STORY-URL]" class="storyName" target="_blank">
+        <span>Past, Present, and... (Unadded)</span>
+        <span class="read"></span>
+      </a>
+    </div>
+    <div class="story">
+      <div class="image">
+        <img src="https://media.discordapp.net/attachments/1110345002015535124/1111078108569800704/nikifs.png?width=828&height=1036" alt="A Recipe for Idols">
+      </div>
+      <a href="[STORY-URL]" class="storyName" target="_blank">
+        <span>A Recipe for Idols (Unadded)</span>
+        <span class="read"></span>
+      </a>
+    </div>
+    <div class="story">
+      <div class="image">
+        <img src="https://media.discordapp.net/attachments/1110345002015535124/1111078108842426438/28Amber-Colored_Blossom_in_Bloom29_Kohaku_Oukawa_Frameless.webp?width=828&height=1036" alt="Sakura, Sakura">
+      </div>
+      <a href="[STORY-URL]" class="storyName" target="_blank">
+        <span>Sakura, Sakura (Unadded)</span>
+        <span class="read"></span>
+      </a>
+    </div>
+    <div class="story">
+      <div class="image">
+        <img src="https://media.discordapp.net/attachments/1110345002015535124/1111078107651248168/hinafsunb.png?width=828&height=1036" alt="Daybreak Heliolite">
+      </div>
+      <a href="[STORY-URL]" class="storyName" target="_blank">
+        <span>Daybreak Heliolite (Unadded)</span>
+        <span class="read"></span>
+      </a>
+    </div>
+    <div class="story">
+      <div class="image">
+        <img src="https://media.discordapp.net/attachments/1110345002015535124/1111078107907096616/yuutafsunbl.png?width=828&height=1036" alt="Twilight Malachite">
+      </div>
+      <a href="[STORY-URL]" class="storyName" target="_blank">
+        <span>Twilight Malachite (Unadded)</span>
+        <span class="read"></span>
+      </a>
+    </div>
+  </div>
+  <h2>FS 5* Stories: Series 2</h2>
+  <div class="stories">
+  <div class="story">
+      <div class="image">
+        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111076764681244713/ezgif.com-gif-maker_1.gif" alt="A New Game Making the Rounds">
+      </div>
+      <a href="[STORY-LINK]" class="storyName" target="_blank">
+      <!-- maybe turn fs2 img into gif if it works -->
+        <span>A New Game Making the Rounds (Unadded)</span>
+        <span class="read"></span>
+      </a>
+    </div>
+    <div class="story">
+      <div class="image">
+        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111005014081687602/ezgif-2-c528ab2d07.gif" alt="Bon Appetit">
+      </div>
+      <a href="https://azurecrystalz.github.io/2023/05/22/bon-appetit/" class="storyName" target="_blank">
+        <span>Bon Appetit!</span>
+        <span class="read"></span>
+      </a>
+    </div>
+    </div>
   <h2>ES2 4* Stories</h2>
   <div class="stories">
     <div class="story">
@@ -235,19 +313,6 @@ date: 2023-05-22 21:50:01
         </span>
       </a>
       </div>
-    </div>
-  <h2>FS2 5* Stories</h2>
-  <div class="stories">
-    <div class="story">
-      <div class="image">
-        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1110923946255196261/IMG_4896.png" alt="Bon Appetit">
-      </div>
-      <a href="https://azurecrystalz.github.io/2023/05/22/bon-appetit/" class="storyName" target="_blank">
-      <!-- maybe turn fs2 img into gif if it works -->
-        <span>Bon Appetit!</span>
-        <span class="read"></span>
-      </a>
-    </div>
     </div>
 <!-- add sections above this point -->
 <!--- 
