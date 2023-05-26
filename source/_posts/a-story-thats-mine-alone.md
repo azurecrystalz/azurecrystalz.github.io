@@ -2,15 +2,15 @@
 title: A Story That's Mine Alone
 date: 2023-05-25 16:23:07
 categories:
-- [Enstars, Other Idols]
+  - [Enstars, Other Idols]
 tags:
-- Kagehira Mika
-- Itsuki Shu
-- Narukami Arashi
-- Isara Mao
-- Fushimi Yuzuru
-- Sakuma Ritsu
-- Oogami Koga
+  - Kagehira Mika
+  - Itsuki Shu
+  - Narukami Arashi
+  - Isara Mao
+  - Fushimi Yuzuru
+  - Sakuma Ritsu
+  - Oogami Koga
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
@@ -146,6 +146,17 @@ tags:
     .msr-narration p {
       margin: 0;
     }
+    @media (max-width: 650px) {
+    [character] p {
+        margin:0 0 .4em 65px;
+        padding: .72em;
+        margin-left: 55px !important;
+    }
+    [character]::before,[character][hidden]::before,[character][unknown]::before {
+        margin-left: 70px;
+        margin-left: 55px !important;
+    }
+}    
   </style>
 
   <!-- CONTENT GOES HERE -->

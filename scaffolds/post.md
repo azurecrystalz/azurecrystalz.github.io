@@ -1,6 +1,6 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: { { title } }
+date: { { date } }
 categories:
 tags:
 ---
@@ -131,6 +131,17 @@ tags:
     .msr-narration p {
       margin: 0;
     }
+    @media (max-width: 650px) {
+    [character] p {
+        margin:0 0 .4em 65px;
+        padding: .72em;
+        margin-left: 55px !important;
+    }
+    [character]::before,[character][hidden]::before,[character][unknown]::before {
+        margin-left: 70px;
+        margin-left: 55px !important;
+    }
+}    
   </style>
 
   <!-- CONTENT GOES HERE -->
