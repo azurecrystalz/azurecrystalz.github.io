@@ -1,30 +1,58 @@
 ---
-title: Idol Birthday Translation List
-date: 2023-05-25 21:54:00
+title: Happy Birthday Amagi Hiiro (2023)
+date: 2023-05-26 13:14:00
 categories:
 - Enstars
 tags:
+- Amagi Hiiro
 - Birthdays
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('[IMG URL]')"></div>
+      <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1111457814108454912/IMG_4926.png')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
+          <div class="title-area">
+              <div class="title-area__title">2023 Hiiro Birthday</div>
+              <div class="title-area__start"><a href="/2023/05/25/haku-bday-2023/">Start Reading</a></div>
+          </div>
           <div class="info-area">
-              <div class="synopsis" style="width: 90%;">
-                A post compiling all the translations for Idol Birthdays I've done! Will update as I translate more!
+              <div class="info">
+                  <div class="info-item characters">
+                      <div class="label">
+                          Characters
+                      </div>
+                      <div class="value">
+                      <a href="/tags/Amagi-Hiiro/" character="Hiiro" title="Hiiro"></a>
+                      <a href="/tags/Shiratori-Aira/" character="Aira" title="Aira"></a>
+                      <a href="/tags/Himemiya-Tori/" character="Tori" title="Tori"></a>
+                      <a href="/tags/Nagumo-Tetora/" character="Tetora" title="Tetora"></a>
+                      <a href="/tags/Morisawa-Chiaki/" character="Chiaki" title="Chiaki"></a>
+                        <!-- 
+                          <a href="/tags/[CHARACTER_LAST_NAME]-[CHARACTER_FIRST_NAME]/" character="[CHARACTER_FIRST_AME]" title="[CHARACTER_FIRST_NAME]"></a>
+                         -->
+                         <!-- COPY AND PASTE THE ABOVE FOR EACH CHARACTER THAT APPEARS IN THE STORY -->
+                      </div>
+                  </div>
+                  <div class="info-item tl">
+                      <div class="label">
+                          Translator
+                      </div>
+                      <div class="value">
+                          <a href="https://twitter.com/azurecrystalz">aurora</a>
+                      </div>
+                  </div>
+                  <div class="info-item pr">
+                      <div class="label">
+                          Proofreaders
+                      </div>
+                      <div class="value">
+                          N/A
+                      </div>
+                  </div>
               </div>
           </div>
-          <div class="info-item tl">
-              <div class="label">
-                  Translator
-              </div>
-              <div class="value">
-                  <a href="https://twitter.com/azurecrystalz">aurora</a>
-              </div>
-            </div>
-        </div>
+      </div>
   </div>
 </div>
 
@@ -95,20 +123,6 @@ tags:
     }
 }    
   </style>
-
-## Idol Birthdays (7th-8th Anniv Year)
-![img](/#)
-> ***Happy Birthday Amagi Hiiro!!***
->> *"Umu, thank you! I'll continue to work hard this year so that I can gain not only years, but also skill and experience!"*
-
-![img](/#)
-> ***Happy Birthday Oukawa Kohaku!!***
->> *"Hearing congratulations from everyone makes me so happy~ Makes me feel warm when people close to me join me to celebrate."*
-
-## Idol Birthdays (8th-9th Anniv Year)
-![img](/#)
-> ***Happy Birthday Amagi Rinne!!***
->> *"Login voiceline here"*
 
   <!-- CONTENT GOES HERE -->
 
