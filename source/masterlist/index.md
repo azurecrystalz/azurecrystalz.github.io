@@ -269,7 +269,7 @@ date: 2023-05-22 21:50:01
     </div>
     <div class="story">
       <div class="image">
-        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111005014081687602/ezgif-2-c528ab2d07.gif" alt="Bon Appetit">
+        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111455138008289340/ezgif.com-gif-maker_3.gif" alt="Bon Appetit">
       </div>
       <a href="https://azurecrystalz.github.io/2023/05/22/bon-appetit/" class="storyName" target="_blank">
         <span>Bon Appetit!</span>
@@ -319,6 +319,18 @@ date: 2023-05-22 21:50:01
       </a>
       </div>
     </div>
+    <h2>Other Idols</h2>
+    <div class="stories">
+    <div class="story">
+      <div class="image">
+        <img src="https://media.discordapp.net/attachments/1110345002015535124/1111437660175736842/IMG_4924.png?width=828&height=1036" alt="A Story That's Mine Alone">
+      </div>
+      <a href="/2023/05/25/a-story-thats-mine-alone/" class="storyName" target="_blank">
+        <span>A Story That's Mine Alone</span> 
+        <span class="read">
+        </span>
+      </a>
+      </div>
 <!-- add sections above this point -->
 <!--- 
 story template looks like this:
@@ -347,6 +359,17 @@ story template looks like this:
           </figcaption>
         </a>
         <img src="https://i1.sndcdn.com/artworks-phdvndiqxyq4z12f-0kXmBw-t500x500.jpg" class="song-image rotate" />
+      </figure>
+    </div>
+    <div class="song-item">
+      <figure class="song-figure">
+        <a href="/#" class="song-caption">
+          <figcaption>
+            <h4>LEMON SQUASH CHEERS!</h4>
+            <p>(Full Ver.)</p>
+          </figcaption>
+        </a>
+        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111451353366143088/CrazyB_3F_2wink_22LEMON_SQUASH_CHEERS2122_Ensemble_Stars2121_FUSION_UNIT_SERIES_07.webp" class="song-image rotate" />
       </figure>
     </div>
   </div>
