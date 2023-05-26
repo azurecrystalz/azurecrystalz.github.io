@@ -184,14 +184,14 @@ Nn? Why? You don’t look too good, did you catch cold?
 {% bubble Hiyori %}
 I came here to pick up a nice snack, but the quiche I was looking for is sold out.
 
-    I was the one that sent the letter suggesting that quiche should be added to their “repertoire”. The fact that I can’t eat it is unforgivable.
+I was the one that sent the letter suggesting that quiche should be added to their “repertoire”. The fact that I can’t eat it is unforgivable.
 
 {% endbubble %}
 
 {% bubble Rinne %}
 Oioi, you like eating tissues<sup>[2]</sup>? You’re like a goat eating paper.
 
-    Hiyori-chan try saying “meh-meh”♪
+Hiyori-chan try saying “meh-meh”♪
 
 {% endbubble %}
 
@@ -202,7 +202,7 @@ I will absolutely _not_ say that, and I am _not_ a goat! I am in no mood to be m
 {% bubble Rinne %}
 I had some free time and I saw a friend of mine, so is there an issue if I wanna go talk to them?
 
-    We’re roommates, so why don’t you play nice with me a bit? Gyahaha!
+We’re roommates, so why don’t you play nice with me a bit? Gyahaha!
 
 {% endbubble %}
 
@@ -297,7 +297,7 @@ Oukawa.
 {% bubble Kohaku %}
 Isn’t it bothering you too, HiMERU-han? There’s no getting anywhere by ourselves, so let’s get Niki-han in on it.
 
-    Um, right over there…that’s Rinne-han sitting at the counter, isn’t it?
+Um, right over there…that’s Rinne-han sitting at the counter, isn’t it?
 
 {% endbubble %}
 
@@ -306,7 +306,7 @@ Isn’t it bothering you too, HiMERU-han? There’s no getting anywhere by ourse
 {% bubble Rinne %}
 ...
 
-    ...haa...
+...haa...
 
 {% endbubble %}
 
@@ -317,7 +317,7 @@ He looks like he’s been mulling over something like that for a really long tim
 {% bubble Niki %}
 Ehh, please don’t accuse me of putting something in his food!
 
-    I was wondering why he wasn’t in our hair, but now that you point it out he *has* been a little different.
+I was wondering why he wasn’t in our hair, but now that you point it out he _has_ been a little different.
 
 {% endbubble %}
 
@@ -332,7 +332,7 @@ HiMERU-han, where are you going?
 {% bubble HiMERU %}
 To ask him directly. It’s a waste if we all sit here talking about it while not knowing anything.
 
-    Amagi, a moment please?
+Amagi, a moment please?
 
 {% endbubble %}
 
@@ -355,7 +355,7 @@ Uwah, this is trouble. Who can fix him? Otouto-san?
 {% bubble Rinne %}
 I’m not broken, I’m fine.
 
-    I’ve got no idea how or why, but after I prayed to Kana-cchi, I kept hitting it big in every pachinko game I played. At first it was all just some kind of joke, but I really think that he could be some kind of gambling god.
+I’ve got no idea how or why, but after I prayed to Kana-cchi, I kept hitting it big in every pachinko game I played. At first it was all just some kind of joke, but I really think that he could be some kind of gambling god.
 
 {% endbubble %}
 
@@ -392,7 +392,7 @@ Spoiling you?
 {% bubble Kanata %}
 Yes. He bought me an “inflatable pool” and he tried taking me to a "seafood" restaurant.
 
-    I don’t understand his true “intentions”. It’s really troubling.
+I don’t understand his true “intentions”. It’s really troubling.
 
 {% endbubble %}
 
@@ -407,14 +407,14 @@ Ah, I have an idea why that is, let me tell you…
 {% bubble Hiyori %}
 And that’s it. He sounds like he really believes that buying you more gifts will increase his luck.
 
-    I would even say he actually thinks of you as a gambling deity.
+I would even say he actually thinks of you as a gambling deity.
 
 {% endbubble %}
 
 {% bubble Kanata %}
 Fumu, so that’s why he was acting like a “suck up”.
 
-    I don’t like it, the feeling of being used you know?
+I don’t like it, the feeling of being used you know?
 
 {% endbubble %}
 
@@ -425,21 +425,21 @@ Rinne: I’m back~…
 {% bubble Kanata %}
 Ah, “Chief”-san. I need to tell you something.
 
-    I’m not a “gambling god”, you know that right?
+I’m not a “gambling god”, you know that right?
 
 {% endbubble %}
 
 {% bubble Rinne %}
 Aah…haha. Did you catch me praying to you this whole time?
 
-    Wish I'd heard that a little earlier, since I just lost big time. Haa, there really is no such thing as a quick-deal in this world.
+Wish I'd heard that a little earlier, since I just lost big time. Haa, there really is no such thing as a quick-deal in this world.
 
 {% endbubble %}
 
 {% bubble Hiyori %}
 Don’t huff in my presence! If you won’t worship Kanata-kun, then you can worship me!
 
-    I am part of “Eden”, named after the haven dominated by an all-powerful God, so treating me with reverence will *surely* bring you some blessings!
+I am part of “Eden”, named after the haven dominated by an all-powerful God, so treating me with reverence will _surely_ bring you some blessings!
 
 {% endbubble %}
 
