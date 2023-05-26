@@ -2,10 +2,10 @@
 title: A Curious Step Forward
 date: 2023-05-21 22:20:58
 categories:
-- [Enstars, Crazy:B]
+  - [Enstars, Crazy:B]
 tags:
-- Oukawa Kohaku
-- Ran Nagisa
+  - Oukawa Kohaku
+  - Ran Nagisa
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
@@ -136,224 +136,240 @@ tags:
     .msr-narration p {
       margin: 0;
     }
+    @media (max-width: 650px) {
+    [character] p {
+        margin:0 0 .4em 65px;
+        padding: .72em;
+        margin-left: 55px !important;
+    }
+    [character]::before,[character][hidden]::before,[character][unknown]::before {
+        margin-left: 70px;
+        margin-left: 55px !important;
+    }
+}    
   </style>
 
-  {% bubble Kohaku %}
-    Looks like they're not here yet.
-  {% endbubble %}
+{% bubble Kohaku %}
+Looks like they're not here yet.
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    <th>*(This all started out with a letter...I got it out of the blue a couple of days ago. All it said was "I have something important to tell you" and to meet in front of the museum today. The chances of this all being a prank aren't impossible, but it's weird that I'm the only person being called here to this museum.)*</th>
-  {% endbubble %}
+{% bubble Kohaku %}
+<th>_(This all started out with a letter...I got it out of the blue a couple of days ago. All it said was "I have something important to tell you" and to meet in front of the museum today. The chances of this all being a prank aren't impossible, but it's weird that I'm the only person being called here to this museum.)_</th>
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    I've got no clue who it is, but if I've come all the way out here I'd like to see who--
-  {% endbubble %}
+{% bubble Kohaku %}
+I've got no clue who it is, but if I've come all the way out here I'd like to see who--
+{% endbubble %}
 
-  {% bubble Unknown %} 
-    Ah, I found you.
-  {% endbubble %}
+{% bubble Unknown %}
+Ah, I found you.
+{% endbubble %}
 
+{% bubble Kohaku %}
+Eh?
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    Eh?
-  {% endbubble %}
+{% bubble Nagisa %}
+--Ya-ho, Kohaku-kun. Thank you for coming today.
+{% endbubble %}
 
-  {% bubble Nagisa %}
-    --Ya-ho, Kohaku-kun. Thank you for coming today.
-  {% endbubble %}
-    
-  {% bubble Kohaku %}
-    N-Nagisa-han? If you're calling for me, then the one that invited me here....
-  {% endbubble %}
+{% bubble Kohaku %}
+N-Nagisa-han? If you're calling for me, then the one that invited me here....
+{% endbubble %}
 
-  {% bubble Nagisa %}
-    ...Was me.
-  {% endbubble %}
+{% bubble Nagisa %}
+...Was me.
+{% endbubble %}
 
-  ![special exhibit](https://media.discordapp.net/attachments/1065401186343194667/1110073383934246912/B30046CF-F3AF-4777-8154-FE5DBF8025B0.png?width=1646&height=760)
+![special exhibit](https://media.discordapp.net/attachments/1065401186343194667/1110073383934246912/B30046CF-F3AF-4777-8154-FE5DBF8025B0.png?width=1646&height=760)
 
-  {% bubble Nagisa %}
-    ....There's a special exhibit for ores and fossils happening in the museum now. I was looking for someone to accompany me.
-  {% endbubble %}
-  
-  {% bubble Nagisa %}
-    ...While I was thinking of who, I decided you'd be best since I've shared rocks with you before<sup>[1]</sup>.
-  {% endbubble %}
+{% bubble Nagisa %}
+....There's a special exhibit for ores and fossils happening in the museum now. I was looking for someone to accompany me.
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    Thanks a lot for that. But Nagisa-han, I'm not the only one that's gotten rocks from you before right? Bon also said he's gotten one from you.
-  {% endbubble %}
+{% bubble Nagisa %}
+...While I was thinking of who, I decided you'd be best since I've shared rocks with you before<sup>[1]</sup>.
+{% endbubble %}
 
-  {% bubble Nagisa %}
-    ...I suppose. However your schedule is also the easiest to follow. I can just ask Ibara.
-  {% endbubble %}
+{% bubble Kohaku %}
+Thanks a lot for that. But Nagisa-han, I'm not the only one that's gotten rocks from you before right? Bon also said he's gotten one from you.
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    Well, that's the Vice President for you. So then, what's the "important thing" you wanted...?
-  {% endbubble %}
+{% bubble Nagisa %}
+...I suppose. However your schedule is also the easiest to follow. I can just ask Ibara.
+{% endbubble %}
 
-  {% bubble Nagisa %}
-    ...I'd like you to accompany me in understanding how this ancient earth works through ores and fossils.
-  {% endbubble %}
+{% bubble Kohaku %}
+Well, that's the Vice President for you. So then, what's the "important thing" you wanted...?
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    ? Why?
-  {% endbubble %}
+{% bubble Nagisa %}
+...I'd like you to accompany me in understanding how this ancient earth works through ores and fossils.
+{% endbubble %}
 
-  {% bubble Nagisa %}
-    ...I believe it'd be easier to see the exhibit than to explain. Let's go inside, shall we?
-  {% endbubble %}
+{% bubble Kohaku %}
+? Why?
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    S-sure.
-  {% endbubble %}
+{% bubble Nagisa %}
+...I believe it'd be easier to see the exhibit than to explain. Let's go inside, shall we?
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    <th>*(I haven't got the **slightest** clue how to respond! Is it really okay to be following him like this...?!)*</th>
-  {% endbubble %}
+{% bubble Kohaku %}
+S-sure.
+{% endbubble %}
+
+{% bubble Kohaku %}
+<th>_(I haven't got the **slightest** clue how to respond! Is it really okay to be following him like this...?!)_</th>
+{% endbubble %}
 
 ![what](https://media.discordapp.net/attachments/1065401186343194667/1110073384362049617/6B04702F-7691-438B-994A-22AEA8ED9853.png?width=1646&height=760)
 
-  {% bubble Kohaku %}
-    ...Wh-what in the *world?* There are huge bones hanging from the ceiling...!
-  {% endbubble %}
+{% bubble Kohaku %}
+...Wh-what in the _world?_ There are huge bones hanging from the ceiling...!
+{% endbubble %}
 
-  {% bubble Nagisa %}
-    ...What's wrong? Could it be that the skeletal display surprised you?
-  {% endbubble %}
+{% bubble Nagisa %}
+...What's wrong? Could it be that the skeletal display surprised you?
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    Isn't being surprised a *normal* reaction when something this big is dangling in front of you?! Th-those...aren't *real* bones right?
-  {% endbubble %}
+{% bubble Kohaku %}
+Isn't being surprised a _normal_ reaction when something this big is dangling in front of you?! Th-those...aren't _real_ bones right?
+{% endbubble %}
 
-  {% bubble Nagisa %}
-    ...Well it's a replica, so not really. However these displays' shapes and sizes are meant to get as close as possible to the real thing...same for the colors. Paint is used to show the texture.
-  {% endbubble %}
+{% bubble Nagisa %}
+...Well it's a replica, so not really. However these displays' shapes and sizes are meant to get as close as possible to the real thing...same for the colors. Paint is used to show the texture.
+{% endbubble %}
 
 ![unblm](https://media.discordapp.net/attachments/1065401186343194667/1110073386480185364/29B43F37-6834-437F-BD18-B59D542081A9.png?width=1646&height=760)
 
-  {% bubble Kohaku %}
-    Waaa, it's well made. Everywhere I look there's strange things I haven't seen before...I can't even think of what this is used for.
-  {% endbubble %}
+{% bubble Kohaku %}
+Waaa, it's well made. Everywhere I look there's strange things I haven't seen before...I can't even think of what this is used for.
+{% endbubble %}
 
-  {% bubble Nagisa %}
-    ....Kohaku-kun, is this your first time visiting a museum?
-  {% endbubble %}
+{% bubble Nagisa %}
+....Kohaku-kun, is this your first time visiting a museum?
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    Yeah, I've never had connections to this kind of place. I remember you mentioned before how the "Antique Market" was kinda like a museum<sup>[2]</sup>. I think that was just limited to telling the history of idols.
-  {% endbubble %}
+{% bubble Kohaku %}
+Yeah, I've never had connections to this kind of place. I remember you mentioned before how the "Antique Market" was kinda like a museum<sup>[2]</sup>. I think that was just limited to telling the history of idols.
+{% endbubble %}
 
-  {% bubble Nagisa %}
-    ...That's right, but that carries its own value. This here is what a real museum is like...The lineage of Earth and humanity's history and art is all collected, kept, and displayed openly for the public to see
-    
+{% bubble Nagisa %}
+...That's right, but that carries its own value. This here is what a real museum is like...The lineage of Earth and humanity's history and art is all collected, kept, and displayed openly for the public to see
+
     ...It's with these exhibits that we learn about the evolution of mankind and the earth...Of course, coming for fun is acceptable as well.
-    
+
     Kohaku-kun, is there anything that you wanted to see?
-  {% endbubble %}
 
-  {% bubble Kohaku %}
-    That *I* wanted to see?
-  {% endbubble %}
+{% endbubble %}
 
-  {% bubble Nagisa %}
-    ...While I was talking to you, I noticed you seemed to be looking around you more. So I was wondering if something had caught your eye.
-  {% endbubble %}
+{% bubble Kohaku %}
+That _I_ wanted to see?
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    Umm. Not really, how do I put this.
-    
+{% bubble Nagisa %}
+...While I was talking to you, I noticed you seemed to be looking around you more. So I was wondering if something had caught your eye.
+{% endbubble %}
+
+{% bubble Kohaku %}
+Umm. Not really, how do I put this.
+
     I...feel like I'm lost in a strange world. So I'm just looking around me because I don't know where else to look. It's kinda like being lost in a place where you don't understand a single thing around you, yknow...?
-  {% endbubble %}
 
-  {% bubble Nagisa %}
-    ...This museum, it's probably completely unfamiliar to you isn't it Kohaku-kun?
-  {% endbubble %}
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    Like I was saying, I haven't got any connections to this place. I never did much studying<sup>[3]</sup>, so I don't really get what the meaning of all this history is...When I ran out into the world and became an idol, I thought my worldview had gotten just a bit bigger.
+{% bubble Nagisa %}
+...This museum, it's probably completely unfamiliar to you isn't it Kohaku-kun?
+{% endbubble %}
+
+{% bubble Kohaku %}
+Like I was saying, I haven't got any connections to this place. I never did much studying<sup>[3]</sup>, so I don't really get what the meaning of all this history is...When I ran out into the world and became an idol, I thought my worldview had gotten just a bit bigger.
 
     But when it comes to going to a *specific* place, I'm lost all over again. I know learning is a part of life, but I know that whatever I've learned is still only a little bit.
-  {% endbubble %}
-  
+
+{% endbubble %}
 
 ![same as me](https://media.discordapp.net/attachments/1065401186343194667/1110073386853466112/8A782891-A287-4BFE-884B-DE672CD673E2.png?width=1646&height=760)
 
-  {% bubble Nagisa %}
-    ...You're the same as me, Kohaku-kun. I personally grow by absorbing knowledge and information everyday.
-    
+{% bubble Nagisa %}
+...You're the same as me, Kohaku-kun. I personally grow by absorbing knowledge and information everyday.
+
     But, there's also some fun to be had when tackling things that are unknown to you. Recently for me, it's been cooking.
-  {% endbubble %}
 
-  {% bubble Kohaku %}
-    Cooking? Nagisa-han?
-  {% endbubble %}
+{% endbubble %}
 
-  {% bubble Nagisa %}
-    ....Yes. Once I learned how to buy ingredients, my worldview broadened. I found more fun and interesting things...
-    
+{% bubble Kohaku %}
+Cooking? Nagisa-han?
+{% endbubble %}
+
+{% bubble Nagisa %}
+....Yes. Once I learned how to buy ingredients, my worldview broadened. I found more fun and interesting things...
+
     Kohaku-kun, I think your worldview will continue to widen.
-  {% endbubble %}
 
-  {% bubble Kohaku %}
-    My worldview...
-  {% endbubble %}
+{% endbubble %}
 
-  {% bubble Nagisa %}
-    ...As of now, your vision is still only partially open.
-    
+{% bubble Kohaku %}
+My worldview...
+{% endbubble %}
+
+{% bubble Nagisa %}
+...As of now, your vision is still only partially open.
+
     With a desire to dive in, chase, and push forward--that tenacity will bring to you an unseen future.
-  {% endbubble %}
 
-  {% bubble Kohaku %}
-    I guess you're right...I still don't know about idol culture or sense, and I still don't know my left from my right...
-    
+{% endbubble %}
+
+{% bubble Kohaku %}
+I guess you're right...I still don't know about idol culture or sense, and I still don't know my left from my right...
+
     But as long as there's the freedom to, then I might just meet something like that just like you said, Nagisa-han~
-  {% endbubble %}
 
-  {% bubble Nagisa %}
-    ...Fufu. Then, shall we see what you want to see and follow your sense of interest?
-  {% endbubble %}
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    Eh, why? I thought you wanted to come here for the special exhibit?
-  {% endbubble %}
+{% bubble Nagisa %}
+...Fufu. Then, shall we see what you want to see and follow your sense of interest?
+{% endbubble %}
 
-  {% bubble Nagisa %}
-    Finding something you're interested in and gaining some new insight today would be the most important reason for coming to the museum. Fortunately, the temporary exhibit is still open for a longer period of time, so I can come again another time.
-  {% endbubble %}
+{% bubble Kohaku %}
+Eh, why? I thought you wanted to come here for the special exhibit?
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    Are you sure? But, when I look at the map I can't tell anything...
-  {% endbubble %}
+{% bubble Nagisa %}
+Finding something you're interested in and gaining some new insight today would be the most important reason for coming to the museum. Fortunately, the temporary exhibit is still open for a longer period of time, so I can come again another time.
+{% endbubble %}
 
-  {% bubble Nagisa %}
-    ...Then how about we go to the exhibit in the basement? There's space for even bigger skeletal and biological conservation models down there.
-  {% endbubble %}
+{% bubble Kohaku %}
+Are you sure? But, when I look at the map I can't tell anything...
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    Really? They've got bones that are bigger than *that?*
-    
+{% bubble Nagisa %}
+...Then how about we go to the exhibit in the basement? There's space for even bigger skeletal and biological conservation models down there.
+{% endbubble %}
+
+{% bubble Kohaku %}
+Really? They've got bones that are bigger than _that?_
+
     Uuuummm, now that you've said it, I *am* kind of curious...
-    
+
     First we can start with that exhibit room so that we can learn the history and eras.
-  {% endbubble %}
 
-  {% bubble Nagisa %}
-    ...It's just around the corner down the stairs.
-  {% endbubble %}
+{% endbubble %}
 
-  {% bubble Kohaku %}
-    Got it. Let's get going...~
-  {% endbubble %}
+{% bubble Nagisa %}
+...It's just around the corner down the stairs.
+{% endbubble %}
+
+{% bubble Kohaku %}
+Got it. Let's get going...~
+{% endbubble %}
 
 ### Translation Notes
 
 **[1]:** Referring to Kohaku's FS1 story which I've tled here! Nagisa gives Kohaku some amber!
 **[2]:** Referring to the conversation Kohaku and Nagisa had in one of the middle chapters of Antique Legend.
 **[3]:** Meaning "I never [had schooling/went to school]", but I didn't want to stray from the dialogue
-
 
   <!--
   {% bubble Kohaku %}

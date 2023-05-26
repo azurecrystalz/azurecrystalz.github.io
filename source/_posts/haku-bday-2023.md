@@ -2,10 +2,10 @@
 title: Happy Birthday Oukawa Kohaku! (2023)
 date: 2023-05-25 20:20:39
 categories:
-- [Enstars,Crazy:B]
+  - [Enstars, Crazy:B]
 tags:
-- Oukawa Kohaku
-- Birthdays
+  - Oukawa Kohaku
+  - Birthdays
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
@@ -133,6 +133,17 @@ tags:
     .msr-narration p {
       margin: 0;
     }
+    @media (max-width: 650px) {
+    [character] p {
+        margin:0 0 .4em 65px;
+        padding: .72em;
+        margin-left: 55px !important;
+    }
+    [character]::before,[character][hidden]::before,[character][unknown]::before {
+        margin-left: 70px;
+        margin-left: 55px !important;
+    }
+}    
   </style>
 
   <!-- CONTENT GOES HERE -->
