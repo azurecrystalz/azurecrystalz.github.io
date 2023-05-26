@@ -223,7 +223,7 @@ I think it'd be better if idols wore western clothing, but I've also always worn
 {% bubble HiMERU %}
 No need to daunt yourself. If all the choices were truly infinite, then everyone would also be lost.
 
-    You should take your time in thinking about it. You don't really need to decide today or tomorrow, since it's "Oukawa Kohaku's personalized outfit".
+You should take your time in thinking about it. You don't really need to decide today or tomorrow, since it's "Oukawa Kohaku's personalized outfit".
 
 {% endbubble %}
 

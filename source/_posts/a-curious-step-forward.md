@@ -154,6 +154,7 @@ Looks like they're not here yet.
 {% endbubble %}
 
 {% bubble Kohaku %}
+
 <th>_(This all started out with a letter...I got it out of the blue a couple of days ago. All it said was "I have something important to tell you" and to meet in front of the museum today. The chances of this all being a prank aren't impossible, but it's weird that I'm the only person being called here to this museum.)_</th>
 {% endbubble %}
 
@@ -220,6 +221,7 @@ S-sure.
 {% endbubble %}
 
 {% bubble Kohaku %}
+
 <th>_(I haven't got the **slightest** clue how to respond! Is it really okay to be following him like this...?!)_</th>
 {% endbubble %}
 
@@ -258,9 +260,9 @@ Yeah, I've never had connections to this kind of place. I remember you mentioned
 {% bubble Nagisa %}
 ...That's right, but that carries its own value. This here is what a real museum is like...The lineage of Earth and humanity's history and art is all collected, kept, and displayed openly for the public to see
 
-    ...It's with these exhibits that we learn about the evolution of mankind and the earth...Of course, coming for fun is acceptable as well.
+...It's with these exhibits that we learn about the evolution of mankind and the earth...Of course, coming for fun is acceptable as well.
 
-    Kohaku-kun, is there anything that you wanted to see?
+Kohaku-kun, is there anything that you wanted to see?
 
 {% endbubble %}
 
@@ -275,7 +277,7 @@ That _I_ wanted to see?
 {% bubble Kohaku %}
 Umm. Not really, how do I put this.
 
-    I...feel like I'm lost in a strange world. So I'm just looking around me because I don't know where else to look. It's kinda like being lost in a place where you don't understand a single thing around you, yknow...?
+I...feel like I'm lost in a strange world. So I'm just looking around me because I don't know where else to look. It's kinda like being lost in a place where you don't understand a single thing around you, yknow...?
 
 {% endbubble %}
 
@@ -286,7 +288,7 @@ Umm. Not really, how do I put this.
 {% bubble Kohaku %}
 Like I was saying, I haven't got any connections to this place. I never did much studying<sup>[3]</sup>, so I don't really get what the meaning of all this history is...When I ran out into the world and became an idol, I thought my worldview had gotten just a bit bigger.
 
-    But when it comes to going to a *specific* place, I'm lost all over again. I know learning is a part of life, but I know that whatever I've learned is still only a little bit.
+But when it comes to going to a _specific_ place, I'm lost all over again. I know learning is a part of life, but I know that whatever I've learned is still only a little bit.
 
 {% endbubble %}
 
@@ -295,7 +297,7 @@ Like I was saying, I haven't got any connections to this place. I never did much
 {% bubble Nagisa %}
 ...You're the same as me, Kohaku-kun. I personally grow by absorbing knowledge and information everyday.
 
-    But, there's also some fun to be had when tackling things that are unknown to you. Recently for me, it's been cooking.
+But, there's also some fun to be had when tackling things that are unknown to you. Recently for me, it's been cooking.
 
 {% endbubble %}
 
@@ -306,7 +308,7 @@ Cooking? Nagisa-han?
 {% bubble Nagisa %}
 ....Yes. Once I learned how to buy ingredients, my worldview broadened. I found more fun and interesting things...
 
-    Kohaku-kun, I think your worldview will continue to widen.
+Kohaku-kun, I think your worldview will continue to widen.
 
 {% endbubble %}
 
@@ -317,14 +319,14 @@ My worldview...
 {% bubble Nagisa %}
 ...As of now, your vision is still only partially open.
 
-    With a desire to dive in, chase, and push forward--that tenacity will bring to you an unseen future.
+With a desire to dive in, chase, and push forward--that tenacity will bring to you an unseen future.
 
 {% endbubble %}
 
 {% bubble Kohaku %}
 I guess you're right...I still don't know about idol culture or sense, and I still don't know my left from my right...
 
-    But as long as there's the freedom to, then I might just meet something like that just like you said, Nagisa-han~
+But as long as there's the freedom to, then I might just meet something like that just like you said, Nagisa-han~
 
 {% endbubble %}
 
@@ -351,9 +353,9 @@ Are you sure? But, when I look at the map I can't tell anything...
 {% bubble Kohaku %}
 Really? They've got bones that are bigger than _that?_
 
-    Uuuummm, now that you've said it, I *am* kind of curious...
+Uuuummm, now that you've said it, I _am_ kind of curious...
 
-    First we can start with that exhibit room so that we can learn the history and eras.
+First we can start with that exhibit room so that we can learn the history and eras.
 
 {% endbubble %}
 
