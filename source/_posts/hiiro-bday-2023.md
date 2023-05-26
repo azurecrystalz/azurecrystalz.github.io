@@ -10,7 +10,7 @@ tags:
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1111457814108454912/IMG_4926.png')"></div>
+      <div class="preview-background" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1111748207937069148/IMG_4935.png?width=990&height=1036')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
               <div class="title-area__title">2023 Hiiro Birthday</div>

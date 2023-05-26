@@ -9,7 +9,7 @@ tags:
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('[IMG URL]')"></div>
+      <div class="preview-background" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1110364701495406704/Screenshot_2023-05-22_at_7.53.12_PM.png?width=1698&height=820')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
@@ -97,18 +97,20 @@ tags:
   </style>
 
 ## Idol Birthdays (7th-8th Anniv Year)
-![img](/#)
+***
+![img](https://64.media.tumblr.com/7078f69a145d529517fa9c6225dfffb5/9577174aac879d5b-cc/s2048x3072/58e9de1d7148545533ded5d844508448d4ad7282.pnj)
 > ***Happy Birthday Amagi Hiiro!!***
->> *"Umu, thank you! I'll continue to work hard this year so that I can gain not only years, but also skill and experience!"*
+> *"Umu, thank you! I'll continue to work hard this year so that I can gain not only years, but also skill and experience!"*
 
-![img](/#)
+![img](https://64.media.tumblr.com/9e341469fa71e4ca5955b38b190266af/9be211a773aa867d-44/s2048x3072/c4c19e57471f2b7530a5ee6bc4717a5e821de48c.pnj)
 > ***Happy Birthday Oukawa Kohaku!!***
->> *"Hearing congratulations from everyone makes me so happy~ Makes me feel warm when people close to me join me to celebrate."*
+> *"Hearing congratulations from everyone makes me so happy~ Makes me feel warm when people close to me join me to celebrate."*
 
 ## Idol Birthdays (8th-9th Anniv Year)
-![img](/#)
+***
+![img](https://media.discordapp.net/attachments/1108590893398753353/1108631209342414949/IMG_4524.png?width=1698&height=784)
 > ***Happy Birthday Amagi Rinne!!***
->> *"Login voiceline here"*
+> *"Login voiceline here"*
 
   <!-- CONTENT GOES HERE -->
 
