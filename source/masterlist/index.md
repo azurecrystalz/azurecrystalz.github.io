@@ -166,6 +166,7 @@ date: 2023-05-22 21:50:01
     }
 
     #songs {
+      grid-template-columns: 1fr;
       justify-content: center;
     }
 
@@ -176,8 +177,8 @@ date: 2023-05-22 21:50:01
 
     #songs .song-figure {
       margin: auto;
-      width: 85vw;
-      height: 85vw;
+      width: 60vw;
+      height: 60vw;
     }
 
     #songs .song-figure .song-image {
