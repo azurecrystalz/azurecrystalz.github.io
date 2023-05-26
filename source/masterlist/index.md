@@ -360,7 +360,7 @@ story template looks like this:
             <p>(Game ver)</p>
           </figcaption>
         </a>
-        <img src="https://i1.sndcdn.com/artworks-phdvndiqxyq4z12f-0kXmBw-t500x500.jpg" class="song-image rotate" />
+        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111473327161217085/image.png" class="song-image rotate" />
       </figure>
     </div>
     <div class="song-item">
@@ -371,7 +371,7 @@ story template looks like this:
             <p>(Full Ver.)</p>
           </figcaption>
         </a>
-        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111451353366143088/CrazyB_3F_2wink_22LEMON_SQUASH_CHEERS2122_Ensemble_Stars2121_FUSION_UNIT_SERIES_07.webp" class="song-image rotate" />
+        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111473390025453678/image.png" class="song-image rotate" />
       </figure>
     </div>
   </div>
