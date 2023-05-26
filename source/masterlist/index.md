@@ -193,7 +193,7 @@ date: 2023-05-22 21:50:01
 
 <div>
   <i><strong>Work in Progress !! Come back later to see the full list!</i></strong>
-  <h2>Featured Scout 5* Stories: Series 1</h2>
+  <h2>Featured Scout Stories: Series 1</h2>
   <h5>Crazy:B</h5>
   <div class="stories">
   <div class="story">
@@ -254,7 +254,7 @@ date: 2023-05-22 21:50:01
       </a>
     </div>
   </div>
-  <h2>Featured Scout 5* Stories: Series 2</h2>
+  <h2>Featured Scout Stories: Series 2</h2>
   <h5>Crazy:B</h5>
   <div class="stories">
   <div class="story">
@@ -277,7 +277,7 @@ date: 2023-05-22 21:50:01
       </a>
     </div>
     </div>
-  <h2>Ensquare Outfit 4* Stories: Series 2</h2>
+  <h2>ES 4* Stories: Series 2</h2>
   <h5>Crazy:B</h5>
   <div class="stories">
     <div class="story">
