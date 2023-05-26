@@ -1,6 +1,6 @@
 ---
 title: Song Translation List
-date:
+date: 2023-05-23 13:10:00
 categories:
 - [Enstars]
 tags:
