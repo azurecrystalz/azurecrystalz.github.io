@@ -111,6 +111,10 @@ tags:
     .msr-narration p {
       margin: 0;
     }
+    .photos {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
   </style>
 
 ## Party Opening
