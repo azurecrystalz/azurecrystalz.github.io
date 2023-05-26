@@ -101,13 +101,13 @@ date: 2023-05-22 21:50:01
 }
 
 #songs {
-  display: flex;
-  flex-flow: row wrap;
-  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-column-gap: 15px;
 }
 
 #songs .song-item {
-  width: 250px;
+  width: 200px;
 }
 
 #songs .song-figure {
@@ -116,6 +116,8 @@ date: 2023-05-22 21:50:01
   height: 200px;
   border-radius: 50%;
   overflow: hidden;
+  margin-block-start: 0em;
+  margin-inline-start: 0px;
 }
 
 #songs .song-figure .song-image {
@@ -140,7 +142,7 @@ date: 2023-05-22 21:50:01
 #songs .song-figure .song-caption {
   position: absolute;
   visibility: hidden;
-  display: flex;
+  display: grid;
   align-items: center;
   justify-content: center;
   top: 50%;
