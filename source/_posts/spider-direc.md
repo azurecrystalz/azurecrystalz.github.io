@@ -13,6 +13,79 @@ tags:
 - Aoi Hinata
 ---
 
+<style>
+    .chapter-area li {
+      background-color: #f486aa;
+      border-radius: 3px;
+    }
+    .chapters li #none {
+      background: none;
+      color: var(--article-text);
+    }
+    [character] {
+      --dark-mode: hsl(var(--hue), 30%, 30%);
+      display: flex;
+    }
+    [character]::before {
+      position: absolute;
+      margin-left: 75px;
+    }
+    [character] p {
+      max-width: calc(100% - 75px);
+      margin-left: 75px;
+      color: inherit;
+    }
+    :root[theme='dark'] [character] p {
+      background: var(--dark-mode);
+    }
+    :root[theme='dark'] [character] p .thought {
+      color: #9f9fff;
+    }
+    :root[theme='light'] [character] p {
+      background: var(--light-mode);
+    }
+    [character] p:first-child {
+      margin-top: 20px;
+      border-top-left-radius: 0px;
+    }
+    [character] p:first-child::before {
+      position: absolute;
+      left: 0;
+    }
+    [character]::after {
+      display: none;
+      left: 65px;
+      top: 37px;
+    }
+    .msr-narration {
+      display: flex;
+      align-items: center;
+      margin: 20px 0px;
+      gap: 5px;
+    }
+    .msr-narration::before {
+      content: "";
+      display: inline-block;
+      background: var(--article-text);
+      height: 1px;
+      width: 15%;
+    }
+    .msr-narration p {
+      margin: 0;
+    }
+    @media (max-width: 650px) {
+    [character] p {
+        margin:0 0 .4em 65px;
+        padding: .72em;
+        margin-left: 55px !important;
+    }
+    [character]::before,[character][hidden]::before,[character][unknown]::before {
+        margin-left: 70px;
+        margin-left: 55px !important;
+    }
+}    
+  </style>
+
 <div class="story-wrapper mobile-reverse" style="--storyColor: #ec8dab;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
   <div class="grid-wrapper">
       <div class="story-background"
@@ -156,74 +229,6 @@ tags:
 <!-- more -->
 
 <div style="margin-top: 3%">
-  <style>
-    .chapters ul li {
-      background-color: #f486aa
-    }
-    [character] {
-      --dark-mode: hsl(var(--hue), 30%, 30%);
-      display: flex;
-    }
-    [character]::before {
-      position: absolute;
-      margin-left: 75px;
-    }
-    [character] p {
-      max-width: calc(100% - 75px);
-      margin-left: 75px;
-      color: inherit;
-    }
-    :root[theme='dark'] [character] p {
-      background: var(--dark-mode);
-    }
-    :root[theme='dark'] [character] p .thought {
-      color: #9f9fff;
-    }
-    :root[theme='light'] [character] p {
-      background: var(--light-mode);
-    }
-    [character] p:first-child {
-      margin-top: 20px;
-      border-top-left-radius: 0px;
-    }
-    [character] p:first-child::before {
-      position: absolute;
-      left: 0;
-    }
-    [character]::after {
-      display: none;
-      left: 65px;
-      top: 37px;
-    }
-    .msr-narration {
-      display: flex;
-      align-items: center;
-      margin: 20px 0px;
-      gap: 5px;
-    }
-    .msr-narration::before {
-      content: "";
-      display: inline-block;
-      background: var(--article-text);
-      height: 1px;
-      width: 15%;
-    }
-    .msr-narration p {
-      margin: 0;
-    }
-    @media (max-width: 650px) {
-    [character] p {
-        margin:0 0 .4em 65px;
-        padding: .72em;
-        margin-left: 55px !important;
-    }
-    [character]::before,[character][hidden]::before,[character][unknown]::before {
-        margin-left: 70px;
-        margin-left: 55px !important;
-    }
-}    
-  </style>
-
   <!-- CONTENT GOES HERE -->
 
   <!-- 
