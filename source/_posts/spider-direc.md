@@ -2,15 +2,15 @@
 title: Spider
 date: 2023-05-27 11:26:00
 categories:
-- [Enstars , Crazy:B]
+  - [Enstars, Crazy:B]
 tags:
-- Oukawa Kohaku
-- Shiina Niki
-- HiMERU
-- Amagi Rinne
-- Sazanami Jun
-- Amagi Hiiro
-- Aoi Hinata
+  - Oukawa Kohaku
+  - Shiina Niki
+  - HiMERU
+  - Amagi Rinne
+  - Sazanami Jun
+  - Amagi Hiiro
+  - Aoi Hinata
 ---
 
 <style>
@@ -21,13 +21,16 @@ tags:
     }
     .chapters li #none {
       background: none;
-      color: var(--article-text);
+      color: var(--link);
     }
     .chapter-area li:hover {
       background-color: #7d3e53;
     }
     .mt-label {
       margin: 5px;
+    }
+    .article-entry a {
+      margin: 2px;
     }
     [character] {
       --dark-mode: hsl(var(--hue), 30%, 30%);
@@ -92,6 +95,106 @@ tags:
     }
 }    
   </style>
+
+<div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
+  <div class="grid-wrapper">
+      <div class="preview-background" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112042501407252672/IMG_4989.png?width=1698&height=784')"></div>
+      <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
+          <div class="title-area">
+              <div class="title-area__title">Spider</div>
+              <div class="title-area__subtitle">スパイダー</div>
+              <div class="title-area__start"><a href="/2023/05/27/spider-direc#1">Start Reading</a></div>
+          </div>
+          <div class="info-area">
+              <div class="synopsis" style="width: 90%;">
+              Crazy:B joined a Halloween event held at ES. Kohaku, who initially brushed it off as an event for children, goes to a haunted house that is popular for being scary with the rest of Crazy:B in order to prepare…
+                <!-- SYNOPSIS GOES HERE -->
+              </div>
+              <div class="info">
+                  <div class="info-item season">
+                      <div class="label">
+                          Season
+                      </div>
+                      <div class="value">
+                      Autumn
+                        <!-- STORY SEASON -->
+                      </div>
+                  </div>
+                  <div class="info-item chapters">
+                      <div class="label">
+                          Chapters
+                      </div>
+                      <div class="value">
+                      12
+                          <!-- NUMBER OF CHAPTERS -->
+                      </div>
+                  </div>
+                  <div class="info-item writer">
+                      <div class="label">
+                          Writer
+                      </div>
+                      <div class="value">
+                      Nishioka Maiko
+                        <!-- STORY WRITER NAME -->
+                      </div>
+                  </div>
+                  <div class="info-item characters">
+                      <div class="label">
+                          Characters
+                      </div>
+                      <div class="value">
+                      <a href="/tags/Amagi-Rinne/" character="Rinne" title="Rinne"></a>
+                      <a href="/tags/HiMERU/" character="HiMERU" title="HiMERU"></a>
+                      <a href="/tags/Shiina-Niki/" character="Niki" title="Niki"></a>
+                      <a href="/tags/Oukawa-Kohaku/" character="Kohaku" title="Kohaku"></a>
+                      <a href="/tags/Amagi-Hiiro/" character="Hiiro" title="Hiiro"></a>
+                      <a href="/tags/Aoi-Hinata/" character="Hinata" title="Hinata"></a>
+                      <a href="/tags/Sazanami-Jun/" character="Jun" title="Jun"></a>
+                        <!-- 
+                          <a href="/tags/[CHARACTER_LAST_NAME]-[CHARACTER_FIRST_NAME]/" character="[CHARACTER_FIRST_AME]" title="[CHARACTER_FIRST_NAME]"></a>
+                         -->
+                         <!-- COPY AND PASTE THE ABOVE FOR EACH CHARACTER THAT APPEARS IN THE STORY -->
+                      </div>
+                  </div>
+                  <div class="info-item tl">
+                      <div class="label">
+                          Translator
+                      </div>
+                      <div class="value">
+                          <a href="https://twitter.com/azurecrystalz">aurora</a>
+                      </div>
+                  </div>
+                  <div class="info-item pr">
+                      <div class="label">
+                          Proofreaders
+                      </div>
+                      <div class="value">
+                      <!-- 
+                          PROOFREADER LIST (IF ANY) -->
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+
+<!-- more -->
+
+<style>
+  .preview-wrapper {
+    /* in case jquery doesn't work */
+    display: none;
+  }
+
+  @media (max-width: 567px) {
+
+    /* for NexT Mashiro: makes padding smaller on mobile */
+    .post-block {
+      padding: 5px 10px 8px !important;
+    }
+  }
+</style>
 
 <div class="story-wrapper mobile-reverse" style="--storyColor: #ec8dab;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
   <div class="grid-wrapper">
@@ -230,51 +333,32 @@ tags:
         <!--- og drop down minitalk here --->
         <div class="mini-talks">
           <div class="mini-talk">
-            <div class="mt-label">
-              Oukawa Kohaku
-            </div>
-            <div class="mt-content" style="display: block;">
+            <div class="mt-header">Oukawa Kohaku</div>
+            <div class="mt-content">
               <div class="item">
-                <a href="/#" id="none">Set 1</a>
-                <a href="/#" id="none">Set 2</a>
-                <a href="/#" id="none">Set 3</a>
+                <a href="#">Set 1</a>
+                <a href="#">Set 2</a>
               </div>
             </div>
-          </div>
-          <div class="mini-talk">
-              <div class="mt-label">
-                Shiina Niki
+            <div class="mt-header">Shiina Niki</div>
+            <div class="mt-content">
+              <div class="item">
+                <a href="#">Set 1</a>
+                <a href="#">Set 2</a>
               </div>
-              <div class="mt-content" style="display: block;">
-                <div class="item">
-                  <a href="/#" id="none">Set 1</a>
-                  <a href="/#" id="none">Set 2</a>
-                  <a href="/#" id="none">Set 3</a>
-                </div>
+            </div>
+            <div class="mt-header">HiMERU</div>
+            <div class="mt-content">
+              <div class="item">
+                <a href="#">Set 1</a>
+                <a href="#">Set 2</a>
               </div>
-          </div>
-          <div class="mini-talk">
-              <div class="mt-label">
-                HiMERU
-              </div>
-              <div class="mt-content" style="display: block;">
-                <div class="item">
-                  <a href="/#" id="none">Set 1</a>
-                  <a href="/#" id="none">Set 2</a>
-                  <a href="/#" id="none">Set 3</a>
-                </div>
-              </div>
-          </div>
-          <div class="mini-talk">
-              <div class="mt-label">
-                Amagi Rinne
-              </div>
-              <div class="mt-content" style="display: block;">
-                <div class="item">
-                  <a href="/#" id="none">Set 1</a>
-                  <a href="/#" id="none">Set 2</a>
-                  <a href="/#" id="none">Set 3</a>
-                </div>
+            </div>
+            <div class="mt-header">Amagi Rinne</div>
+            <div class="mt-content">
+              <div class="item">
+                <a href="#">Set 1</a>
+                <a href="#">Set 2</a>
               </div>
             </div>
           </div>
@@ -282,7 +366,6 @@ tags:
 <!---og minitalk edns here --->
       </div>
     </div>
-
 
 <!-- more -->
 
