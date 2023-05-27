@@ -183,7 +183,7 @@ So, what was it that you wanted to give me?
 
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">プレゼントを</div>
+    <div class="minitalk-option_header tab-header__open">A Present.</div>
       <div class="minitalk-option_content" style="display: block;">
         <div class="msr-unit" character="Kohaku">
           <div class="msr-icon">
@@ -193,14 +193,14 @@ So, what was it that you wanted to give me?
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>これはまた随分かわいらしいぬいぐるみやね？Anzuはんの手づくりなん？</p>
-            <p>クッキーに名前が書いてあるんやな。触り心地も良えし、気に入ったわ。おおきに......♪</p>
+            <p>These are one of those cute stuffed animals, right？Did you make this, Anzu-han？</p>
+            <p>My names written on the cookie. It's soft, I really like it. Thanks...♪</p>
           </div>
         </div>
       </div>
     </div>
     <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">これをつけてほしくて</div>
+    <div class="minitalk-option_header tab-header__open">I wanted you to put this on.</div>
       <div class="minitalk-option_content" style="display: block;">
         <div class="msr-unit" character="Kohaku" attribute="">
           <div class="msr-icon">
@@ -210,10 +210,10 @@ So, what was it that you wanted to give me?
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>このクマのぬいぐるみを？...... ふぅん、服につけられるようになっとるんやね
+            <p>This stuffed bear? ....Fuun, looks like I can pin it to my clothes.
             </p>
             <p>
-            Anzuはんがそう言うならっち言いたいところやけど...... せっかくやし、もうすこし眺めてからでもええやろか？
+            If you say so, Anzu-han, then I'll do that. But, can we wait until we take a look around a bit more?
             </p>
           </div>
         </div>
@@ -236,7 +236,7 @@ I wasn't so sure what I should drink. I heard Madara-han was bringing some teaca
 
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">それは......</div>
+    <div class="minitalk-option_header tab-header__open">There's...</div>
       <div class="minitalk-option_content" style="display: block;">
         <div class="msr-unit" character="Kohaku">
           <div class="msr-icon">
@@ -246,14 +246,14 @@ I wasn't so sure what I should drink. I heard Madara-han was bringing some teaca
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>『Kaori』のみんなが用意してくれたん？</p>
-            <p>コッコッコ♪ それでいろんなお茶があるんやね。えらい張り切って用意してくれたんやなぁ。後でお礼言っとくわ......♪</p>
+            <p>Did everyone from "Kaori" make this?</p>
+            <p>Koh-koh-koh~ So that's why there's so much different teas. They must've put in a lot of effort to prepare it. I'll be sure to thank them later...♪</p>
           </div>
         </div>
       </div>
     </div>
     <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">それが......</div>
+    <div class="minitalk-option_header tab-header__open">Well...</div>
       <div class="minitalk-option_content" style="display: block;">
         <div class="msr-unit" character="Kohaku" attribute="">
           <div class="msr-icon">
@@ -263,10 +263,10 @@ I wasn't so sure what I should drink. I heard Madara-han was bringing some teaca
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>斑はんがわしのぶんのお菓子を山盛り取ってる？
+            <p>Madara-han made a bunch of sweets for me？
             </p>
             <p>
-            いっぱい食べておおきくなれって... 和菓子でどうおおきくなるっちゅうねん。はぁ、ちょっと行ってくるわ
+            He wants me to eat a lot so I can grow...but how big can you even get when eating wagashi? Haa, I'll get going now.
             </p>
           </div>
         </div>
@@ -288,7 +288,7 @@ I'm a little bummed that the party is over.
 
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">楽しかった？</div>
+    <div class="minitalk-option_header tab-header__open">Did you have fun?</div>
       <div class="minitalk-option_content" style="display: block;">
         <div class="msr-unit" character="Kohaku">
           <div class="msr-icon">
@@ -298,14 +298,14 @@ I'm a little bummed that the party is over.
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>もちろんや。いろんなご馳走も食べられたし、ラブはんやみんなとも話せたし....</p>
-            <p>燐音はんが胴上げしようっち言い出したときは、どないしたろかと思ったけど。まぁ、思い出にはなったわ</p>
+            <p>Heck yeah. I ate plenty of good food, and I was able to talk to Love-han and everyone else....</p>
+            <p>Rinne-han said he was gonna throw me up in the air, and I had to think of what I was gonna do. Well, it was a moment to remember.</p>
           </div>
         </div>
       </div>
     </div>
     <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">また来年もお祝いするね</div>
+    <div class="minitalk-option_header tab-header__open">We'll celebrate again next year.</div>
       <div class="minitalk-option_content" style="display: block;">
         <div class="msr-unit" character="Kohaku" attribute="">
           <div class="msr-icon">
@@ -315,10 +315,10 @@ I'm a little bummed that the party is over.
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>コッコッコ♪ 今から来年の話なんてしとったら、鬼が笑うで
+            <p>Koh koh koh♪ If you start talking about next year now, the devil will laugh at ya<sup>[3]</sup>
             </p>
             <p>
-            けど、そうやな。来年またこうして過ごせるように、わしもがんばるわ
+            But, you're right. I'll give it my all so that next year, we can spend our time like this again.
             </p>
           </div>
         </div>
@@ -359,7 +359,7 @@ Yes, today is your birthday. So I'll spoil you a lot, fufufu...~
   <img src="https://64.media.tumblr.com/e1901a7e88d448f68ac097f5eb271b48/25bdc30f8ee434be-c0/s2048x3072/b64cf5456ca9a24bd6beb50fe3cb5222ac1ebfcc.pnj">
 </div>
 
-**_Picture Left:_** I'm glad there's a lot of wagashi<sup>[3]</sup> here~
+**_Picture Left:_** I'm glad there's a lot of wagashi<sup>[4]</sup> here~
 **_Picture Right:_** I've gone through a lot so I'll eat lots of food
 
 ### Shiratori Aira
@@ -453,7 +453,8 @@ I know I may not be the best idol out there, but I'm looking forward to continue
 
 **[1]:** A type of green tea with roasted brown rice in it!
 **[2]:** A darker type of green tea!
-**[3]:** Japanese sweets usually made of mochi and served with green tea.
+**[3]:** An idom meaning "it's a bit foolish to try to predict the future"!
+**[4]:** Japanese sweets usually made of mochi and served with green tea.
 
   <!-- CONTENT GOES HERE -->
 

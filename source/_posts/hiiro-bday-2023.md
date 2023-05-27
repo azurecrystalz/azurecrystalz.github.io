@@ -186,7 +186,7 @@ Besides that. Anzu-san, what do you have there?
 
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">プレゼントだよ</div>
+    <div class="minitalk-option_header tab-header__open">It's a present.</div>
       <div class="minitalk-option_content" style="display: block;">
         <div class="msr-unit" character="Hiiro">
           <div class="msr-icon">
@@ -196,14 +196,14 @@ Besides that. Anzu-san, what do you have there?
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>あぁ、藍良がかわいがっていたクマのぬいぐるみだね</p>
-            <p>藍良が『ALKALOID』全員分が揃ったら並べたいって言っていたし、早速見せにいくよ♪</p>
+            <p>Ah, this is the stuffed bear that Aira really loved.</p>
+            <p>He told us he wants to put all of "Alkaloid"s together in a line, so I'll have to show them as soon as possible♪</p>
           </div>
         </div>
       </div>
     </div>
     <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">つけてほしいな</div>
+    <div class="minitalk-option_header tab-header__open">Can you put this on?</div>
       <div class="minitalk-option_content" style="display: block;">
         <div class="msr-unit" character="Hiiro" attribute="">
           <div class="msr-icon">
@@ -213,10 +213,10 @@ Besides that. Anzu-san, what do you have there?
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>ん？ このクマのぬいぐるみは......『バースデークッキーベア』というのか
+            <p>Nn？ This stuffed bear...a "Birthday Cookie Bear" was it?
             </p>
             <p>
-             なるほど。誕生日のひとは、これをつける決まりがあるんだね。勉強になったよ、ありがとう！
+             I see. So there's a rule that the birthday star wears this. I learned something, thank you!
             </p>
           </div>
         </div>
@@ -237,7 +237,7 @@ Ah, Anzu-san. Perfect timing. Is it really okay to eat this cake the way it is?
 
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">フラワーケーキだよ</div>
+    <div class="minitalk-option_header tab-header__open">It's a flower cake.</div>
       <div class="minitalk-option_content" style="display: block;">
         <div class="msr-unit" character="Hiiro">
           <div class="msr-icon">
@@ -247,14 +247,14 @@ Ah, Anzu-san. Perfect timing. Is it really okay to eat this cake the way it is?
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>へぇ。この花はクリームでできているんだね</p>
-            <p>こんなふうに花がつくれるなんて、都会の食べ物にはまだまだ驚かされるよ</p>
+            <p>Heeeeh. The flowers are made of cream...</p>
+            <p>It still amazes me how the city can make flowers like like.</p>
           </div>
         </div>
       </div>
     </div>
     <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">もちろん</div>
+    <div class="minitalk-option_header tab-header__open">Of course.</div>
       <div class="minitalk-option_content" style="display: block;">
         <div class="msr-unit" character="Hiiro" attribute="">
           <div class="msr-icon">
@@ -264,10 +264,10 @@ Ah, Anzu-san. Perfect timing. Is it really okay to eat this cake the way it is?
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>良かった。早速食べてみるよ！
+            <p>That's good to hear. I'll try it immediately!
             </p>
             <p>
-             もぐもぐ......。美味しい！見た目も美しく食べても美味しいなんて、素晴らしいケーキだね！ 
+             Mogumogu...it's delicious!  This cake is wonderful, it looks beautiful and it's really good to eat too! 
             </p>
           </div>
         </div>
@@ -289,7 +289,7 @@ So again, thank you for taking the time out of your packed schedule. I'm really 
 
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">こちらこそ</div>
+    <div class="minitalk-option_header tab-header__open">I'm glad too.</div>
       <div class="minitalk-option_content" style="display: block;">
         <div class="msr-unit" character="Hiiro">
           <div class="msr-icon">
@@ -299,14 +299,14 @@ So again, thank you for taking the time out of your packed schedule. I'm really 
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>Anzuさんもパーティを楽しんでくれていたなら何よりだよ！</p>
-            <p>来年もこうして祝ってもらえるよう、僕もアイドルとして努力していくつもりだ。Anzuさんには、これからも見守っていてほしいな......♪</p>
+            <p>And I'm really glad you enjoyed the party too, Anzu-san！</p>
+            <p>I'll do my best this year as an idol, so that we can celebrate like this again next year.  I hope you will keep watching over me, Anzu-san...♪</p>
           </div>
         </div>
       </div>
     </div>
     <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">パーティはどうだった？</div>
+    <div class="minitalk-option_header tab-header__open">How was the party?</div>
       <div class="minitalk-option_content" style="display: block;">
         <div class="msr-unit" character="Hiiro" attribute="">
           <div class="msr-icon">
@@ -316,10 +316,10 @@ So again, thank you for taking the time out of your packed schedule. I'm really 
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>ウム！『ALKALOID』のみんなにはもちろん、他のみんなや兄さんにも会えて、とても楽しかったよ！
+            <p>Umu! Seeing "ALKALOID", as well as Nii-san and everyone else, made me really happy!
             </p>
             <p>
-             それに以前兄さんから教わったように、ちゃんと乾杯もしたんだ。学んだ作法を活かせて良かったよ♪
+             I was also able to make a toast properly, just like Nii-san taught me. I'm glad I've been able to use everything I've learned♪
             </p>
           </div>
         </div>
