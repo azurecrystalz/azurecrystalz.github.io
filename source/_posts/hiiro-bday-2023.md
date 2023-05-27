@@ -248,7 +248,7 @@ Ah, Anzu-san. Perfect timing. Is it really okay to eat this cake the way it is?
           <div class="msr-name"></div>
           <div class="msr-line">
             <p>Heeeeh. The flowers are made of cream...</p>
-            <p>It still amazes me how the city can make flowers like like.</p>
+            <p>It still amazes me how the city can make flowers like this.</p>
           </div>
         </div>
       </div>
