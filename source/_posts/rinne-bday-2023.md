@@ -2,7 +2,10 @@
 title: Happy Birthday Amagi Rinne (2023)
 date: 2023-05-26 13:45:00
 categories:
+- Enstars
 tags:
+- Amagi Rinne
+- Birthdays
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
@@ -20,11 +23,9 @@ tags:
                           Characters
                       </div>
                       <div class="value">
-                      <a href="/tags/Amagi-Hiiro/" character="Hiiro" title="Hiiro"></a>
-                      <a href="/tags/Shiratori-Aira/" character="Aira" title="Aira"></a>
-                      <a href="/tags/Himemiya-Tori/" character="Tori" title="Tori"></a>
-                      <a href="/tags/Nagumo-Tetora/" character="Tetora" title="Tetora"></a>
-                      <a href="/tags/Morisawa-Chiaki/" character="Chiaki" title="Chiaki"></a>
+                      <a href="/tags/Amagi-Rinne/" character="Rinne" title="Rinne"></a>
+                      <a href="/tags/Oukawa-Kohaku/" character="Kohaku" title="Kohaku"></a>
+                      <a href="/tags/HiMERU/" character="HiMERU" title="HiMERU"></a>
                         <!-- 
                           <a href="/tags/[CHARACTER_LAST_NAME]-[CHARACTER_FIRST_NAME]/" character="[CHARACTER_FIRST_AME]" title="[CHARACTER_FIRST_NAME]"></a>
                          -->
@@ -92,6 +93,9 @@ tags:
       left: 65px;
       top: 37px;
     }
+    blockquote {
+      margin-bottom: 12px;
+    }
     .msr-narration {
       display: flex;
       align-items: center;
@@ -118,8 +122,106 @@ tags:
         margin-left: 70px;
         margin-left: 55px !important;
     }
+    
 }    
   </style>
+
+## Party Opening
+***
+![got here](https://media.discordapp.net/attachments/1108590893398753353/1108591067412058152/IMG_4537.png?width=1698&height=784)
+{% bubble Rinne %}
+  Chossu! I got here just like you told me to, Anzu-chan.
+
+  Look, I'm right on time.
+
+  *Annd*, I've got a gift for ya, Anzu-chan. Some of Niki's special sweets! They're baked goods, so they'll last a while.
+{% endbubble %}
+
+> ***Anzu:** Thank you very much.*
+
+{% bubble Rinne %}
+  Yupyup, I'm glad to see ya happy Anzu-chan~
+
+  They're leftovers from the party earlier so it won't cost you a dime! What a good deal...~
+{% endbubble %}
+
+## Minitalks
+***
+### Set 1
+
+{% bubble Rinne %}
+  Ah, it's Anzu-chan, and...
+{% endbubble %}
+
+{% bubble Kohaku %}
+  Anzu-han and Rinne-han?
+
+  Are you guys...meeting up or something?
+{% endbubble %}
+
+{% bubble Rinne %}
+  Noooope, just a coincidence...By the way, you two, don't you have *aaanything* you want to say to me? C'mon c'mooon~
+{% endbubble %}
+
+<div class="minitalk" character="Anzu">
+  <div class="minitalk-option">
+    <div class="minitalk-option_header tab-header__open">Happy birthday.</div>
+      <div class="minitalk-option_content" style="display: none;">
+        <div class="msr-unit" character="Rinne">
+          <div class="msr-icon">
+            <div class="msr-icon__wrapper">
+              <div class="msr-icon__base"></div>
+            </div>
+          </div>
+          <div class="msr-name"></div>
+          <div class="msr-line">
+            <p>Yup, thanks~ I'm happy that I got wishes from you, Onee-san.</p>
+          </div>
+        </div>
+        <div class="msr-unit" character="Kohaku">
+          <div class="msr-icon">
+            <div class="msr-icon__wrapper">
+              <div class="msr-icon__base"></div>
+            </div>
+          </div>
+          <div class="msr-name"></div>
+          <div class="msr-line">
+            <p>Jeez, you keep begging. Anzu-han, if you keep following his lead like that you'll get yourself in trouble. So just leave him be.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="minitalk-option">
+    <div class="minitalk-option_header tab-header__open">Like what?</div>
+      <div class="minitalk-option_content" style="display: none;">
+        <div class="msr-unit" character="Kohaku" attribute="">
+          <div class="msr-icon">
+            <div class="msr-icon__wrapper">
+              <div class="msr-icon__base"></div>
+            </div>
+          </div>
+          <div class="msr-name"></div>
+          <div class="msr-line">
+            <p>Koh koh koh~ I haven't got a clue what you're talking about...</p>
+          </div>
+        </div>
+        <div class="msr-unit" character="Rinne" attribute="">
+          <div class="msr-icon">
+            <div class="msr-icon__wrapper">
+              <div class="msr-icon__base"></div>
+            </div>
+          </div>
+          <div class="msr-name"></div>
+          <div class="msr-line">
+            <p>No way! You <i>definitely</i> know what I'm talking about! Anzu-chan's smiling and giggling too, so why don't you give me a few wishes?</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  ### Set 2
+  
 
   <!-- CONTENT GOES HERE -->
 

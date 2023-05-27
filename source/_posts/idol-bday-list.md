@@ -99,18 +99,18 @@ tags:
 ## Idol Birthdays (7th-8th Anniv Year)
 ***
 ![img](https://64.media.tumblr.com/7078f69a145d529517fa9c6225dfffb5/9577174aac879d5b-cc/s2048x3072/58e9de1d7148545533ded5d844508448d4ad7282.pnj)
-> ***Happy Birthday Amagi Hiiro!!***
+> [***Happy Birthday Amagi Hiiro!!***](/2023/05/26/hiiro-bday-2023/)
 > *"Umu, thank you! I'll continue to work hard this year so that I can gain not only years, but also skill and experience!"*
 
 ![img](https://64.media.tumblr.com/9e341469fa71e4ca5955b38b190266af/9be211a773aa867d-44/s2048x3072/c4c19e57471f2b7530a5ee6bc4717a5e821de48c.pnj)
-> ***Happy Birthday Oukawa Kohaku!!***
+> [***Happy Birthday Oukawa Kohaku!!***](/2023/05/25/haku-bday-2023/)
 > *"Hearing congratulations from everyone makes me so happy~ Makes me feel warm when people close to me join me to celebrate."*
 
 ## Idol Birthdays (8th-9th Anniv Year)
 ***
 ![img](https://media.discordapp.net/attachments/1108590893398753353/1108631209342414949/IMG_4524.png?width=1698&height=784)
-> ***Happy Birthday Amagi Rinne!!***
-> *"Login voiceline here"*
+> [***Happy Birthday Amagi Rinne!!***](/2023/05/26/rinne-bday-2023/)
+> *"My birthday is when I'm the luckiest! It's probably cuz I got to celebrate it with Onee-san, right?"*
 
   <!-- CONTENT GOES HERE -->
 

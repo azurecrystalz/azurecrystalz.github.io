@@ -143,6 +143,9 @@ tags:
 blockquote {
       margin-bottom: 12px;
     }
+.msr-line {
+      margin-bottom:10px;
+    }
   </style>
 
 ## Party Opening
