@@ -112,21 +112,20 @@ tags:
     .msr-narration p {
       margin: 0;
     }
+    .minitalk-option_content .msr-unit {
+      margin-bottom: 15px;
+    }  
     @media (max-width: 650px) {
-    [character] p {
-        margin:0 0 .4em 65px;
-        padding: .72em;
-        margin-left: 55px !important;
-    }
-    [character]::before,[character][hidden]::before,[character][unknown]::before {
-        margin-left: 70px;
-        margin-left: 55px !important;
-    }
-    .minitalk-option_content [character] {
-  margin-bottom: 10px;
-}
-    
-}    
+      [character] p {
+          margin:0 0 .4em 65px;
+          padding: .72em;
+          margin-left: 55px !important;
+      }
+      [character]::before,[character][hidden]::before,[character][unknown]::before {
+          margin-left: 70px;
+          margin-left: 55px !important;
+      }
+    }    
   </style>
 
 ## Party Opening
