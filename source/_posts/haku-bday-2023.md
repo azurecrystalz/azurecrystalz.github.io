@@ -1,5 +1,5 @@
 ---
-title: Happy Birthday Oukawa Kohaku! (2023)
+title: Happy Birthday Oukawa Kohaku (2023)
 date: 2023-05-25 20:20:39
 categories:
   - [Enstars, Crazy:B]
@@ -148,13 +148,13 @@ tags:
 
 ![now that](https://64.media.tumblr.com/01afe0dce91af2172ade23bba5439e48/ecc58ea21b829168-97/s2048x3072/133a6863319c1c528bb8faf8396498b90e1067a9.pnj)
 {% bubble Kohaku %}
-Now that you all are here, it's time for me to say hi.
-
-Again, thanks for gathering here today everyone....~
-
-Since you guys all went through the trouble of preparing a grand party like this, I hope we'll all be able to have a great time.
-
-I know it's only for a short time, but I'm leaving it to you tonight...~!
+  Now that you all are here, it's time for me to say hi.
+  
+  Again, thanks for gathering here today everyone....~
+  
+  Since you guys all went through the trouble of preparing a grand party like this, I hope we'll all be able to have a great time.
+  
+  I know it's only for a short time, but I'm leaving it to you tonight...~!
 {% endbubble %}
 
 <div class="photos">
@@ -174,17 +174,17 @@ I know it's only for a short time, but I'm leaving it to you tonight...~!
 ![anzu-han](https://64.media.tumblr.com/04b8b9abfb4e738098e45256f121ab6f/549529c56c7a8a89-a5/s2048x3072/dac4a97e7623307e93de2d7b0d92a2b1e0afdc5a.pnj)
 
 {% bubble Kohaku %}
-Anzu-han isn't here. She said here's where we'll meet though...un?
-
-Ah, there you are. It's crowded with people, so I didn't recognize you immediately. Sorry about that.
-
-So, what was it that you wanted to give me?
+  Anzu-han isn't here. She said here's where we'll meet though...un?
+  
+  Ah, there you are. It's crowded with people, so I didn't recognize you immediately. Sorry about that.
+  
+  So, what was it that you wanted to give me?
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
     <div class="minitalk-option_header tab-header__open">A Present.</div>
-      <div class="minitalk-option_content" style="display: block;">
+      <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Kohaku">
           <div class="msr-icon">
             <div class="msr-icon__wrapper">
@@ -201,7 +201,7 @@ So, what was it that you wanted to give me?
     </div>
     <div class="minitalk-option">
     <div class="minitalk-option_header tab-header__open">I wanted you to put this on.</div>
-      <div class="minitalk-option_content" style="display: block;">
+      <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Kohaku" attribute="">
           <div class="msr-icon">
             <div class="msr-icon__wrapper">
@@ -227,17 +227,17 @@ So, what was it that you wanted to give me?
 ![matcha](https://64.media.tumblr.com/961b950b4a7e4b2b63cc11a5086f98da/549529c56c7a8a89-9b/s2048x3072/eef350f85d1a0241f6a11ecbbd152c5dbe85b94b.pnj)
 
 {% bubble Kohaku %}
-There's matcha and genmaicha<sup>[1]</sup>, and that one there is gyukuro<sup>[2]</sup>.....Uuu~n there are more types than I thought.
-
-Nn? The one tapping me on my shoulder is...oh, it's you Anzu-han.
-
-I wasn't so sure what I should drink. I heard Madara-han was bringing some teacakes, so I thought to pick one until then.
+  There's matcha and genmaicha<sup>[1]</sup>, and that one there is gyukuro<sup>[2]</sup>.....Uuu~n there are more types than I thought.
+  
+  Nn? The one tapping me on my shoulder is...oh, it's you Anzu-han.
+  
+  I wasn't so sure what I should drink. I heard Madara-han was bringing some teacakes, so I thought to pick one until then.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
     <div class="minitalk-option_header tab-header__open">There's...</div>
-      <div class="minitalk-option_content" style="display: block;">
+      <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Kohaku">
           <div class="msr-icon">
             <div class="msr-icon__wrapper">
@@ -254,7 +254,7 @@ I wasn't so sure what I should drink. I heard Madara-han was bringing some teaca
     </div>
     <div class="minitalk-option">
     <div class="minitalk-option_header tab-header__open">Well...</div>
-      <div class="minitalk-option_content" style="display: block;">
+      <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Kohaku" attribute="">
           <div class="msr-icon">
             <div class="msr-icon__wrapper">
@@ -279,17 +279,17 @@ I wasn't so sure what I should drink. I heard Madara-han was bringing some teaca
 ![thank you](https://64.media.tumblr.com/112972f9692413e267f78b499745e2b6/549529c56c7a8a89-e7/s2048x3072/3c5bd0aa935f1d9f648c8527081116ec61c662a2.pnj)
 
 {% bubble Kohaku%}
-Anzu-han, thank you for your hard work and participation today.
-
-Ah, I guess it's time to go talk to everyone.
-
-I'm a little bummed that the party is over.
+  Anzu-han, thank you for your hard work and participation today.
+  
+  Ah, I guess it's time to go talk to everyone.
+  
+  I'm a little bummed that the party is over.
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
     <div class="minitalk-option_header tab-header__open">Did you have fun?</div>
-      <div class="minitalk-option_content" style="display: block;">
+      <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Kohaku">
           <div class="msr-icon">
             <div class="msr-icon__wrapper">
@@ -306,7 +306,7 @@ I'm a little bummed that the party is over.
     </div>
     <div class="minitalk-option">
     <div class="minitalk-option_header tab-header__open">We'll celebrate again next year.</div>
-      <div class="minitalk-option_content" style="display: block;">
+      <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Kohaku" attribute="">
           <div class="msr-icon">
             <div class="msr-icon__wrapper">
@@ -335,23 +335,23 @@ I'm a little bummed that the party is over.
 ![happy bday](https://64.media.tumblr.com/55c8e12cf3494e426e3925f55212b6a7/25bdc30f8ee434be-e1/s2048x3072/baf7c15e9e2381d01c9074c30679f896042ad2f5.pnj)
 
 {% bubble Tsukasa%}
-Happy birthday, Koha-kun~
+  Happy birthday, Koha-kun~
 {% endbubble %}
 
 {% bubble Kohaku %}
-Nn? What is it, Bon? What do you have two glasses for? It's no good if you let loose on eating and drinking.
+  Nn? What is it, Bon? What do you have two glasses for? It's no good if you let loose on eating and drinking.
 {% endbubble %}
 
 {% bubble Tsukasa%}
-That's not it. I brought them in order to make a toast with you. Yes, here you go.
+  That's not it. I brought them in order to make a toast with you. Yes, here you go.
 {% endbubble %}
 
 {% bubble Kohaku %}
-Koh-koh-koh~ Well aren't you a clever young one. Well then, cheers.
+  Koh-koh-koh~ Well aren't you a clever young one. Well then, cheers.
 {% endbubble %}
 
 {% bubble Tsukasa%}
-Yes, today is your birthday. So I'll spoil you a lot, fufufu...~
+  Yes, today is your birthday. So I'll spoil you a lot, fufufu...~
 {% endbubble %}
 
 <div class="photos">
@@ -367,27 +367,27 @@ Yes, today is your birthday. So I'll spoil you a lot, fufufu...~
 ![kohakucchi](https://64.media.tumblr.com/26637f8ede0db3975e0a8fa852fa6f84/49bbcbc28f31cf08-10/s2048x3072/5dacc1fb3bf84a50c027fc31692a1ae8cf32282a.pnj)
 
 {% bubble Aira %}
-Kohaku-cchi, happy birthday! I'm so happy we get to celebrate!
+  Kohaku-cchi, happy birthday! I'm so happy we get to celebrate!
 {% endbubble %}
 
 {% bubble Kohaku %}
-Thanks, Love-han. I was gonna ask if you'd left a present for me here...but Love-han, do you have a present for me?
+  Thanks, Love-han. I was gonna ask if you'd left a present for me here...but Love-han, do you have a present for me?
 {% endbubble %}
 
 {% bubble Aira %}
-Of course! My gift for you issss...yep! Right here!
+  Of course! My gift for you issss...yep! Right here!
 {% endbubble %}
 
 {% bubble Kohaku %}
-I'll open it real quick, let's see what's inside...a towel set?
+  I'll open it real quick, let's see what's inside...a towel set?
 {% endbubble %}
 
 {% bubble Aira %}
-Yeah. I wasn't exactly sure what you wanted, Kohaku-cchi, but I thought that you would definitely use a towel, so I went and picked out a nice one~
+  Yeah. I wasn't exactly sure what you wanted, Kohaku-cchi, but I thought that you would definitely use a towel, so I went and picked out a nice one~
 {% endbubble %}
 
 {% bubble Kohaku %}
-Oh nice, thanks. I'll use it at my next practice...~
+  Oh nice, thanks. I'll use it at my next practice...~
 {% endbubble %}
 
 <div class="photos">
@@ -402,27 +402,27 @@ Oh nice, thanks. I'll use it at my next practice...~
 
 ![adonis and mama](https://64.media.tumblr.com/0262a1f00b2fab0f4c7143c0b17ffe11/f32ccba4e7042d38-b4/s2048x3072/e1c8a630c23d91ba2ea269722b334ad22030cf65.pnj)
 {% bubble Madara %}
-Happy birthday, Kohaku-san! You're a big boy now!
+  Happy birthday, Kohaku-san! You're a big boy now!
 {% endbubble %}
 
 {% bubble Kohaku %}
-Whagyah?! Don't pick me up, let go of me! You have no idea what I was like when I was young....!
+  Whagyah?! Don't pick me up, let go of me! You have no idea what I was like when I was young....!
 {% endbubble %}
 
 {% bubble Adonis %}
-Put him down, Mikejima-senpai. I know you really want to celebrate Oukawa's birthday, but it's not right to do something he doesn't want you to.
+  Put him down, Mikejima-senpai. I know you really want to celebrate Oukawa's birthday, but it's not right to do something he doesn't want you to.
 {% endbubble %}
 
 {% bubble Madara %}
-Ah, Adonis-san. I'm glad you're here too, thank you!
+  Ah, Adonis-san. I'm glad you're here too, thank you!
 {% endbubble %}
 
 {% bubble Kohaku %}
-Um, why exactly are you thanking him...actually, thanks. For helping me out that is.
+  Um, why exactly are you thanking him...actually, thanks. For helping me out that is.
 {% endbubble %}
 
 {% bubble Adonis %}
-No, it's nothing to thank me for. If we're celebrating, then we should make each other happy.
+  No, it's nothing to thank me for. If we're celebrating, then we should make each other happy.
 {% endbubble %}
 
 <div class="photos">
@@ -440,13 +440,13 @@ No, it's nothing to thank me for. If we're celebrating, then we should make each
 ![finish](https://64.media.tumblr.com/7a055234c6086fdd0c6b1d3125253de5/3cfe216ef7e7baee-fa/s2048x3072/56039e093bb71dd77751111dfb5a23ef81dbd01b.pnj)
 
 {% bubble Kohaku %}
-It's about time to wrap up this party. Lemme say a few things before we break off.
+  It's about time to wrap up this party. Lemme say a few things before we break off.
 
-To everyone that came here to celebrate with me today, thank you again....~
+  To everyone that came here to celebrate with me today, thank you again....~
 
-It made me happy that everyone came to celebrate me this way, I had fun the entire day.
+  It made me happy that everyone came to celebrate me this way, I had fun the entire day.
 
-I know I may not be the best idol out there, but I'm looking forward to continue working with everyone.
+  I know I may not be the best idol out there, but I'm looking forward to continue working with everyone.
 {% endbubble %}
 
 ### Translation Notes

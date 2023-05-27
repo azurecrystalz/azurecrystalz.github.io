@@ -187,7 +187,7 @@ Besides that. Anzu-san, what do you have there?
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
     <div class="minitalk-option_header tab-header__open">It's a present.</div>
-      <div class="minitalk-option_content" style="display: block;">
+      <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Hiiro">
           <div class="msr-icon">
             <div class="msr-icon__wrapper">
@@ -204,7 +204,7 @@ Besides that. Anzu-san, what do you have there?
     </div>
     <div class="minitalk-option">
     <div class="minitalk-option_header tab-header__open">Can you put this on?</div>
-      <div class="minitalk-option_content" style="display: block;">
+      <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Hiiro" attribute="">
           <div class="msr-icon">
             <div class="msr-icon__wrapper">
@@ -238,7 +238,7 @@ Ah, Anzu-san. Perfect timing. Is it really okay to eat this cake the way it is?
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
     <div class="minitalk-option_header tab-header__open">It's a flower cake.</div>
-      <div class="minitalk-option_content" style="display: block;">
+      <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Hiiro">
           <div class="msr-icon">
             <div class="msr-icon__wrapper">
@@ -255,7 +255,7 @@ Ah, Anzu-san. Perfect timing. Is it really okay to eat this cake the way it is?
     </div>
     <div class="minitalk-option">
     <div class="minitalk-option_header tab-header__open">Of course.</div>
-      <div class="minitalk-option_content" style="display: block;">
+      <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Hiiro" attribute="">
           <div class="msr-icon">
             <div class="msr-icon__wrapper">
@@ -290,7 +290,7 @@ So again, thank you for taking the time out of your packed schedule. I'm really 
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
     <div class="minitalk-option_header tab-header__open">I'm glad too.</div>
-      <div class="minitalk-option_content" style="display: block;">
+      <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Hiiro">
           <div class="msr-icon">
             <div class="msr-icon__wrapper">
@@ -307,7 +307,7 @@ So again, thank you for taking the time out of your packed schedule. I'm really 
     </div>
     <div class="minitalk-option">
     <div class="minitalk-option_header tab-header__open">How was the party?</div>
-      <div class="minitalk-option_content" style="display: block;">
+      <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Hiiro" attribute="">
           <div class="msr-icon">
             <div class="msr-icon__wrapper">
