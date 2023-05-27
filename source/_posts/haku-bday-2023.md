@@ -186,7 +186,7 @@ tags:
 
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">A Present.</div>
+    <div class="minitalk-option_header tab-header__open"><i>A Present.</i></div>
       <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Kohaku">
           <div class="msr-icon">
@@ -203,7 +203,7 @@ tags:
       </div>
     </div>
     <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">I wanted you to put this on.</div>
+    <div class="minitalk-option_header tab-header__open"><i>I wanted you to put this on.</i></div>
       <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Kohaku" attribute="">
           <div class="msr-icon">
@@ -239,7 +239,7 @@ tags:
 
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">There's...</div>
+    <div class="minitalk-option_header tab-header__open"><i>There's...</i></div>
       <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Kohaku">
           <div class="msr-icon">
@@ -256,7 +256,7 @@ tags:
       </div>
     </div>
     <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">Well...</div>
+    <div class="minitalk-option_header tab-header__open"><i>Well...</i></div>
       <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Kohaku" attribute="">
           <div class="msr-icon">
@@ -291,7 +291,7 @@ tags:
 
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">Did you have fun?</div>
+    <div class="minitalk-option_header tab-header__open"><i>Did you have fun?</i></div>
       <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Kohaku">
           <div class="msr-icon">
@@ -308,7 +308,7 @@ tags:
       </div>
     </div>
     <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open">We'll celebrate again next year.</div>
+    <div class="minitalk-option_header tab-header__open"><i>We'll celebrate again next year.</i></div>
       <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Kohaku" attribute="">
           <div class="msr-icon">

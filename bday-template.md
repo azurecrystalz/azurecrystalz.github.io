@@ -1,20 +1,10 @@
----
-title: Happy Birthday Amagi Rinne (2023)
-date: 2023-05-26 13:45:00
-categories:
-- Enstars
-tags:
-- Amagi Rinne
-- Birthdays
----
-
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1111748207689609328/IMG_4934.png?width=1004&height=1036')"></div>
+      <div class="preview-background" style="background-image: url('[IMG-URL]')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
-              <div class="title-area__title">2023 Hiiro Birthday</div>
-              <div class="title-area__start"><a href="/2023/05/26/hiiro-bday-2023/">Start Reading</a></div>
+              <div class="title-area__title">[POST TITLE]</div>
+              <div class="title-area__start"><a href="[STORY-URL]">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="info">
@@ -23,9 +13,6 @@ tags:
                           Characters
                       </div>
                       <div class="value">
-                      <a href="/tags/Amagi-Rinne/" character="Rinne" title="Rinne"></a>
-                      <a href="/tags/Oukawa-Kohaku/" character="Kohaku" title="Kohaku"></a>
-                      <a href="/tags/HiMERU/" character="HiMERU" title="HiMERU"></a>
                         <!-- 
                           <a href="/tags/[CHARACTER_LAST_NAME]-[CHARACTER_FIRST_NAME]/" character="[CHARACTER_FIRST_AME]" title="[CHARACTER_FIRST_NAME]"></a>
                          -->
@@ -93,9 +80,6 @@ tags:
       left: 65px;
       top: 37px;
     }
-    blockquote {
-      margin-bottom: 12px;
-    }
     .msr-narration {
       display: flex;
       align-items: center;
@@ -112,6 +96,14 @@ tags:
     .msr-narration p {
       margin: 0;
     }
+    .msr-line {
+      margin-bottom:10px;
+    }
+    .photos {
+         display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 15px;
+    }
     @media (max-width: 650px) {
     [character] p {
         margin:0 0 .4em 65px;
@@ -122,56 +114,49 @@ tags:
         margin-left: 70px;
         margin-left: 55px !important;
     }
-    .minitalk-option_content [character] {
-  margin-bottom: 10px;
-}
-    
 }    
+.minitalk {
+    display: flex !important;
+    flex-direction: column;
+    gap: 8px;
+    transition: .15s all ease;
+}
+.minitalk-option_content {
+    display: none;
+    padding: 8px 0 0px;
+}
+.use-motion .post-block, .use-motion .pagination, .use-motion .comments {
+    visibility: hidden;
+}
   </style>
 
 ## Party Opening
-***
-![got here](https://media.discordapp.net/attachments/1108590893398753353/1108591067412058152/IMG_4537.png?width=1698&height=784)
-{% bubble Rinne %}
-  Chossu! I got here just like you told me to, Anzu-chan.
 
-  Look, I'm right on time.
+---
 
-  *Annd*, I've got a gift for ya, Anzu-chan. Some of Niki's special sweets! They're baked goods, so they'll last a while.
-{% endbubble %}
+<!---
+TEXT GOES HERE
 
-> ***Anzu:** Thank you very much.*
-
-{% bubble Rinne %}
-  Yupyup, I'm glad to see ya happy Anzu-chan~
-
-  They're leftovers from the party earlier so it won't cost you a dime! What a good deal...~
-{% endbubble %}
+--->
 
 ## Minitalks
-***
-### Set 1
-![anzuchan](https://media.discordapp.net/attachments/1108590893398753353/1108591270663831583/IMG_4545.png?width=1698&height=784)
 
-{% bubble Rinne %}
-  Ah, it's Anzu-chan, and...
-{% endbubble %}
+---
 
-{% bubble Kohaku %}
-  Anzu-han and Rinne-han?
+#### Opening
 
-  Are you guys...meeting up or something?
-{% endbubble %}
+<!---
 
-{% bubble Rinne %}
-  Noooope, just a coincidence...By the way, you two, don't you have *aaanything* you want to say to me? C'mon c'mooon~
-{% endbubble %}
+TEXT GOES HERE
+
+IF ONE CHARA:
+--->
 
 <div class="minitalk" character="Anzu">
   <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open"><i>Happy birthday.</i></div>
+    <div class="minitalk-option_header tab-header__open"><i>Option 1</i></div>
       <div class="minitalk-option_content" style="display: none;">
-        <div class="msr-unit" character="Rinne">
+        <div class="msr-unit" character="[CHARACTER NAME]">
           <div class="msr-icon">
             <div class="msr-icon__wrapper">
               <div class="msr-icon__base"></div>
@@ -179,9 +164,108 @@ tags:
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>Yup, thanks~ I'm happy that I got wishes from you, Onee-san.</p>
+            <p>Response Line One</p>
+            <p>Response Line Two</p>
           </div>
         </div>
+      </div>
+    </div>
+    <div class="minitalk-option">
+    <div class="minitalk-option_header tab-header__open"><i>Option 2</i></div>
+      <div class="minitalk-option_content" style="display: none;">
+        <div class="msr-unit" character="[CHARACTER NAME]" attribute="">
+          <div class="msr-icon">
+            <div class="msr-icon__wrapper">
+              <div class="msr-icon__base"></div>
+            </div>
+          </div>
+          <div class="msr-name"></div>
+          <div class="msr-line">
+            <p>Response Line One.</p>
+            <p>Response Line Two.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+### Midday
+
+<!---
+
+TEXT GOES HERE
+
+IF 2 CHARAS:
+--->
+
+<div class="minitalk" character="Anzu">
+  <div class="minitalk-option">
+    <div class="minitalk-option_header tab-header__open"><i>Option 1</i></div>
+      <div class="minitalk-option_content" style="display: none;">
+        <div class="msr-unit" character="[CHARACTER 1 NAME]">
+          <div class="msr-icon">
+            <div class="msr-icon__wrapper">
+              <div class="msr-icon__base"></div>
+            </div>
+          </div>
+          <div class="msr-name"></div>
+          <div class="msr-line">
+            <p>Response Line 1</p>
+          </div>
+        </div>
+        <div class="msr-unit" character="[CHARACTER 2 NAME]">
+          <div class="msr-icon">
+            <div class="msr-icon__wrapper">
+              <div class="msr-icon__base"></div>
+            </div>
+          </div>
+          <div class="msr-name"></div>
+          <div class="msr-line">
+            <p>Response Line 2</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="minitalk-option">
+    <div class="minitalk-option_header tab-header__open"><i>Option 2</i></div>
+      <div class="minitalk-option_content" style="display: none;">
+        <div class="msr-unit" character="[CHARACTER 1 NAME]" attribute="">
+          <div class="msr-icon">
+            <div class="msr-icon__wrapper">
+              <div class="msr-icon__base"></div>
+            </div>
+          </div>
+          <div class="msr-name"></div>
+          <div class="msr-line">
+            <p>Response Line 1</p>
+          </div>
+        </div>
+        <div class="msr-unit" character="[CHARACTER 2 NAME]" attribute="">
+          <div class="msr-icon">
+            <div class="msr-icon__wrapper">
+              <div class="msr-icon__base"></div>
+            </div>
+          </div>
+          <div class="msr-name"></div>
+          <div class="msr-line">
+            <p>Response Line 2</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+### Closing
+
+<!---
+TEXT HERE
+--->
+
+<div class="minitalk" character="Anzu">
+  <div class="minitalk-option">
+    <div class="minitalk-option_header tab-header__open">Option 1</div>
+      <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Kohaku">
           <div class="msr-icon">
             <div class="msr-icon__wrapper">
@@ -190,13 +274,14 @@ tags:
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>Jeez, you keep begging. Anzu-han, if you keep following his lead like that you'll get yourself in trouble. So just leave him be.</p>
+            <p>Resp line 1</p>
+            <p>resp line 2</p>
           </div>
         </div>
       </div>
     </div>
     <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open"><i>Like what?</i></div>
+    <div class="minitalk-option_header tab-header__open">Option 2</div>
       <div class="minitalk-option_content" style="display: none;">
         <div class="msr-unit" character="Kohaku" attribute="">
           <div class="msr-icon">
@@ -206,108 +291,41 @@ tags:
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>Koh koh koh~ I haven't got a clue what you're talking about...</p>
-          </div>
-        </div>
-        <div class="msr-unit" character="Rinne" attribute="">
-          <div class="msr-icon">
-            <div class="msr-icon__wrapper">
-              <div class="msr-icon__base"></div>
-            </div>
-          </div>
-          <div class="msr-name"></div>
-          <div class="msr-line">
-            <p>No way! You <i>definitely</i> know what I'm talking about! Anzu-chan's smiling and giggling too, so why don't you give me a few wishes?</p>
+            <p>resp line 1
+            </p>
+            <p>
+            resp line 2
+            </p>
           </div>
         </div>
       </div>
     </div>
   </div>
 
-### Set 2
+## Birthday Talks
+***
+### Talk 1
+<!---
+TEXT GOES HERE
+--->
+### Talk 2
+<!---
+TEXT GOES HERE, CONTINUE FOR 5 PARTS
+--->
 
-![oya](https://media.discordapp.net/attachments/1108590893398753353/1108591505523875932/IMG_4553.png?width=1698&height=784)
 
-{% bubble HiMERU%}
-  —Oya, are you all gathered here? HiMERU came here to take a break...
-{% endbubble %}
+## Party Closing
+***
 
-{% bubble Rinne %}
-  Oh, Merumeru~ We all just happened to end up here.
-{% endbubble %}
+<!---
+TEXT GOES HERE
 
-{% bubble Kohaku %}
-  No, Rinne-han. Anzu-han looks like she's here because she's got buisness with you.
-{% endbubble %}
+IIRC THERES A PHONECALL INSTEAD OF CLOSING TEXT, ADD VID
+--->
 
-<div class="minitalk" character="Anzu">
-  <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open"><i>Are you free later?</i></div>
-      <div class="minitalk-option_content" style="display: none;">
-        <div class="msr-unit" character="Rinne">
-          <div class="msr-icon">
-            <div class="msr-icon__wrapper">
-              <div class="msr-icon__base"></div>
-            </div>
-          </div>
-          <div class="msr-name"></div>
-          <div class="msr-line">
-            <p>Oh, Anzu-chan needs me, huh? Alright, I'll meet you at the back of the gym~</p> <!--- REVISE --->
-          </div>
-        </div>
-        <div class="msr-unit" character="HiMERU">
-          <div class="msr-icon">
-            <div class="msr-icon__wrapper">
-              <div class="msr-icon__base"></div>
-            </div>
-          </div>
-          <div class="msr-name"></div>
-          <div class="msr-line">
-            <p>ES doesn't have a gym, Amagi. You would have to meet in the offices.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="minitalk-option">
-    <div class="minitalk-option_header tab-header__open"><i>Maybe later...</i></div>
-      <div class="minitalk-option_content" style="display: none;">
-        <div class="msr-unit" character="Rinne" attribute="">
-          <div class="msr-icon">
-            <div class="msr-icon__wrapper">
-              <div class="msr-icon__base"></div>
-            </div>
-          </div>
-          <div class="msr-name"></div>
-          <div class="msr-line">
-            <p>Have something you gotta tell me? That's fine, let's meet in the offices.</p>
-          </div>
-        </div>
-        <div class="msr-unit" character="HiMERU" attribute="">
-          <div class="msr-icon">
-            <div class="msr-icon__wrapper">
-              <div class="msr-icon__base"></div>
-            </div>
-          </div>
-          <div class="msr-name"></div>
-          <div class="msr-line">
-            <p>Apart from that, Anzu-san, you're taking a break now, correct? In that case, would you like to order something to drink?</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+### Translation Notes
 
-  <!-- CONTENT GOES HERE -->
-
-  <!-- 
-  SPEECH BUBBLE FORMAT: 
-  {% bubble [CHARACTER_FIRST_NAME] [ATTRIBUTE(optional)]}
-    DIALOGUE TEXT HERE
-
-    ADD A LINE SPACE FOR A NEW LINE
-
-    <th>EMBED THOUGHT DIALOGUE WITH THESE TAGS</th>
-  {% endbubble %}
-  -->
-
+<!---
+IF ANY, ADD
+--->
   </div>
