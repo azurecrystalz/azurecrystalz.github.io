@@ -15,12 +15,19 @@ tags:
 
 <style>
     .chapter-area li {
-      background-color: #f486aa;
+      background-color: #704d56;
       border-radius: 3px;
+      transition: background-color 0.2s;
     }
     .chapters li #none {
       background: none;
       color: var(--article-text);
+    }
+    .chapter-area li:hover {
+      background-color: #7d3e53;
+    }
+    .mt-label {
+      margin: 5px;
     }
     [character] {
       --dark-mode: hsl(var(--hue), 30%, 30%);
@@ -220,10 +227,61 @@ tags:
             </li>
           </ul>
         </div>
+        <!--- og drop down minitalk here --->
+        <div class="mini-talks">
+          <div class="mini-talk">
+            <div class="mt-label">
+              Oukawa Kohaku
+            </div>
+            <div class="mt-content" style="display: block;">
+              <div class="item">
+                <a href="/#" id="none">Set 1</a>
+                <a href="/#" id="none">Set 2</a>
+                <a href="/#" id="none">Set 3</a>
+              </div>
+            </div>
+          </div>
+          <div class="mini-talk">
+              <div class="mt-label">
+                Shiina Niki
+              </div>
+              <div class="mt-content" style="display: block;">
+                <div class="item">
+                  <a href="/#" id="none">Set 1</a>
+                  <a href="/#" id="none">Set 2</a>
+                  <a href="/#" id="none">Set 3</a>
+                </div>
+              </div>
+          </div>
+          <div class="mini-talk">
+              <div class="mt-label">
+                HiMERU
+              </div>
+              <div class="mt-content" style="display: block;">
+                <div class="item">
+                  <a href="/#" id="none">Set 1</a>
+                  <a href="/#" id="none">Set 2</a>
+                  <a href="/#" id="none">Set 3</a>
+                </div>
+              </div>
+          </div>
+          <div class="mini-talk">
+              <div class="mt-label">
+                Amagi Rinne
+              </div>
+              <div class="mt-content" style="display: block;">
+                <div class="item">
+                  <a href="/#" id="none">Set 1</a>
+                  <a href="/#" id="none">Set 2</a>
+                  <a href="/#" id="none">Set 3</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+<!---og minitalk edns here --->
       </div>
     </div>
-  </div>
-</div>
 
 
 <!-- more -->
