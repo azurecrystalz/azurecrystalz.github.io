@@ -111,6 +111,9 @@ tags:
     .msr-narration p {
       margin: 0;
     }
+    .msr-line {
+      margin-bottom:10px;
+    }
     .photos {
          display: grid;
     grid-template-columns: 1fr 1fr;
