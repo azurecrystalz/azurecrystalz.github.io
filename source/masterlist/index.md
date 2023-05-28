@@ -248,7 +248,7 @@ date: 2023-05-22 21:50:01
     height: 100%;
     z-index: 1;
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: column nowrap;
     align-items: center;
     justify-content: flex-end;
     padding: 1px 5px 5px 10px;
@@ -293,7 +293,7 @@ date: 2023-05-22 21:50:01
     }
     .item-container {
       width: 50%;
-      transform: translateY(-3);
+      transform: translateY(12px);
     }
     .title {
       text-align: right;
