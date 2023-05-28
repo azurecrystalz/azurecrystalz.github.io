@@ -1,5 +1,5 @@
 ---
-title: Masterlist
+title: ''
 date: 2023-05-22 21:50:01
 ---
 
@@ -192,198 +192,71 @@ date: 2023-05-22 21:50:01
       height: 80vw;
     }
 }
-@import url('https://fonts.googleapis.com/css?family=Cardo:400i|Rubik:400,700&display=swap');
-
-  :root {
-    --d: 700ms;
-    --e: cubic-bezier(0.19, 1, 0.22, 1);
-    --font-sans: 'Rubik', sans-serif;
-    --font-serif: 'Cardo', serif;
-  }
-
-  * {
-    box-sizing: border-box;
-  }
-
-  html,
-  body {
-    height: 100%;
-  }
-
-  body {
-    display: grid;
-    place-items: center;
-  }
-
-  .page-content {
-    padding: 1rem;
-    font-family: var(--font-sans);
-  }
-  .grid-container {
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    gap: 1%;
-  }
-  .item {
-    position: relative;
-    color: white;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    overflow: hidden;
-    border-radius: 10px;
-    font-size: 0.8rem;
-    height: 300px;
-    cursor: pointer;
-  }
-  .item::before {
-    position: absolute;
-    content: "";
-    display: block;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(transparent, #000000bb);
-  }
-  .item-container {
-    height: 100%;
-    z-index: 1;
-    display: flex;
-    flex-flow: column wrap;
-    align-items: center;
-    justify-content: flex-end;
-    padding: 1px 5px 5px 10px;
-    box-sizing: border-box;
-    transform: translateY(50px);
-    transition: transform 0.3s;
-  }
-  .link {
-    width: 100%;
-    margin-bottom: 10px;
-  }
-  .read {
-    display: block;
-    width: 100%;
-    text-decoration: none;
-    text-align: center;
-    background: black;
-    color: white;
-    height: 20px;
-    border-radius: 3px;
-    font-weight: 600;
-  }
-  .item:hover .item-container {
-    transform: translateY(0px);
-  }
-
-  @media (max-width: 768px) {
-    .grid-container {
-      display: block;
-    }
-    .item {
-      display: flex;
-      align-items: center;
-      justify-content: flex-end;
-      margin-bottom: 2%;
-      background-position-y: 20%;
-      height: 100px;
-    }
-    .item::before {
-      background-image: linear-gradient(to right, transparent, #000000bb);
-    }
-    .item-container {
-      width: 50%;
-    }
-    .title {
-      text-align: right;
-    }
-  }
 </style>
-
-
-
-<strong><p><i>Work in Progress !! Come back later to see the full list!</i></p></strong>
-<h2>Featured Scout Stories: Series 1</h2>
-<main class="page-content">
-  <!-- other things can go in this div -->
-  <div class="grid-container">
-    <!-- copy and paste this if you need more grids for other translation categories-->
-    <div class="item" id="rinne" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112496401079877652/IMG_5030.png');">
-      <div class="item-container">
-        <div class="title">
-          <h2>The Bees Knees (Unadded)</h2>
-        </div>
-        <div class="link">
-          <a href="#" class="read">Read story</a>
-        </div>
-      </div>
-    </div>
-    <div class="item" id="himeru" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112496004462284910/IMG_5023.png');">
-      <div class="item-container">
-        <div class="title">
-          <h2>Past, Present, And... (Unadded)</h2>
-        </div>
-        <div class="link">
-          <a href="#" class="read">Read story</a>
-        </div>
-      </div>
-    </div>
-    <div class="item" id="niki" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112496782526652456/IMG_5029.png?width=1664&height=844');">
-      <div class="item-container">
-        <div class="title">
-          <h2>A Recipe for Idols (Unadded)</h2>
-        </div>
-        <div class="link">
-          <a href="#" class="read">Read story</a>
-        </div>
-      </div>
-    </div>
-    <div class="item" id="kohaku" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112497250531295333/IMG_5024.png');">
-      <div class="item-container">
-        <div class="title">
-          <h2>Sakura, Sakura</h2>
-        </div>
-        <div class="link">
-          <a href="/2023/05/24/sakura-sakura/" class="read">Read story</a>
-        </div>
-      </div>
-    </div>
-    <div class="item" id="hinata" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112498271919812759/hina_fs.webp?width=1664&height=906');">
-      <div class="item-container">
-        <div class="title">
-          <h2>Daybreak Heliolite (Unadded)</h2>
-        </div>
-        <div class="link">
-          <a href="#" class="read">Read story</a>
-        </div>
-      </div>
-    </div>
-    <div class="item" id="yuuta" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112497800547147958/IMG_5026.png?width=1664&height=794');">
-      <div class="item-container">
-        <div class="title">
-          <h2>Twilight Malachite (Unadded)</h2>
-        </div>
-        <div class="link">
-          <a href="#" class="read">Read story</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- more translation categories can go here -->
-</main>
-
-
-
-
-
-
-
-
-
-
-
 
 <div>
   <i><strong>Work in Progress !! Come back later to see the full list!</i></strong>
+  <h2>Featured Scout Stories: Series 1</h2>
+  <h5>Crazy:B</h5>
+  <div class="stories">
+  <div class="story">
+      <div class="image">
+        <img src="https://media.discordapp.net/attachments/1110345002015535124/1111078108192317471/rinnefs1.png?width=828&height=1036" alt="The Bees Knees">
+      </div>
+      <a href="[STORY-URL]" class="storyName" target="_blank">
+        <span>The Bees Knees (Unadded)</span>
+        <span class="read"></span>
+      </a>
+    </div>
+    <div class="story">
+      <div class="image">
+        <img src="https://media.discordapp.net/attachments/1110345002015535124/1111078107248599102/himerufs.png?width=828&height=1036" alt="Past, Present, and...">
+      </div>
+      <a href="[STORY-URL]" class="storyName" target="_blank">
+        <span>Past, Present, and... (Unadded)</span>
+        <span class="read"></span>
+      </a>
+    </div>
+    <div class="story">
+      <div class="image">
+        <img src="https://media.discordapp.net/attachments/1110345002015535124/1111078108569800704/nikifs.png?width=828&height=1036" alt="A Recipe for Idols">
+      </div>
+      <a href="[STORY-URL]" class="storyName" target="_blank">
+        <span>A Recipe for Idols (Unadded)</span>
+        <span class="read"></span>
+      </a>
+    </div>
+    <div class="story">
+      <div class="image">
+        <img src="https://media.discordapp.net/attachments/1110345002015535124/1111078108842426438/28Amber-Colored_Blossom_in_Bloom29_Kohaku_Oukawa_Frameless.webp?width=828&height=1036" alt="Sakura, Sakura">
+      </div>
+      <a href="/2023/05/24/sakura-sakura/" class="storyName" target="_blank">
+        <span>Sakura, Sakura</span>
+        <span class="read"></span>
+      </a>
+    </div>
+  </div>
+  <h5>2wink</h5>
+  <div class="stories">
+  <div class="story">
+      <div class="image">
+        <img src="https://media.discordapp.net/attachments/1110345002015535124/1111078107651248168/hinafsunb.png?width=828&height=1036" alt="Daybreak Heliolite">
+      </div>
+      <a href="[STORY-URL]" class="storyName" target="_blank">
+        <span>Daybreak Heliolite (Unadded)</span>
+        <span class="read"></span>
+      </a>
+    </div>
+    <div class="story">
+      <div class="image">
+        <img src="https://media.discordapp.net/attachments/1110345002015535124/1111078107907096616/yuutafsunbl.png?width=828&height=1036" alt="Twilight Malachite">
+      </div>
+      <a href="[STORY-URL]" class="storyName" target="_blank">
+        <span>Twilight Malachite (Unadded)</span>
+        <span class="read"></span>
+      </a>
+    </div>
+  </div>
   <h2>Featured Scout Stories: Series 2</h2>
   <h5>Crazy:B</h5>
   <div class="stories">
