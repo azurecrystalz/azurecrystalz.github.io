@@ -40,6 +40,10 @@ date: 2023-05-22 21:50:01
     .page-content {
       grid-template-columns: repeat(2, 1fr);
     }
+    .content {
+      justify-content: flex-end;
+      padding:0;
+    }
   }
 
   @media (min-width: 800px) {
@@ -64,6 +68,7 @@ date: 2023-05-22 21:50:01
   @media (min-width: 600px) {
     .card {
       height: 350px;
+      padding: 0;
     }
   }
 
@@ -130,6 +135,7 @@ date: 2023-05-22 21:50:01
     font-size: 1.3rem;
     font-weight: bold;
     line-height: 1.2;
+    
   }
 
   .copy {
@@ -138,16 +144,16 @@ date: 2023-05-22 21:50:01
     font-style: italic;
     line-height: 1.35;
   }
-
-  .btn {
+  .article-entry a.btn {
     cursor: pointer;
     margin-top: 1.5rem;
     padding: 0.75rem 1.5rem;
+    display: block;
     font-size: 0.65rem;
     font-weight: bold;
     letter-spacing: 0.025rem;
     text-transform: uppercase;
-    color: white;
+    color: var(--link);
     background-color: black;
     border: none;
   }
@@ -179,6 +185,10 @@ date: 2023-05-22 21:50:01
     .card:hover,
     .card:focus-within {
       align-items: center;
+    }
+
+    .title {
+      margin: 0;
     }
 
     .card:hover:before,
@@ -218,41 +228,37 @@ date: 2023-05-22 21:50:01
   <div class="card">
     <div class="content">
       <h2 class="title">Mountain View</h2>
-      <button class="btn">View Trips</button>
+      <a href="[URL]" class="btn">View Trips</a>
     </div>
   </div>
   <div class="card">
     <div class="content">
       <h2 class="title">To The Beach</h2>
-      <button class="btn">View
-        Trips</button>
+      <a href="[URL]" class="btn">View Trips</a>
     </div>
   </div>
   <div class="card">
     <div class="content">
       <h2 class="title">Desert Destinations</h2>
-      <button class="btn">Book Now</button>
+      <a href="[URL]" class="btn">View Trips</a>
     </div>
   </div>
   <div class="card">
     <div class="content">
       <h2 class="title">Explore The Galaxy</h2>
-      <button class="btn">Book
-        Now</button>
+      <a href="[URL]" class="btn">View Trips</a>
     </div>
   </div>
   <div class="card">
     <div class="content">
       <h2 class="title">Explore The Galaxy</h2>
-      <button class="btn">Book
-        Now</button>
+      <a href="[URL]" class="btn">View Trips</a>
     </div>
   </div>
   <div class="card">
     <div class="content">
       <h2 class="title">Explore The Galaxy</h2>
-      <button class="btn">Book
-        Now</button>
+      <a href="[URL]" class="btn">View Trips</a>
     </div>
   </div>
 </main>
