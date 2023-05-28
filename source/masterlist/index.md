@@ -286,12 +286,14 @@ date: 2023-05-22 21:50:01
       margin-bottom: 2%;
       background-position-y: 20%;
       height: 100px;
+      
     }
     .item::before {
       background-image: linear-gradient(to right, transparent, #000000bb);
     }
     .item-container {
       width: 50%;
+      transform: translateY(-3);
     }
     .title {
       text-align: right;
