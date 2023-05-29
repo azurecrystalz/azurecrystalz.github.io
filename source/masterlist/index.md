@@ -236,6 +236,7 @@ date: 2023-05-22 21:50:01
     height: 300px;
     cursor: pointer;
     display: block;
+    margin: 0;
   }
   .item::before {
     position: absolute;
@@ -245,21 +246,30 @@ date: 2023-05-22 21:50:01
     height: 100%;
     background: linear-gradient(transparent, #000000bb);
   }
+  .item-container-link {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    height: 100%;
+    transform: translateY(20px);
+  }
+  a:link.item-container-link, a:visited.item-container-link {
+    z-index: 2;
+    color: white;
+    transition: transform 0.3s;
+  }
+  a:hover.item-container-link, a:active.item-container-link {
+    z-index: 2;
+    background: none;
+  }
   .item-container {
     height: 100%;
-    z-index: 1;
     display: flex;
     flex-flow: column nowrap;
     align-items: center;
     justify-content: flex-end;
     padding: 1px 5px 5px 10px;
     box-sizing: border-box;
-    transform: translateY(50px);
-    transition: transform 0.3s;
-  }
-  .link {
-    width: 100%;
-    margin-bottom: 10px;
   }
   .read {
     display: block;
@@ -272,8 +282,9 @@ date: 2023-05-22 21:50:01
     border-radius: 3px;
     font-weight: 600;
   }
-  .item:hover .item-container {
-    transform: translateY(0px);
+  .item:hover a:link.item-container-link, .item:hover a:visited.item-container-link, .item:hover a:active.item-container-link, .item:hover a:hover.item-container-link {
+    /* hover effect */
+    transform: translateY(-10px);
   }
 
   @media (max-width: 768px) {
@@ -287,7 +298,9 @@ date: 2023-05-22 21:50:01
       margin-bottom: 2%;
       background-position-y: 20%;
       height: 100px;
-      
+    }
+    .item-container-link {
+      transform: translateY(0);
     }
     .title h2 {
       margin:0;
@@ -297,10 +310,9 @@ date: 2023-05-22 21:50:01
       background-image: linear-gradient(to right, transparent, #000000bb);
     }
     .item-container {
-      width: 50%;
+      width: 100%;
       transform: translateY(12px);
     }
-
     .title {
       text-align: right;
       margin-right: 3px;
@@ -316,13 +328,15 @@ date: 2023-05-22 21:50:01
   <!-- other things can go in this div -->
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
-    <a href="/#" class="item" id="rinne" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112496401079877652/IMG_5030.png');">
-      <div class="item-container">
-        <div class="title">
-          <h2>The Bees Knees (Unadded)</h2>
+    <div class="item" id="rinne" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112496401079877652/IMG_5030.png');">
+      <a href="/[STORY_URL_HERE]" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>The Bees Knees (Unadded)</h2>
+          </div>
         </div>
-      </div>
-    </a>
+      </a>
+    </div>
     <div class="item" id="himeru" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112496004462284910/IMG_5023.png');">
       <div class="item-container">
         <div class="title">
@@ -343,13 +357,15 @@ date: 2023-05-22 21:50:01
         </div>
       </div>
     </div>
-    <a href="/2023/05/24/sakura-sakura/" class="item" id="kohaku" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112497250531295333/IMG_5024.png');">
-      <div class="item-container">
-        <div class="title">
-          <h2>Sakura, Sakura</h2>
+    <div class="item" id="kohaku" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112497250531295333/IMG_5024.png');">
+      <a href="/#" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Sakura, Sakura</h2>
+          </div>
         </div>
-      </div>
-    </a>
+      </a>
+    </div>
     <div class="item" id="hinata" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112498271919812759/hina_fs.webp?width=1664&height=906');">
       <div class="item-container">
         <div class="title">
