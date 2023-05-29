@@ -295,8 +295,10 @@ date: 2023-05-22 21:50:01
       width: 50%;
       transform: translateY(12px);
     }
+
     .title {
       text-align: right;
+      margin-right: 3px;
     }
   }
 </style>
@@ -370,6 +372,75 @@ date: 2023-05-22 21:50:01
       </div>
     </div>
   </div>
+  <h2>Featured Scout Stories: Series 2</h2>
+  <!-- other things can go in this div -->
+  <div class="grid-container">
+    <!-- copy and paste this if you need more grids for other translation categories-->
+    <div class="item" id="rinne" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112546153922314240/Untitled_design.gif');">
+      <div class="item-container">
+        <div class="title">
+          <h2>A New Game Making the Rounds (Unadded)</h2>
+        </div>
+        <div class="link">
+          <a href="#" class="read">Read story</a>
+        </div>
+      </div>
+    </div>
+    <div class="item" id="niki" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112549157777981511/Untitled_design_1.gif');">
+      <div class="item-container">
+        <div class="title">
+          <h2>Bon Appetit!</h2>
+        </div>
+        <div class="link">
+          <a href="/2023/05/22/bon-appetit/" class="read">Read story</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <h2> ES 4* Stories: Series 2</h2>
+  <!--- aaaa --->
+  <div class="grid-container">
+    <!-- copy and paste this if you need more grids for other translation categories-->
+    <div class="item" id="rinne" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1110712529128271902/IMG_4865.png?width=828&height=1036');">
+      <div class="item-container">
+        <div class="title">
+          <h2>Please, God ☆</h2>
+        </div>
+        <div class="link">
+          <a href="/2023/05/16/please-god" class="read">Read story</a>
+        </div>
+      </div>
+    </div>
+    <div class="item" id="himeru" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1110712529501556746/IMG_4866.png?width=828&height=1036');">
+      <div class="item-container">
+        <div class="title">
+          <h2>The Runrun Calamity</h2>
+        </div>
+        <div class="link">
+          <a href="/2023/05/15/runrun-calamity" class="read">Read story</a>
+        </div>
+      </div>
+    </div>
+    <div class="item" id="niki" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1110712529879040051/IMG_4867.png?width=828&height=1036');">
+      <div class="item-container">
+        <div class="title">
+          <h2>Sweets Road</h2>
+        </div>
+        <div class="link">
+          <a href="/2023/05/15/sweetsroad/" class="read">Read story</a>
+        </div>
+      </div>
+    </div>
+    <div class="item" id="kohaku" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1110712530193617036/IMG_4868.png');">
+      <div class="item-container">
+        <div class="title">
+          <h2>A Curious Step Forward</h2>
+        </div>
+        <div class="link">
+          <a href="/2023/05/21/a-curious-step-forward" class="read">Read story</a>
+        </div>
+      </div>
+    </div>
   <!-- more translation categories can go here -->
 </main>
 
@@ -385,84 +456,17 @@ date: 2023-05-22 21:50:01
 
 
 <div>
-  <i><strong>Work in Progress !! Come back later to see the full list!</i></strong>
-  <h2>Featured Scout Stories: Series 2</h2>
-  <h5>Crazy:B</h5>
+  <h2>Other Idols</h2>
   <div class="stories">
   <div class="story">
-      <div class="image">
-        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111076764681244713/ezgif.com-gif-maker_1.gif" alt="A New Game Making the Rounds">
-      </div>
-      <a href="[STORY-LINK]" class="storyName" target="_blank">
-      <!-- maybe turn fs2 img into gif if it works -->
-        <span>A New Game Making the Rounds (Unadded)</span>
-        <span class="read"></span>
-      </a>
+    <div class="image">
+      <img src="https://media.discordapp.net/attachments/1110345002015535124/1111437660175736842/IMG_4924.png?width=828&height=1036" alt="A Story That's Mine Alone">
     </div>
-    <div class="story">
-      <div class="image">
-        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111455138008289340/ezgif.com-gif-maker_3.gif" alt="Bon Appetit">
-      </div>
-      <a href="https://azurecrystalz.github.io/2023/05/22/bon-appetit/" class="storyName" target="_blank">
-        <span>Bon Appetit!</span>
-        <span class="read"></span>
-      </a>
-    </div>
-    </div>
-  <h2>ES 4* Stories: Series 2</h2>
-  <h5>Crazy:B</h5>
-  <div class="stories">
-    <div class="story">
-      <div class="image">
-        <img src="https://media.discordapp.net/attachments/1110345002015535124/1110712529128271902/IMG_4865.png?width=828&height=1036" alt="Please, God">
-      </div>
-      <a href="/2023/05/16/please-god" class="storyName" target="_blank">
-        <span>Please, God ☆</span>
-        <span class="read"></span>
-      </a>
-    </div>
-    <div class="story">
-      <div class="image">
-        <img src="https://media.discordapp.net/attachments/1110345002015535124/1110712529501556746/IMG_4866.png?width=828&height=1036" alt="The Runrun Calamity">
-      </div>
-      <a href="/2023/05/15/runrun-calamity" class="storyName" target="_blank">
-        <span>The Runrun Calamity</span>
-        <span class="read"></span>
-      </a>
-    </div>
-    <div class="story">
-      <div class="image">
-        <img src="https://media.discordapp.net/attachments/1110345002015535124/1110712529879040051/IMG_4867.png?width=828&height=1036" alt="Sweets Road">
-      </div>
-      <a href="/2023/05/15/sweetsroad/" class="storyName" target="_blank">
-        <span>Sweets Road</span> 
-        <span class="read">
-        </span>
-      </a>
-      </div>
-    <div class="story">
-      <div class="image">
-        <img src="https://media.discordapp.net/attachments/1110345002015535124/1110712530193617036/IMG_4868.png" alt="A Curious Step Forward">
-      </div>
-      <a href="/2023/05/21/a-curious-step-forward" class="storyName" target="_blank">
-        <span>A Curious Step Forward</span> 
-        <span class="read">
-        </span>
-      </a>
-      </div>
-    </div>
-    <h2>Other Idols</h2>
-    <div class="stories">
-    <div class="story">
-      <div class="image">
-        <img src="https://media.discordapp.net/attachments/1110345002015535124/1111437660175736842/IMG_4924.png?width=828&height=1036" alt="A Story That's Mine Alone">
-      </div>
-      <a href="/2023/05/25/a-story-thats-mine-alone/" class="storyName" target="_blank">
-        <span>A Story That's Mine Alone</span> 
-        <span class="read">
-        </span>
-      </a>
-      </div>
+    <a href="/2023/05/25/a-story-thats-mine-alone/" class="storyName" target="_blank">
+      <span>A Story That's Mine Alone</span> 
+      <span class="read"></span>
+    </a>
+  </div>
 <!-- add sections above this point -->
 <!--- 
 story template looks like this:
@@ -478,7 +482,7 @@ story template looks like this:
       </div>
     </div>
     --->
-  </div>
+</div>
   
   <h2>Song Translations</h2>
   <div id="songs">
