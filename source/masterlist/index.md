@@ -235,6 +235,7 @@ date: 2023-05-22 21:50:01
     font-size: 0.8rem;
     height: 300px;
     cursor: pointer;
+    display: block;
   }
   .item::before {
     position: absolute;
@@ -288,6 +289,10 @@ date: 2023-05-22 21:50:01
       height: 100px;
       
     }
+    .title h2 {
+      margin:0;
+      margin-bottom:5px;
+    }
     .item::before {
       background-image: linear-gradient(to right, transparent, #000000bb);
     }
@@ -311,16 +316,13 @@ date: 2023-05-22 21:50:01
   <!-- other things can go in this div -->
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
-    <div class="item" id="rinne" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112496401079877652/IMG_5030.png');">
+    <a href="/#" class="item" id="rinne" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112496401079877652/IMG_5030.png');">
       <div class="item-container">
         <div class="title">
           <h2>The Bees Knees (Unadded)</h2>
         </div>
-        <div class="link">
-          <a href="#" class="read">Read story</a>
-        </div>
       </div>
-    </div>
+    </a>
     <div class="item" id="himeru" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112496004462284910/IMG_5023.png');">
       <div class="item-container">
         <div class="title">
@@ -341,16 +343,13 @@ date: 2023-05-22 21:50:01
         </div>
       </div>
     </div>
-    <div class="item" id="kohaku" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112497250531295333/IMG_5024.png');">
+    <a href="/2023/05/24/sakura-sakura/" class="item" id="kohaku" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112497250531295333/IMG_5024.png');">
       <div class="item-container">
         <div class="title">
           <h2>Sakura, Sakura</h2>
         </div>
-        <div class="link">
-          <a href="/2023/05/24/sakura-sakura/" class="read">Read story</a>
-        </div>
       </div>
-    </div>
+    </a>
     <div class="item" id="hinata" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112498271919812759/hina_fs.webp?width=1664&height=906');">
       <div class="item-container">
         <div class="title">
@@ -457,6 +456,7 @@ date: 2023-05-22 21:50:01
 
 <div>
   <h2>Other Idols</h2>
+  <sup><i> card code by <a href="https://twitter.com/findermao">findermao</a></i></sup>
   <div class="stories">
   <div class="story">
     <div class="image">
