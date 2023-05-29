@@ -401,7 +401,7 @@ date: 2023-05-22 21:50:01
   <!--- aaaa --->
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
-    <div class="item" id="rinne" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1110712529128271902/IMG_4865.png?width=828&height=1036');">
+    <div class="item" id="rinne" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112562619598000138/IMG_5041.png?width=1664&height=796');">
       <div class="item-container">
         <div class="title">
           <h2>Please, God ☆</h2>
@@ -411,7 +411,7 @@ date: 2023-05-22 21:50:01
         </div>
       </div>
     </div>
-    <div class="item" id="himeru" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1110712529501556746/IMG_4866.png?width=828&height=1036');">
+    <div class="item" id="himeru" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112563053167382568/IMG_5043.png');">
       <div class="item-container">
         <div class="title">
           <h2>The Runrun Calamity</h2>
@@ -421,7 +421,7 @@ date: 2023-05-22 21:50:01
         </div>
       </div>
     </div>
-    <div class="item" id="niki" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1110712529879040051/IMG_4867.png?width=828&height=1036');">
+    <div class="item" id="niki" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112562620285861978/IMG_5042.png?width=1664&height=796');">
       <div class="item-container">
         <div class="title">
           <h2>Sweets Road</h2>
@@ -431,7 +431,7 @@ date: 2023-05-22 21:50:01
         </div>
       </div>
     </div>
-    <div class="item" id="kohaku" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1110712530193617036/IMG_4868.png');">
+    <div class="item" id="kohaku" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112562620801765407/IMG_5044.png?width=1664&height=804');">
       <div class="item-container">
         <div class="title">
           <h2>A Curious Step Forward</h2>
