@@ -1,9 +1,9 @@
 # Header
 menu:
+  Home: /home
   About: /about
   Rules: /tos
   Masterlist: /masterlist
-rss: /atom.xml
 
 home:
   style: default           # default, detail

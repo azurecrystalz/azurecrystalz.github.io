@@ -284,7 +284,7 @@ date: 2023-05-22 21:50:01
   }
   .item:hover a:link.item-container-link, .item:hover a:visited.item-container-link, .item:hover a:active.item-container-link, .item:hover a:hover.item-container-link {
     /* hover effect */
-    transform: translateY(-10px);
+    transform: translateY(2px);
   }
 
   @media (max-width: 768px) {
@@ -338,27 +338,25 @@ date: 2023-05-22 21:50:01
       </a>
     </div>
     <div class="item" id="himeru" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112496004462284910/IMG_5023.png');">
-      <div class="item-container">
-        <div class="title">
-          <h2>Past, Present, And... (Unadded)</h2>
+      <a href="/[STORY_URL_HERE]" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Past, Present, And... (Unadded)</h2>
+          </div>
         </div>
-        <div class="link">
-          <a href="#" class="read">Read story</a>
-        </div>
-      </div>
+      </a>
     </div>
     <div class="item" id="niki" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112496782526652456/IMG_5029.png?width=1664&height=844');">
-      <div class="item-container">
-        <div class="title">
-          <h2>A Recipe for Idols (Unadded)</h2>
+      <a href="/[STORY_URL_HERE]" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>A Recipe for Idols (Unadded)</h2>
+          </div>
         </div>
-        <div class="link">
-          <a href="#" class="read">Read story</a>
-        </div>
-      </div>
+      </a>
     </div>
     <div class="item" id="kohaku" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112497250531295333/IMG_5024.png');">
-      <a href="/#" class="item-container-link">
+      <a href="/2023/05/24/sakura-sakura/" class="item-container-link">
         <div class="item-container">
           <div class="title">
             <h2>Sakura, Sakura</h2>
@@ -367,49 +365,45 @@ date: 2023-05-22 21:50:01
       </a>
     </div>
     <div class="item" id="hinata" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112498271919812759/hina_fs.webp?width=1664&height=906');">
-      <div class="item-container">
-        <div class="title">
-          <h2>Daybreak Heliolite (Unadded)</h2>
+      <a href="/[STORY_URL_HERE]" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Daybreak Heliolite (Unadded)</h2>
+          </div>
         </div>
-        <div class="link">
-          <a href="#" class="read">Read story</a>
-        </div>
-      </div>
+      </a>
     </div>
     <div class="item" id="yuuta" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112497800547147958/IMG_5026.png?width=1664&height=794');">
-      <div class="item-container">
-        <div class="title">
-          <h2>Twilight Malachite (Unadded)</h2>
-        </div>
-        <div class="link">
-          <a href="#" class="read">Read story</a>
+      <a href="/[STORY_URL_HERE]" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Twilight Malachite (Unadded)</h2>
+          </div>
         </div>
       </div>
-    </div>
+    </a>
   </div>
   <h2>Featured Scout Stories: Series 2</h2>
   <!-- other things can go in this div -->
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
     <div class="item" id="rinne" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112546153922314240/Untitled_design.gif');">
-      <div class="item-container">
-        <div class="title">
-          <h2>A New Game Making the Rounds (Unadded)</h2>
+      <a href="[URL LINK HERE]" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>A New Game Making the Rounds (Unadded)</h2>
+          </div>
         </div>
-        <div class="link">
-          <a href="#" class="read">Read story</a>
-        </div>
-      </div>
+      </a>
     </div>
     <div class="item" id="niki" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112549157777981511/Untitled_design_1.gif');">
-      <div class="item-container">
-        <div class="title">
-          <h2>Bon Appetit!</h2>
+      <a href="/2023/05/22/bon-appetit/" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Bon Appetit!</h2>
+          </div>
         </div>
-        <div class="link">
-          <a href="/2023/05/22/bon-appetit/" class="read">Read story</a>
-        </div>
-      </div>
+      </a>
     </div>
   </div>
   <h2> ES 4* Stories: Series 2</h2>
@@ -417,44 +411,40 @@ date: 2023-05-22 21:50:01
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
     <div class="item" id="rinne" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112562619598000138/IMG_5041.png?width=1664&height=796');">
-      <div class="item-container">
-        <div class="title">
-          <h2>Please, God ☆</h2>
+      <a href="/2023/05/16/please-god/" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Please, God ☆</h2>
+          </div>
         </div>
-        <div class="link">
-          <a href="/2023/05/16/please-god" class="read">Read story</a>
-        </div>
-      </div>
+      </a>
     </div>
     <div class="item" id="himeru" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112563053167382568/IMG_5043.png');">
-      <div class="item-container">
-        <div class="title">
-          <h2>The Runrun Calamity</h2>
+      <a href="/2023/05/15/runrun-calamity/" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>The Runrun Calamity</h2>
+          </div>
         </div>
-        <div class="link">
-          <a href="/2023/05/15/runrun-calamity" class="read">Read story</a>
-        </div>
-      </div>
+      </a>
     </div>
     <div class="item" id="niki" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112562620285861978/IMG_5042.png?width=1664&height=796');">
-      <div class="item-container">
-        <div class="title">
-          <h2>Sweets Road</h2>
+      <a href="/2023/05/15/sweetsroad/" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Sweets Road</h2>
+          </div>
         </div>
-        <div class="link">
-          <a href="/2023/05/15/sweetsroad/" class="read">Read story</a>
-        </div>
-      </div>
+      </a>
     </div>
     <div class="item" id="kohaku" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112562620801765407/IMG_5044.png?width=1664&height=804');">
-      <div class="item-container">
-        <div class="title">
-          <h2>A Curious Step Forward</h2>
+      <a href="/2023/05/21/a-curious-step-forward/" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>A Curious Step Forward</h2>
+          </div>
         </div>
-        <div class="link">
-          <a href="/2023/05/21/a-curious-step-forward" class="read">Read story</a>
-        </div>
-      </div>
+      </a>
     </div>
   <!-- more translation categories can go here -->
 </main>
@@ -503,6 +493,17 @@ story template looks like this:
   <h2>Song Translations</h2>
   <div id="songs">
     <div class="song-item">
+        <figure class="song-figure">
+          <a href="/#" class="song-caption">
+            <figcaption>
+              <h4>LEMON SQUASH CHEERS!</h4>
+              <p>(Full Ver.)</p>
+            </figcaption>
+          </a>
+          <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111473390025453678/image.png" class="song-image rotate" />
+        </figure>
+      </div>
+    <div class="song-item">
       <figure class="song-figure">
         <a href="/2023/05/22/turbulent-storm/" class="song-caption">
           <figcaption>
@@ -513,16 +514,6 @@ story template looks like this:
         <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111473327161217085/image.png" class="song-image rotate" />
       </figure>
     </div>
-    <div class="song-item">
-      <figure class="song-figure">
-        <a href="/#" class="song-caption">
-          <figcaption>
-            <h4>LEMON SQUASH CHEERS!</h4>
-            <p>(Full Ver.)</p>
-          </figcaption>
-        </a>
-        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111473390025453678/image.png" class="song-image rotate" />
-      </figure>
-    </div>
+    <!--- more songs go here --->
   </div>
 </div>

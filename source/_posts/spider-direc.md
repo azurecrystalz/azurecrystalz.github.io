@@ -251,10 +251,10 @@ tags:
                   Characters
             </div>
             <div class="value">
+              <a href="/tags/Oukawa-Kohaku/" character="Kohaku" title="Kohaku"></a>
+              <a href="/tags/Shiina-Niki/" character="Niki" title="Niki"></a>
               <a href="/tags/Amagi-Rinne/" character="Rinne" title="Rinne"></a>
               <a href="/tags/HiMERU/" character="HiMERU" title="HiMERU"></a>
-              <a href="/tags/Shiina-Niki/" character="Niki" title="Niki"></a>
-              <a href="/tags/Oukawa-Kohaku/" character="Kohaku" title="Kohaku"></a>
               <a href="/tags/Amagi-Hiiro/" character="Hiiro" title="Hiiro"></a>
               <a href="/tags/Aoi-Hinata/" character="Hinata" title="Hinata"></a>
               <a href="/tags/Sazanami-Jun/" character="Jun" title="Jun"></a>
@@ -276,6 +276,7 @@ tags:
                 Proofreaders
             </div>
             <div class="value">
+              ci, pit, and eve
                 <!-- PROOFREADER LIST (IF ANY) -->
             </div>
           </div>
