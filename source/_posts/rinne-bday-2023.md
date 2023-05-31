@@ -297,6 +297,7 @@ tags:
   </div>
 
   ### Set 3
+  > Still working on translating everything~ Sorry for the delay :')
 
   
 
