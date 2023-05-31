@@ -1,16 +1,13 @@
 ---
-title: Spider
-date: 2023-05-27 11:26:00
+title: Rinne Climax (Change Title)
+date: 2023-05-30 17:32:00
 categories:
-  - [Enstars, Crazy:B]
+- [Enstars , Crazy:B]
 tags:
-  - Oukawa Kohaku
-  - Shiina Niki
-  - HiMERU
-  - Amagi Rinne
-  - Sazanami Jun
-  - Amagi Hiiro
-  - Aoi Hinata
+- Amagi Rinne
+- HiMERU
+- Oukawa Kohaku
+- Shiina Niki
 ---
 
 <style>
@@ -98,16 +95,16 @@ tags:
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112042501407252672/IMG_4989.png?width=1698&height=784')"></div>
+      <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1113244147894202378/37D0250A-140F-487A-97F0-907497E9E01E.jpg')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
-              <div class="title-area__title">Spider</div>
-              <div class="title-area__subtitle">スパイダー</div>
+              <div class="title-area__title">???</div>
+              <div class="title-area__subtitle">???</div>
               <div class="title-area__start"><a href="/2023/05/27/spider-direc#1">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
-              Crazy:B joined a Halloween event held at ES. Kohaku, who initially brushed it off as an event for children, goes to a haunted house that is popular for being scary with the rest of Crazy:B in order to prepare…
+              Crazy:B are participants in a once popular gameshow overseas, "Number Eight", where they go on a roadtrip and their destination is left to the dice…
                 <!-- SYNOPSIS GOES HERE -->
               </div>
               <div class="info">
@@ -116,7 +113,7 @@ tags:
                           Season
                       </div>
                       <div class="value">
-                      Autumn
+                      ???
                         <!-- STORY SEASON -->
                       </div>
                   </div>
@@ -125,7 +122,7 @@ tags:
                           Chapters
                       </div>
                       <div class="value">
-                      12
+                      ???
                           <!-- NUMBER OF CHAPTERS -->
                       </div>
                   </div>
@@ -134,7 +131,7 @@ tags:
                           Writer
                       </div>
                       <div class="value">
-                      Nishioka Maiko
+                      Akira
                         <!-- STORY WRITER NAME -->
                       </div>
                   </div>
@@ -143,13 +140,10 @@ tags:
                           Characters
                       </div>
                       <div class="value">
-                      <a href="/tags/Oukawa-Kohaku/" character="Kohaku" title="Kohaku"></a>
-                      <a href="/tags/Shiina-Niki/" character="Niki" title="Niki"></a>
                       <a href="/tags/Amagi-Rinne/" character="Rinne" title="Rinne"></a>
                       <a href="/tags/HiMERU/" character="HiMERU" title="HiMERU"></a>
-                      <a href="/tags/Amagi-Hiiro/" character="Hiiro" title="Hiiro"></a>
-                      <a href="/tags/Aoi-Hinata/" character="Hinata" title="Hinata"></a>
-                      <a href="/tags/Sazanami-Jun/" character="Jun" title="Jun"></a>
+                      <a href="/tags/Shiina-Niki/" character="Niki" title="Niki"></a>
+                      <a href="/tags/Oukawa-Kohaku/" character="Kohaku" title="Kohaku"></a>
                         <!-- 
                           <a href="/tags/[CHARACTER_LAST_NAME]-[CHARACTER_FIRST_NAME]/" character="[CHARACTER_FIRST_AME]" title="[CHARACTER_FIRST_NAME]"></a>
                          -->
@@ -169,6 +163,7 @@ tags:
                           Proofreaders
                       </div>
                       <div class="value">
+                      shay, eve, silver
                       <!-- 
                           PROOFREADER LIST (IF ANY) -->
                       </div>
@@ -199,23 +194,23 @@ tags:
 <div class="story-wrapper mobile-reverse" style="--storyColor: #ec8dab;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
   <div class="grid-wrapper">
       <div class="story-background"
-      style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112042501407252672/IMG_4989.png?width=1698&height=784')">
+      style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1113227518003130438/IMG_5072.webp')">
     </div>
     <div class="story-box" style="background: #62454D">
       <div class="story-cover">
-        <div><img src="https://media.discordapp.net/attachments/1110345002015535124/1112041773313822750/IMG_4988.png?width=828&height=1036">
+        <div><img src="https://cdn.discordapp.com/attachments/1110345002015535124/1113228351096750092/5741F096-77BC-4092-9192-A1719FD31974.jpg">
         </div>
       </div>
       <div class="title-area">
-        <div class="title-area__title">Spider</div>
-        <div class="title-area__subtitle">スパイダー</div>
+        <div class="title-area__title">???</div>
+        <div class="title-area__subtitle">???</div>
         <div class="title-area__start">
           <a href="#1">Start Reading</a>
         </div>
       </div>
       <div class="info-area">
         <div class="synopsis">
-          Crazy:B joined a Halloween event held at ES. Kohaku, who initially brushed it off as an event for children, goes to a haunted house that is popular for being scary with the rest of Crazy:B in order to prepare…
+          Crazy:B are participants in a once popular gameshow overseas, "Number Eight", where they go on a roadtrip and their destination is left to the dice…
           <!-- SYNOPSIS HERE -->
         </div>
         <div class="info">
@@ -224,7 +219,7 @@ tags:
               Season
             </div>
             <div class="value">
-              Autumn
+              ???
               <!-- SEASON -->
             </div>
           </div>
@@ -233,7 +228,7 @@ tags:
               Chapters
             </div>
             <div class="value">
-            12
+            ???
               <!-- CHAPTERS -->
             </div>
           </div>
@@ -242,7 +237,7 @@ tags:
               Writer
             </div>
             <div class="value">
-            Nishioka Maiko w/ Akira
+            Akira
               <!-- WRITERS-->
             </div>
           </div>
@@ -251,13 +246,10 @@ tags:
                   Characters
             </div>
             <div class="value">
-              <a href="/tags/Oukawa-Kohaku/" character="Kohaku" title="Kohaku"></a>
-              <a href="/tags/Shiina-Niki/" character="Niki" title="Niki"></a>
               <a href="/tags/Amagi-Rinne/" character="Rinne" title="Rinne"></a>
               <a href="/tags/HiMERU/" character="HiMERU" title="HiMERU"></a>
-              <a href="/tags/Amagi-Hiiro/" character="Hiiro" title="Hiiro"></a>
-              <a href="/tags/Aoi-Hinata/" character="Hinata" title="Hinata"></a>
-              <a href="/tags/Sazanami-Jun/" character="Jun" title="Jun"></a>
+              <a href="/tags/Oukawa-Kohaku/" character="Kohaku" title="Kohaku"></a>
+              <a href="/tags/Shiina-Niki/" character="Niki" title="Niki"></a>
                 <!-- 
                   <a href="/tags/[CHARACTER_LAST_NAME]-[CHARACTER_FIRST_NAME]/" character="[CHARACTER_FIRST_AME]" title="[CHARACTER_FIRST_NAME]"></a> -->
                   <!-- COPY AND PASTE THE ABOVE FOR EACH CHARACTER THAT APPEARS IN THE STORY -->
@@ -276,30 +268,30 @@ tags:
                 Proofreaders
             </div>
             <div class="value">
-              ci, pit, and eve
+              shay, eve, silver
                 <!-- PROOFREADER LIST (IF ANY) -->
             </div>
           </div>
         </div>
         <div class="extra-area">
           <div class="tab-header">
-            <div class="tab-header__name">Extra Information</div>
+            <div class="tab-header__name">Music Information</div>
           </div>
           <div class="tab-content">
             <div class="tab-item">
               <div class="label">
-                Event
+                Associated MV
               </div>
               <div class="value">
-                Desire for Mischief ◆ Spider Halloween
+                <a href="https://www.youtube.com/watch?v=T0BWw6_2Hcc"><i>"Crazy Anthem"</i></a>
               </div>
             </div>
             <div class="tab-item">
               <div class="label">
-                Event Duration
+                Associated Album
               </div>
               <div class="value">
-                10/31/2022 (15:00 JST) - 11/8/2022 (22:00 JST)
+                <a href="/#">TRIP - Crazy:B</a><i>(ES Unit Album Season 4)</i>
               </div>
             </div>
           </div>
@@ -309,39 +301,23 @@ tags:
         <div class="chapters">
           <ul>
             <li>
-              <a href="/#" id="none">Prologue</a>
+              <a href="/#" id="none">???</a>
             </li>
             <li>
-              <a href="/#" id="none">One Day Friday</a>
+              <a href="/#" id="none">???</a>
             </li>
             <li>
-              <a href="/#" id="none">A Nightmare Downtown</a>
+              <a href="/#" id="none">???</a>
             </li>
             <li>
-              <a href="/#" id="none">Kohaku's Sacrifice</a>
-            </li>
-            <li>
-              <a href="/#" id="none">Gratitude</a>
-            </li>
-            <li>
-              <a href="/#" id="none">IT/If You're Caught, It's Over</a>
-            </li>
-            <li>
-              <a href="/#" id="none">Epilogue</a>
+              <a href="/#" id="none">???</a>
             </li>
           </ul>
         </div>
         <!--- og drop down minitalk here --->
         <div class="mini-talks">
           <div class="mini-talk">
-            <div class="mt-header">Oukawa Kohaku</div>
-            <div class="mt-content">
-              <div class="item">
-                <a href="#">Set 1</a>
-                <a href="#">Set 2</a>
-              </div>
-            </div>
-            <div class="mt-header">Shiina Niki</div>
+            <div class="mt-header">Amagi Rinne</div>
             <div class="mt-content">
               <div class="item">
                 <a href="#">Set 1</a>
@@ -355,7 +331,14 @@ tags:
                 <a href="#">Set 2</a>
               </div>
             </div>
-            <div class="mt-header">Amagi Rinne</div>
+            <div class="mt-header">Oukawa Kohaku</div>
+            <div class="mt-content">
+              <div class="item">
+                <a href="#">Set 1</a>
+                <a href="#">Set 2</a>
+              </div>
+            </div>
+            <div class="mt-header">Shiina Niki</div>
             <div class="mt-content">
               <div class="item">
                 <a href="#">Set 1</a>

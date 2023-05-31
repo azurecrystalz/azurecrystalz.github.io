@@ -97,18 +97,19 @@ tags:
 }    
   </style>
 
-  *Japanese and English to be added.*
-  >#### Color Key: <span style="color: #BA2636;">Rinne</span>, <span style="color: #89C3EB;">HiMERU</span>, <span style="color: #507EA5;">Niki</span>, <span style="color: #F4B3C2;">Kohaku</span>, All
+  *Japanese to be added.*
+  >#### Color Key: <span style="color: #BA2636;">Rinne</span> , <span style="color: #89C3EB;">HiMERU</span>, <span style="color: #507EA5;">Niki</span>, <span style="color: #F4B3C2;">Kohaku</span>, <span style="color:#FFD400;">All</span>, Other
 
-  ### Romaji Lyrics (Game Ver)
+  ## Romaji Lyrics (Game Ver)
+  ***
   <span style="color: #BA2636;">TRUNK ni dekkai yume nosete</span>
   <span style="color: #BA2636;">HANDLE nigireba matta nashi da</span>
   <span style="color: #89C3EB;">HiMERU</span> + <span style="color: #507EA5;">Niki</span> + <span style="color: #F4B3C2;">Kohaku</span>: Dareka no detarame de joutou to
-  Mune wo hatte susumou ze
+  <span style="color:#FFD400;">Mune wo hatte susumou ze</span>
 
-  ARE YOU READY, CRAZY ANTHEM
-  NOW TRAVELING, CRAZY ANTHEM
-  Dekkai yume wo utae
+  <span style="color:#FFD400;">*ARE YOU READY, CRAZY ANTHEM*
+  *NOW TRAVELING, CRAZY ANTHEM*
+  Dekkai yume wo utae</span>
 
   <span style="color: #F4B3C2;">Jutai no sakiyomi no tekikaku na NAVIGATE</span>
   <span style="color: #BA2636;">Toriaezu makase tokya dounika naru kedo</span>
@@ -116,22 +117,20 @@ tags:
   <span style="color: #89C3EB;">Attou teki DRAMA ga tarinai</span>
 
   <span style="color: #BA2636;">Rinne</span> + <span style="color: #F4B3C2;">Kohaku</span>: Seishun nante kigen tsuki to
-  <span style="color: #89C3EB;">HiMERU</span> + <span style="color: #507EA5;">Niki</span>: tsunomani suri komaretetan darou
+  <span style="color: #89C3EB;">HiMERU</span> + <span style="color: #507EA5;">Niki</span>: Itsunomani suri komaretetan darou
   <span style="color: #BA2636;">Igai to shibutoku</span>
-  Owaru kehai tokamarukkiri nai
+   <span style="color:#FFD400;">Owaru kehai tokamarukkiri nai</span>
 
-  Jinsei sanka (YEAH) oogoe de buchi agete tanoshinde ikite kou ze
-  Mawari michi sae (YEAH) 
+   <span style="color:#FFD400;">Jinsei sanka</span> <span style="color:grey;"> (YEAH)</span>  <span style="color:#FFD400;">oogoe de buchi agete tanoshinde ikite kou ze
+   Mawari michi sae</span>  <span style="color:grey;">(YEAH)</span>
   <span style="color: #89C3EB;">BEST na ROUTE to</span>
   <span style="color: #BA2636;">Ato ni natte omoeta mon gachi</span>
 
   <span style="color: #F4B3C2;">Kohaku</span> + <span style="color: #507EA5;">Niki</span>: Kyuu kaabu mo
   <span style="color: #BA2636;">Furimukeba massugu datta</span>
-
   <span style="color: #F4B3C2;">Kohaku</span> + <span style="color: #507EA5;">Niki</span>: Wakare michi mo 
-  <span style="color: #89C3EB;">erabeba ippon michi</span> <span style="color: grey">(DON'T STOP)</span>
-
-  <span style="color: #F4B3C2;">Chanto shuyaku hatte kou<span style="color: #F4B3C2;"> <span style="color: grey">(DON'T STOP)</span>
+  <span style="color: #89C3EB;">erabeba ippon michi </span> <span style="color: grey">(DON'T STOP)</span>
+  <span style="color: #F4B3C2;">Chanto shuyaku hatte kou</span><span style="color: grey"> (DON'T STOP)</span>
   <span style="color: #507EA5;">Anggai sama ni natte</span>
   <span style="color: #BA2636;">Rinne</span> + <span style="color: #89C3EB;">HiMERU</span>: Sono ki ni naru kara warau darou
 
@@ -140,15 +139,73 @@ tags:
   <span style="color: #89C3EB;">Dareka no detarame de joutou to</span>
   <span style="color: #BA2636;">Mune o hatte</span> 
 
-  Koko made kitanda !!
+  <span style="color:#FFD400;">Koko made kitanda !!</span>
 
-  Jinsei sanka <span style="color: grey">(YEAH)</span> oogoe de buchi agete tanoshinde ikite kou ze
-  Mawari michi sae <span style="color: grey">(YEAH)</span> besuto na ruuto to
-  Ato ni natte omoeta mon gachi
+  <span style="color:#FFD400;">Jinsei sanka</span> <span style="color: grey">(YEAH)</span>  <span style="color:#FFD400;">oogoe de buchi agete tanoshinde ikite kou ze
+  Mawari michi sae</span> <span style="color: grey">(YEAH)</span>  <span style="color:#FFD400;">besuto na ruuto to</span>
+   <span style="color:#FFD400;">Ato ni natte omoeta mon gachi</span>
 
   <span style="color: #BA2636;">Tabi wa tsuzuiteku</span>
   <span style="color: #BA2636;">Nari yamanai CRAZY ANTHEM</span>
-  FOOOO!!
+  (FOOO!!)
+
+  ## English Lyrics (Game Ver)
+  ***
+  <small><i>Subject to change.</i></small>
+
+  <span style="color: #BA2636;">Put those big dreams in the TRUNK</span>
+  <span style="color: #BA2636;">Once your behind the WHEEL<sup>[1]</sup>, there’s no waiting around</span>
+  <span style="color: #89C3EB;">HiMERU</span> + <span style="color: #507EA5;">Niki</span> + <span style="color: #F4B3C2;">Kohaku</span>: It’s fine if people talk nonsense
+  <span style="color:#FFD400;">Puff up your chest and drive forward</span>
+
+  <span style="color:#FFD400;">*ARE YOU READY, CRAZY ANTHEM*
+  *NOW TRAVELING, CRAZY ANTHEM*
+  Sing the song of your dreams</span>
+
+  <span style="color: #F4B3C2;">An accurate NAVIGATOR that can predict it all</span>
+  <span style="color: #BA2636;">For now, let’s leave it to them, and we’ll figure it out</span>
+  <span style="color: #507EA5;">What’s with not remembering anything planned next week?</span>
+  <span style="color: #89C3EB;">It’s just lacking some buzzing DRAMA</span>
+
+  <span style="color: #BA2636;">Rinne</span> + <span style="color: #F4B3C2;">Kohaku</span>: Being young doesn’t last forever
+  <span style="color: #89C3EB;">HiMERU</span> + <span style="color: #507EA5;">Niki</span>: I wonder when I had to learn that
+  <span style="color: #BA2636;">There’s only my stubbornness</span>
+  <span style="color:#FFD400;">And there isn’t any end to it in sight</span>
+
+  <span style="color:#FFD400;">Go out and live life!</span> <span style="color: grey">(YEAH!)</span> <span style="color:#FFD400;">Live it happily, and while shouting loud
+  Even if there’s a detour </span><span style="color: grey">(YEAH!)</span>
+  <span style="color: #89C3EB;">That’s still the BEST ROUTE</span>
+  <span style="color: #BA2636;">Once you think like that, then you’ll win</span>
+
+  <span style="color: #507EA5;">Niki</span> + <span style="color: #F4B3C2;">Kohaku</span>: Even a sharp CURVE
+  <span style="color: #BA2636;">Can become a straight path</span>
+  <span style="color: #507EA5;">Niki</span> + <span style="color: #F4B3C2;">Kohaku</span>: And even forks in the road
+  <span style="color: #89C3EB;">Have the right path, the one you choose</span> <span style="color: grey">(DON’T STOP)</span>
+  <span style="color: #F4B3C2;">So go on and take the lead</span> <span style="color: grey">(DON’T STOP)</span>
+  <span style="color: #507EA5;">Do it with conviction</span>
+  <span style="color: #BA2636;">Rinne</span> + <span style="color: #89C3EB;">HiMERU</span>: And if you feel like laughing out loud, then go right ahead
+
+  <span style="color: #507EA5;">Put those big dreams in the TRUNK</span>
+  <span style="color: #F4B3C2;">Once your behind the WHEEL, there’s no waiting around</span>
+  <span style="color: #89C3EB;">It’s fine if people talk nonsense</span>
+  <span style="color: #BA2636;">Puff up your chest!</span>
+
+  <span style="color:#FFD400;">We’ve already come so far !!</span>
+
+  <span style="color:#FFD400;">Go out and live life! </span><span style="color: grey">(YEAH!)</span><span style="color:#FFD400;"> Live it happily, and while shouting loud
+  Even if there’s a detour </span><span style="color: grey">(YEAH!)</span>
+  <span style="color:#FFD400;">That’s still the BEST ROUTE
+  Once you think like that, then you’ll win</span>
+
+  <span style="color: #BA2636;">Keep traveling along</span>
+  <span style="color: #BA2636;">With this never ending CRAZY ANTHEM</span>
+  (FOOO!)
+
+  ### Translation Notes (English Version)
+  
+  **[1]:** “HANDLE” is the word that’s sung in ktkn but it doesn’t make sense in eng context so I kept it as “WHEEL”
+
+
   <!-- CONTENT GOES HERE -->
 
   <!-- 
