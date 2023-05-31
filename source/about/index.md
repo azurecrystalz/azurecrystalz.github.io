@@ -3,7 +3,7 @@ title: About Me !!
 date: 2023-05-15 12:03:18
 ---
 
-Hiii! I’m Aurora this is a bit of a passion project of mine! This is the site I’m using to store my translations! Japanese is a language spoken in my household so I’m using translations as a way to hone my reading skills! ***This website is currently in the process of having things transferred from tumblr + proofread. My old masterlist is still up if you want to read the unproofed versions of my tls.***
+***This website is currently in the process of having things transferred from tumblr + proofread. My old masterlist is still up if you want to read the unproofed versions of my tls.***
 
 Just a heads up: I try to get as close to colloquial English as possible when translating to practice my English too, so some sentences may deviate a bit from the original text.
 
