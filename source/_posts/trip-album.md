@@ -9,11 +9,11 @@ tags:
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1110364701495406704/Screenshot_2023-05-22_at_7.53.12_PM.png')"></div>
+      <div class="preview-background" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112970174522462218/IMG_5061.webp?width=1664&height=910')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
-                A post compiling all the translations for song lyrics I've done! Will update as I translate more!
+                A post compiling translations and informations to Crazy:B's "TRIP" Album! Will update as I translate more!
               </div>
           </div>
           <div class="info-item tl">
@@ -95,6 +95,16 @@ tags:
     }
 }    
   </style>
+
+***
+
+![crazy-anth](https://cdn.discordapp.com/attachments/1110345002015535124/1113276495062913035/IMG_5072.webp)
+[Crazy Anthem - Crazy:B Event Song](/2023/05/30/crazy-anthem/)
+> ***Song Info:*** Azakami Youhei + Kasama Jun + Kaito Tasuku + Yamaguchi Tomohiro (Vocals), Other Info Currently N/A
+
+![himeru](https://cdn.discordapp.com/attachments/1110345002015535124/1110367830467154010/IMG_4879.png)
+[視線 Hold me Tight - HiMERU Solo](/2023/05/22/shisen-hold-me-tight/)
+> ***Song Info:*** Kasama Jun (Vocals), Other Info Currently N/A
 
   <!-- CONTENT GOES HERE -->
 

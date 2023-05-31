@@ -387,7 +387,7 @@ date: 2023-05-22 21:50:01
   <!-- other things can go in this div -->
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
-    <div class="item" id="rinne" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112546153922314240/Untitled_design.gif');">
+    <div class="item" id="rinne" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1113279959797092442/IMG_5082.png?width=1664&height=768');">
       <a href="[URL LINK HERE]" class="item-container-link">
         <div class="item-container">
           <div class="title">
@@ -396,7 +396,7 @@ date: 2023-05-22 21:50:01
         </div>
       </a>
     </div>
-    <div class="item" id="niki" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112549157777981511/Untitled_design_1.gif');">
+    <div class="item" id="niki" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1113279960166170714/IMG_5083.png?width=1664&height=768');">
       <a href="/2023/05/22/bon-appetit/" class="item-container-link">
         <div class="item-container">
           <div class="title">
@@ -446,24 +446,45 @@ date: 2023-05-22 21:50:01
         </div>
       </a>
     </div>
+  </div>
+  <h2>Event Stories</h2>
+  <!--- aaaa --->
+  <div class="grid-container">
+    <!-- copy and paste this if you need more grids for other translation categories-->
+    <div class="item" id="rinne" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1113227518003130438/IMG_5072.webp?width=1664&height=870');">
+      <a href="/2023/05/30/rinne-climax/" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Rinne Climax (Unadded)</h2>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="item" id="kohaku" style="background-image: url('https://64.media.tumblr.com/9a1b149e13c261bce9f52c62a77de139/0f6d911902a54eb8-78/s1280x1920/e58f7f31a81508f3e2cc7316fc0d1a0537181f2d.png');">
+      <a href="/2023/05/27/spider-direc/" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Spider (Unadded)</h2>
+          </div>
+        </div>
+      </a>
+    </div>
   <!-- more translation categories can go here -->
 </main>
-
-
-
-
-
-
-
-
-
-
-
 
 <div>
   <h2>Other Idols</h2>
   <sup><i> card code by <a href="https://twitter.com/findermao">findermao</a></i></sup>
   <div class="stories">
+  <div class="story">
+    <div class="image">
+      <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1113281201462067290/IMG_5084.png" alt="Idol Birthdays">
+    </div>
+    <a href="/2023/05/25/idol-bday-list/" class="storyName" target="_blank">
+      <span>Idol Birthdays</span> 
+      <span class="read"></span>
+    </a>
+  </div>
   <div class="story">
     <div class="image">
       <img src="https://media.discordapp.net/attachments/1110345002015535124/1111437660175736842/IMG_4924.png?width=828&height=1036" alt="A Story That's Mine Alone">
@@ -494,13 +515,13 @@ story template looks like this:
   <div id="songs">
     <div class="song-item">
         <figure class="song-figure">
-          <a href="/#" class="song-caption">
+          <a href="/2023/05/30/trip-album/" class="song-caption">
             <figcaption>
-              <h4>LEMON SQUASH CHEERS!</h4>
-              <p>(Full Ver.)</p>
+              <h4>TRIP</h4>
+              <p>Album</p>
             </figcaption>
           </a>
-          <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111473390025453678/image.png" class="song-image rotate" />
+          <img src="https://cdn.discordapp.com/attachments/1064543219989356684/1113215210157772982/image.png" class="song-image rotate" />
         </figure>
       </div>
     <div class="song-item">

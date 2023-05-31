@@ -87,10 +87,10 @@ tags:
 
 ![storm](https://cdn.discordapp.com/attachments/1110345002015535124/1110367830756565064/IMG_4880.png)
 [Turbulent Storm - 2wink Season 3](/2023/05/22/turbulent-storm/)
-> Song Info: Saito Souma (Vocals), Yohei Matsui (Lyricist), Yuichi Harada (Composer), Yuichi Harada (Arrangement)
+> ***Song Info:*** Saito Souma (Vocals), Yohei Matsui (Lyricist), Yuichi Harada (Composer), Yuichi Harada (Arrangement)
 
-![himeru](https://cdn.discordapp.com/attachments/1110345002015535124/1110367830467154010/IMG_4879.png)
-[視線 Hold me Tight - HiMERU Solo](/2023/05/22/shisen-hold-me-tight/)
-> Song Info: Kasama Jun (Vocals), Other Info Unavailable
+![trip](https://cdn.discordapp.com/attachments/1110345002015535124/1113279222463594596/IMG_5081.png)
+[Trip Album - Crazy:B](/2023/05/30/trip-album/)
+> ***Album Info:*** To be updated
 
   </div>
