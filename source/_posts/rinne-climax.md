@@ -100,7 +100,7 @@ tags:
           <div class="title-area">
               <div class="title-area__title">???</div>
               <div class="title-area__subtitle">???</div>
-              <div class="title-area__start"><a href="/2023/05/27/spider-direc#1">Start Reading</a></div>
+              <div class="title-area__start"><a href="/2023/05/30/rinne-climax/">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
