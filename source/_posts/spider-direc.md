@@ -187,6 +187,20 @@ tags:
     display: none;
   }
 
+  .extra {
+    grid-column-start: 1;
+    grid-column-end: span end;
+  }
+
+  .extra hr {
+    border: none;
+    border-top: 1px solid var(--article-text);
+  }
+
+  .value .label {
+    font-weight: bold;
+  }
+
   @media (max-width: 567px) {
 
     /* for NexT Mashiro: makes padding smaller on mobile */
@@ -281,26 +295,21 @@ tags:
             </div>
           </div>
         </div>
-        <div class="extra-area">
-          <div class="tab-header">
-            <div class="tab-header__name">Extra Information</div>
-          </div>
-          <div class="tab-content">
-            <div class="tab-item">
-              <div class="label">
-                Event
-              </div>
-              <div class="value">
-                Desire for Mischief ◆ Spider Halloween
-              </div>
+        <div class="info-item extra">
+          <div class="label" style="margin-bottom: 5px;">Extra Information</div>
+          <div class="value">
+            <div class="label">
+              Event
             </div>
-            <div class="tab-item">
-              <div class="label">
-                Event Duration
-              </div>
-              <div class="value">
-                10/31/2022 (15:00 JST) - 11/8/2022 (22:00 JST)
-              </div>
+            <div class="value">
+              Desire for Mischief ◆ Spider Halloween
+            </div>
+            <hr />
+            <div class="label">
+              Event Duration
+            </div>
+            <div class="value">
+              10/31/2022 (15:00 JST) - 11/8/2022 (22:00 JST)
             </div>
           </div>
         </div>

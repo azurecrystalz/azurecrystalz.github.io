@@ -182,6 +182,11 @@ tags:
     display: none;
   }
 
+  .music {
+    grid-column-start: 1;
+    grid-column-end: span end;
+  }
+
   @media (max-width: 567px) {
 
     /* for NexT Mashiro: makes padding smaller on mobile */
@@ -272,21 +277,15 @@ tags:
                 <!-- PROOFREADER LIST (IF ANY) -->
             </div>
           </div>
-        </div>
-        <div class="extra-area">
-          <div class="tab-header">
-            <div class="tab-header__name">Music Information</div>
-          </div>
-          <div class="tab-content">
-            <div class="tab-item">
+          <div class="info-item music">
+            <div class="label" style="margin-bottom: 5px;">Music Information</div>
+            <div class="value">
               <div class="label">
                 Associated MV
               </div>
               <div class="value">
                 <a href="https://www.youtube.com/watch?v=T0BWw6_2Hcc"><i>"Crazy Anthem"</i></a>
               </div>
-            </div>
-            <div class="tab-item">
               <div class="label">
                 Associated Album
               </div>
