@@ -104,7 +104,7 @@ tags:
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
-              Crazy:B are participants in a once popular gameshow overseas, "Number Eight", where they go on a roadtrip and their destination is left to the dice…
+              <i>(Directory In Progress)</i> Crazy:B are participants in a once popular gameshow overseas, "Number Eight", where they go on a roadtrip and their destination is left to the dice…
                 <!-- SYNOPSIS GOES HERE -->
               </div>
               <div class="info">
