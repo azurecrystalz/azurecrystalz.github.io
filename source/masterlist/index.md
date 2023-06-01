@@ -452,10 +452,10 @@ date: 2023-05-22 21:50:01
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
     <div class="item" id="rinne" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1113227518003130438/IMG_5072.webp?width=1664&height=870');">
-      <a href="/2023/05/30/rinne-climax/" class="item-container-link">
+      <a href="/2023/05/30/number-eight/" class="item-container-link">
         <div class="item-container">
           <div class="title">
-            <h2>Rinne Climax (Unadded)</h2>
+            <h2>Number Eight (In Progress)</h2>
           </div>
         </div>
       </a>
@@ -464,7 +464,7 @@ date: 2023-05-22 21:50:01
       <a href="/2023/05/27/spider-direc/" class="item-container-link">
         <div class="item-container">
           <div class="title">
-            <h2>Spider (Unadded)</h2>
+            <h2>Spider</h2>
           </div>
         </div>
       </a>

@@ -263,6 +263,8 @@ categories:
   ### Translation Notes
 
   **[1]:** I've seen a lot of people say they're playing Splatoon, and tbh I find myself agreeing icb Splatoon is canon in enstars /j
+
+  ### <center>[directory](/2023/05/27/spider-direc/) | [next](/2023/06/01/one-day-friday/)</center>
   <!-- CONTENT GOES HERE -->
 
   <!-- 

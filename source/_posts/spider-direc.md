@@ -296,7 +296,7 @@ tags:
           </div>
         </div>
         <div class="info-item extra">
-          <div class="label" style="margin-bottom: 5px;">Extra Information</div>
+          <div class="label" style="margin-bottom: 5px;">Other Information</div>
           <div class="value">
             <div class="label">
               Event
@@ -306,10 +306,10 @@ tags:
             </div>
             <hr />
             <div class="label">
-              Event Duration
+              Associated MV
             </div>
             <div class="value">
-              10/31/2022 (15:00 JST) - 11/8/2022 (22:00 JST)
+              <a href link="https://www.youtube.com/watch?v=9MBtz70jQdc&ab_channel=%E3%81%82%E3%82%93%E3%82%B9%E3%82%BF%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB">Helter-Spider - Crazy:B</a>
             </div>
           </div>
         </div>
@@ -321,50 +321,50 @@ tags:
               <a href="/2023/05/27/spider-prologue/" id="none">Prologue</a>
             </li>
             <li>
-              <a href="/#" id="none">One Day Friday</a>
+              <a href="/2023/06/01/one-day-friday/" id="none">One Day Friday</a>
             </li>
             <li>
-              <a href="/#" id="none">A Nightmare Downtown</a>
+              <a href="/2023/06/01/a-nightmare-downtown/" id="none">A Nightmare Downtown</a>
             </li>
             <li>
-              <a href="/#" id="none">Kohaku's Sacrifice</a>
+              <a href="/2023/06/01/kohakus-sacrifice/" id="none">Kohaku's Sacrifice</a>
             </li>
             <li>
-              <a href="/#" id="none">Gratitude</a>
+              <a href="/2023/06/01/gratitude/" id="none">Gratitude</a>
             </li>
             <li>
-              <a href="/#" id="none">IT/If You're Caught, It's Over</a>
+              <a href="/2023/06/01/if-youre-caught/" id="none">IT/If You're Caught, It's Over</a>
             </li>
             <li>
-              <a href="/#" id="none">Epilogue</a>
+              <a href="/2023/06/01/spider-epilogue/" id="none">Epilogue</a>
             </li>
           </ul>
         </div>
         <!--- og drop down minitalk here --->
         <div class="mini-talks">
           <div class="mini-talk">
-            <div class="mt-header">Oukawa Kohaku</div>
+            <div class="mt-header">Oukawa Kohaku (Unadded)</div>
             <div class="mt-content">
               <div class="item">
                 <a href="#">Set 1</a>
                 <a href="#">Set 2</a>
               </div>
             </div>
-            <div class="mt-header">Shiina Niki</div>
+            <div class="mt-header">Shiina Niki (Unadded)</div>
             <div class="mt-content">
               <div class="item">
                 <a href="#">Set 1</a>
                 <a href="#">Set 2</a>
               </div>
             </div>
-            <div class="mt-header">HiMERU</div>
+            <div class="mt-header">HiMERU (Unadded)</div>
             <div class="mt-content">
               <div class="item">
                 <a href="#">Set 1</a>
                 <a href="#">Set 2</a>
               </div>
             </div>
-            <div class="mt-header">Amagi Rinne</div>
+            <div class="mt-header">Amagi Rinne (Unadded)</div>
             <div class="mt-content">
               <div class="item">
                 <a href="#">Set 1</a>

@@ -1,5 +1,5 @@
 ---
-title: Rinne Climax (Change Title)
+title: Number Eight
 date: 2023-05-30 17:32:00
 categories:
 - [Enstars , Crazy:B]
@@ -98,13 +98,13 @@ tags:
       <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1113244147894202378/37D0250A-140F-487A-97F0-907497E9E01E.jpg')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
-              <div class="title-area__title">???</div>
-              <div class="title-area__subtitle">???</div>
-              <div class="title-area__start"><a href="/2023/05/30/rinne-climax/">Start Reading</a></div>
+              <div class="title-area__title">Number Eight</div>
+              <div class="title-area__subtitle">ナンバーエイト</div>
+              <div class="title-area__start"><a href="/2023/05/30/number-eight/">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
-              <i>(Directory In Progress)</i> Crazy:B are participants in a once popular gameshow overseas, "Number Eight", where they go on a roadtrip and their destination is left to the dice…
+              Crazy:B are participants in a once popular gameshow overseas, "Number Eight", where they go on a roadtrip and their destination is left to the dice…
                 <!-- SYNOPSIS GOES HERE -->
               </div>
               <div class="info">
@@ -113,7 +113,7 @@ tags:
                           Season
                       </div>
                       <div class="value">
-                      ???
+                      Winter
                         <!-- STORY SEASON -->
                       </div>
                   </div>
@@ -122,7 +122,7 @@ tags:
                           Chapters
                       </div>
                       <div class="value">
-                      ???
+                      17
                           <!-- NUMBER OF CHAPTERS -->
                       </div>
                   </div>
@@ -131,7 +131,7 @@ tags:
                           Writer
                       </div>
                       <div class="value">
-                      Akira
+                        Kinosei
                         <!-- STORY WRITER NAME -->
                       </div>
                   </div>
@@ -207,10 +207,10 @@ tags:
         </div>
       </div>
       <div class="title-area">
-        <div class="title-area__title">???</div>
-        <div class="title-area__subtitle">???</div>
+        <div class="title-area__title">Number Eight</div>
+        <div class="title-area__subtitle">ナンバーエイト</div>
         <div class="title-area__start">
-          <a href="#1">Start Reading</a>
+          <a href="/2023/05/30/number-eight/">Start Reading</a>
         </div>
       </div>
       <div class="info-area">
@@ -224,7 +224,7 @@ tags:
               Season
             </div>
             <div class="value">
-              ???
+              Winter
               <!-- SEASON -->
             </div>
           </div>
@@ -233,7 +233,7 @@ tags:
               Chapters
             </div>
             <div class="value">
-            ???
+              17
               <!-- CHAPTERS -->
             </div>
           </div>
@@ -242,7 +242,7 @@ tags:
               Writer
             </div>
             <div class="value">
-            Akira
+              Kinosei
               <!-- WRITERS-->
             </div>
           </div>
@@ -290,7 +290,7 @@ tags:
                 Associated Album
               </div>
               <div class="value">
-                <a href="/#">TRIP - Crazy:B</a><i>(ES Unit Album Season 4)</i>
+                <a href="/2023/05/30/trip-album/">TRIP - Crazy:B</a><i>(ES Unit Album Season 4)</i>
               </div>
             </div>
           </div>
@@ -300,16 +300,16 @@ tags:
         <div class="chapters">
           <ul>
             <li>
-              <a href="/#" id="none">???</a>
+              <a href="/#" id="none">Prologue</a>
             </li>
             <li>
-              <a href="/#" id="none">???</a>
+              <a href="/#" id="none">Take a Chance</a>
             </li>
             <li>
-              <a href="/#" id="none">???</a>
+              <a href="/#" id="none">Tripping</a>
             </li>
             <li>
-              <a href="/#" id="none">???</a>
+              <a href="/#" id="none">Epilogue</a>
             </li>
           </ul>
         </div>
