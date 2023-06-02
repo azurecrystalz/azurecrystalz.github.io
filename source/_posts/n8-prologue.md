@@ -10,6 +10,10 @@ tags:
 - Oukawa Kohaku
 ---
 
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@057507b3f3a968f2138a1bc8b3c2e832b75fe9ec/expressions.css ">
+</head>
+
 <div class="info-area">
   <div class="info">
     <div class="info-item season">
@@ -53,7 +57,7 @@ tags:
       Proofreaders
     </div>
   <div class="value">
-  silver, shay, eve
+    silver
 <!-- PROOFREADER LIST (IF ANY) -->
 </div>
 </div>
@@ -127,6 +131,192 @@ tags:
     }
 }    
   </style>
+
+  # Prologue
+  ***
+
+  <div class="msr-narration">
+  <p>One day mid-February, over a certain place in the sky.</p>
+  </div>
+
+  ![last words](https://media.discordapp.net/attachments/1107908793259524108/1114023014967803964/IMG_5114.png?width=1664&height=768)
+
+  {% bubble Rinne wint_khh %}
+    Hey, Niki. I’ve got a few last words to say.
+    
+    This entire situation…could end up being really dangerous.
+  {% endbubble %}
+
+  {% bubble Niki %}
+    Eh? What’s gotten into you suddenly?
+    
+    You say “last” words...but we’re still mid-flight, right? So don’t you mean to say “first”?
+  {% endbubble %}
+
+  {% bubble Rinne wint_left %}
+    Nono, I mean there’s something real weird going on here.
+    
+    Just think about it for a sec. We were blindfolded, then they made us take buses, planes, helicopters, and a buncha other stuff. Enough time has passed for us to bet on it being an overseas thing.
+    
+    Don't you think that without us even realizing, we've somehow pissed off COSPRO's higher-ups, and now they've decided to just dump us into the wild?
+    
+    Auugh, if I knew it’d come down to this I would’ve said goodbye to my little bro. Of *course* the second I wanna become a good older brother he’s not here!
+  {% endbubble %}
+
+  {% bubble Niki %}
+    How cruel…the industry is just too *cruel!* What, are they trying to say we’re not useful to them anymore?!
+    
+    If that’s how they wanna be, then they should have prepared one last meal! That way I can at *least* die on a full stomach!
+  {% endbubble %}
+
+  {% bubble Kohaku %}
+    You two are being *so* dramatic.
+    
+    Aren’t we just going out to film like last time? "The Minotaur's Labyrinth" was pretty successful thanks to all those stupid things we did, so they probably called us again to try and make another big hit. It’s about time “Crazy:B” did something wild again, anyways.
+  {% endbubble %}
+
+  {% bubble Rinne wint_evil %}
+    Welp~, there’s *one* bee that can’t read the room.
+    
+    Rinne-kun was just doing his very best to put on a convincing show~ You’re ruining my little joke on Niki, y’know?
+  {% endbubble %}
+
+  {% bubble Niki %}
+    Ehhh?! Rinne-kun all your moping earlier was an act?!
+    
+    I totally fell for it! Rinne-kun, if you keep messing with people like that, they’re *really* going to have it out for you!
+  {% endbubble %}
+
+  ![stfu](https://media.discordapp.net/attachments/1107908793259524108/1114023014678409304/IMG_5132.png?width=1664&height=768)
+
+  {% bubble HiMERU %}
+    –Amagi, Shiina, Oukawa. Could you all please quiet down?
+    
+    You should rest while it’s still possible to do so. If this is truly going to be similar to “The Minotaur's Labyrinth”, then it will surely be just as physically demanding.
+    
+    When traveling, it’s best to save as much energy as possible. That’s the key to a job well done.
+  {% endbubble %}
+
+  {% bubble Kohaku %}
+    HiMERU-han, you sound pretty calm.
+  {% endbubble %}
+
+  {% bubble HiMERU %}
+    Naturally. HiMERU always aims to solve things logically.
+    
+    If Amagi hadn’t kidnapped him, then HiMERU would be working one of his solo jobs by now.
+  {% endbubble %}
+
+  {% bubble Rinne wint_superior %}
+    That’s not how things roll~
+    
+    We’re in the same unit. If we go down, we’re gonna go down together~
+  {% endbubble %}
+
+  {% bubble Niki %}
+    Rinne-kun, you’re scum.
+    
+    But, I’m glad we’re not gonna die. They *did* ask us for our passports on the plane ride to the airport, so I figured we were  overseas anyways. I’ll get a chance to eat all the local cuisine when we get there, so I am a-okay with all of this~!
+  {% endbubble %}
+
+  {% bubble Kohaku %}
+    Niki-han, your mind really *is* only set on eating isn’t it?
+    
+    I, for one, would like to get my feet on the ground as soon as possible–
+    
+    Hm?
+  {% endbubble %}
+
+  {% bubble Niki %}
+    What’s wrong, Kohaku-chan? Did you see any yummy looking animals on the ground?
+  {% endbubble %}
+
+  {% bubble Kohaku %}
+    It’s not that. Look.
+    
+    On the ground over there, there’s like a big sign or something.
+  {% endbubble %}
+
+  ![come here](https://media.discordapp.net/attachments/1107908793259524108/1114023015190122588/IMG_5148.png?width=1664&height=768)
+
+  {% bubble Niki %}
+    “COME HERE”...? What’s that for?
+  {% endbubble %}
+
+  {% bubble HiMERU %}
+    Fumu. “Use this to get off” is what the pilot just explained in English.
+  {% endbubble %}
+
+  {% bubble Rinne wint_think %}
+    “This”, huh…it kinda looks like a parachute, doesn’t it?
+  {% endbubble %}
+
+  {% bubble Rinne wint_ehe %}
+    In other words, this is the starting point. Hell yeah! I’ve been in the city for a while, but this is the first time I got to try out skydiving!
+    
+    I’ll take *that*–and then *you* guys can follow me~
+  {% endbubble %}
+
+  {% bubble Niki %}
+    Ah, hold on Rinne-kun! Don’t just start putting that parachute on!
+    
+    I’m *so* not ready to jump from up here!
+  {% endbubble %}
+
+  {% bubble Rinne wint_happyleft %}
+    Worry about all that later!
+    
+    C’mon, c’mon! The instructors are telling us to get a move on!
+  {% endbubble %}
+
+  {% bubble Niki %}
+    Wait. Those people *aren’t* the film crew? They’re actually diving instructors?!
+  {% endbubble %}
+
+  ![i can rinne](https://media.discordapp.net/attachments/1107908793259524108/1114023014338678855/IMG_5158.png?width=1664&height=768)
+
+  {% bubble Rinne wint_cheer %}
+    IIIII CAAAAAN FLYYY*YYYYYY....☆!!!*
+  {% endbubble %}
+
+  {% bubble Niki %}
+    Rinne-kun! He jumped out without even listening to me!
+    
+    Talk about *nerve!* Should we just persuade the pilot to land closeby?
+  {% endbubble %}
+
+  {% bubble Kohaku %}
+    Koh koh koh~ I’ve never been skydiving before either.
+    
+    This should be fun. If there’s no point in fighting it, I mind as well~
+  {% endbubble %}
+
+  {% bubble Niki %}
+    Y-you too, Kohaku-chan?!
+  {% endbubble %}
+
+  ![HiMERU unbl](https://media.discordapp.net/attachments/1107908793259524108/1114023014040875018/IMG_5164.png?width=1664&height=768)
+
+  {% bubble HiMERU %}
+    Shiina, don’t look so surprised and put on your parachute.
+    
+    We don’t have the power to override anything, so it’d be wise not to delay anything further and just follow along with the program’s directions.
+  {% endbubble %}
+
+  {% bubble Niki %}
+    Eh??? HiMERU-kun, you’re gonna jump too?!
+    
+    I don’t wanna use up my calories in a weird way by skydiving…but there really *is* no point in saying no is there~?
+    
+    Alright. I can do this! I’ll do it so that I can *definitely* enjoy some yummy food later!
+  {% endbubble %}
+
+  ![i can niki](https://cdn.discordapp.com/attachments/1107908793259524108/1114023013730504784/IMG_5171.png)
+  {% bubble Niki %}
+    IIIII CAAAAAN FLYYY*YYYYYY....!!!*
+  {% endbubble %}
+
+   ### <center>[directory](/2023/05/30/number-eight/) | next </center>
 
   <!--- content here--->
   <!-- 

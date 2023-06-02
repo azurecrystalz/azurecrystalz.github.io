@@ -300,7 +300,7 @@ tags:
         <div class="chapters">
           <ul>
             <li>
-              <a href="/#" id="none">Prologue</a>
+              <a href="/2023/06/01/n8-prologue/" id="none">Prologue</a>
             </li>
             <li>
               <a href="/#" id="none">Take a Chance</a>
