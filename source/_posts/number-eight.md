@@ -199,11 +199,11 @@ tags:
 <div class="story-wrapper mobile-reverse" style="--storyColor: #ec8dab;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
   <div class="grid-wrapper">
       <div class="story-background"
-      style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1113227518003130438/IMG_5072.webp')">
+      style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1114533379489136711/IMG_5251.png?width=1664&height=768')">
     </div>
     <div class="story-box" style="background: #62454D">
       <div class="story-cover">
-        <div><img src="https://cdn.discordapp.com/attachments/1110345002015535124/1113228351096750092/5741F096-77BC-4092-9192-A1719FD31974.jpg">
+        <div><img src="https://media.discordapp.net/attachments/1110345002015535124/1114533379187155054/ABB10B7D-DE5F-4DC9-9188-AA41D45F8DBD.jpg?width=828&height=1036">
         </div>
       </div>
       <div class="title-area">
@@ -316,28 +316,28 @@ tags:
         <!--- og drop down minitalk here --->
         <div class="mini-talks">
           <div class="mini-talk">
-            <div class="mt-header">Amagi Rinne</div>
+            <div class="mt-header">Amagi Rinne (Unadded)</div>
             <div class="mt-content">
               <div class="item">
                 <a href="#">Set 1</a>
                 <a href="#">Set 2</a>
               </div>
             </div>
-            <div class="mt-header">HiMERU</div>
+            <div class="mt-header">HiMERU (Unadded)</div>
             <div class="mt-content">
               <div class="item">
                 <a href="#">Set 1</a>
                 <a href="#">Set 2</a>
               </div>
             </div>
-            <div class="mt-header">Oukawa Kohaku</div>
+            <div class="mt-header">Oukawa Kohaku (Unadded)</div>
             <div class="mt-content">
               <div class="item">
                 <a href="#">Set 1</a>
                 <a href="#">Set 2</a>
               </div>
             </div>
-            <div class="mt-header">Shiina Niki</div>
+            <div class="mt-header">Shiina Niki (Unadded)</div>
             <div class="mt-content">
               <div class="item">
                 <a href="#">Set 1</a>

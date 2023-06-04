@@ -297,6 +297,81 @@ tags:
   </div>
 
   ### Set 3
+
+  ![wheres niki](https://media.discordapp.net/attachments/1108590893398753353/1108591631382360165/IMG_4559.png?width=1664&height=768)
+
+  {% bubble Rinne %}
+    So both Kohaku-chan and Merumeru are here, but where's Niki?
+  {% endbubble %}
+
+  {% bubble HiMERU %}
+    —Well, wouldn't Shiina be elsewhere since he's busy at the moment? You shouldn't worry too much about it.
+  {% endbubble %}
+
+  {% bubble Kohaku %}
+    Nevermind that, looks like our drinks are here. I've wanted to try the strawberry one in season for a while now~
+  {% endbubble %}
+
+  <div class="minitalk" character="Anzu">
+  <div class="minitalk-option">
+    <div class="minitalk-option_header tab-header__open"><i>Oh, over there...</i></div>
+      <div class="minitalk-option_content" style="display: none;">
+        <div class="msr-unit" character="Rinne">
+          <div class="msr-icon">
+            <div class="msr-icon__wrapper">
+              <div class="msr-icon__base"></div>
+            </div>
+          </div>
+          <div class="msr-name"></div>
+          <div class="msr-line">
+            <p>Ah! Niki ran away the second he saw me! That bastard...! Get back here!</p> <!--- REVISE --->
+          </div>
+        </div>
+        <div class="msr-unit" character="Kohaku">
+          <div class="msr-icon">
+            <div class="msr-icon__wrapper">
+              <div class="msr-icon__base"></div>
+            </div>
+          </div>
+          <div class="msr-name"></div>
+          <div class="msr-line">
+            <p>Annnd he's gone...Well, it's not our problem. So let's just keep enjoying ourselves.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="minitalk-option">
+    <div class="minitalk-option_header tab-header__open"><i>... (Sips coffee)</i></div>
+      <div class="minitalk-option_content" style="display: none;">
+        <div class="msr-unit" character="Rinne" attribute="">
+          <div class="msr-icon">
+            <div class="msr-icon__wrapper">
+              <div class="msr-icon__base"></div>
+            </div>
+          </div>
+          <div class="msr-name"></div>
+          <div class="msr-line">
+            <p>Jeez, I dunno why Niki's wandering around on Rinne-kun's birthday. Can't he be nice~</p>
+          </div>
+        </div>
+        <div class="msr-unit" character="HiMERU" attribute="">
+          <div class="msr-icon">
+            <div class="msr-icon__wrapper">
+              <div class="msr-icon__base"></div>
+            </div>
+          </div>
+          <div class="msr-name"></div>
+          <div class="msr-line">
+            <p><i>(Whispering)</i> Anzu-san. Shiina is currently baking a surprise cake, okay? So let's keep Amagi's attention here.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  # Celebration Talks
+  ***
+  
   > Still working on translating everything~ Sorry for the delay :')
 
   

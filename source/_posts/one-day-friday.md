@@ -534,7 +534,7 @@ tags:
   {% endbubble %}
 
   {% bubble Kohaku %}
-    <th>*(It's easy to say no. It's actually **so** easy to say no, but if I do, there's no way Rinne-han isn't going to make fun of me for the next year. I mean, just look at that stupid face of his! It's so **obnoxious…!**)*</th>
+    <th><i>(It's easy to say no. It's actually **so** easy to say no, but if I do, there's no way Rinne-han isn't going to make fun of me for the next year. I mean, just look at that stupid face of his! It's so **obnoxious…!**)</i></th>
   {% endbubble %}
 
   {% bubble Kohaku %}

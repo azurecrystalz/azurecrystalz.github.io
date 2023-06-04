@@ -18,9 +18,9 @@ You're more than welcome to join my [archive discord](https://t.co/uCDQXfvgF8)! 
 * Hiiro, Wataru, Yuzuru, Arashi
 
 ### Translation "Roadmap"
-* ***Currently Working On:*** Rinne Climax Event
-* ***Also Working On:*** Proofreading Spider + Rinne Event Chapters
-* ***Future Translations:*** Nighthead, Sweet Sweet Hunger
+* ***Currently Working On:*** Number Eight
+* ***Also Working On:*** Rinne Bday 2023, Lemon Squash Cheers Lyrics
+* ***Future Translations:*** Crazy:B + 2wink FS Series 1 Stories, Nighthead, Sweet Sweet Hunger
 ***
 #### Special Shoutouts
 > I wish I could make a whole separate page for this because she definitely deserves it but this is a special shout out to [son](https://twitter.com/HELLOGlRLS) for setting this whole website up, being patient with me, and just. putting in a lot of effort in general into helping me out KJHSDF shout out to you son I can't thank you enough for your help!
