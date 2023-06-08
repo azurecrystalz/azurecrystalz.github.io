@@ -64,6 +64,18 @@ tags:
 
 <div style="margin-top: 3%">
   <style>
+    audio{
+      width: 100%;
+    }
+    audio::-webkit-media-controls-panel {
+      background-color: #96747e;
+    }
+    audio::-webkit-media-controls-current-time-display {
+      color: #fff;
+    }
+    audio::-webkit-media-controls-time-remaining-display {
+      color: #fff;
+    }
     blockquote {
       margin-bottom: 12px;
     }
@@ -137,6 +149,11 @@ tags:
   <div class="msr-narration">
     <p>Backstage on the day of "ES Halloween" performances.</p>
   </div>
+
+  <audio controls>
+    <source src="https://cdn.discordapp.com/attachments/1115033531672969299/1115033594650439842/INSTRUMENTAL_Crazy_B_-_Helter-Spider_____Music.mp3"
+      type="audio/mpeg">
+  </audio>
 
   ![just a normal](https://64.media.tumblr.com/c693929d45392b058edb22dbbd5b2d51/0f6d911902a54eb8-a5/s2048x3072/6247a51a4943ed892b1b65ab754b046f51e185e5.pnj)
 
