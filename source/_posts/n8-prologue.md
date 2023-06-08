@@ -11,7 +11,7 @@ tags:
 ---
 
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@057507b3f3a968f2138a1bc8b3c2e832b75fe9ec/expressions.css ">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@5a80ad31c27aea6a386b5ac9e6b5111f0ed890b2/expressions.css ">
 </head>
 
 <div class="info-area">
@@ -189,7 +189,7 @@ tags:
 
   ![stfu](https://media.discordapp.net/attachments/1107908793259524108/1114023014678409304/IMG_5132.png?width=1664&height=768)
 
-  {% bubble HiMERU %}
+  {% bubble HiMERU wint_affirm %}
     –Amagi, Shiina, Oukawa. Could you all please quiet down?
     
     You should rest while it’s still possible to do so. If this is truly going to be similar to “The Minotaur's Labyrinth”, then it will surely be just as physically demanding.
@@ -297,7 +297,7 @@ tags:
 
   ![HiMERU unbl](https://media.discordapp.net/attachments/1107908793259524108/1114023014040875018/IMG_5164.png?width=1664&height=768)
 
-  {% bubble HiMERU %}
+  {% bubble HiMERU himeru_n8_unbl_temp %}
     Shiina, don’t look so surprised and put on your parachute.
     
     We don’t have the power to override anything, so it’d be wise not to delay anything further and just follow along with the program’s directions.
