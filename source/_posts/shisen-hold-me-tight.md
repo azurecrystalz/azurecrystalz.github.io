@@ -91,7 +91,7 @@ tags:
 <span style="color: #89C3EB;">無色化する自意識を繋ぎ止める君のSECRET SIDE</span> 
 
 <span style="color: #89C3EB;">もっとその瞳の奥に</span><span style="color:grey"> (PLEASE CAPTURE ME)</span>
-<span style="color: #89C3EB;">もっと強く確かな輪郭が欲しいサビ</span>
+<span style="color: #89C3EB;">もっと強く確かな輪郭が欲し</span>
 
 <span style="color: #89C3EB;">孤独な愛が呼び合うREFLECT</span><span style="color:grey"> (INTO YOUR HEART)</span>
 <span style="color: #89C3EB;">求める度にゆるされながら</span><span style="color:grey"> (INTO YOUR HEART)</span>
