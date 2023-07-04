@@ -107,8 +107,8 @@ tags:
   <span style="color: #89C3EB;">HiMERU</span> + <span style="color: #507EA5;">Niki</span> + <span style="color: #F4B3C2;">Kohaku</span>: Dareka no detarame de joutou to
   <span style="color:#FFD400;">Mune wo hatte susumou ze</span>
 
-  <span style="color:#FFD400;">*ARE YOU READY, CRAZY ANTHEM*
-  *NOW TRAVELING, CRAZY ANTHEM*
+  <span style="color:#FFD400;">*NOW PLAYING, CRAZY ANTHEM*
+  *NOW DRIVING, CRAZY ANTHEM*
   Dekkai yume wo utae</span>
 
   <span style="color: #F4B3C2;">Jutai no sakiyomi no tekikaku na NAVIGATE</span>
@@ -158,8 +158,8 @@ tags:
   <span style="color: #89C3EB;">HiMERU</span> + <span style="color: #507EA5;">Niki</span> + <span style="color: #F4B3C2;">Kohaku</span>: It’s fine if people talk nonsense
   <span style="color:#FFD400;">Puff up your chest and drive forward</span>
 
-  <span style="color:#FFD400;">*ARE YOU READY, CRAZY ANTHEM*
-  *NOW TRAVELING, CRAZY ANTHEM*
+  <span style="color:#FFD400;">*NOW PLAYING, CRAZY ANTHEM*
+  *NOW DRIVING, CRAZY ANTHEM*
   Sing the song of your dreams</span>
 
   <span style="color: #F4B3C2;">An accurate NAVIGATOR that can predict it all</span>
