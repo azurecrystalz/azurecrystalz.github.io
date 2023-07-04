@@ -189,6 +189,10 @@ tags:
     grid-column-end: span end;
   }
 
+  .info-area {
+    grid-column: 1/4;
+  }
+
   @media (max-width: 567px) {
 
     /* for NexT Mashiro: makes padding smaller on mobile */
