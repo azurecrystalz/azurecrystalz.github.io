@@ -338,10 +338,10 @@ date: 2023-05-22 21:50:01
       </a>
     </div>
     <div class="item" id="himeru" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112496004462284910/IMG_5023.png');">
-      <a href="/[STORY_URL_HERE]" class="item-container-link">
+      <a href="/2023/07/05/past-present-and/" class="item-container-link">
         <div class="item-container">
           <div class="title">
-            <h2>Past, Present, And... (Unadded)</h2>
+            <h2>Past, Present, And...</h2>
           </div>
         </div>
       </a>
@@ -406,7 +406,30 @@ date: 2023-05-22 21:50:01
       </a>
     </div>
   </div>
-  <h2> ES 4* Stories: Series 2</h2>
+  <h2>Event Stories</h2>
+  <!--- aaaa --->
+  <div class="grid-container">
+    <!-- copy and paste this if you need more grids for other translation categories-->
+    <div class="item" id="rinne" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1113227518003130438/IMG_5072.webp?width=1664&height=870');">
+      <a href="/2023/05/30/number-eight/" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Number Eight (In Progress)</h2>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="item" id="kohaku" style="background-image: url('https://64.media.tumblr.com/9a1b149e13c261bce9f52c62a77de139/0f6d911902a54eb8-78/s1280x1920/e58f7f31a81508f3e2cc7316fc0d1a0537181f2d.png');">
+      <a href="/2023/05/27/spider-direc/" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Spider</h2>
+          </div>
+        </div>
+      </a>
+    </div>
+    </div>
+    <h2> ES 4* Stories: Series 2</h2>
   <!--- aaaa --->
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
@@ -447,28 +470,6 @@ date: 2023-05-22 21:50:01
       </a>
     </div>
   </div>
-  <h2>Event Stories</h2>
-  <!--- aaaa --->
-  <div class="grid-container">
-    <!-- copy and paste this if you need more grids for other translation categories-->
-    <div class="item" id="rinne" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1113227518003130438/IMG_5072.webp?width=1664&height=870');">
-      <a href="/2023/05/30/number-eight/" class="item-container-link">
-        <div class="item-container">
-          <div class="title">
-            <h2>Number Eight (In Progress)</h2>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div class="item" id="kohaku" style="background-image: url('https://64.media.tumblr.com/9a1b149e13c261bce9f52c62a77de139/0f6d911902a54eb8-78/s1280x1920/e58f7f31a81508f3e2cc7316fc0d1a0537181f2d.png');">
-      <a href="/2023/05/27/spider-direc/" class="item-container-link">
-        <div class="item-container">
-          <div class="title">
-            <h2>Spider</h2>
-          </div>
-        </div>
-      </a>
-    </div>
   <!-- more translation categories can go here -->
 </main>
 

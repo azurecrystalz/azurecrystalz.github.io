@@ -20,10 +20,11 @@ tags:
           <div class="title-area">
               <div class="title-area__title">Sakura, Sakura</div>
               <div class="title-area__subtitle">さくら、さくら</div>
-              <div class="title-area__start"><a href="[STORY_LINK_GOES_HERE]">Start Reading</a></div>
+              <div class="title-area__start"><a href="/2023/05/24/sakura-sakura/">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
+                Kohaku is stuck with how he should design his featured live outfit, and decides to consult various people for help…
                 <!-- SYNOPSIS GOES HERE -->
               </div>
               <div class="info">
