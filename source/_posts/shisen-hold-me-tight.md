@@ -85,34 +85,91 @@ tags:
     }
   </style>
 
-### Japanese Lyrics (Preview)
-***
-<span style="color: #89C3EB;">暗闇に紛れていく曖昧なTERRITORY</span> 
-<span style="color: #89C3EB;">無色化する自意識を繋ぎ止める君のSECRET SIDE</span> 
-
-<span style="color: #89C3EB;">もっとその瞳の奥に</span><span style="color:grey"> (PLEASE CAPTURE ME)</span>
-<span style="color: #89C3EB;">もっと強く確かな輪郭が欲し</span>
-
-<span style="color: #89C3EB;">孤独な愛が呼び合うREFLECT</span><span style="color:grey"> (INTO YOUR HEART)</span>
-<span style="color: #89C3EB;">求める度にゆるされながら</span><span style="color:grey"> (INTO YOUR HEART)</span>
-<span style="color: #89C3EB;">熱い視線で貫くHOLD ME TIGHT 焼き付けて傷跡を残すように</span>
-
-### English Lyrics (Preview)
+### English Lyrics
 ***
 <span style="color: #89C3EB;">An uncertain TERRITORY that’s drifting into the darkness</span> 
-<span style="color: #89C3EB;">Keeping together this colorless self-consciousness your SECRET SIDE</span> 
+<span style="color: #89C3EB;">Keeping together this colorless self-consciousness your SECRET SIGN</span> 
 
 <span style="color: #89C3EB;">More, deeper into those eyes</span><span style="color:grey"> (PLEASE CAPTURE ME)</span>
 <span style="color: #89C3EB;">More, the solid exterior desires to be stronger</span>
 
-<span style="color: #89C3EB;">A lonely love calling out to each other, REFLECT</span><span style="color:grey"> (INTO YOUR HEART)</span>
-<span style="color: #89C3EB;">Includes forgiveness every time it’s asked for.</span><span style="color:grey"> (INTO YOUR HEART)</span>
+<span style="color: #89C3EB;">A lonely love calling out to each other, REFLECTED</span><span style="color:grey"> (INTO YOUR EYES)</span>
+<span style="color: #89C3EB;">Includes forgiveness every time it’s asked for</span><span style="color:grey"> (INTO YOUR HEART)</span>
 <span style="color: #89C3EB;">With a piercing gaze HOLD ME TIGHT and leave a searing scar</span>
+
+<span style="color:grey">(INTO YOUR EYES)</span>
+<span style="color:grey">(INTO YOUR HEART)</span>
+<span style="color:grey">(Let's love at that boundary)</span>
+
+<span style="color: #89C3EB;">This owned brilliance is still so young</span> 
+<span style="color: #89C3EB;">Nobody else will ever take it, nothing else matters<sup>[1]</sup></span>
+
+<span style="color: #89C3EB;">More, dive deeper into those eyes</span><span style="color:grey"> (PLEASE CAPTURE ME)</span>
+<span style="color: #89C3EB;">There’s no other way to live in that light</span>
+
+<span style="color: #89C3EB;">A lonely love embracing each other, REFLECTED</span><span style="color:grey"> (INTO YOUR EYES)</span>
+<span style="color: #89C3EB;">It's accepted, and will become one</span><span style="color:grey"> (INTO YOUR HEART)</span>
+<span style="color: #89C3EB;">Your gaze is what holds it, that burning heat, hidden in the depths of the night</span>
+
+<span style="color: #89C3EB;">The growing DILEMMA of an allowed existance</span>
+<span style="color: #89C3EB;">A conflicted heart</span><span style="color:grey"> (PLEASE CAPTURE ME)</span>
+<span style="color: #89C3EB;">That illusion you see, the truth you reflect</span>
+<span style="color: #89C3EB;">As it is</span>
+
+<span style="color: #89C3EB;">A lonely love calling out to each other, REFLECTED</span><span style="color:grey"> (INTO YOUR EYES)</span>
+<span style="color: #89C3EB;">Includes forgiveness every time it’s asked for</span><span style="color:grey"> (INTO YOUR HEART)</span>
+<span style="color: #89C3EB;">With a piercing gaze HOLD ME TIGHT and leave a searing scar</span>
+<span style="color: #89C3EB;">With that burning heat, hidden in the depths of the night</span>
+
+**[1]:** Literal translation "Everything else is blurred/obscured"
+
+### Japanese Lyrics
+***
+<span style="color: #89C3EB;">暗闇に紛れていく曖昧なTERRITORY</span> 
+<span style="color: #89C3EB;">無色化する自意識を繋ぎ止める君のSECRET SIGN</span> 
+
+<span style="color: #89C3EB;">もっとその瞳の奥に</span><span style="color:grey"> (PLEASE CAPTURE ME)</span>
+<span style="color: #89C3EB;">もっと強く確かな輪郭が欲し</span>
+
+<span style="color: #89C3EB;">孤独な愛が呼び合うREFLECT</span><span style="color:grey"> (INTO YOUR EYES)</span>
+<span style="color: #89C3EB;">求める度にゆるされながら</span><span style="color:grey"> (INTO YOUR HEART)</span>
+<span style="color: #89C3EB;">熱い視線で貫くHOLD ME TIGHT 焼き付けて傷跡を残すように</span>
+
+<span style="color:grey">(INTO YOUR EYES)</span>
+<span style="color:grey">(INTO YOUR HEART)</span>
+<span style="color:grey">(境界で愛しあう)</span>
+
+<span style="color: #89C3EB;">主張する輝きは裏腹な幼さで</span> 
+<span style="color: #89C3EB;">誰にも渡さないさ他の全て霞むほど</span>
+
+<span style="color: #89C3EB;">もっとその瞳の奥へ</span><span style="color:grey"> (PLEASE CAPTURE ME)</span>
+<span style="color: #89C3EB;">そうやってしか生きられない光でいい</span>
+
+<span style="color: #89C3EB;">孤独な愛で抱きあうREFLECT</span><span style="color:grey"> (INTO YOUR EYES)</span>
+<span style="color: #89C3EB;">認められて唯一つになる</span><span style="color:grey"> (INTO YOUR HEART)</span>
+<span style="color: #89C3EB;">君の視線が作り出すのさ秘めた熱が燃え上がる夜の底で</span>
+
+<span style="color: #89C3EB;">存在への承認膨張するジレンマ</span>
+<span style="color: #89C3EB;">乖離する心ごと</span><span style="color:grey"> (PLEASE CAPTURE ME)</span>
+<span style="color: #89C3EB;">君に見せる幻想君が映す真実</span>
+<span style="color: #89C3EB;">ありのままに</span>
+
+<span style="color: #89C3EB;">孤独な愛が呼び合うREFLECT</span><span style="color:grey"> (INTO YOUR EYES)</span>
+<span style="color: #89C3EB;">求める度にゆるされながら</span><span style="color:grey"> (INTO YOUR HEART)</span>
+<span style="color: #89C3EB;">熱い視線で貫くHOLD ME TIGHT 焼き付けて傷跡を残すように</span>
+<span style="color: #89C3EB;">秘めた熱が燃え上がる夜の底で</span>
+
+<span style="color:grey">(INTO YOUR EYES)</span>
+<span style="color:grey">(INTO YOUR HEART)</span>
+<span style="color:grey">(境界で愛しあう)</span>
 
 ### Romaji Lyrics (Preview)
 ***
+
+> *Still updating the full ver~ Thank you for your patience <3*
+
 <span style="color: #89C3EB;">kurayaminimagirete iku aimaina TERRITORY</span> 
-<span style="color: #89C3EB;">mushokuka suru jiishiki wo tsunagi tomeru kimi no SECRET SIDE </span> 
+<span style="color: #89C3EB;">mushokuka suru jiishiki wo tsunagi tomeru kimi no SECRET SIGN </span> 
 
 <span style="color: #89C3EB;">motto sono hitomi no oku ni </span><span style="color:grey">(PLEASE CAPTURE ME)</span>
 <span style="color: #89C3EB;">motto tsuyoku tashikana rinkaku ga hoshii</span>
@@ -120,6 +177,8 @@ tags:
 <span style="color: #89C3EB;">kodokuna ai ga yobi au REFLECT</span><span style="color:grey"> (INTO YOUR HEART)</span>
 <span style="color: #89C3EB;">motomeru tabi ni yurusarenagara</span><span style="color:grey"> (INTO YOUR HEART)</span>
 <span style="color: #89C3EB;">atsui shisen de tsuranuku HOLD ME TIGHT yakitsukete kizuato o nokosu you ni</span>
+
+
 
 
   <!-- CONTENT GOES HERE -->

@@ -112,6 +112,10 @@ tags:
 > [***Happy Birthday Amagi Rinne!!***](/2023/05/26/rinne-bday-2023/)
 > *"My birthday is when I'm the luckiest! It's probably cuz I got to celebrate it with Onee-san, right?"*
 
+![imghimeru](https://media.discordapp.net/attachments/1107908793259524108/1126535661588074676/IMG_6501.png?width=1822&height=842)
+> [***Happy Birthday HiMERU!!***](/2023/07/06/himeru-bday-2023/)
+> *"Fufu. Thank you for all the kind wishes. HiMERU is always happy to hear from you."*
+
   <!-- CONTENT GOES HERE -->
 
   <!-- 

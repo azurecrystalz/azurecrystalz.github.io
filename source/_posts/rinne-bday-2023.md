@@ -80,13 +80,15 @@ tags:
     }    
   </style>
 
+
+
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
       <div class="preview-background" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1111748207689609328/IMG_4934.png?width=1004&height=1036')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
-              <div class="title-area__title">2023 Hiiro Birthday</div>
-              <div class="title-area__start"><a href="/2023/05/26/hiiro-bday-2023/">Start Reading</a></div>
+              <div class="title-area__title">2023 Rinne Birthday</div>
+              <div class="title-area__start"><a href="/2023/05/26/rinne-bday-2023/">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="info">
@@ -124,6 +126,7 @@ tags:
           </div>
       </div>
   </div>
+</div>
 </div>
 
 <!-- more -->

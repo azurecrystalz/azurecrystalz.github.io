@@ -98,13 +98,15 @@ tags:
 
 ***
 
+<sup><i>Album info taken from the <a href="https://ensemble-stars.fandom.com/wiki/ES_ALBUM_SERIES_Crazy:B_TRIP">wiki.</a></i></i>
+
 ![crazy-anth](https://cdn.discordapp.com/attachments/1110345002015535124/1113276495062913035/IMG_5072.webp)
 [Crazy Anthem - Crazy:B Event Song](/2023/05/30/crazy-anthem/)
-> ***Song Info:*** Azakami Youhei + Kasama Jun + Kaito Tasuku + Yamaguchi Tomohiro (Vocals), Other Info Currently N/A
+> ***Song Info:*** Azakami Youhei + Kasama Jun + Kaito Tasuku + Yamaguchi Tomohiro (Vocals), Saori Codama (Lyricist), Tomohiko Miyake - Arte Refact (Composition), Ren Mizunoya - Arte Refact (Arrangement)
 
 ![himeru](https://cdn.discordapp.com/attachments/1110345002015535124/1110367830467154010/IMG_4879.png)
 [視線 Hold me Tight - HiMERU Solo](/2023/05/22/shisen-hold-me-tight/)
-> ***Song Info:*** Kasama Jun (Vocals), Other Info Currently N/A
+> ***Song Info:*** Kasama Jun (Vocals), Saori Codama (Lyricist), MASASHI (Composition/Arrangement)
 
   <!-- CONTENT GOES HERE -->
 

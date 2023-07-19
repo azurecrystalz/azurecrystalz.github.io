@@ -516,26 +516,15 @@ story template looks like this:
   <div id="songs">
     <div class="song-item">
         <figure class="song-figure">
-          <a href="/2023/05/30/trip-album/" class="song-caption">
+          <a href="/2023/05/23/song-list/" class="song-caption">
             <figcaption>
-              <h4>TRIP</h4>
-              <p>Album</p>
+              <h4>Song List</h4>
+              <p>Lyrics</p>
             </figcaption>
           </a>
           <img src="https://cdn.discordapp.com/attachments/1064543219989356684/1113215210157772982/image.png" class="song-image rotate" />
         </figure>
       </div>
-    <div class="song-item">
-      <figure class="song-figure">
-        <a href="/2023/05/22/turbulent-storm/" class="song-caption">
-          <figcaption>
-            <h4>Turbulent Storm</h4>
-            <p>(Game ver)</p>
-          </figcaption>
-        </a>
-        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1111473327161217085/image.png" class="song-image rotate" />
-      </figure>
-    </div>
     <!--- more songs go here --->
   </div>
 </div>
