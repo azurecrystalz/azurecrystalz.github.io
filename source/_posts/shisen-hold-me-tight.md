@@ -121,6 +121,10 @@ tags:
 <span style="color: #89C3EB;">With a piercing gaze HOLD ME TIGHT and leave a searing scar</span>
 <span style="color: #89C3EB;">With that burning heat, hidden in the depths of the night</span>
 
+<span style="color:grey">(INTO YOUR EYES)</span>
+<span style="color:grey">(INTO YOUR HEART)</span>
+<span style="color:grey">(Let's love at that boundary)</span>
+
 **[1]:** Literal translation "Everything else is blurred/obscured"
 
 ### Japanese Lyrics
