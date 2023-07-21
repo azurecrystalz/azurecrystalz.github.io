@@ -101,7 +101,7 @@ tags:
 <span style="color:grey">(INTO YOUR HEART)</span>
 <span style="color:grey">(Let's love at that boundary)</span>
 
-<span style="color: #89C3EB;">This owned brilliance is still so young</span> 
+<span style="color: #89C3EB;">This owned brilliance is still so young, yet transposed</span> 
 <span style="color: #89C3EB;">Nobody else will ever take it, nothing else matters<sup>[1]</sup></span>
 
 <span style="color: #89C3EB;">More, dive deeper into those eyes</span><span style="color:grey"> (PLEASE CAPTURE ME)</span>
@@ -172,7 +172,7 @@ tags:
 
 > *Still updating the full ver~ Thank you for your patience <3*
 
-<span style="color: #89C3EB;">kurayaminimagirete iku aimaina TERRITORY</span> 
+<span style="color: #89C3EB;">kurayamini magirete iku aimai na TERRITORY</span> 
 <span style="color: #89C3EB;">mushokuka suru jiishiki wo tsunagi tomeru kimi no SECRET SIGN </span> 
 
 <span style="color: #89C3EB;">motto sono hitomi no oku ni </span><span style="color:grey">(PLEASE CAPTURE ME)</span>

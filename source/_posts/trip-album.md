@@ -100,6 +100,8 @@ tags:
 
 <sup><i>Album info taken from the <a href="https://ensemble-stars.fandom.com/wiki/ES_ALBUM_SERIES_Crazy:B_TRIP">wiki.</a></i></i>
 
+<sup> Some of my lyrics translations are interpretation based + I try to word them for better flow, so they may deviate from the literal meaning.</sup>
+
 ![crazy-anth](https://cdn.discordapp.com/attachments/1110345002015535124/1113276495062913035/IMG_5072.webp)
 [Crazy Anthem - Crazy:B Event Song](/2023/05/30/crazy-anthem/)
 > ***Song Info:*** Azakami Youhei + Kasama Jun + Kaito Tasuku + Yamaguchi Tomohiro (Vocals), Saori Codama (Lyricist), Tomohiko Miyake - Arte Refact (Composition), Ren Mizunoya - Arte Refact (Arrangement)
