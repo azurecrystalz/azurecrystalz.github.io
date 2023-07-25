@@ -207,7 +207,7 @@ color-name@~1.1.4:
   resolved "https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz"
   integrity sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==
 
-colorjs.io@^0.4.3:
+colorjs.io@^0.4.2, colorjs.io@^0.4.3:
   version "0.4.3"
   resolved "https://registry.npmjs.org/colorjs.io/-/colorjs.io-0.4.3.tgz"
   integrity sha512-Jr6NiWFZCuSECl23Bhe4jvDldQsE0ErnWrdl3xIUFy+Bkp0l8r5qt/iZlNH47/xxGP5izcyC8InjoUoI4Po+Pg==
@@ -647,6 +647,14 @@ hexo-generator-category@^2.0.0:
   dependencies:
     hexo-pagination "3.0.0"
 
+hexo-generator-feed@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.npmjs.org/hexo-generator-feed/-/hexo-generator-feed-3.0.0.tgz"
+  integrity sha512-Jo35VSRSNeMitS2JmjCq3OHAXXYU4+JIODujHtubdG/NRj2++b3Tgyz9pwTmROx6Yxr2php/hC8og5AGZHh8UQ==
+  dependencies:
+    hexo-util "^2.1.0"
+    nunjucks "^3.0.0"
+
 hexo-generator-index@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npmjs.org/hexo-generator-index/-/hexo-generator-index-3.0.0.tgz"
@@ -726,7 +734,16 @@ hexo-server@^3.0.0:
     picocolors "^1.0.0"
     serve-static "^1.14.1"
 
-hexo-util@^2.0.0, hexo-util@^2.5.0, hexo-util@^2.7.0, hexo-util@2.7.0:
+hexo-theme-vivia@^0.1.6:
+  version "0.1.6"
+  resolved "https://registry.npmjs.org/hexo-theme-vivia/-/hexo-theme-vivia-0.1.6.tgz"
+  integrity sha512-Q4Qx6TirFhHoPKXDTXquuiEybdXsUkK3bFh/XfsjZIYgB1FauSE2GmkScHehTlaK+iGH5Yr+ZDbkU7H8WDKqnA==
+  dependencies:
+    colorjs.io "^0.4.2"
+    hexo-word-counter "^0.1.0"
+    js-yaml "^4.1.0"
+
+hexo-util@^2.0.0, hexo-util@^2.1.0, hexo-util@^2.5.0, hexo-util@^2.7.0, hexo-util@2.7.0:
   version "2.7.0"
   resolved "https://registry.npmjs.org/hexo-util/-/hexo-util-2.7.0.tgz"
   integrity sha512-hQM3h34nhDg0bSe/Tg1lnpODvNkz7h2u0+lZGzlKL0Oufp+5KCAEUX9wal7/xC7ax3/cwEn8IuoU75kNpZLpJQ==
@@ -1125,7 +1142,7 @@ normalize-path@^3.0.0, normalize-path@~3.0.0:
   resolved "https://registry.npmjs.org/normalize-path/-/normalize-path-3.0.0.tgz"
   integrity sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==
 
-nunjucks@^3.2.3:
+nunjucks@^3.0.0, nunjucks@^3.2.3:
   version "3.2.4"
   resolved "https://registry.npmjs.org/nunjucks/-/nunjucks-3.2.4.tgz"
   integrity sha512-26XRV6BhkgK0VOxfbU5cQI+ICFUtMLixv1noZn1tGU38kQH5A5nmmbk/O45xdyBhD1esk47nKrY0mvQpZIhRjQ==
