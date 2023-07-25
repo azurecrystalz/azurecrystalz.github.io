@@ -1,6 +1,7 @@
 ---
 title: About Me !!
 date: 2023-05-15 12:03:18
+description: about me and the site
 ---
 
 ***This website is currently in the process of having things transferred from tumblr + proofread. My old masterlist is still up if you want to read the unproofed versions of my tls.***
@@ -14,7 +15,8 @@ You're more than welcome to join my [archive discord](https://t.co/uCDQXfvgF8)! 
 
 ***I am more likely to translate stories/lyrics/voicelines/etc for the following characters !!***
 
-* 2wink + Crazy:B + Kaname
+* Crazy:B + Kaname
+* 2wink
 * Hiiro, Wataru, Yuzuru, Arashi
 
 ### Translation "Roadmap"

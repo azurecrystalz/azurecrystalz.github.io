@@ -9,6 +9,7 @@ tags:
   - Hibiki Wataru
   - Hakaze Kaoru
   - Tenma Mitsuru
+description: himeru 4* translation
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">

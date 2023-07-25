@@ -11,6 +11,7 @@ tags:
   - Sazanami Jun
   - Amagi Hiiro
   - Aoi Hinata
+description: spider translation directory
 ---
 
 <style>

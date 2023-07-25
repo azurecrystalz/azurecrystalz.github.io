@@ -6,6 +6,7 @@ categories:
 tags:
 - Aoi Hinata
 - Aoi Yuuta
+description: turbulent storm game ver translation
 ---
 
 

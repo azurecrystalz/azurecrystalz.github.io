@@ -8,6 +8,7 @@ tags:
 - HiMERU
 - Oukawa Kohaku
 - Shiina Niki
+description: n8 chapter directory
 ---
 
 <style>

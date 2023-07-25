@@ -8,6 +8,7 @@ tags:
 - HiMERU
 - Shiina Niki
 - Oukawa Kohaku
+description: n8 story chapters
 ---
 
 <head>

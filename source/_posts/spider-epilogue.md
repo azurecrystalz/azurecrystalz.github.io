@@ -8,6 +8,7 @@ tags:
 - Shiina Niki
 - HiMERU
 - Amagi Rinne
+description: spider chapter translations
 ---
 
 <div class="info-area">

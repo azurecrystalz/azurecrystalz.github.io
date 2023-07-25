@@ -11,6 +11,7 @@ tags:
   - Ran Nagisa
   - Suou Tsukasa
   - Saegusa Ibara
+description: kohaku fs1 translation
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">

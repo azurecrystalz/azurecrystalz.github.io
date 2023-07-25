@@ -5,6 +5,7 @@ categories:
 - [Enstars , Crazy:B]
 tags:
 - Songs
+description: crazy anthem song lyrics
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
@@ -13,7 +14,7 @@ tags:
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
-                Contains a translation for the game version of "Crazy Anthem" and possibly a full ver when it's available.
+                Contains a translation for "Crazy Anthem" !!
               </div>
           </div>
           <div class="info-item tl">
@@ -100,7 +101,7 @@ tags:
   *Japanese to be added.*
   >#### Color Key: <span style="color: #BA2636;">Rinne</span> , <span style="color: #89C3EB;">HiMERU</span>, <span style="color: #507EA5;">Niki</span>, <span style="color: #F4B3C2;">Kohaku</span>, <span style="color:#FFD400;">All</span>, Other
 
-  ## English Lyrics (Game Ver)
+  ## English Lyrics
   ***
   <small><i>Subject to change.</i></small>
 

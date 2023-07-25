@@ -10,6 +10,7 @@ tags:
   - HiMERU
   - Shiina Niki
   - Oukawa Kohaku
+description: rinne es2 4* translation
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">

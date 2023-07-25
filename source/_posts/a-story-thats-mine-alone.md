@@ -11,6 +11,7 @@ tags:
   - Fushimi Yuzuru
   - Sakuma Ritsu
   - Oogami Koga
+description: mika fs2 translation
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">

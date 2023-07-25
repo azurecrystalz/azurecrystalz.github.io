@@ -6,6 +6,7 @@ categories:
 tags:
   - Oukawa Kohaku
   - Ran Nagisa
+description: kohaku es2 4* story tl
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">

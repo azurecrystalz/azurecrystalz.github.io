@@ -5,6 +5,7 @@ categories:
 - Enstars
 tags:
 - Birthdays
+description: idol bday masterlist
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
