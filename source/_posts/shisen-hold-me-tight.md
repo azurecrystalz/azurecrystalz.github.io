@@ -14,7 +14,7 @@ description: himeru solo translation
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
-                Contains a translation for the lyrics of the preview version of "視線 Hold me Tight" and potentially the full version when it comes out.
+                Contains a translation for the lyrics of the preview version of "視線 Hold me Tight"!
               </div>
           </div>
           <div class="info-item tl">

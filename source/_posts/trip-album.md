@@ -14,7 +14,7 @@ description: trip album song list
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
-                A post compiling translations and informations to Crazy:B's "TRIP" Album! Will update as I translate more!
+                A post compiling translations and informations to Crazy:B's "TRIP" Album! Please note that some of my lyrics translations are interpretation based + I try to reword them for better flow, so they may deviate from the literal meaning.
               </div>
           </div>
           <div class="info-item tl">
@@ -101,15 +101,28 @@ description: trip album song list
 
 <sup><i>Album info taken from the <a href="https://ensemble-stars.fandom.com/wiki/ES_ALBUM_SERIES_Crazy:B_TRIP">wiki.</a></i></i>
 
-<sup> Some of my lyrics translations are interpretation based + I try to word them for better flow, so they may deviate from the literal meaning.</sup>
+![crazy-anth](https://media.discordapp.net/attachments/1110345002015535124/1135991294007717959/IMG_7192.png?width=1748&height=288)
+[NA NA NA SUMMER NIGHT BeeAT](/)
+> ***Song Info:** Azakami Youhei + Kasama Jun + Kaito Tasuku + Yamaguchi Tomohiro (Vocals), Youhei Matsui + HIROKI - ORANGE RANGE (Lyricists), NAOTO - ORANGE RANGE (Composition/Arrangement)*
 
-![crazy-anth](https://cdn.discordapp.com/attachments/1110345002015535124/1113276495062913035/IMG_5072.webp)
 [Crazy Anthem - Crazy:B Event Song](/2023/05/30/crazy-anthem/)
-> ***Song Info:*** Azakami Youhei + Kasama Jun + Kaito Tasuku + Yamaguchi Tomohiro (Vocals), Saori Codama (Lyricist), Tomohiko Miyake - Arte Refact (Composition), Ren Mizunoya - Arte Refact (Arrangement)
+> ***Song Info:** Azakami Youhei + Kasama Jun + Kaito Tasuku + Yamaguchi Tomohiro (Vocals), Saori Codama (Lyricist), Tomohiko Miyake - Arte Refact (Composition), Ren Mizunoya - Arte Refact (Arrangement)*
+
+![rinne](https://media.discordapp.net/attachments/1110345002015535124/1135989761782329464/IMG_7190.png?width=1748&height=282)
+[Thrill Addict - Amagi Rinne Solo](/)
+> ***Song Info:** Azakami Youhei (Vocals), Youhei Matsui (Lyricist), Tomoya Kawasaki (Composition/Arrangement)*
 
 ![himeru](https://cdn.discordapp.com/attachments/1110345002015535124/1110367830467154010/IMG_4879.png)
 [視線 Hold me Tight - HiMERU Solo](/2023/05/22/shisen-hold-me-tight/)
-> ***Song Info:*** Kasama Jun (Vocals), Saori Codama (Lyricist), MASASHI (Composition/Arrangement)
+> ***Song Info:** Kasama Jun (Vocals), Saori Codama (Lyricist), MASASHI (Composition/Arrangement)*
+
+![kohaku](https://media.discordapp.net/attachments/1110345002015535124/1135978577612001331/IMG_7189.png?width=1748&height=276)
+[Petal's Resolution - Oukawa Kohaku Solo](/)
+> ***Song Info:** Tasuku Kaito (Vocals), Youhei Matsui (Lyricist), Katahira Shouda (Composition), Mine Kushita (Arrangement)*
+
+![niki](https://media.discordapp.net/attachments/1110345002015535124/1135978577255477398/IMG_7188.png?width=1748&height=310)
+[Yummy・Tummy・LOVE !! - Shiina Niki Solo](/2023/08/01/yummy-tummy-love/)
+> ***Song Info:** Tomohiro Yamaguchi (Vocals), Saori Codama (Lyricist), Shingo Asari (Composition/Arrangement)*
 
   <!-- CONTENT GOES HERE -->
 
