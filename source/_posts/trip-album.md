@@ -101,21 +101,27 @@ description: trip album song list
         margin-left: 70px;
         margin-left: 55px !important;
     }
-}    
+}
+.article-entry img, .article-entry video {
+    margin-bottom: -1em;
+}
   </style>
 
 ***
 
 <sup><i>Album info taken from the <a href="https://ensemble-stars.fandom.com/wiki/ES_ALBUM_SERIES_Crazy:B_TRIP">wiki.</a></i></i>
 
-![crazy-anth](https://media.discordapp.net/attachments/1110345002015535124/1135991294007717959/IMG_7192.png?width=1748&height=288)
+<img src="https://media.discordapp.net/attachments/1110345002015535124/1135991294007717959/IMG_7192.png?width=1748&amp;height=288" alt="crazy-anth" style="
+    margin-bottom: -1em;">
 [NA NA NA SUMMER NIGHT BeeAT](/)
 > ***Song Info:** Azakami Youhei + Kasama Jun + Kaito Tasuku + Yamaguchi Tomohiro (Vocals), Youhei Matsui + HIROKI - ORANGE RANGE (Lyricists), NAOTO - ORANGE RANGE (Composition/Arrangement)*
 
 [Crazy Anthem - Crazy:B Event Song](/2023/05/30/crazy-anthem/)
 > ***Song Info:** Azakami Youhei + Kasama Jun + Kaito Tasuku + Yamaguchi Tomohiro (Vocals), Saori Codama (Lyricist), Tomohiko Miyake - Arte Refact (Composition), Ren Mizunoya - Arte Refact (Arrangement)*
 
-![rinne](https://media.discordapp.net/attachments/1110345002015535124/1135989761782329464/IMG_7190.png?width=1748&height=282)
+<img src="https://media.discordapp.net/attachments/1110345002015535124/1135989761782329464/IMG_7190.png?width=1748&amp;height=282" alt="rinne" style="
+    margin-top: 1.2em;
+">
 [Thrill Addict - Amagi Rinne Solo](/)
 > ***Song Info:** Azakami Youhei (Vocals), Youhei Matsui (Lyricist), Tomoya Kawasaki (Composition/Arrangement)*
 
