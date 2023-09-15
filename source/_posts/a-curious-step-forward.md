@@ -377,7 +377,7 @@ Got it. Let's get going...~
 
 <!-- Translation Notes -->
 
-[^1]: Referring to Kohaku's FS1 story which I've tled here! Nagisa gives Kohaku some amber!
+[^1]: Referring to Kohaku's FS1 story which I've tled here! Nagisa gives Kohaku some amber.
 [^2]: Referring to the conversation Kohaku and Nagisa had in one of the middle chapters of Antique Legend.
 [^3]: Meaning “I never [had schooling/went to school]”, but I didn't want to stray from the dialogue.
 
