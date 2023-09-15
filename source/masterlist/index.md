@@ -516,16 +516,26 @@ story template looks like this:
   <h2>Song Translations</h2>
   <div id="songs">
     <div class="song-item">
-        <figure class="song-figure">
-          <a href="/2023/05/23/song-list/" class="song-caption">
-            <figcaption>
-              <h4>Song List</h4>
-              <p>Lyrics</p>
-            </figcaption>
-          </a>
-          <img src="https://cdn.discordapp.com/attachments/1064543219989356684/1113215210157772982/image.png" class="song-image rotate" />
-        </figure>
-      </div>
+      <figure class="song-figure">
+        <a href="/2023/05/22/turbulent-storm/" class="song-caption">
+          <figcaption>
+            <h4>Turbulent Storm</h4>
+          </figcaption>
+        </a>
+        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1152359239331885128/2wink__22Turbulent_Storm_22_Ensemble_Stars_21_21_ES_Idol_Song_Season_3.png" class="song-image rotate" />
+      </figure>
+    </div>
+    <div class="song-item">
+      <figure class="song-figure">
+        <a href="/2023/05/30/trip-album/" class="song-caption">
+          <figcaption>
+            <h4>TRIP</h4>
+              <p>Crazy:B</p>
+          </figcaption>
+        </a>
+        <img src="https://media.discordapp.net/attachments/1110345002015535124/1112970174027546674/IMG_5061.webp?width=1152&height=1016" class="song-image rotate" />
+      </figure>
+    </div>
     <!--- more songs go here --->
   </div>
 </div>
