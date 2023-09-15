@@ -1,6 +1,6 @@
 ---
 title: Past, Present, And...
-date: 2023-07-05 20:02:00
+date: 2050-07-05 20:02:00
 categories:
 - [Enstars , Crazy:B]
 tags:

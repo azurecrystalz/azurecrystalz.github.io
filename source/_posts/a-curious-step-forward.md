@@ -1,6 +1,6 @@
 ---
 title: A Curious Step Forward
-date: 2023-05-21 22:20:58
+date: 2050-05-21 22:20:58
 categories:
   - [Enstars, Crazy:B]
 tags:
