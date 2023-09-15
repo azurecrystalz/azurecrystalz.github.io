@@ -375,31 +375,12 @@ First we can start with that exhibit room so that we can learn the history and e
 Got it. Let's get going...~
 {% endbubble %}
 
-### Translation Notes
+<!-- Translation Notes -->
 
 [^1]: Referring to Kohaku's FS1 story which I've tled here! Nagisa gives Kohaku some amber!
 [^2]: Referring to the conversation Kohaku and Nagisa had in one of the middle chapters of Antique Legend.
 [^3]: Meaning “I never [had schooling/went to school]”, but I didn't want to stray from the dialogue.
 
-<div id="footnotes">
-  <ol style="list-style: none; padding-left: 0; margin-left: 40px">
-    <li id="fn:1">
-      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
-        <a href="#fnref:1" rev="footnote">↑</a> Referring to Kohaku's FS1 story which I've tled here! Nagisa gives Kohaku some amber!
-      </span>
-    </li>
-    <li id="fn:2">
-      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">2.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
-        <a href="#fnref:2" rev="footnote">↑</a> Referring to the conversation Kohaku and Nagisa had in one of the middle chapters of Antique Legend.
-      </span>
-    </li>
-    <li id="fn:3">
-      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">3.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
-        <a href="#fnref:3" rev="footnote">↑</a> Meaning “I never [had schooling/went to school]”, but I didn't want to stray from the dialogue.
-      </span>
-    </li>
-  </ol>
-</div>
 
   <!--
   {% bubble Kohaku %}

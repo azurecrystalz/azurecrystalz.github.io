@@ -713,7 +713,7 @@ description: spider chapters
     Nyaha. I won't say anything~. It's gonna be me and Kohaku-chan's secret!
   {% endbubble %}
 
-  ### Translation Notes 
+  <!-- Translation Notes -->
 
   [^1]: I think Niki is talking about when people say they have “dessert stomachs”, which is like basically having extra room for dessert.
   [^2]: In some cases “yokumo” is used as an adverb to describe a feeling of shock but here I think it's used as a demand here which is why I decided to translate it that way
@@ -721,42 +721,6 @@ description: spider chapters
   [^4]: Kohaku here I think is talking about “Hachishakusama”, a Japanese horror myth about an 8ft tall ghost woman dressed in a white hat and dress that abducts children. It's a little confusing because I'm not sure if 2-meters=8ft but it's the closest thing I could think of off the top of my head.
   [^5]: What Kohaku is talking about here is more familiar to me. He's talking about “Hitori Kakurenbo”, literally meaning “Lone Hide-n-Seek”. The general idea of it is that it's a ritual set up involving a ghost possessing a doll/stuffed animal, and you play hide-n-seek with that spirit. If you win then you survive, if not then the spirit possesses/kills you. Fun. 
   [^6]: If Kohaku here is talking about “Kisaragi Eki” then I think this is just a basic horror legend that surfaced in 2005(?) about a woman that takes a train and arrives at an empty train station (Kisaragi Station) that with no known activity and had no record of its existence. The story was told through an online comment thread somewhere but I'm pretty sure it's a famous story and there's movies made on it.
-
-<div id="footnotes">
-  <ol style="list-style: none; padding-left: 0; margin-left: 40px">
-    <li id="fn:1">
-      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
-        <a href="#fnref:1" rev="footnote">↑</a> I think Niki is talking about when people say they have "dessert stomachs", which is like basically having extra room for dessert.
-      </span>
-    </li>
-    <li id="fn:2">
-      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">2.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
-        <a href="#fnref:2" rev="footnote">↑</a> In some cases “yokumo” is used as an adverb to describe a feeling of shock but here I think it's used as a demand here which is why I decided to translate it that way
-      </span>
-    </li>
-    <li id="fn:3">
-      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">3.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
-        <a href="#fnref:3" rev="footnote">↑</a> I don't know why but this reads like a threat to me??? Someone help HiMERU.
-      </span>
-    </li>
-    <li id="fn:4">
-      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">4.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
-        <a href="#fnref:4" rev="footnote">↑</a> Kohaku here I think is talking about “Hachishakusama”, a Japanese horror myth about an 8ft tall ghost woman dressed in a white hat and dress that abducts children. It's a little confusing because I'm not sure if 2-meters=8ft but it's the closest thing I could think of off the top of my head.
-      </span>
-    </li>
-    <li id="fn:5">
-      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">5.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
-        <a href="#fnref:5" rev="footnote">↑</a> What Kohaku is talking about here is more familiar to me. He's talking about “Hitori Kakurenbo”, literally meaning “Lone Hide-n-Seek”. The general idea of it is that it's a ritual set up involving a ghost possessing a doll/stuffed animal, and you play hide-n-seek with that spirit. If you win then you survive, if not then the spirit possesses/kills you. Fun.
-      </span>
-    </li>
-    <li id="fn:6">
-      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">6.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
-        <a href="#fnref:6" rev="footnote">↑</a> If Kohaku here is talking about “Kisaragi Eki” then I think this is just a basic horror legend that surfaced in 2005(?) about a woman that takes a train and arrives at an empty train station (Kisaragi Station) that with no known activity and had no record of its existence. The story was told through an online comment thread somewhere but I'm pretty sure it's a famous story and there's movies made on it.
-      </span>
-    </li>
-  </ol>
-</div>
-
 
 
   ### <center> [previous](/2023/06/01/one-day-friday/) | [next](/2023/06/01/kohakus-sacrifice/) </center>
