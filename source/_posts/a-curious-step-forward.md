@@ -86,6 +86,13 @@ description: kohaku es2 4* story tl
 
 <div style="margin-top: 3%">
   <style>
+    .hint--error.hint--top-left:before, .hint--error.hint--top-right:before, .hint--error.hint--top:before {
+    border-top-color: #6a3446;
+    }
+    .hint--error:after {
+    background-color: #6a3446;
+    text-shadow: 0 -1px 0px #592726;
+    }
     [character] {
       --dark-mode: hsl(var(--hue), 30%, 30%);
       display: flex;
@@ -190,7 +197,7 @@ N-Nagisa-han? If you're calling for me, then the one that invited me here....
 {% endbubble %}
 
 {% bubble Nagisa %}
-...While I was thinking of who, I decided you'd be best since I've shared rocks with you before<sup>[1]</sup>.
+...While I was thinking of who, I decided you'd be best since I've shared rocks with you before[^1].
 {% endbubble %}
 
 {% bubble Kohaku %}
@@ -255,7 +262,7 @@ Waaa, it's well made. Everywhere I look there's strange things I haven't seen be
 {% endbubble %}
 
 {% bubble Kohaku %}
-Yeah, I've never had connections to this kind of place. I remember you mentioned before how the "Antique Market" was kinda like a museum<sup>[2]</sup>. I think that was just limited to telling the history of idols.
+Yeah, I've never had connections to this kind of place. I remember you mentioned before how the "Antique Market" was kinda like a museum[^2]. I think that was just limited to telling the history of idols.
 {% endbubble %}
 
 {% bubble Nagisa %}
@@ -287,7 +294,7 @@ I...feel like I'm lost in a strange world. So I'm just looking around me because
 {% endbubble %}
 
 {% bubble Kohaku %}
-Like I was saying, I haven't got any connections to this place. I never did much studying<sup>[3]</sup>, so I don't really get what the meaning of all this history is...When I ran out into the world and became an idol, I thought my worldview had gotten just a bit bigger.
+Like I was saying, I haven't got any connections to this place. I never did much studying[^3], so I don't really get what the meaning of all this history is...When I ran out into the world and became an idol, I thought my worldview had gotten just a bit bigger.
 
 But when it comes to going to a _specific_ place, I'm lost all over again. I know learning is a part of life, but I know that whatever I've learned is still only a little bit.
 
@@ -370,9 +377,29 @@ Got it. Let's get going...~
 
 ### Translation Notes
 
-**[1]:** Referring to Kohaku's FS1 story which I've tled here! Nagisa gives Kohaku some amber!
-**[2]:** Referring to the conversation Kohaku and Nagisa had in one of the middle chapters of Antique Legend.
-**[3]:** Meaning "I never [had schooling/went to school]", but I didn't want to stray from the dialogue
+[^1]: Referring to Kohaku's FS1 story which I've tled here! Nagisa gives Kohaku some amber!
+[^2]: Referring to the conversation Kohaku and Nagisa had in one of the middle chapters of Antique Legend.
+[^3]: Meaning “I never [had schooling/went to school]”, but I didn't want to stray from the dialogue.
+
+<div id="footnotes">
+  <ol style="list-style: none; padding-left: 0; margin-left: 40px">
+    <li id="fn:1">
+      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
+        <a href="#fnref:1" rev="footnote">↑</a> Referring to Kohaku's FS1 story which I've tled here! Nagisa gives Kohaku some amber!
+      </span>
+    </li>
+    <li id="fn:2">
+      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">2.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
+        <a href="#fnref:2" rev="footnote">↑</a> Referring to the conversation Kohaku and Nagisa had in one of the middle chapters of Antique Legend.
+      </span>
+    </li>
+    <li id="fn:3">
+      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">3.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
+        <a href="#fnref:3" rev="footnote">↑</a> Meaning “I never [had schooling/went to school]”, but I didn't want to stray from the dialogue.
+      </span>
+    </li>
+  </ol>
+</div>
 
   <!--
   {% bubble Kohaku %}

@@ -64,6 +64,13 @@ description: spider story chapters
 
 <div style="margin-top: 3%">
   <style>
+    .hint--error.hint--top-left:before, .hint--error.hint--top-right:before, .hint--error.hint--top:before {
+    border-top-color: #6a3446;
+    }
+    .hint--error:after {
+    background-color: #6a3446;
+    text-shadow: 0 -1px 0px #592726;
+    }
     [character] {
       --dark-mode: hsl(var(--hue), 30%, 30%);
       display: flex;

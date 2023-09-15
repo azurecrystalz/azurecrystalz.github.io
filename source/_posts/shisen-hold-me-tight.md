@@ -33,6 +33,13 @@ description: himeru solo translation
 
 <div style="margin-top: 3%">
   <style>
+    .hint--error.hint--top-left:before, .hint--error.hint--top-right:before, .hint--error.hint--top:before {
+    border-top-color: #6a3446;
+    }
+    .hint--error:after {
+    background-color: #6a3446;
+    text-shadow: 0 -1px 0px #592726;
+    }
     [character] {
       --dark-mode: hsl(var(--hue), 30%, 30%);
       display: flex;
@@ -103,7 +110,7 @@ description: himeru solo translation
 <span style="color:grey">(Let's love at that boundary)</span>
 
 <span style="color: #89C3EB;">This owned brilliance is still so young, yet transposed</span> 
-<span style="color: #89C3EB;">Nobody else will ever take it, nothing else matters<sup>[1]</sup></span>
+<span style="color: #89C3EB;">Nobody else will ever take it, nothing else matters[^1]</span></span>
 
 <span style="color: #89C3EB;">More, dive deeper into those eyes</span><span style="color:grey"> (PLEASE CAPTURE ME)</span>
 <span style="color: #89C3EB;">There’s no other way to live in that light</span>
@@ -125,8 +132,6 @@ description: himeru solo translation
 <span style="color:grey">(INTO YOUR EYES)</span>
 <span style="color:grey">(INTO YOUR HEART)</span>
 <span style="color:grey">(Let's love at that boundary)</span>
-
-**[1]:** Literal translation "Everything else is blurred/obscured"
 
 ### Japanese Lyrics
 ***
@@ -183,8 +188,8 @@ description: himeru solo translation
 <span style="color: #89C3EB;">motomeru tabi ni yurusarenagara</span><span style="color:grey"> (INTO YOUR HEART)</span>
 <span style="color: #89C3EB;">atsui shisen de tsuranuku HOLD ME TIGHT yakitsukete kizuato o nokosu you ni</span>
 
-
-
+ <!-- Translation Notes -->
+[^1]: Literal translation “Everything else is blurred/obscured”
 
   <!-- CONTENT GOES HERE -->
     

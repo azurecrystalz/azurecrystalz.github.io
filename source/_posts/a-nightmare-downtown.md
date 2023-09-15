@@ -65,6 +65,13 @@ description: spider chapters
 
 <div style="margin-top: 3%">
   <style>
+    .hint--error.hint--top-left:before, .hint--error.hint--top-right:before, .hint--error.hint--top:before {
+    border-top-color: #6a3446;
+    }
+    .hint--error:after {
+    background-color: #6a3446;
+    text-shadow: 0 -1px 0px #592726;
+    }
     [character] {
       --dark-mode: hsl(var(--hue), 30%, 30%);
       display: flex;
@@ -147,7 +154,7 @@ description: spider chapters
   ![crepes](https://64.media.tumblr.com/90392c2d668540802a2e3ac858c7d8b7/bd02ee6f71565a1a-50/s2048x3072/a0283b12c93e6a8daf194343c5eb19220df6c37a.pnj)
 
   {% bubble Niki %}
-    Oh no, what're you saying, Kohaku-chan? Didn't you know? Crepes are the very definition of "sweets are for a separate stomach"<sup>[1]</sup>, they're a groundbreaking sweet treat.
+    Oh no, what're you saying, Kohaku-chan? Didn't you know? Crepes are the very definition of "sweets are for a separate stomach"[^1], they're a groundbreaking sweet treat.
   {% endbubble %}
 
   {% bubble Kohaku %}
@@ -199,7 +206,7 @@ description: spider chapters
   ![how dare](https://64.media.tumblr.com/86b6cd0c7f9899fe8d2ce9ce551790ad/bd02ee6f71565a1a-a5/s2048x3072/d1370ce8a91bb14b052be67b4ff4de4da6a9c18c.pnj)
 
   {% bubble Niki %}
-    My crepe! How dare you, how dare you, how dare you, how dare you, how dare you, how *dare you…!*<sup>[2]</sup>
+    My crepe! How dare you, how dare you, how dare you, how dare you, how dare you, how *dare you…!*[^2]
   {% endbubble %}
 
   {% bubble Rinne %}
@@ -237,7 +244,7 @@ description: spider chapters
   {% endbubble %}
 
   {% bubble Kohaku %}
-    What, so it's fine if *I'm* seen with them?<sup>[3]</sup>
+    What, so it's fine if *I'm* seen with them?[^3]
   {% endbubble %}
 
   {% bubble HiMERU %}
@@ -298,11 +305,9 @@ description: spider chapters
     —Haaa…HiMERU really regrets being here now.
   {% endbubble %}
 
-  ### Translation Notes (Chapter 4)
 
-  **[1]:** I think Niki is talking about when people say they have "desert stomachs", which is like basically having extra room for desert.
-  **[2]:** In some cases "yokumo" is used as an adverb to describe a feeling of shock but here I think it's used as a demand here which is why I decided to translate it that way
-  **[3]:** I don't know why but this reads like a threat to me??? Someone help HiMERU.
+
+
 
   # Chapter 5
   ***
@@ -679,7 +684,7 @@ description: spider chapters
     
     Then, there it was, a bunch of horrifying stories.
     
-    There was one about a monster that took the form of a 2-meter tall woman<sup>[1]</sup>, and another about a seance that would happen if you played hide-n-seek alone<sup>[2]</sup>. Then there was an entire story about a vacant station that nobody knew anything about<sup>[3]</sup>.
+    There was one about a monster that took the form of a 2-meter tall woman[^4], and another about a seance that would happen if you played hide-n-seek alone[^5]. Then there was an entire story about a vacant station that nobody knew anything about[^6].
   {% endbubble %}
 
   {% bubble Niki %}
@@ -708,11 +713,51 @@ description: spider chapters
     Nyaha. I won't say anything~. It's gonna be me and Kohaku-chan's secret!
   {% endbubble %}
 
-  ### Translation Notes (Chapter 6)
+  ### Translation Notes 
 
-  **[1]:** Kohaku here I think is talking about "Hachishakusama", a Japanese horror myth about an 8ft tall ghost woman dressed in a white hat and dress that abducts children. It's a little confusing because I'm not sure if 2-meters=8ft but it's the closest thing I could think of off the top of my head.
-  **[2]:** What Kohaku is talking about here is more familiar to me. He's talking about "Hitori Kakurenbo", literally meaning "Lone Hide-n-Seek". The general idea of it is that it's a ritual set up involving a ghost possessing a doll/stuffed animal, and you play hide-n-seek with that spirit. If you win then you survive, if not then the spirit possesses/kills you. Fun. 
-  **[3]:** If Kohaku here is talking about "Kisaragi Eki" then I think this is just a basic horror legend that surfaced in 2005(?) about a woman that takes a train and arrives at an empty train station (Kisaragi Station) that with no known activity and had no record of its existence. The story was told through an online comment thread somewhere but I'm pretty sure it's a famous story and there's movies made on it.
+  [^1]: I think Niki is talking about when people say they have “dessert stomachs”, which is like basically having extra room for dessert.
+  [^2]: In some cases “yokumo” is used as an adverb to describe a feeling of shock but here I think it's used as a demand here which is why I decided to translate it that way
+  [^3]: I don't know why but this reads like a threat to me??? Someone help HiMERU.
+  [^4]: Kohaku here I think is talking about “Hachishakusama”, a Japanese horror myth about an 8ft tall ghost woman dressed in a white hat and dress that abducts children. It's a little confusing because I'm not sure if 2-meters=8ft but it's the closest thing I could think of off the top of my head.
+  [^5]: What Kohaku is talking about here is more familiar to me. He's talking about “Hitori Kakurenbo”, literally meaning “Lone Hide-n-Seek”. The general idea of it is that it's a ritual set up involving a ghost possessing a doll/stuffed animal, and you play hide-n-seek with that spirit. If you win then you survive, if not then the spirit possesses/kills you. Fun. 
+  [^6]: If Kohaku here is talking about “Kisaragi Eki” then I think this is just a basic horror legend that surfaced in 2005(?) about a woman that takes a train and arrives at an empty train station (Kisaragi Station) that with no known activity and had no record of its existence. The story was told through an online comment thread somewhere but I'm pretty sure it's a famous story and there's movies made on it.
+
+<div id="footnotes">
+  <ol style="list-style: none; padding-left: 0; margin-left: 40px">
+    <li id="fn:1">
+      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
+        <a href="#fnref:1" rev="footnote">↑</a> I think Niki is talking about when people say they have "dessert stomachs", which is like basically having extra room for dessert.
+      </span>
+    </li>
+    <li id="fn:2">
+      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">2.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
+        <a href="#fnref:2" rev="footnote">↑</a> In some cases “yokumo” is used as an adverb to describe a feeling of shock but here I think it's used as a demand here which is why I decided to translate it that way
+      </span>
+    </li>
+    <li id="fn:3">
+      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">3.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
+        <a href="#fnref:3" rev="footnote">↑</a> I don't know why but this reads like a threat to me??? Someone help HiMERU.
+      </span>
+    </li>
+    <li id="fn:4">
+      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">4.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
+        <a href="#fnref:4" rev="footnote">↑</a> Kohaku here I think is talking about “Hachishakusama”, a Japanese horror myth about an 8ft tall ghost woman dressed in a white hat and dress that abducts children. It's a little confusing because I'm not sure if 2-meters=8ft but it's the closest thing I could think of off the top of my head.
+      </span>
+    </li>
+    <li id="fn:5">
+      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">5.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
+        <a href="#fnref:5" rev="footnote">↑</a> What Kohaku is talking about here is more familiar to me. He's talking about “Hitori Kakurenbo”, literally meaning “Lone Hide-n-Seek”. The general idea of it is that it's a ritual set up involving a ghost possessing a doll/stuffed animal, and you play hide-n-seek with that spirit. If you win then you survive, if not then the spirit possesses/kills you. Fun.
+      </span>
+    </li>
+    <li id="fn:6">
+      <span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">6.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">
+        <a href="#fnref:6" rev="footnote">↑</a> If Kohaku here is talking about “Kisaragi Eki” then I think this is just a basic horror legend that surfaced in 2005(?) about a woman that takes a train and arrives at an empty train station (Kisaragi Station) that with no known activity and had no record of its existence. The story was told through an online comment thread somewhere but I'm pretty sure it's a famous story and there's movies made on it.
+      </span>
+    </li>
+  </ol>
+</div>
+
+
 
   ### <center> [previous](/2023/06/01/one-day-friday/) | [next](/2023/06/01/kohakus-sacrifice/) </center>
   <!-- CONTENT GOES HERE -->

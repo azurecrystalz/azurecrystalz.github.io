@@ -12,25 +12,18 @@ tags:
 - Nagumo Tetora
 description: romantic date tls
 ---
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
+</head>
 
-<style>
-    .chapter-area li {
-      background-color: #704d56;
-      border-radius: 3px;
-      transition: background-color 0.2s;
+<div style="margin-top: 3%">
+  <style>
+    .hint--error.hint--top-left:before, .hint--error.hint--top-right:before, .hint--error.hint--top:before {
+    border-top-color: #6a3446;
     }
-    .chapters li #none {
-      background: none;
-      color: var(--link);
-    }
-    .chapter-area li:hover {
-      background-color: #7d3e53;
-    }
-    .mt-label {
-      margin: 5px;
-    }
-    .article-entry a {
-      margin: 2px;
+    .hint--error:after {
+    background-color: #6a3446;
+    text-shadow: 0 -1px 0px #592726;
     }
     [character] {
       --dark-mode: hsl(var(--hue), 30%, 30%);
@@ -175,6 +168,7 @@ description: romantic date tls
           </div>
       </div>
   </div>
+</div>
 </div>
 
 <!-- more -->
@@ -377,7 +371,7 @@ description: romantic date tls
 
     As a matter of fact, HiMERU isn't used to this either.
     
-    Ever since ES's establishment— or rather, ever since HiMERU joined "Crazy:B"—he feels like he's been made to take on jobs he's never tried previously<sup>[1]</sup>.
+    Ever since ES's establishment— or rather, ever since HiMERU joined "Crazy:B"—he feels like he's been made to take on jobs he's never tried previously[^1].
 
     But this..."work"...is meddlesome.
   {% endbubble %}
@@ -413,7 +407,7 @@ description: romantic date tls
   ![agape](https://64.media.tumblr.com/2f404cd130974f8e52798aac5dc09d3a/61d764f7f21d31ff-7b/s2048x3072/25df27bdc3db7dff385fc61dbc5833e44816aeed.pnj)
 
   {% bubble Tatsumi %}
-    That wouldn't be the same thing as "God's Love" (Agape)<sup>[2]</sup>, would it?
+    That wouldn't be the same thing as "God's Love" (Agape)[^2], would it?
   {% endbubble %}
 
   {% bubble HiMERU %}
@@ -423,11 +417,6 @@ description: romantic date tls
   {% bubble Tatsumi %}
     Agreed...ah, I'm a bit troubled. Our current job is to "act as characters in a dating simulator".
   {% endbubble %}
-
-  ### Translation Notes (Chapter 1)
-
-  **[1]:** For people unfamiliar with Crazy:B's need to get work: getting jobs is important to them as it helps them survive as a unit. Because of the incidents during MDM (mainstory), they had a negative image. Finding jobs is hard for them but it's the only way for them to get a better reputation in order for them to continue being idols (which of course is extremely valuable to each of them in their own way).
-  **[2]:** Yes "God's Love" (Agape) is written exactly like this in the dialogue box even in HiMERU's dialogue. According to Google, Agape is the term that defines God's immeasurable, incomparable love for humankind. The more you know (I am not religious in the slightest).
 
   # Chapter 2
   
@@ -452,7 +441,7 @@ description: romantic date tls
   {% bubble HiMERU %}
     By the way, there are a lot of game projects that real idols star in, and there are some that only have their faces modeled.
 
-    For example, there's "Ansta" a fighting game in which special abilities are used based on a battle manga<sup>[1]</sup>.
+    For example, there's "Ansta" a fighting game in which special abilities are used based on a battle manga[^3].
   {% endbubble %}
 
   {% bubble Tatsumi %}
@@ -563,10 +552,6 @@ description: romantic date tls
     ...Yes. Unfortunately.
   {% endbubble %}
 
-  ### Translation Notes (Chapter 2)
-
-  **[1]:** Did you know Ensemble Stars was supposed to be a supernatural game before it was made into an idol game? I'll see if I can find more info in it but I remember seeing lots of talk about it before.
-
   # Chapter 3
 
   > ***Content Warning:** Mentions/implications of incest.*
@@ -630,7 +615,7 @@ description: romantic date tls
   {% endbubble %}
 
   {% bubble Tatsumi %}
-    Katakana names!<sup>[1]</sup>
+    Katakana names![^4]
   {% endbubble %}
 
   ![shaddup](https://64.media.tumblr.com/c5246c3a0c3d8fbbbd032d4f75852ccd/56194fd0f5487762-1b/s2048x3072/9aa3eda68d582cebb6352ea83daf55c656fe8e5e.pnj)
@@ -684,13 +669,13 @@ description: romantic date tls
   ![ng](https://64.media.tumblr.com/b90ea04f94e9b0152793274b6c1fee0f/56194fd0f5487762-60/s2048x3072/b416ea4d61a28bcd5807827565bc2a1c44766bab.pnj)
 
   {% bubble HiMERU %}
-    No matter how bad the acting is, if the producers like it, then it's OK, and if they don't, then it gets an NG<sup>[2]</sup>.
+    No matter how bad the acting is, if the producers like it, then it's OK, and if they don't, then it gets an NG[^5].
     
     An example, our Shiina and your Ayase were terrible. A starving Shiina chased a sobbing Ayase around, and a scenario like *that* earned "That's exactly the shot I was looking for!" and they got an OK from the first take.
   {% endbubble %}
 
   {% bubble Tatsumi %}
-    Fufu. Aira-san and his friend<sup>[3]</sup> just idly sat and had a friendly chat about sweets, and that immediately earned them the OK. So, why aren't *we* getting it?
+    Fufu. Aira-san and his friend[^6] just idly sat and had a friendly chat about sweets, and that immediately earned them the OK. So, why aren't *we* getting it?
   {% endbubble %}
 
   {% bubble HiMERU %}
@@ -732,7 +717,7 @@ description: romantic date tls
   {% endbubble %}
 
   {% bubble Tatsumi %}
-    We really still can't seem to get the OK. I wonder what's wrong? Perhaps, should I try to talk more like Koga-san<sup>[4]</sup>?
+    We really still can't seem to get the OK. I wonder what's wrong? Perhaps, should I try to talk more like <ho>Koga-san[^7]?</ho>
   {% endbubble %}
 
   ![repent](https://64.media.tumblr.com/5332638f410275e74576fb8310775211/56194fd0f5487762-fa/s2048x3072/dddc89f498964cb0587a4c09fb6c9c55d10f9ecb.pnj)
@@ -757,12 +742,15 @@ description: romantic date tls
     It's unfortunate, but we'll just need to keep shooting our shots in the dark—if this keeps up, then we'll never get this done.
   {% endbubble %}
 
-  ### Translation Notes (Chapter 3)
+<!-- Translation Notes -->
 
-  **[1]:** Referring to the fact that "Niki" and "Mayoi" are both written in katakana.
-  **[2]:** "NG" is an abbreviation for "no good" used typically in casual business talk.
-  **[3]:** Idk why Tatsumi didn't just refer to Kohaku here but the line literally says "Aira-san and the other" but it felt too stiff so I used friend to lessen confusion
-  **[4]:** For those unaware Koga and Tatsumi are roommates!
+  [^1]: For people unfamiliar with Crazy:B’s need to get work: getting jobs is important to them as it helps them survive as a unit. Because of the incidents during MDM (mainstory), they had a negative image. Finding jobs is hard for them but it’s the only way for them to get a better reputation in order for them to continue being idols (which of course is extremely valuable to each of them in their own way).
+  [^2]: Yes “God’s Love” (Agape) is written exactly like this in the dialogue box even in HiMERU’s dialogue. According to Google, Agape is the term that defines God’s immeasurable, incomparable love for humankind. The more you know (I am not religious in the slightest).
+  [^3]: Did you know Ensemble Stars was supposed to be a supernatural game before it was made into an idol game? I’ll see if I can find more info in it but I remember seeing lots of talk about it before.
+  [^4]: Referring to the fact that “Niki” and “Mayoi” are both written in katakana.
+  [^5]: “NG” is an abbreviation for “no good” used typically in casual business talk.
+  [^6]: Idk why Tatsumi didn’t just refer to Kohaku here but the line literally says “Aira-san and the other” but it felt too stiff so I used friend to lessen confusion
+  [^7]: For those unaware, Koga and Tatsumi are roommates!
 
   > ***Under Construction!** I'm still in the process of proofing/transferring everything~! You can read the completed unproofed version [here](https://azurecrystalz.tumblr.com/post/707339608925569024/translation-scout-romantic-date) in the meantime, thank you for your patience!*
 
