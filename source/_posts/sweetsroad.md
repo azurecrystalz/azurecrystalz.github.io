@@ -241,7 +241,7 @@ Roger~ Please wait for me while you eat. My part-time shift is almost finished. 
   </div>
 
 {% bubble Niki %}
-Sorry to keep you waiting~ Here are my homemade snowball cookies!<sup>[1]</sup>
+Sorry to keep you waiting~ Here are my homemade snowball cookies![^1]
 {% endbubble %}
 
 {% bubble Kohaku %}
@@ -295,7 +295,7 @@ Aah, I want to die. It's so embarrassing.
 {% endbubble %}
 
 {% bubble Niki %}
-Mogumogu...mm!<sup>[2]</sup> Mayo-chan's butter sable is actually really good!
+Mogumogu...mm![^2] Mayo-chan's butter sable is actually really good!
 
 You can't die when you make such good food, so live for my sake!
 {% endbubble %}
@@ -321,7 +321,7 @@ HiMERU-han, what did you bring? You must've brought something fancy and unusual 
 {% bubble HiMERU %}
 Ufufu. Now then, HiMERU will present it.
 
-HiMERU is square cream puffs<sup>[3]</sup>.
+HiMERU is square cream puffs[^3].
 {% endbubble %}
 
 {% bubble Niki %}
@@ -389,13 +389,11 @@ I can't decide what to make with this~ Pancakes, ice cream, doughnuts, scones, o
 Okay! I'm gonna make a whole bunch of things, so please wait for me~!
 {% endbubble %}
 
-### Translation notes:
+<!-- Translation notes -->
 
-**[1]:** Snowball cookies are a kind of cookie that's usually coated with powdered sugar. I've had them before! They're crunchy and kinda crumbly and with the powdered sugar it really does remind me of a snowball falling apart. They're really easy to make too so I definitely recommend looking up a recipe !!
-
-**[2]:** I don't know how to write sound effects but Niki here tried one of Mayoi's sweets. "Mogumogu" is the japanese onomatopoeia for chewing sounds, so you get the point.
-
-**[3]:** I think some wordplay is coming into the story here, kind of like a pun. HiMERU usually says "HiMERU is HiMERU" to Crazy:B members. So, the phrase "HiMERU is square cream puffs" is a play on that phrase, which Niki reacts in a really funny way to.
+[^1]: Snowball cookies are a kind of cookie that's usually coated with powdered sugar. I've had them before! They're crunchy and kinda crumbly and with the powdered sugar it really does remind me of a snowball falling apart. They're really easy to make too so I definitely recommend looking up a recipe !!
+[^2]: I don't know how to write sound effects but Niki here tried one of Mayoi's sweets. “Mogumogu” is the japanese onomatopoeia for chewing sounds, so you get the point.
+[^3]: I think some wordplay is coming into the story here, kind of like a pun. HiMERU usually says “HiMERU is HiMERU” to Crazy:B members. So, the phrase "HiMERU is square cream puffs" is a play on that phrase, which Niki reacts in a really funny way to.
 
   <!-- CONTENT GOES HERE -->
 

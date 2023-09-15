@@ -237,7 +237,7 @@ description: spider story chapters
   {% bubble Jun %}
     That's a relief. Sakura-kun, you're the youngest in "Crazy:B". So I'm happy you have people around to take care of you.
     
-    Think of it this way: here at Reimei there's not many older students right? It's pretty much the definition of "the law of the jungle"<sup>[1]</sup>.
+    Think of it this way: here at Reimei there's not many older students right? It's pretty much the definition of "the law of the jungle"[^1].
   {% endbubble %}
 
   {% bubble Kohaku %}
@@ -286,10 +286,6 @@ description: spider story chapters
     <th>*(...Well, I guess I'm the same way.)*</th>
   {% endbubble %}
 
-  ### Translation Notes (Chapter 9)
-
-  **[1]:** An expression meaning "everything is free reign, and you can use brute force to get anything you want".
-
   # Chapter 10
   ***
   <div class="msr-narration">
@@ -303,7 +299,7 @@ description: spider story chapters
   {% endbubble %}
 
   {% bubble Kohaku %}
-    <th>*(Nn~...I think I overslept because I was exhausted. Well, I've got work in the evening anyways so there's no issue there, but if I'm waking up in the afternoon it feels like I've lost money<sup>[1]</sup>.)*
+    <th>*(Nn~...I think I overslept because I was exhausted. Well, I've got work in the evening anyways so there's no issue there, but if I'm waking up in the afternoon it feels like I've lost money[^2].)*
 
     <th>*(The day of the costume fitting is finally here at last… I wonder what kind of costume it's gonna be. If it's possible at all I really want it to be something popular with kids instead of horrifying…)*</th>
 
@@ -412,9 +408,10 @@ description: spider story chapters
     Right. I'm in your care, Niki-han.
   {% endbubble %}
 
-  ### Translation Notes (Chapter 10)
+  <!-- Translation Notes (Chapter 10) -->
 
-  **[1]:** Most likely going off the phrase "time is money". He feels like he's wasted time by sleeping in so that's why he thinks he feels he's lost money.
+  [^1]: An expression meaning “everything is free reign, and you can use brute force to get anything you want”.
+  [^2]: Most likely going off the phrase “time is money”. He feels like he's wasted time by sleeping in so that's why he thinks he feels he's lost money.
 
   ### <center> [previous](/2023/06/01/kohakus-sacrifice) | [next](/2023/06/01/if-youre-caught) </center>
 

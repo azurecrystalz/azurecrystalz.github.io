@@ -113,7 +113,7 @@ description: crazy anthem song lyrics
   <small><i>Subject to change.</i></small>
 
   <span style="color: #BA2636;">Put those big dreams in the TRUNK</span>
-  <span style="color: #BA2636;">Once your behind the WHEEL<sup>[1]</sup>, there’s no waiting around</span>
+  <span style="color: #BA2636;">Once your behind the WHEEL[^1], there’s no waiting around</span>
   <span style="color: #89C3EB;">HiMERU</span> + <span style="color: #507EA5;">Niki</span> + <span style="color: #F4B3C2;">Kohaku</span>: It’s fine if people talk nonsense
   <span style="color:#FFD400;">Puff up your chest and drive forward</span>
 
@@ -186,9 +186,9 @@ description: crazy anthem song lyrics
   
   <span style="color: grey">(FOOOO!)</span>
 
-  ### Translation Notes (English Version)
+  <!-- Translation Notes -->
   
-  **[1]:** “HANDLE” is the word that’s sung in ktkn but it doesn’t make sense in eng context so I kept it as “WHEEL”
+  [^1]: “HANDLE” is the word that’s sung in ktkn but it doesn’t make sense in eng context so I kept it as “WHEEL”
 
   ## Romaji Lyrics (Game Ver)
   ***

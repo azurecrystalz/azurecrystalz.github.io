@@ -194,7 +194,7 @@ description: spider chapter translation
   {% endbubble %}
 
   {% bubble Hinata %}
-    It's a lot easier to see when you get used to it. It's a turf game where you take your position and paint<sup>[1]</sup>. Once it's done downloading, do you want to play, Hiiro-kun?
+    It's a lot easier to see when you get used to it. It's a turf game where you take your position and paint[^1]. Once it's done downloading, do you want to play, Hiiro-kun?
   {% endbubble %}
 
   ![me?](https://64.media.tumblr.com/afecbc0854e86149e92e2d3bcaf0ae38/5b9ab7949c23ea34-a1/s2048x3072/1b462702c7f59fa7eadd7d9b430eddfcbae1e897.pnj)
@@ -268,9 +268,9 @@ description: spider chapter translation
     No...! There's no way…was Kohaku-chan finally sacrificed?!
   {% endbubble %}
 
-  ### Translation Notes
+ <!-- Translation Notes -->
 
-  **[1]:** I've seen a lot of people say they're playing Splatoon, and tbh I find myself agreeing icb Splatoon is canon in enstars /j
+  [^1]: I've seen a lot of people say they're playing Splatoon, and tbh I find myself agreeing icb Splatoon is canon in enstars /j
 
   ### <center>[directory](/2023/05/27/spider-direc/) | [next](/2023/06/01/one-day-friday/)</center>
   <!-- CONTENT GOES HERE -->

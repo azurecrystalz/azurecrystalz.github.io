@@ -210,7 +210,7 @@ description: spider story chapters
   {% endbubble %}
 
   {% bubble Niki %}
-    Thank you, Anzu-nee-san<sup>[1]</sup>!
+    Thank you, Anzu-nee-san[^1]!
     
     —Nn? Hmm?
   {% endbubble %}
@@ -321,9 +321,9 @@ description: spider story chapters
     Anzu-san, apologies for the inconvenience, but you can start with HiMERU and Shiina first.
   {% endbubble %}
 
-  ### Translation Notes (Chapter 11)
+  ### Translation Notes
 
-  **[1]:** For ppl who didn't know: this is how Niki usually refers to Anzu. It's usually "Nee-san"/"Anzu-nee-san", meant to refer to her as like a sister.
+  [^1]: For ppl who didn't know: this is how Niki usually refers to Anzu. It's usually “Nee-san”/“Anzu-nee-san”, meant to refer to her as like a sister.
 
   As a note, I think the "IT" in the chapter title is referring to a game of tag, and how the person who's doing the chasing is "it"! So in this chapter, Kohaku running after Rinne is "it" and if Rinne gets caught...well the rest of the chapter title explains that perfectly ^^
 

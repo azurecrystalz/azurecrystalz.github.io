@@ -238,7 +238,7 @@ description: kohaku bday translation
 ![matcha](https://64.media.tumblr.com/961b950b4a7e4b2b63cc11a5086f98da/549529c56c7a8a89-9b/s2048x3072/eef350f85d1a0241f6a11ecbbd152c5dbe85b94b.pnj)
 
 {% bubble Kohaku %}
-  There's matcha and genmaicha<sup>[1]</sup>, and that one there is gyukuro<sup>[2]</sup>.....Uuu~n there are more types than I thought.
+  There's matcha and genmaicha[^1], and that one there is gyukuro[^2].....Uuu~n there are more types than I thought.
   
   Nn? The one tapping me on my shoulder is...oh, it's you Anzu-han.
   
@@ -326,7 +326,7 @@ description: kohaku bday translation
           </div>
           <div class="msr-name"></div>
           <div class="msr-line">
-            <p>Koh koh koh♪ If you start talking about next year now, the devil will laugh at ya<sup>[3]</sup>
+            <p>Koh koh koh♪ If you start talking about next year now, the devil will laugh at ya[^3]
             </p>
             <p>
             But, you're right. I'll give it my all so that next year, we can spend our time like this again.
@@ -370,7 +370,7 @@ description: kohaku bday translation
   <img src="https://64.media.tumblr.com/e1901a7e88d448f68ac097f5eb271b48/25bdc30f8ee434be-c0/s2048x3072/b64cf5456ca9a24bd6beb50fe3cb5222ac1ebfcc.pnj">
 </div>
 
-**_Picture Left:_** I'm glad there's a lot of wagashi<sup>[4]</sup> here~
+**_Picture Left:_** I'm glad there's a lot of wagashi[^4] here~
 **_Picture Right:_** I've gone through a lot so I'll eat lots of food
 
 ### Shiratori Aira
@@ -460,12 +460,11 @@ description: kohaku bday translation
   I know I may not be the best idol out there, but I'm looking forward to continue working with everyone.
 {% endbubble %}
 
-### Translation Notes
-
-**[1]:** A type of green tea with roasted brown rice in it!
-**[2]:** A darker type of green tea!
-**[3]:** An idom meaning "it's a bit foolish to try to predict the future"!
-**[4]:** Japanese sweets usually made of mochi and served with green tea.
+<!-- Translation Notes -->
+[^1]: A type of green tea with roasted brown rice in it!
+[^2]: A darker type of green tea!
+[^3]: An idom meaning “it's a bit foolish to try to predict the future”!
+[^4]: Japanese sweets usually made of mochi and served with green tea.
 
   <!-- CONTENT GOES HERE -->
 
