@@ -151,6 +151,12 @@ description: kohaku bday translation
 .use-motion .post-block, .use-motion .pagination, .use-motion .comments {
     visibility: hidden;
 }
+[character="Anzu"] {
+  --color: #ffb6da;
+  --hue: 330.4;
+  --name: "Anzu";
+  --charahead: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/anzu_charahead.png");
+}    
   </style>
 
 ## Party Opening

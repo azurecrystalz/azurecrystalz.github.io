@@ -154,6 +154,12 @@ blockquote {
 .msr-line {
       margin-bottom:10px;
     }
+    [character="Anzu"] {
+  --color: #ffb6da;
+  --hue: 330.4;
+  --name: "Anzu";
+  --charahead: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/anzu_charahead.png");
+}    
   </style>
 
 ## Party Opening
