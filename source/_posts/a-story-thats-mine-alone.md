@@ -1,6 +1,6 @@
 ---
 title: A Story That's Mine Alone
-date: 2023-05-25 16:23:07
+date: 2050-05-25 16:23:07
 categories:
   - [Enstars, Other Idols]
 tags:

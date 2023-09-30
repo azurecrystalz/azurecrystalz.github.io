@@ -85,7 +85,13 @@ description: rinne bday tls
           margin-left: 70px;
           margin-left: 55px !important;
       }
-    }    
+    }
+    [character="Anzu"] {
+  --color: #ffb6da;
+  --hue: 330.4;
+  --name: "Anzu";
+  --charahead: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/anzu_charahead.png");
+}    
   </style>
 
 

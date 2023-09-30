@@ -1,6 +1,6 @@
 ---
 title: Idol Birthday Translation List
-date: 2023-05-25 21:54:00
+date: 2050-05-25 21:54:00
 categories:
 - Enstars
 tags:
