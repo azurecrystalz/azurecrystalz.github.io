@@ -365,24 +365,6 @@ description: translation masterlist
         </div>
       </a>
     </div>
-    <div class="item" id="hinata" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112498271919812759/hina_fs.webp?width=1664&height=906');">
-      <a href="/[STORY_URL_HERE]" class="item-container-link">
-        <div class="item-container">
-          <div class="title">
-            <h2>Daybreak Heliolite (Unadded)</h2>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div class="item" id="yuuta" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112497800547147958/IMG_5026.png?width=1664&height=794');">
-      <a href="/[STORY_URL_HERE]" class="item-container-link">
-        <div class="item-container">
-          <div class="title">
-            <h2>Twilight Malachite (Unadded)</h2>
-          </div>
-        </div>
-      </div>
-    </a>
   </div>
   <h2>Featured Scout Stories: Series 2</h2>
   <!-- other things can go in this div -->

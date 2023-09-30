@@ -304,7 +304,7 @@ description: n8 chapter directory
               <a href="/2023/06/01/n8-prologue/" id="none">Prologue</a>
             </li>
             <li>
-              <a href="/#" id="none">Take a Chance</a>
+              <a href="/2023/09/30/take-a-chance" id="none">Take a Chance</a>
             </li>
             <li>
               <a href="/#" id="none">Tripping</a>
