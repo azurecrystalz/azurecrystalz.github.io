@@ -9,7 +9,7 @@
     "server": "hexo server -p 3000"
   },
   "hexo": {
-    "version": "7.0.0-rc1"
+    "version": "6.3.0"
   },
   "dependencies": {
     "colorjs.io": "^0.4.3",

@@ -139,7 +139,7 @@ description: n8 story section take a chance
     }
 }    
   </style>
-<a href="#1"><b>Ch. 1</b></a>
+<h3><a href="#1"><b>Ch. 1</b></a></h3>
 
   ***
 <h2 id="1">Chapter 1</h2>
