@@ -147,7 +147,7 @@ description: n8 story section take a chance
 ![niki](https://media.discordapp.net/attachments/1107908793259524108/1157775462408409128/IMG_8221.png?ex=6519d5ec&is=6518846c&hm=19956ae3eaeaa8181deb2ef8db8571e6d2ed89f58c4ee0b1a0960cff9dcfa2ad&=&width=1410&height=652)
 
   {% bubble Niki wint_no %}
-    <audio controls><source src="https://cdn.discordapp.com/attachments/1115033531672969299/1157749033612357712/niki_scream.mp3" type="audio/mpeg"></audio>
+    <audio controls src="https://cdn.discordapp.com/attachments/1115033531672969299/1157749033612357712/niki_scream.mp3"><a href="https://cdn.discordapp.com/attachments/1115033531672969299/1157749033612357712/niki_scream.mp3">download niki's scream :3</a></audio>
 
     WaaaaaaAAAAAAA*AAAAHHH!*
     
