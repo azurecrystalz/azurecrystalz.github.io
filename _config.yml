@@ -118,5 +118,5 @@ theme: vivia
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:azurecrystalz/azurecrystalz.github.io.git
+  repo: https://github.com:azurecrystalz/azurecrystalz.github.io.git
   branch: gh-pages
