@@ -30,6 +30,7 @@
     "hexo-theme-vivia": "^0.1.6",
     "hexo-word-counter": "^0.1.0",
     "js-yaml": "^4.1.0",
-    "sass": "^1.62.1"
+    "sass": "^1.62.1",
+    "word-count": "^0.2.2"
   }
 }
