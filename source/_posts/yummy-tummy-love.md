@@ -97,103 +97,103 @@ description: niki solo translation
 
   ### English Translation
   ***
-  <span style="color: #507EA5;">Please come this way</span>
-  <span style="color: #507EA5;">I want to see your expressions more</span>
+  <span style="color: #768ecc;">Please come this way</span>
+  <span style="color: #768ecc;">I want to see your expressions more</span>
 
-  <span style="color: #507EA5;">I'm always excited to hear your ORDERS, that kind of PATTERN makes me hungry</span>
-  <span style="color: #507EA5;">Making people feel satisfied takes a lot of ENERGY, you know</span>
-  <span style="color: #507EA5;">If I'm taking your love and making you feel satisfied, then I'm happy</span>
-  <span style="color: #507EA5;">If this song can fill up your HEART, then that would be the best!</span>
+  <span style="color: #768ecc;">I'm always excited to hear your ORDERS, that kind of PATTERN makes me hungry</span>
+  <span style="color: #768ecc;">Making people feel satisfied takes a lot of ENERGY, you know</span>
+  <span style="color: #768ecc;">If I'm taking your love and making you feel satisfied, then I'm happy</span>
+  <span style="color: #768ecc;">If this song can fill up your HEART, then that would be the best!</span>
 
-  <span style="color: #507EA5;">Happy・Yummy・Tummy・LOVE!! Whenever you'd like,
+  <span style="color: #768ecc;">Happy・Yummy・Tummy・LOVE!! Whenever you'd like,
   find me anywhere, anytime, always
   Happy・Yummy・Tummy・LOVE!! You can let yourself loose
   You can eat too much, I know that feeling
   Please don't hesitate to ask for seconds </span> <span style="color: grey;">(Don't hesitate)</span>
-  <span style="color: #507EA5;">All your energy will be RECHARGED</span> <span style="color: grey;">(CHARGED)</span>
-  <span style="color: #507EA5;">Happy・Yummy・Tummy・LOVE!! Your seat is always open
+  <span style="color: #768ecc;">All your energy will be RECHARGED</span> <span style="color: grey;">(CHARGED)</span>
+  <span style="color: #768ecc;">Happy・Yummy・Tummy・LOVE!! Your seat is always open
   24 hours, so thank you for making a reservation today~</span>
 
-  <span style="color: #507EA5;">The moment you have everything, you suddenly care about being greedy</span>
-  <span style="color: #507EA5;">But you're cute when you're greedy, don't listen to those thoughts, seriously</span>
-  <span style="color: #507EA5;">I'll sing out loud with all my love I hope that it'll fill your belly</span>
-  <span style="color: #507EA5;">As thanks for you giving my voice this magic power!</span>
+  <span style="color: #768ecc;">The moment you have everything, you suddenly care about being greedy</span>
+  <span style="color: #768ecc;">But you're cute when you're greedy, don't listen to those thoughts, seriously</span>
+  <span style="color: #768ecc;">I'll sing out loud with all my love I hope that it'll fill your belly</span>
+  <span style="color: #768ecc;">As thanks for you giving my voice this magic power!</span>
 
-  <span style="color: #507EA5;">Happy・Yummy・Tummy・SMILE!! That's today's mood
+  <span style="color: #768ecc;">Happy・Yummy・Tummy・SMILE!! That's today's mood
   Tell me what you'd like, always
   Happy・Yummy・Tummy・SMILE!! I really want to answer
   all your selfish REQUESTS, and your burnt order slips
   Please have this spirit-raising MELODY</span> <span style="color: grey;">(Have this)</span>
-  <span style="color: #507EA5;">It'll boost your CALORIES and CHARGE your excitement</span> <span style="color: grey;">(CHARGE)</span>
-  <span style="color: #507EA5;">Happy・Yummy・Tummy・LOVE!! Your smile
+  <span style="color: #768ecc;">It'll boost your CALORIES and CHARGE your excitement</span> <span style="color: grey;">(CHARGE)</span>
+  <span style="color: #768ecc;">Happy・Yummy・Tummy・LOVE!! Your smile
   makes me happy, and excited, so today I'll work really hard!</span>
 
-  <span style="color: #507EA5;">Happy・Yummy・Tummy・LOVE!! For 24 hours,
+  <span style="color: #768ecc;">Happy・Yummy・Tummy・LOVE!! For 24 hours,
   Please let me sing
   Happy・Yummy・Tummy・SMILE!! I want to fill
   Your heart up everyday!</span>
 
-  <span style="color: #507EA5;">Happy・Yummy・Tummy・LOVE!! Whenever you'd like,
+  <span style="color: #768ecc;">Happy・Yummy・Tummy・LOVE!! Whenever you'd like,
   find me anywhere, anytime, always
   Happy・Yummy・Tummy・LOVE!! You can let yourself loose
   You can eat too much, I know that feeling
   Please don't hesitate to ask for seconds </span> <span style="color: grey;">(Don't hesitate)</span>
-  <span style="color: #507EA5;">All your energy will be RECHARGED</span> <span style="color: grey;">(CHARGED)</span>
-  <span style="color: #507EA5;">Happy・Yummy・Tummy・LOVE!! Your seat is always open
+  <span style="color: #768ecc;">All your energy will be RECHARGED</span> <span style="color: grey;">(CHARGED)</span>
+  <span style="color: #768ecc;">Happy・Yummy・Tummy・LOVE!! Your seat is always open
   24 hours, so thank you for making a reservation today~</span>
 
-  <span style="color: #507EA5;">Please come this way</span>
-  <span style="color: #507EA5;">I want to see your expressions more</span>
+  <span style="color: #768ecc;">Please come this way</span>
+  <span style="color: #768ecc;">I want to see your expressions more</span>
 
   ### Japanese Lyrics
   ***
-  <span style="color: #507EA5;">こちらへどうぞ</span>
-  <span style="color: #507EA5;">もっと表情-かお-を見せてほしいな</span>
+  <span style="color: #768ecc;">こちらへどうぞ</span>
+  <span style="color: #768ecc;">もっと表情-かお-を見せてほしいな</span>
 
-  <span style="color: #507EA5;">キミのORDER心待ちにしてこっちがお腹減っちゃうPATTERN</span>
-  <span style="color: #507EA5;">それくらい誰かオモウ気持ちってなかなかENERGYいるよね</span>
-  <span style="color: #507EA5;">受け取ってますキミの愛僕が満たせたらナニヨリ</span>
-  <span style="color: #507EA5;">この歌でふくらむHEARTがあるってスゴイことだ!</span>
+  <span style="color: #768ecc;">キミのORDER心待ちにしてこっちがお腹減っちゃうPATTERN</span>
+  <span style="color: #768ecc;">それくらい誰かオモウ気持ちってなかなかENERGYいるよね</span>
+  <span style="color: #768ecc;">受け取ってますキミの愛僕が満たせたらナニヨリ</span>
+  <span style="color: #768ecc;">この歌でふくらむHEARTがあるってスゴイことだ!</span>
 
-  <span style="color: #507EA5;">Happy・Yummy・Tummy・LOVE!! お気に召すまま
+  <span style="color: #768ecc;">Happy・Yummy・Tummy・LOVE!! お気に召すまま
   僕のこと, 求めてよ, いつでも！
   Happy・Yummy・Tummy・LOVE!! 夢中になって
   食べ過ぎちゃうそういうのめちゃくちゃわかるし
   遠慮せずにおかわりどうぞ</span> <span style="color: grey;">(どうぞ)</span>
-  <span style="color: #507EA5;"> 即効性の元気をCHARGE</span> <span style="color: grey;">(CHARGE)</span>
-  <span style="color: #507EA5;">Happy・Yummy・Tummy・LOVE!! 24時間
+  <span style="color: #768ecc;"> 即効性の元気をCHARGE</span> <span style="color: grey;">(CHARGE)</span>
+  <span style="color: #768ecc;">Happy・Yummy・Tummy・LOVE!! 24時間
   キミの席空けとくね, 本日もご予約どうも</span>
 
-  <span style="color: #507EA5;">あれもこれもテンコ盛りでいいじゃん急にゲンジツ気にしてみたり</span>
-  <span style="color: #507EA5;">欲張りなところも可愛いんだって聞き流さないでよホントなんだ</span>
-  <span style="color: #507EA5;">歌います僕の愛お腹いっぱいにあげたいな</span>
-  <span style="color: #507EA5;">この声に不思議なチカラくれたお返しに！</span>
+  <span style="color: #768ecc;">あれもこれもテンコ盛りでいいじゃん急にゲンジツ気にしてみたり</span>
+  <span style="color: #768ecc;">欲張りなところも可愛いんだって聞き流さないでよホントなんだ</span>
+  <span style="color: #768ecc;">歌います僕の愛お腹いっぱいにあげたいな</span>
+  <span style="color: #768ecc;">この声に不思議なチカラくれたお返しに！</span>
 
-  <span style="color: #507EA5;">Happy・Yummy・Tummy・SMILE!! 日替わりの気分
+  <span style="color: #768ecc;">Happy・Yummy・Tummy・SMILE!! 日替わりの気分
   お望みを, 聞かせてよ, いつでも！
   Happy・Yummy・Tummy・SMILE!! 応えたいんだ
   ワガママな, REQUEST, 燃えてくるショーブン
   うきうきするMELODYをどうぞ</span> <span style="color: grey;">(どうぞ)</span>
-  <span style="color: #507EA5;">CALORIE 弾むトキメキCHARGE</span> <span style="color: grey;">(CHARGE)</span>
-  <span style="color: #507EA5;">Happy・Yummy・Tummy・LOVE!! キミの笑顔が
+  <span style="color: #768ecc;">CALORIE 弾むトキメキCHARGE</span> <span style="color: grey;">(CHARGE)</span>
+  <span style="color: #768ecc;">Happy・Yummy・Tummy・LOVE!! キミの笑顔が
   うれしくてヤミツキで本日も張り切っちゃうね</span>
 
-  <span style="color: #507EA5;">Happy・Yummy・Tummy・LOVE！！ 24時間
+  <span style="color: #768ecc;">Happy・Yummy・Tummy・LOVE！！ 24時間
   歌わせてほしいよ
   Happy・Yummy・Tummy・SMILE！！　キミのHEARTを
   毎日満たしてあげたい</span>
 
-  <span style="color: #507EA5;">Happy・Yummy・Tummy・LOVE!! お気に召すまま
+  <span style="color: #768ecc;">Happy・Yummy・Tummy・LOVE!! お気に召すまま
   僕のこと, 求めてよ, いつでも！
   Happy・Yummy・Tummy・LOVE!! 夢中になって
   食べ過ぎちゃうそういうのめちゃくちゃわかるし
   遠慮せずにおかわりどうぞ</span> <span style="color: grey;">(どうぞ)</span>
-  <span style="color: #507EA5;"> 即効性の元気をCHARGE</span> <span style="color: grey;">(CHARGE)</span>
-  <span style="color: #507EA5;">Happy・Yummy・Tummy・LOVE!! 24時間
+  <span style="color: #768ecc;"> 即効性の元気をCHARGE</span> <span style="color: grey;">(CHARGE)</span>
+  <span style="color: #768ecc;">Happy・Yummy・Tummy・LOVE!! 24時間
   キミの席空けとくね, 本日もご予約どうも</span>
 
-  <span style="color: #507EA5;">こちらへどうぞ</span>
-  <span style="color: #507EA5;">もっと表情-かお-を見せてほしいな</span>
+  <span style="color: #768ecc;">こちらへどうぞ</span>
+  <span style="color: #768ecc;">もっと表情-かお-を見せてほしいな</span>
 
   ### Romaji Lyrics
   ***
