@@ -293,7 +293,8 @@ description: rinne ts2 5* translation
   </div>
 <!-- more -->
 <h2><a href="#1"><b>Ch. 1</b></a></h2>
-  ***
+
+***
 <h3 id="1">Chapter 1</h3>
   <!-- CONTENT GOES HERE -->
   <sup><i>proofread by <a href="https://www.tumblr.com/starswallowingsea">shay</a></i></sup>
@@ -328,7 +329,7 @@ description: rinne ts2 5* translation
   {% endbubble %}
 
   {% bubble Kanata %}
-    Is that so~ Well the key to “Yakizakana”(1) *is* a “strong heat”. If you do that, then the fish’s outside will be browned and the inside will be soft.
+    Is that so~ Well the key to “Yakizakana" [^1] *is* a “strong heat”. If you do that, then the fish’s outside will be browned and the inside will be soft.
   {% endbubble %}
 
   {% bubble Chiaki %}
@@ -336,7 +337,9 @@ description: rinne ts2 5* translation
   {% endbubble %}
 
   {% bubble Kanata %}
-    Yes. Like that, we’ll wait for it to cook “slowly”~ / While you’re waiting for it to cook…you can’t move right? Is there anything I can help you with?
+    Yes. Like that, we’ll wait for it to cook “slowly”~
+    
+    While you’re waiting for it to cook…you can’t move right? Is there anything I can help you with?
   {% endbubble %}
 
   {% bubble Chiaki %}
@@ -356,7 +359,9 @@ description: rinne ts2 5* translation
   {% endbubble %}
 
   {% bubble Chiaki %}
-    There’s more to growing than just being taller. Not only that, people are always changing. /  With a balanced diet and consistent lifestyle, we can keep growing!
+    There’s more to growing than just being taller. Not only that, people are always changing.
+    
+    With a balanced diet and consistent lifestyle, we can keep growing!
   {% endbubble %}
 
 <div class="msr-narration">
@@ -553,7 +558,7 @@ description: rinne ts2 5* translation
     I’ll just sleep again until Blomary-chan wakes up.
   {% endbubble %}
 
-  (1): A specialty grilled fish dish usually served with a bowl of rice and miso soup!
+  [^1]: A specialty grilled fish dish usually served with a bowl of rice and miso soup!
   (2): The next few dialogue lines about Kanata being the god of gambling is a reference to “Please, God” (Rinne’s ES2 4* story!) which you can find a translation by me for [here](https://azurecrystalz.github.io/2050/05/16/please-god/)!
   (3): Hiyori uses a conversational idiom, 耳が痛い/”mimi ga itai”, here! It literally means “hurts my ears”, but the figurative meaning is used to describe something that’s true but painful. Kinda like “hits close to home” or “a pill that's hard to swallow”.
   (4): Rinne’s nickname for Bloody Mary! Blomary, a combination of both names.
