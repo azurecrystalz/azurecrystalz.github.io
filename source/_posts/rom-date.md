@@ -288,8 +288,10 @@ description: romantic date tls
 <!-- more -->
 
 <div style="margin-top: 3%">
+<h2><a href="#1"><b>Ch. 1</b></a> | <a href="#2"><b>Ch. 2</b></a> | <a href="#3"><b>Ch. 3</b></a></h2>
 
-  # Chapter 1
+***
+<h3 id="1">Chapter 1</h3>
   <div class="msr-narration">
     <p>February, during the Valentine's Day season, in a rather dirty back alley.</p>
   </div>
@@ -418,8 +420,9 @@ description: romantic date tls
     Agreed...ah, I'm a bit troubled. Our current job is to "act as characters in a dating simulator".
   {% endbubble %}
 
-  # Chapter 2
-  
+<h3 id="2">Chapter 2</h3>
+
+***
   ![nowthen](https://64.media.tumblr.com/0a44c44a65c643eaeb035c8aa49cecee/b3c7a6f0aee838a7-cc/s2048x3072/dd3b49fcaed139aed5aa9cd086ce0ab455df8146.pnj)
 
   {% bubble HiMERU %}
@@ -552,7 +555,9 @@ description: romantic date tls
     ...Yes. Unfortunately.
   {% endbubble %}
 
-  # Chapter 3
+<h3 id="3">Chapter 3</h3>
+
+***
 
   > ***Content Warning:** Mentions/implications of incest.*
 
