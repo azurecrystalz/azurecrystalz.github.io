@@ -99,7 +99,7 @@ description: n8 chapter directory
       <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1113244147894202378/37D0250A-140F-487A-97F0-907497E9E01E.jpg')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
-              <div class="title-area__title">Number Eight</div>
+              <div class="title-area__title">Number Eight (2/17)</div>
               <div class="title-area__subtitle">ナンバーエイト</div>
               <div class="title-area__start"><a href="/2023/05/30/number-eight/">Start Reading</a></div>
           </div>
@@ -208,7 +208,7 @@ description: n8 chapter directory
         </div>
       </div>
       <div class="title-area">
-        <div class="title-area__title">Number Eight</div>
+        <div class="title-area__title">Number Eight (2/17)</div>
         <div class="title-area__subtitle">ナンバーエイト</div>
         <div class="title-area__start">
           <a href="/2023/05/30/number-eight/">Start Reading</a>

@@ -95,7 +95,7 @@ description: rinne ts2 5* translation
       <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1699047762/enstars/card%20sized/awlyyv5r06mdrmzqekm1.png')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
-              <div class="title-area__title">Banquet of a Shrouded Moon</div>
+              <div class="title-area__title">Banquet of a Shrouded Moon (1/6)</div>
               <div class="title-area__subtitle">月隠れの宴</div>
               <div class="title-area__start"><a href="/2050/11/03/moon-banquet/">Start Reading</a></div>
           </div>
@@ -211,7 +211,7 @@ description: rinne ts2 5* translation
         </div>
       </div>
       <div class="title-area">
-        <div class="title-area__title">Banquet of a Shrouded Moon</div>
+        <div class="title-area__title">Banquet of a Shrouded Moon (1/6)</div>
         <div class="title-area__subtitle">月隠れの宴</div>
         <div class="title-area__start">
           <a href="/2023/11/03/moon-banquet/">Start Reading</a>
