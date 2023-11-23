@@ -157,8 +157,9 @@ description: himeru fs1 translation
 }    
   </style>
 
-  # Chapter 1
+<h2>Chapter 1</h2>
 
+***
   ![werewolf](https://media.discordapp.net/attachments/1107908793259524108/1126371116777230336/IMG_6433.png?width=1822&height=842)
 
   {% bubble HiMERU %}
