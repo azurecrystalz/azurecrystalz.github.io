@@ -152,7 +152,7 @@ description: n8 story section take a chance
 
     WaaaaaaAAAAAAA*AAAAHHH!*
     
-    We’re falling, we’re falling, we’re *falling!* Please, hurry up and open the parachute already![^1]
+    We’re falling, we’re falling, we’re *falling!* Please, hurry up and open the parachute already!(1)
     
     Huh, I can’t understand what you’re saying! I’m done for, this is *seriously* the end!
     
@@ -272,7 +272,7 @@ description: n8 story section take a chance
   {% bubble HiMERU wint_neutral %}
     Amagi, do you even have a passport?
 
-    Shiina has gone abroad to gather ingredients, and Oukawa has gone abroad to attend “IFF”[^2]. So, that would leave you being the only one with no experience abroad, Amagi.
+    Shiina has gone abroad to gather ingredients, and Oukawa has gone abroad to attend “IFF”(2). So, that would leave you being the only one with no experience abroad, Amagi.
 
     It’s hardly been a day since the offer was extended to us, so your passport couldn’t have been issued on the same day, correct?
   {% endbubble %}
@@ -330,7 +330,7 @@ description: n8 story section take a chance
   {% bubble Kohaku wint_nerv_laugh %}
     Ah…right. I guess it *is* kinda motivating when a job is convenient isn’t it?
     
-    Well, Niki-han, you’ve always been the type to prefer dangos over flowers[^3]. Even if I brought you a bit of a sweet treat and accidentally hurt ya, you wouldn’t be angry with me…
+    Well, Niki-han, you’ve always been the type to prefer dangos over flowers(3). Even if I brought you a bit of a sweet treat and accidentally hurt ya, you wouldn’t be angry with me…
   {% endbubble %}
 
   ![haku](https://media.discordapp.net/attachments/1107908793259524108/1157775463599570944/IMG_8277.png?ex=6519d5ec&is=6518846c&hm=ac0b04eb370f2e769c9d8a942f56c2e5beb22d2f6c58a0b91dae583d891a77cb&=&width=1410&height=652)
@@ -549,16 +549,15 @@ description: n8 story section take a chance
     If you’ve got no more complaints left, then let’s go. First stop, “Getting some lunch”!
   {% endbubble %}
 
-### Tranlsation Notes Take a Chance Ch2
+  <!-- Translation Notes -->
+  ### Tranlsation Notes Take a Chance Ch1
+  (1): Niki is talking to a skydiving instructor here I believe
+  (2): Short for “Idol Film Festival”! This was the festival that took place during the movie “Road to Show”, and it's been referenced in Spring Evenings Respite too!
+  (3): An idiom basically meaning that something doesn’t have to look good for it to actually be good. It’s a bit of an optimistic expression :D !!
+  ### Tranlsation Notes Take a Chance Ch2
   (4): Homophone! “Eight” and “bee” in japanese are both pronounced “hachi”! This kind of reference has been hat-tipped a few times in enstars, but one of the most memorable to me is the fact that Crazy:B’s TRIP album campaign ended on 08.08.2023 !!
   (5): Niki here is trying to echo HiMERU saying “compliance”/“konpuraiansu” (written in ktkn), but ended up thinking he meant “kelp”/”konbu”. so in the textbox he’s like “konpu…konbu?”
   (6): 生殺与奪の権を握る - literally meaning “holding power over life and death” but figuratively means “to have full power over a person”. Someone might use this expression to say something like “don’t let others have the power to control your life”, that kinda thing. In context, I think Niki here intends to say that he wouldn’t have accepted if Rinne was gonna control what he did.
-
-
-  <!-- Translation Notes -->
-  [^1]: Niki is talking to a skydiving instructor here I believe
-  [^2]: Short for “Idol Film Festival”! This was the festival that took place during the movie “Road to Show”, and it's been referenced in Spring Evenings Respite too!
-  [^3]: An idiom basically meaning that something doesn’t have to look good for it to actually be good. It’s a bit of an optimistic expression :D !!
 
 
   <!-- CONTENT GOES HERE -->
