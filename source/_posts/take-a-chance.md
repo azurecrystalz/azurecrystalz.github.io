@@ -388,7 +388,7 @@ description: n8 story section take a chance
   {% endbubble %}
 
   {% bubble Niki %}
-    What a clever name~. Were we called here since “bee” and “eight” are the same?(4)
+    What a clever name~. Were we called here since “bee” and “eight” are the same?[^4]
   {% endbubble %}
 
   {% bubble HiMERU %}
@@ -481,7 +481,7 @@ description: n8 story section take a chance
 
 ![konbu](https://res.cloudinary.com/djq41tb84/image/upload/v1700613626/enstars/dialogue/number%208/take%20a%20chance/ch%202/giqu6xwx2fsj1icuaxav.png)
   {% bubble Niki %}
-    Comp–kelp(5)? Sounds like the name of an all-new spice.
+    Comp–kelp[^5]? Sounds like the name of an all-new spice.
   {% endbubble %}
 
   {% bubble HiMERU %}
@@ -540,7 +540,7 @@ description: n8 story section take a chance
   {% bubble Niki %}
     N-no way! I really *don’t!*
     
-    Ugh. If I’d known Rinne-kun would be holding my life in his hands(6), then I *never* would’ve agreed to this job…!
+    Ugh. If I’d known Rinne-kun would be holding my life in his hands[^6], then I *never* would’ve agreed to this job…!
   {% endbubble %}
 
   {% bubble Rinne %}
@@ -554,10 +554,9 @@ description: n8 story section take a chance
   [^1]: Niki is talking to a skydiving instructor here I believe
   [^2]: Short for “Idol Film Festival”! This was the festival that took place during the movie “Road to Show”, and it's been referenced in Spring Evenings Respite too!
   [^3]: An idiom basically meaning that something doesn’t have to look good for it to actually be good. It’s a bit of an optimistic expression :D !!
-  ### Tranlsation Notes Take a Chance Ch2
-  (4): Homophone! “Eight” and “bee” in japanese are both pronounced “hachi”! This kind of reference has been hat-tipped a few times in enstars, but one of the most memorable to me is the fact that Crazy:B’s TRIP album campaign ended on 08.08.2023 !!
-  (5): Niki here is trying to echo HiMERU saying “compliance”/“konpuraiansu” (written in ktkn), but ended up thinking he meant “kelp”/”konbu”. so in the textbox he’s like “konpu…konbu?”
-  (6): 生殺与奪の権を握る - literally meaning “holding power over life and death” but figuratively means “to have full power over a person”. Someone might use this expression to say something like “don’t let others have the power to control your life”, that kinda thing. In context, I think Niki here intends to say that he wouldn’t have accepted if Rinne was gonna control what he did.
+  [^4]: Homophone! “Eight” and “bee” in japanese are both pronounced “hachi”! This kind of reference has been hat-tipped a few times in enstars, but one of the most memorable to me is the fact that Crazy:B’s TRIP album campaign ended on 08.08.2023 !!
+  [^5]: Niki here is trying to echo HiMERU saying “compliance”/“konpuraiansu” (written in ktkn), but ended up thinking he meant “kelp”/”konbu”. so in the textbox he’s like “konpu…konbu?”
+  [^6]: 生殺与奪の権を握る - literally meaning “holding power over life and death” but figuratively means “to have full power over a person”. Someone might use this expression to say something like “don’t let others have the power to control your life”, that kinda thing. In context, I think Niki here intends to say that he wouldn’t have accepted if Rinne was gonna control what he did.
 
 
   <!-- CONTENT GOES HERE -->
