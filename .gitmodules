@@ -1,4 +1,4 @@
 [submodule "azurecrystalz.github.io"]
-        path = https://github.com/azurecrystalz/azurecrystalz.github.io.git
+        path = azurecrystalz.github.io/azurecrystalz.github.io
         url = https://github.com/azurecrystalz/azurecrystalz.github.io
         branch = main
