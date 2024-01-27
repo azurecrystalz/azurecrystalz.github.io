@@ -102,6 +102,9 @@ description: idol bday masterlist
         margin-left: 55px !important;
     }
 }    
+blockquote{
+  margin-bottom: 20px;
+}
   </style>
 
 ## Idol Birthdays (7th-8th Anniv Year)
@@ -125,7 +128,7 @@ description: idol bday masterlist
 
 ![imghimeru](https://media.discordapp.net/attachments/1107908793259524108/1126535661588074676/IMG_6501.png?width=1822&height=842)
 
-> [***Happy Birthday HiMERU!!***](/2023/07/06/himeru-bday-2023/)
+> ***Happy Birthday HiMERU!!***
 > *"Fufu. Thank you for all the kind wishes. HiMERU is always happy to hear from you."*
 
   <!-- CONTENT GOES HERE -->

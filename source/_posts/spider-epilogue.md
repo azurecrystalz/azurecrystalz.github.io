@@ -85,6 +85,7 @@ description: spider chapter translations
       color: #fff;
     }
     blockquote {
+      height: 48px;
       margin-bottom: 12px;
     }
     [character] {
@@ -152,6 +153,7 @@ description: spider chapter translations
   </style>
 
   # Epilogue
+  <sup><i>mp3 audio is only available on laptop!</i></sup>
   ***
 
   <div class="msr-narration">
