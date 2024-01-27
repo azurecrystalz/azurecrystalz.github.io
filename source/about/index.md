@@ -4,11 +4,12 @@ date: 2023-05-15 12:03:18
 description: about me and the site
 ---
 
-***This website is currently in the process of having things transferred from tumblr + proofread. My old masterlist is still up if you want to read the unproofed versions of my tls.***
+Hi I'm Aurora, I'm a CrazywinkP that loves them sooosososo much. I translate mostly Crazy:B content, though you may see me add things for 2wink or for other idols that I'm biased towards. I'm a university student with a work-heavy unpaid internship, so my translation updates may be spotty based on my motivation + workload.
+
+I used to take translation requests, but I've decided to indefinitely not do that mostly because of the school + work things. That being said, I will ignore any asks in my curiouscat/tmblr inbox asking me to translate specific stories or to open requests again.
 
 Just a heads up: I try to get as close to colloquial English as possible when translating to practice my English too, so some sentences may deviate a bit from the original text.
 
-You're more than welcome to join my [archive discord](https://t.co/uCDQXfvgF8)! Apart from the fact that I use it to store tls/update ppl with new chapters and stuff, it's a cool place to hang out!
 ***
 #### Special Shoutouts
 > I wish I could make a whole separate page for this because she definitely deserves it but this is a special shout out to [son](https://twitter.com/HELLOGlRLS) for setting this whole website up, being patient with me, and just. putting in a lot of effort in general into helping me out KJHSDF shout out to you son I can't thank you enough for your help!
