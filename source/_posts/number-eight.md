@@ -13,7 +13,7 @@ description: n8 chapter directory
 
 <style>
     .chapter-area li {
-      background-color: #704d56;
+      background-color: #1a222b;
       border-radius: 3px;
       transition: background-color 0.2s;
     }
@@ -22,7 +22,7 @@ description: n8 chapter directory
       color: var(--link);
     }
     .chapter-area li:hover {
-      background-color: #7d3e53;
+      background-color: #374a5d;
     }
     .mt-label {
       margin: 5px;
@@ -99,7 +99,7 @@ description: n8 chapter directory
       <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1113244147894202378/37D0250A-140F-487A-97F0-907497E9E01E.jpg')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
-              <div class="title-area__title">Number Eight (2/17)</div>
+              <div class="title-area__title">Number Eight (WIP: 2/17)</div>
               <div class="title-area__subtitle">ナンバーエイト</div>
               <div class="title-area__start"><a href="/2023/05/30/number-eight/">Start Reading</a></div>
           </div>
@@ -197,18 +197,18 @@ description: n8 chapter directory
   }
 </style>
 
-<div class="story-wrapper mobile-reverse" style="--storyColor: #ec8dab;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
+<div class="story-wrapper mobile-reverse" style="--storyColor: #374a5d;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
   <div class="grid-wrapper">
       <div class="story-background"
       style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1114533379489136711/IMG_5251.png?width=1664&height=768')">
     </div>
-    <div class="story-box" style="background: #62454D">
+    <div class="story-box" style="background: #374a5d">
       <div class="story-cover">
         <div><img src="https://media.discordapp.net/attachments/1110345002015535124/1114533379187155054/ABB10B7D-DE5F-4DC9-9188-AA41D45F8DBD.jpg?width=828&height=1036">
         </div>
       </div>
       <div class="title-area">
-        <div class="title-area__title">Number Eight (2/17)</div>
+        <div class="title-area__title">Number Eight (WIP: 2/17)</div>
         <div class="title-area__subtitle">ナンバーエイト</div>
         <div class="title-area__start">
           <a href="/2023/05/30/number-eight/">Start Reading</a>

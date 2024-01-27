@@ -97,41 +97,6 @@ description: turbulent storm game ver translation
 
 *Romaji to be added.*
 >#### Color Key: <span style="color: #EB6EA0;">Hinata</span>, <span style="color: #00A1E9;">Yuuta</span>, Both
-### Japanese Lyrics (Game Ver)
-***
-<span style="color: #EB6EA0;">打ち寄せる呼び声が聞こえたろ?</span>
-<span style="color: #00A1E9;">夜の汀 -みぎわ‐ から手を伸ばしたとき</span>
-<span style="color: #EB6EA0;">引き留めるんだ昨日のSHADOW</span>
-<span style="color: #00A1E9;">惹きつけるんだ明日のLIGHT</span>
-
-<span style="color: #EB6EA0;">月の引力のようだね</span>
-<span style="color: #00A1E9;">波立たせるこの胸の海原</span>
-
-<span style="color: #EB6EA0;">ああ、強く吹く風は未完成の鼓動を急き立てる</span>
-<span style="color: #00A1E9;">何処へ</span>
-<span style="color: #EB6EA0;">何処へ</span>
-行きたいんだ?
-<span style="color: #EB6EA0;">なんて自問を</span>
-
-(GO AHEAD!) 激しく荒れ狂う CRADLE OF THE DEEP
-過去と未来は逆巻くWAVE
-(GO AHEAD!) 突き抜けて行けよ TURBULENT STORM
-
-<span style="color: #EB6EA0;">見つけたいのならね</span>
-君のFRONTIER
-CROSS THE STORM 超えていけ! 越えていけ! YEAH!
-CROSS THE STORM, YOU CAN CHANGE THE WORLD
-
-海と空との狭間で向かい合った
-もう一人の自分が叫んでる
-
-(GO AHEAD!) 果でなど知らないCRADLE OF THE DEEP
-君が起こすんだ魂のWAVE
-それはぶつかり合うほど高く奔ってく
-both: たどり着けるまでは WE WILL SURVIVE THE STORM
-
-CROSS THE STORM 超えていけ! 越えていけ! YEAH!
-CROSS THE STORM君のFRONTIER
 
 ### English Lyrics (Game Ver)
 ***
@@ -169,6 +134,43 @@ Until we reach it WE WILL SURVIVE THE STORM
 
 CROSS THE STORM Go even farther! Go even farther! YEAH!
 CROSS THE STORM to your FRONTIER
+
+
+### Japanese Lyrics (Game Ver)
+***
+<span style="color: #EB6EA0;">打ち寄せる呼び声が聞こえたろ?</span>
+<span style="color: #00A1E9;">夜の汀 -みぎわ‐ から手を伸ばしたとき</span>
+<span style="color: #EB6EA0;">引き留めるんだ昨日のSHADOW</span>
+<span style="color: #00A1E9;">惹きつけるんだ明日のLIGHT</span>
+
+<span style="color: #EB6EA0;">月の引力のようだね</span>
+<span style="color: #00A1E9;">波立たせるこの胸の海原</span>
+
+<span style="color: #EB6EA0;">ああ、強く吹く風は未完成の鼓動を急き立てる</span>
+<span style="color: #00A1E9;">何処へ</span>
+<span style="color: #EB6EA0;">何処へ</span>
+行きたいんだ?
+<span style="color: #EB6EA0;">なんて自問を</span>
+
+(GO AHEAD!) 激しく荒れ狂う CRADLE OF THE DEEP
+過去と未来は逆巻くWAVE
+(GO AHEAD!) 突き抜けて行けよ TURBULENT STORM
+
+<span style="color: #EB6EA0;">見つけたいのならね</span>
+君のFRONTIER
+CROSS THE STORM 超えていけ! 越えていけ! YEAH!
+CROSS THE STORM, YOU CAN CHANGE THE WORLD
+
+海と空との狭間で向かい合った
+もう一人の自分が叫んでる
+
+(GO AHEAD!) 果でなど知らないCRADLE OF THE DEEP
+君が起こすんだ魂のWAVE
+それはぶつかり合うほど高く奔ってく
+both: たどり着けるまでは WE WILL SURVIVE THE STORM
+
+CROSS THE STORM 超えていけ! 越えていけ! YEAH!
+CROSS THE STORM君のFRONTIER
 
   <!-- CONTENT GOES HERE -->
     

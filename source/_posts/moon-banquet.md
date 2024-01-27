@@ -1,5 +1,5 @@
 ---
-title: Banquet of a Shrouded Moon
+title: Banquet Under a Shrouded Moon
 date: 2050-11-03 17:25:00
 categories:
 - [Enstars, Crazy:B]
@@ -20,10 +20,10 @@ description: rinne ts2 5* translation
 <div style="margin-top: 3%">
   <style>
     .hint--error.hint--top-left:before, .hint--error.hint--top-right:before, .hint--error.hint--top:before {
-    border-top-color: #6a3446;
+    border-top-color: #374a5d;
     }
     .hint--error:after {
-    background-color: #6a3446;
+    background-color: #374a5d;
     text-shadow: 0 -1px 0px #592726;
     }
     [character] {
@@ -95,7 +95,7 @@ description: rinne ts2 5* translation
       <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1699047762/enstars/card%20sized/awlyyv5r06mdrmzqekm1.png')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
-              <div class="title-area__title">Banquet of a Shrouded Moon (1/6)</div>
+              <div class="title-area__title">Banquet Under a Shrouded Moon (WIP: 1/6)</div>
               <div class="title-area__subtitle">月隠れの宴</div>
               <div class="title-area__start"><a href="/2050/11/03/moon-banquet/">Start Reading</a></div>
           </div>
@@ -200,18 +200,18 @@ description: rinne ts2 5* translation
   }
 </style>
 
-<div class="story-wrapper mobile-reverse" style="--storyColor: #ec8dab;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
+<div class="story-wrapper mobile-reverse" style="--storyColor: #374a5d;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
   <div class="grid-wrapper">
       <div class="story-background"
       style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1699048031/enstars/full%20cgs/saxmglsuagozewcx5avc.png')">
     </div>
-    <div class="story-box" style="background: #62454D">
+    <div class="story-box" style="background: #374a5d">
       <div class="story-cover">
         <div><img src="https://res.cloudinary.com/djq41tb84/image/upload/v1699047793/enstars/card%20sized/w01vmgkcpkcabyu48kp2.png">
         </div>
       </div>
       <div class="title-area">
-        <div class="title-area__title">Banquet of a Shrouded Moon (1/6)</div>
+        <div class="title-area__title">Banquet of a Shrouded Moon (WIP: 1/6)</div>
         <div class="title-area__subtitle">月隠れの宴</div>
         <div class="title-area__start">
           <a href="/2023/11/03/moon-banquet/">Start Reading</a>
@@ -329,7 +329,7 @@ description: rinne ts2 5* translation
   {% endbubble %}
 
   {% bubble Kanata %}
-    Is that so~ Well the key to “Yakizakana" [^1] *is* a “strong heat”. If you do that, then the fish’s outside will be browned and the inside will be soft.
+    Is that so~ Well the key to “Yakizakana"<sup>**(1)**</sup> *is* a “strong heat”. If you do that, then the fish’s outside will be browned and the inside will be soft.
   {% endbubble %}
 
   {% bubble Chiaki %}
@@ -347,7 +347,9 @@ description: rinne ts2 5* translation
   {% endbubble %}
 
   {% bubble Kanata %}
-    Understood~ / Chiaki, do you want a “larger” meal?
+    Understood~
+    
+    Chiaki, do you want a “larger” meal?
   {% endbubble %}
 
   {% bubble Chiaki %}
@@ -381,7 +383,7 @@ description: rinne ts2 5* translation
   {% bubble Rinne %}
     Snore…snore… 
     
-    You’ll lose the game if you run away now! I’m going all in! (mumbling in sleep)
+    You’ll lose the game if you run away now! I’m going all in! <i>(mumbling in sleep)</i>
   {% endbubble %}
 
   {% bubble Hiyori %}
@@ -409,7 +411,7 @@ description: rinne ts2 5* translation
   {% bubble Rinne %}
     Yup. There’s not much to do but laze around.
     
-    Just the other day I was going around thinking Kanacchi was the “God of Gambling” and now I’m completely broke (2).
+    Just the other day I was going around thinking Kanacchi was the “God of Gambling” and now I’m completely broke<sup>**(2)**</sup>.
   {% endbubble %}
 
   {% bubble Hiyori %}
@@ -423,7 +425,7 @@ description: rinne ts2 5* translation
   {% endbubble %}
 
   {% bubble Hiyori %}
-    Ugh. Well when you put it like *that*, it’s painfully true(3)...
+    Ugh. Well when you put it like *that*, it’s painfully true<sup>**(3)**</sup>...
   {% endbubble %}
 
   ![poor](https://res.cloudinary.com/djq41tb84/image/upload/v1699641407/enstars/dialogue/shrouded%20moons%20banquet/ifjho8zyn2x7t0cyc94t.png)
@@ -495,7 +497,7 @@ description: rinne ts2 5* translation
   {% endbubble %}
 
   {% bubble Rinne %}
-    Hm? Blomary-chan(4)?
+    Hm? Blomary-chan<sup>**(4)**</sup>?
   {% endbubble %}
 
   {% bubble Hiyori %}
@@ -558,9 +560,14 @@ description: rinne ts2 5* translation
     I’ll just sleep again until Blomary-chan wakes up.
   {% endbubble %}
 
-  [^1]: A specialty grilled fish dish usually served with a bowl of rice and miso soup!
+  <h4>Translation Notes</h4>
+
+  (1): A specialty grilled fish dish usually served with a bowl of rice and miso soup!
+
   (2): The next few dialogue lines about Kanata being the god of gambling is a reference to “Please, God” (Rinne’s ES2 4* story!) which you can find a translation by me for [here](https://azurecrystalz.github.io/2050/05/16/please-god/)!
+
   (3): Hiyori uses a conversational idiom, 耳が痛い/”mimi ga itai”, here! It literally means “hurts my ears”, but the figurative meaning is used to describe something that’s true but painful. Kinda like “hits close to home” or “a pill that's hard to swallow”.
+
   (4): Rinne’s nickname for Bloody Mary! Blomary, a combination of both names.
 
   <!-- 

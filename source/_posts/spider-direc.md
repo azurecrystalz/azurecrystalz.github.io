@@ -16,7 +16,7 @@ description: spider translation directory
 
 <style>
     .chapter-area li {
-      background-color: #704d56;
+      background-color: #1a222b;
       border-radius: 3px;
       transition: background-color 0.2s;
     }
@@ -25,7 +25,7 @@ description: spider translation directory
       color: var(--link);
     }
     .chapter-area li:hover {
-      background-color: #7d3e53;
+      background-color: #374a5d;
     }
     .mt-label {
       margin: 5px;
@@ -216,7 +216,7 @@ description: spider translation directory
       <div class="story-background"
       style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112042501407252672/IMG_4989.png?width=1698&height=784')">
     </div>
-    <div class="story-box" style="background: #62454D">
+    <div class="story-box" style="background: #374a5d">
       <div class="story-cover">
         <div><img src="https://media.discordapp.net/attachments/1110345002015535124/1112041773313822750/IMG_4988.png?width=828&height=1036">
         </div>

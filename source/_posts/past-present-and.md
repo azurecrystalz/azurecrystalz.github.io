@@ -167,7 +167,7 @@ description: himeru fs1 translation
   {% endbubble %}
 
   {% bubble Rinne %}
-    Thaaaat's right. It's a game where you gotta pick out the lying wereworlf among your friends by talking to them.[^1]
+    Thaaaat's right. It's a game where you gotta pick out the lying wereworlf among your friends by talking to them.<sup>**(1)**</sup>
 
     A bunch of guys over at Seisou Hall's common room were playing it a while back and I went ahead and joined, it was pretty fun.
 
@@ -342,7 +342,10 @@ description: himeru fs1 translation
 
 
   <!-- Translation Notes -->
-  [^1]: Other games with this same premise that may make this more familiar include Mafia, Town of Salem, and (most commonly known) Among Us.
+
+<h4>Translation Notes</h4>
+
+  (1): Other games with this same premise that may make this more familiar include Mafia, Town of Salem, and (most commonly known) Among Us.
 
   <!-- CONTENT GOES HERE -->
 

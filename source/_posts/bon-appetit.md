@@ -266,7 +266,7 @@ Ohh, I got a pretty good shot~
 {% endbubble %}
 
 {% bubble Niki %}
-What's with this all of a sudden? Are you posting it to SNS[^1]?
+What's with this all of a sudden? Are you posting it to SNS<sup>**(1)**</sup>?
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -288,7 +288,7 @@ That's true, Nii-san's show was recent. However, is there a specific rule for th
 {% bubble Hinata %}
 No clue. Anzu-san might be looking at the schedule and deciding that way?
 
-...But let's just leave that be for a bit. The pamphlet for the "Feature Live" features a bunch of off-shots[^2] of the idols. I thought having this fun time with Shiina-senpai was the perfect chance for an off-shot picture, so I took one~
+...But let's just leave that be for a bit. The pamphlet for the "Feature Live" features a bunch of off-shots<sup>**(2)**</sup> of the idols. I thought having this fun time with Shiina-senpai was the perfect chance for an off-shot picture, so I took one~
 
 Shiina-senpai, if you're out on your day off, that means you're "off" now, right?
 {% endbubble %}
@@ -342,7 +342,7 @@ Even if they’re just sweets, savor them well, you two~
 ![overworking](https://64.media.tumblr.com/1960133192aad4e6489b44e5b6baa973/269a675dc4112e70-88/s1280x1920/c449c61bdd57dab2606d775659f7a3ee89243f33.png)
 
 {% bubble Niki %}
-(Tomorrow's prep, check. Sweeping the restaurant and keeping the kitchen clean, check. That's pretty much it for work today, all that's left is waiting for Nee-san here--)
+<th>*(Tomorrow's prep, check. Sweeping the restaurant and keeping the kitchen clean, check. That's pretty much it for work today, all that's left is waiting for Nee-san here--)*</th>
 
 --Ah, Nee-san, when did you get here?! Please come in instead of staying by the door!
 
@@ -400,7 +400,7 @@ Sigh. Being optimistic is harder than I thought...
 
 {% bubble Niki %}
 
-  <th>*(...Even when it came to my "personalized outfit"[^3]. I kept talking about cooking, only because it's something I love and am interested in. I couldn't think of any ideas. This time I really want to come up with my own ideas without Nee-san's help, even if it's just a bit.)*</th>
+  <th>*(...Even when it came to my "personalized outfit"<sup>**(3)**. I kept talking about cooking, only because it's something I love and am interested in. I couldn't think of any ideas. This time I really want to come up with my own ideas without Nee-san's help, even if it's just a bit.)*</th>
 {% endbubble %}
 
 {% bubble Niki %}
@@ -410,7 +410,7 @@ Good thing I decided to make a night snack. I'll think about all this once the b
 {% endbubble %}
 
 {% bubble Unknown %}
-Kunkun[^4]... What's that tasty smell?
+Kunkun<sup>**(4)**</sup>... What's that tasty smell?
 {% endbubble %}
 
 {% bubble Niki %}
@@ -436,7 +436,7 @@ Absolutely~ Just sit and wait a sec please, I'll bring it over~
 {% endbubble %}
 
 {% bubble Sora %}
-HiHi~, it's super warm and tasty! Chef Onii-san[^5], you make a really good cook!
+HiHi~, it's super warm and tasty! Chef Onii-san<sup>**(5)**</sup>, you make a really good cook!
 {% endbubble %}
 
 {% bubble Niki %}
@@ -450,7 +450,7 @@ Right now it seems like something is bothering you though, Chef Onii-san.
 ![help](https://64.media.tumblr.com/c1294c45ae72ea1d825bf8c6ab2ad06c/f094a20b3c9210fb-ef/s1280x1920/c4641612d1a331457674024afa97c5376c299849.png)
 
 {% bubble Niki %}
-Mugu!? ...Ngugu, gokun![^6] H-how could you tell?!
+Mugu!? ...Ngugu, gokun!<sup>**(6)**</sup> H-how could you tell?!
 {% endbubble %}
 
 {% bubble Sora %}
@@ -577,12 +577,19 @@ I want to think about everything together while we eat. About a "Feature Live" t
 
 <!-- Translation Notes -->
 
-[^1]: An abbreviation meaning “Social Networking Sites”, social media basically
-[^2]: Hinata calls them off-shots in the dialogue box written in ktkn. The idea of it described in other FS2 stories is that the pamphlet needs candid (in the moment) pictures of idols in their free time.
-[^3]: Referring to his FS1 story. Anzu helped completely with the design.
-[^4]: JP onomatopoeia for “sniff sniff” like taking a short whiff of something.
-[^5]: I think this is the first time Sora has interacted with Niki so for anyone editing the wiki this is the nickname used!
-[^6]: Choking noises, written exactly as shown in the dialogue box (・・；)
+<h4>Translation Notes</h4>
+
+(1): An abbreviation meaning “Social Networking Sites”, social media basically
+
+(2): Hinata calls them off-shots in the dialogue box written in ktkn. The idea of it described in other FS2 stories is that the pamphlet needs candid (in the moment) pictures of idols in their free time.
+
+(3): Referring to his FS1 story. Anzu helped completely with the design.
+
+(4): JP onomatopoeia for “sniff sniff” like taking a short whiff of something.
+
+(5): I think this is the first time Sora has interacted with Niki so for anyone editing the wiki this is the nickname used!
+
+(6): Choking noises, written exactly as shown in the dialogue box (・・；)
 
   <!-- CONTENT GOES HERE -->
 

@@ -222,7 +222,7 @@ description: translation masterlist
   }
   .grid-container {
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 1%;
   }
   .item {

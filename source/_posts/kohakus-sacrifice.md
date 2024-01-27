@@ -192,7 +192,7 @@ description: spider story chapters
   {% endbubble %}
 
   {% bubble Kohaku %}
-    <th>*(Th-that’s true. Up until a few minutes ago, I was doing just fine. Then the second the lights went out, this place turned into that way it was “just like then”[^1]…!)*</th>
+    <th>*(Th-that’s true. Up until a few minutes ago, I was doing just fine. Then the second the lights went out, this place turned into that way it was “just like then”<sup>**(1)**</sup>…!)*</th>
     
     <th>*(Are we **seriously** going to tell 100 stories in a place like **this**? There’s tons of stories about people getting into trouble when telling horror stories like this for laughs, so why on earth are **we** doing it?)*</th>
     
@@ -256,7 +256,7 @@ description: spider story chapters
   {% endbubble %}
 
   {% bubble Rinne %}
-    …*(Gulps)*
+    …<i>(Gulps)</i>
   {% endbubble %}
 
   {% bubble Niki %}
@@ -316,7 +316,7 @@ description: spider story chapters
   ![secretly looks](https://64.media.tumblr.com/83a6c5ddd175d6531cc0b16f573be979/fbaa7f6dcd2d3066-81/s2048x3072/66cd828c4fff9911cb6f3234d4b8a791e2098e8a.pnj)
 
   {% bubble Kohaku %}
-    …*(Secretly looks around)*
+    …<i>(Secretly looks around)</i>
   {% endbubble %}
 
   {% bubble Kohaku %}
@@ -352,8 +352,14 @@ description: spider story chapters
   {% endbubble %}
 
   {% bubble Kohaku %}
-    …! Yeah! Let’s go together~
+    …! Yeah! Let’s go together~<sup>**(2)**</sup>
   {% endbubble %}
+
+<h4>Translation Note</h4>
+
+(1): I had a little trouble translating this part, but in case there’s clarification needed he’s talking about what he told Niki last chapter. The setting to him feels like the time he discovered the forum in his zashikirou.
+
+(2): Kohaku has used this exact type of dialogue line to HiMERU before during mainsto! HiMERU big brother instict kicked in I think :3
 
   # Chapter 8
   ***
@@ -436,7 +442,7 @@ description: spider story chapters
   {% endbubble %}
 
   {% bubble Rinne %}
-    I'm Rinne-kuuun[^2]. And I'm behind Kohaku-chyan right nyoooow…
+    I'm Rinne-kuuun<sup>**(3)**</sup>. And I'm behind Kohaku-chyan right nyoooow…
   {% endbubble %}
 
   {% bubble Kohaku %}
@@ -470,7 +476,7 @@ description: spider story chapters
   {% endbubble %}
 
   {% bubble Rinne %}
-    Kohaku-chan! Give, give[^3]! At this rate you'll break my arm! You'll break it clean off!
+    Kohaku-chan! Give, give<sup>**(4)**</sup>! At this rate you'll break my arm! You'll break it clean off!
   {% endbubble %}
 
   ![unbl](https://64.media.tumblr.com/f03962534f16a85d6fda3aaa67907ccf/19d33e9ecfaf3ae2-5b/s2048x3072/126b5733720a0891a0f5d9c304506d770773ec4d.pnj)
@@ -506,7 +512,7 @@ description: spider story chapters
   ![okaeeeee](https://64.media.tumblr.com/bad7e09a90e6f39d71a473d784c056f4/19d33e9ecfaf3ae2-2f/s2048x3072/3384c146e9e961f4af5d9246d48466ff0431fb8b.pnj)
 
   {% bubble Niki %}
-    n? Mrhff mrrrpgh~ (Welcome baaack~) Mogumogu[^4]
+    n? Mrhff mrrrpgh~ (Welcome baaack~) Mogumogu<sup>**(5)**</sup>
   {% endbubble %}
 
   {% bubble Rinne %}
@@ -524,7 +530,7 @@ description: spider story chapters
   ![i didnt know](https://64.media.tumblr.com/a2c6380008052d157ad47ac68e4c0c75/19d33e9ecfaf3ae2-3e/s2048x3072/155f3f79d4839f6531063b941f655777503238a8.pnj)
 
   {% bubble Niki %}
-    I really *was* gonna wait until everyone got back, y'know that? But I didn't know how long that was gonna take. I was stuck on what I should do until I heard Kohaku's scream from somewhere far off[^5].
+    I really *was* gonna wait until everyone got back, y'know that? But I didn't know how long that was gonna take. I was stuck on what I should do until I heard Kohaku's scream from somewhere far off<sup>**(6)**</sup>.
     
     I figured Rinne-kun played some kind of prank on Kohaku-chan in order to scare him, so I guessed you'd be late coming back. I wasn't just gonna wait to starve to death, so I ate and replenished my energy. Mogumogu…
   {% endbubble %}
@@ -557,11 +563,15 @@ description: spider story chapters
 
   <!-- Translation Notes (Chapter 8) -->
 
-  [^1]: I had a little trouble translating this part, but in case there’s clarification needed he’s talking about what he told Niki last chapter. The setting to him feels like the time he discovered the forum in his zashikirou.
-  [^2]: He used “atashi” here instead of “orecchi” (normally) or “ore” (speaking seriously)
-  [^3]: That's how it's written in the textbox in ktkn but in case the clarification is needed he's like saying “Uncle!”/“Give up”/“Get off” etc. Basically asking Kohaku to surrender.
-  [^4]: Like last time, the muffled noises are what's in the parenthesis, as you can see.
-  [^5]: Callback to the end of the prologue!!
+  <h4>Translation Notes</h4>
+
+  (3): He used “atashi” here instead of “orecchi” (normally) or “ore” (speaking seriously)
+
+  (4): That's how it's written in the textbox in ktkn but in case the clarification is needed he's like saying “Uncle!”/“Give up”/“Get off” etc. Basically asking Kohaku to surrender.
+
+  (5): Like last time, the muffled noises are what's in the parenthesis, as you can see.
+
+  (6): Callback to the end of the prologue!!
 
   ### <center> [previous](/2023/06/01/a-nightmare-downtown/) | [next](/2023/06/01/gratitude) </center>
 

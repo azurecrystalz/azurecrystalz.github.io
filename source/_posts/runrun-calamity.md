@@ -75,7 +75,7 @@ description: himeru 4* translation
                           Proofreaders
                       </div>
                       <div class="value">
-                          <a href="https://twitter.com/HELLOGlRLS">son</a> (coding help), mello and shay (proofing help)
+                          mello and shay
                       </div>
                   </div>
               </div>
@@ -180,7 +180,7 @@ Actually, he used "Himerunrun" instead of "Merumeru", what was that? Why doesn't
 ![starre](https://64.media.tumblr.com/e7be7c2d31cfee5a8b05a42c2c578ea8/8ebfe99c4449d2c4-5b/s2048x3072/2481b8c68327bd8842fb383e7b68db1780cf5f46.png)
 
 {% bubble Mitsuru %}
-Jiii~[^1]...
+Jiii~<sup>**(1)**</sup>...
 {% endbubble %}
 
 {% bubble HiMERU %}
@@ -376,7 +376,7 @@ Oh, it's Merumeru♪ Are you here for lunch?
 
 Isn't it late for that? Well, I'm having lunch right now too.
 
-Whatcha eating Merumeru, hayashi rice[^2]? If it's good, then I'll order it too. Gimme a bite~
+Whatcha eating Merumeru, hayashi rice<sup>**(2)**</sup>? If it's good, then I'll order it too. Gimme a bite~
 
 {% endbubble %}
 
@@ -411,11 +411,10 @@ Seriously, why is it that you try to take amusement in HiMERU? It'd be better if
 
 {% endbubble %}
 
-### Translation Notes
+<h4>Translation Notes</h4>
 
-[^1]: The japanese onomatopoeia for “staaaare”, when a character is staring intently at another, like they have something to say.
-[^2]: This is a dish where there's rice with a sauce containing beef and a few vegetables are poured on top.
+(1): The japanese onomatopoeia for “staaaare”, when someone is staring intently at another, like they have something to say.
 
-I'm sorry if the HiMERU dialogue sounded stiff :’) This was my first time trying my hand at tling a HiMERU centered story it was hard for tense/perspective understanding but overall good practice :3
+(2): This is a dish where there's rice with a sauce containing beef and a few vegetables are poured on top.
 
 </div>

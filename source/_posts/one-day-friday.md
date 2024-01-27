@@ -168,7 +168,7 @@ description: spider story chapters
     
     Alllllright! It's here, it's here, it's *here!* I've been waiting for you, Goddess of Luck-chan~!
     
-    Gyahaha! Today's my lucky day! I'm gonna win this game in a flash! Riichi[^1]!
+    Gyahaha! Today's my lucky day! I'm gonna win this game in a flash! Riichi<sup>**(1)**</sup>!
   {% endbubble %}
 
   {% bubble HiMERU %}
@@ -186,7 +186,7 @@ description: spider story chapters
   {% endbubble %}
 
   {% bubble Niki %}
-    Kohaku-chan, Kohaku-chan! That tile there is too dangerous, this tile here might be cheaper.[^2]
+    Kohaku-chan, Kohaku-chan! That tile there is too dangerous, this tile here might be cheaper.<sup>**(2)**</sup>
   {% endbubble %}
 
   {% bubble Kohaku %}
@@ -218,7 +218,7 @@ description: spider story chapters
   ![agyaga](https://64.media.tumblr.com/5364eea53088f7b5a6c93b467b051974/29c43db49306737a-f7/s2048x3072/39e6880de10a4227141d465d9066915e50386f0d.pnj)
 
   {% bubble Niki %}
-    Agyagaga! Mmphhrmmph[^3] *(As much as I love anything I can eat, I **definitely** won't eat thooose…!)*
+    Agyagaga! Mmphhrmmph<sup>**(3)**</sup> *(As much as I love anything I can eat, I **definitely** won't eat thooose…!)*
   {% endbubble %}
 
   {% bubble Kohaku %}
@@ -302,7 +302,7 @@ description: spider story chapters
   {% endbubble %}
 
   {% bubble Kohaku %}
-    That’s because I’ve been “boxed up” in a zashikirou.[^4]
+    That’s because I’ve been “boxed up” in a zashikirou.<sup>**(4)**</sup>
   {% endbubble %}
 
   {% bubble Rinne %}
@@ -323,6 +323,15 @@ description: spider story chapters
     Hah…?
   {% endbubble %}
 
+ <h4>Translation Notes</h4>
+
+  (1): Calling riichi is a *possibility* of winning mahjong. The player can't change their hand in any way and they have to hope their next drawn tile is a winning one. It's definitely a fitting game for Crazy:B considering it's based on chance.
+
+  (2): Parts of a player's hand have values placed onto them based on the tiles. So Niki ofc here is advising Kohaku with a play that will give him less of a loss of value I think
+
+  (3): Some distressed noises followed by whatever Niki is saying in parenthesis, but muffled.
+
+  (4): For those unaware, a zashikirou is like a confinement room used in the Edo-period. Kohaku spent his childhood in one (reasons why are explained in Sudden Death).
   
   # Chapter 3
   ***
@@ -546,15 +555,10 @@ description: spider story chapters
   {% bubble Rinne %}
     Alriiight~, it's settled! So that "Crazy:B" wins the number one spot at "ES Halloween", let's go tackle that infamous haunted house!
   {% endbubble %}
-  ### <center> [previous](/2023/05/27/spider-prologue/) | [next](/2023/06/01/a-nightmare-downtown/) </center>
 
  <!-- Translation Notes (Chapter 2) -->
 
-  [^1]: I'm not much of an expert on mahjong, but I know for sure this is one of the ways of winning. Calling riichi is a *possibility* of winning. The player can't change their hand in any way and I guess they have to hope their next drawn tile is a winning one. I don't know if there are other conditions that need to be met as I've only watched ppl play and never played myself, but the more you know! It's definitely a fitting game for Crazy:B here that's for sure considering it's based on chance.
-  [^2]: Again, never played mahjong but from what I understand by watching, parts of a player's hand have values placed onto them based on the tiles. So Niki ofc here is advising Kohaku with a play that will give him less of a loss of value I think
-  [^3]: Some distressed noises followed by whatever Niki is saying in parenthesis, but muffled. It's written out in the dialogue box as you can see but I had no idea how to write it out so I just wrote it as muffled noises please forgive me and please save him
-  [^4]: For those unaware, a zashikirou is like a confinement room used in the Edo-period. Kohaku spent his childhood in one (reasons why are explained in Sudden Death).
-
+ ### <center> [previous](/2023/05/27/spider-prologue/) | [next](/2023/06/01/a-nightmare-downtown/) </center>
 
   <!-- CONTENT GOES HERE -->
 

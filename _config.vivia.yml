@@ -12,12 +12,12 @@ home:
 # Banner
 banner:
   enable: true         # Display banner
-  url: https://cdn.discordapp.com/attachments/1064543829807595580/1107135747670167642/dave-netto-wWYwYiCoVwI-unsplash.jpg
-  position: center         # Specifies the alignment of the image, see the "object-position" property in CSS
+  url: https://res.cloudinary.com/djq41tb84/image/upload/v1706308942/translation%20site/uptb0fpiywk8rjpzdlgt.jpg
+  position: object-fit         # Specifies the alignment of the image, see the "object-position" property in CSS
   onAllPages: true         # Display banner on all pages
 
 # Appearence
-hue: 0                  # The hue of the theme color (e.g. red: 0, orange: 60, blue: 260, purple: 300, pink: 345)
+hue: 250                  # The hue of the theme color (e.g. red: 0, orange: 60, blue: 260, purple: 300, pink: 345)
 
 # Sidebar
 sidebar:
@@ -35,9 +35,9 @@ archive_type: 'monthly'
 recent_posts_limits: 5
 
 # Personal info
-avatar: https://media.discordapp.net/attachments/1064543829807595580/1105328985514201179/IMG_4139.png
+avatar: https://res.cloudinary.com/djq41tb84/image/upload/v1706308067/translation%20site/zm9c530senhalxkosz6g.jpg
 author: aurora
-subtitle: crazywinkP | absolutely normal about HiMERU
+subtitle: crazywinkP that translates crazyb centered stories | please read my TOS
 links:
   - name: Twitter
     icon: fa-brands fa-twitter      # Find icon codes at https://fontawesome.com/search
