@@ -8,146 +8,387 @@ tags:
 description: trip album song list
 ---
 
-<div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
-  <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112970174522462218/IMG_5061.webp?width=1664&height=910')"></div>
-      <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
-          <div class="info-area">
-              <div class="synopsis" style="width: 90%;">
-                A post compiling translations and informations to Crazy:B's "TRIP" Album! Please note that some of my lyrics translations are interpretation based + I try to reword them for better flow, so they may deviate from the literal meaning.
-              </div>
-          </div>
-          <div class="info-item tl">
-              <div class="label">
-                  Translator
-              </div>
-              <div class="value">
-                  <a href="https://twitter.com/azurecrystalz">aurora</a>
-              </div>
-            </div>
-        </div>
-  </div>
-</div>
+<style>
+.stories {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(150px,1fr));
+    gap: .5em
+}
 
-<!-- more -->
+.stories * {
+    box-sizing: border-box
+}
 
-<div style="margin-top: 3%">
-  <style>
-    .hint--error.hint--top-left:before, .hint--error.hint--top-right:before, .hint--error.hint--top:before {
-    border-top-color: #6a3446;
+.story {
+    position: relative;
+    border-radius: .25em;
+    overflow: hidden !important
+}
+
+.stories a:hover {
+    color: #fff !important
+}
+
+.story:hover img {
+    transform: scale(1.05)
+}
+
+.story:hover .storyName {
+    transform: translate(0,0)
+}
+
+.story:hover .storyName .read {
+    transform: translate(0,0)
+}
+
+.storyName {
+    transform: translate(0,0)
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: .2s ease;
+    margin: 0!important
+}
+
+.storyName {
+    font-size: .9em;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background: linear-gradient(to bottom,transparent 0,#000000a3 90%) !important;
+    color: #fff !important;
+    position: absolute;
+    padding: 5em .75em .75em !important;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    transition: .2s ease !important;
+    transform: translate(0,2.3em)
+}
+
+.storyName .read {
+    margin-top: .25em;
+    font-size: .85em;
+    background: #000;
+    color: #fff;
+    padding: .5em 1.25em;
+    height: 2.25em;
+    border-radius: .25em;
+    width: 100%;
+    text-align: center;
+    transition: .2s ease;
+    transform: translate(0,1em)
+}
+
+.storyName .read:before {
+    content: "Read"
+}
+
+.storyName .read.soon {
+    opacity: .5;
+    pointer-events: none
+}
+
+.storyName .read:not(.soon):hover {
+    color: #F486AA
+}
+
+@keyframes rotate {
+  0% {transform: rotate(0)}
+  25% {transform: rotate(90deg)}
+  50% {transform: rotate(180deg)}
+  75% {transform: rotate(270deg)}
+  100% {transform: rotate(360deg)}
+}
+
+#songs {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-column-gap: 15px;
+}
+
+#songs .song-item {
+  width: 200px;
+}
+
+#songs .song-figure {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-block-start: 0em;
+  margin-inline-start: 0px;
+}
+
+#songs .song-figure .song-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  transition: transform 1.33s, filter: 0.2s;
+}
+
+#songs .song-figure .song-image.rotate {
+  animation: rotate 12s linear 0s infinite forwards;
+}
+
+#songs .song-figure .song-caption:link, #songs .song-figure .song-caption:visited {
+  color: var(--V98);
+}
+
+#songs .song-figure:hover > .song-image {
+  filter: blur(4px);
+}
+
+#songs .song-figure .song-caption {
+  position: absolute;
+  visibility: hidden;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-49%, -49%);
+  z-index: 5;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+#songs .song-figure:hover > .song-caption {
+  visibility: visible;
+}
+
+@media only screen and (max-width: 600px) {
+    .stories {
+        grid-template-columns:repeat(auto-fill,minmax(100px,1fr))
     }
-    .hint--error:after {
-    background-color: #6a3446;
-    text-shadow: 0 -1px 0px #592726;
+
+    #songs {
+      grid-template-columns: 1fr;
+      justify-content: center;
     }
-    [character] {
-      --dark-mode: hsl(var(--hue), 30%, 30%);
-      display: flex;
+
+    #songs .song-item {
+      width: 100%;
+      margin-bottom: 5%;
     }
-    [character]::before {
-      position: absolute;
-      margin-left: 75px;
+
+    #songs .song-figure {
+      margin: auto;
+      width: 60vw;
+      height: 60vw;
     }
-    [character] p {
-      max-width: calc(100% - 75px);
-      margin-left: 75px;
-      color: inherit;
+
+    #songs .song-figure .song-image {
+      width: 100%;
+      height: 100%;
     }
-    :root[theme='dark'] [character] p {
-      background: var(--dark-mode);
+
+    #songs .song-figure .song-caption {
+      visibility: visible;
+      width: 80vw;
+      height: 80vw;
     }
-    :root[theme='dark'] [character] p .thought {
-      color: #9f9fff;
+}
+@import url('https://fonts.googleapis.com/css?family=Cardo:400i|Rubik:400,700&display=swap');
+
+  :root {
+    --d: 700ms;
+    --e: cubic-bezier(0.19, 1, 0.22, 1);
+    --font-sans: 'Rubik', sans-serif;
+    --font-serif: 'Cardo', serif;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html,
+  body {
+    height: 100%;
+  }
+
+  body {
+    display: grid;
+    place-items: center;
+  }
+
+  .page-content {
+    padding: 1rem;
+    font-family: var(--font-sans);
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1%;
+  }
+  .item {
+    position: relative;
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    overflow: hidden;
+    border-radius: 10px;
+    font-size: 0.8rem;
+    height: 300px;
+    cursor: pointer;
+    display: block;
+    margin: 0;
+  }
+  .item::before {
+    position: absolute;
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(transparent, #000000bb);
+  }
+  .item-container-link {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    height: 100%;
+    transform: translateY(20px);
+  }
+  a:link.item-container-link, a:visited.item-container-link {
+    z-index: 2;
+    color: white;
+    transition: transform 0.3s;
+  }
+  a:hover.item-container-link, a:active.item-container-link {
+    z-index: 2;
+    background: none;
+  }
+  .item-container {
+    height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 1px 5px 5px 10px;
+    box-sizing: border-box;
+  }
+  .read {
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    text-align: center;
+    background: black;
+    color: white;
+    height: 20px;
+    border-radius: 3px;
+    font-weight: 600;
+  }
+  .item:hover a:link.item-container-link, .item:hover a:visited.item-container-link, .item:hover a:active.item-container-link, .item:hover a:hover.item-container-link {
+    /* hover effect */
+    transform: translateY(2px);
+  }
+
+  @media (max-width: 768px) {
+    .grid-container {
+      display: block;
     }
-    :root[theme='light'] [character] p {
-      background: var(--light-mode);
-    }
-    [character] p:first-child {
-      margin-top: 20px;
-      border-top-left-radius: 0px;
-    }
-    [character] p:first-child::before {
-      position: absolute;
-      left: 0;
-    }
-    [character]::after {
-      display: none;
-      left: 65px;
-      top: 37px;
-    }
-    .msr-narration {
+    .item {
       display: flex;
       align-items: center;
-      margin: 20px 0px;
-      gap: 5px;
+      justify-content: flex-end;
+      margin-bottom: 2%;
+      background-position-y: 20%;
+      height: 100px;
     }
-    .msr-narration::before {
-      content: "";
-      display: inline-block;
-      background: var(--article-text);
-      height: 1px;
-      width: 15%;
+    .item-container-link {
+      transform: translateY(0);
     }
-    .msr-narration p {
-      margin: 0;
+    .title h2 {
+      margin:0;
+      margin-bottom:5px;
     }
-    @media (max-width: 650px) {
-    [character] p {
-        margin:0 0 .4em 65px;
-        padding: .72em;
-        margin-left: 55px !important;
+    .item::before {
+      background-image: linear-gradient(to right, transparent, #000000bb);
     }
-    [character]::before,[character][hidden]::before,[character][unknown]::before {
-        margin-left: 70px;
-        margin-left: 55px !important;
+    .item-container {
+      width: 100%;
+      transform: translateY(12px);
     }
-}
-.article-entry img, .article-entry video {
-    margin-bottom: -1em;
-}
-  </style>
+    .title {
+      text-align: right;
+      margin-right: 3px;
+    }
+  }
+</style>
 
-***
-
-<sup><i>Album info taken from the <a href="https://ensemble-stars.fandom.com/wiki/ES_ALBUM_SERIES_Crazy:B_TRIP">wiki.</a></i></i>
-
-<img src="https://media.discordapp.net/attachments/1110345002015535124/1135991294007717959/IMG_7192.png?width=1748&amp;height=288" alt="crazy-anth" style="
-    margin-bottom: -1em;">
-[NA NA NA SUMMER NIGHT BeeAT](/)
-> ***Song Info:** Azakami Youhei + Kasama Jun + Kaito Tasuku + Yamaguchi Tomohiro (Vocals), Youhei Matsui + HIROKI - ORANGE RANGE (Lyricists), NAOTO - ORANGE RANGE (Composition/Arrangement)*
-
-[Crazy Anthem - Crazy:B Event Song](/2023/05/30/crazy-anthem/)
-> ***Song Info:** Azakami Youhei + Kasama Jun + Kaito Tasuku + Yamaguchi Tomohiro (Vocals), Saori Codama (Lyricist), Tomohiko Miyake - Arte Refact (Composition), Ren Mizunoya - Arte Refact (Arrangement)*
-
-<img src="https://media.discordapp.net/attachments/1110345002015535124/1135989761782329464/IMG_7190.png?width=1748&amp;height=282" alt="rinne" style="
-    margin-top: 1.2em;
-">
-[Thrill Addict - Amagi Rinne Solo](/)
-> ***Song Info:** Azakami Youhei (Vocals), Youhei Matsui (Lyricist), Tomoya Kawasaki (Composition/Arrangement)*
-
-![himeru](https://cdn.discordapp.com/attachments/1110345002015535124/1110367830467154010/IMG_4879.png)
-[視線 Hold me Tight - HiMERU Solo](/2023/05/22/shisen-hold-me-tight/)
-> ***Song Info:** Kasama Jun (Vocals), Saori Codama (Lyricist), MASASHI (Composition/Arrangement)*
-
-![kohaku](https://media.discordapp.net/attachments/1110345002015535124/1135978577612001331/IMG_7189.png?width=1748&height=276)
-[Petal's Resolution - Oukawa Kohaku Solo](/)
-> ***Song Info:** Tasuku Kaito (Vocals), Youhei Matsui (Lyricist), Katahira Shouda (Composition), Mine Kushita (Arrangement)*
-
-![niki](https://media.discordapp.net/attachments/1110345002015535124/1135978577255477398/IMG_7188.png?width=1748&height=310)
-[Yummy・Tummy・LOVE !! - Shiina Niki Solo](/2023/08/01/yummy-tummy-love/)
-> ***Song Info:** Tomohiro Yamaguchi (Vocals), Saori Codama (Lyricist), Shingo Asari (Composition/Arrangement)*
-
-  <!-- CONTENT GOES HERE -->
-
-  <!-- 
-  SPEECH BUBBLE FORMAT: 
-  {% bubble [CHARACTER_FIRST_NAME] [ATTRIBUTE(optional)]}
-    DIALOGUE TEXT HERE
-
-    ADD A LINE SPACE FOR A NEW LINE
-
-    <th>EMBED THOUGHT DIALOGUE WITH THESE TAGS</th>
-  {% endbubble %}
-  -->
-
+<main class="page-content">
+  <h2>Idol Solos</h2>
+  <strong><p><i>Everything is complete unless marked with "WIP"/"Unadded" !!</i></p></strong>
+  <!-- other things can go in this div -->
+  <div class="grid-container">
+    <!-- copy and paste this if you need more grids for other translation categories-->
+    <div class="item" id="rinne" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706325660/translation%20site/masterlist/ye1ftcktglgw5yiw0ja9.png');">
+      <a href="/[STORY_URL_HERE]" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Thrill Addict (Unadded)</h2>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="item" id="himeru" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706325658/translation%20site/masterlist/zlitxwgl8vxnjpwkaaim.webp');">
+      <a href="/2023/05/22/shisen-hold-me-tight/" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>視線 Hold me Tight</h2>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="item" id="niki" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706325664/translation%20site/masterlist/sk9nq5sxhe2emu6mpbr9.png');">
+      <a href="/2023/08/01/yummy-tummy-love/" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Yummy・Tummy・LOVE !!</h2>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="item" id="kohaku" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706325658/translation%20site/masterlist/adigi7l32tpp6cykgzwt.webp');">
+      <a href="[URL HERE]" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Petal's Resolution (Unadded)</h2>
+          </div>
+        </div>
+      </a>
+    </div>
   </div>
+  <!-- more translation categories can go here -->
+  <h2>Unit Album Songs</h2>
+  <!-- other things can go in this div -->
+  <div class="grid-container">
+    <!-- copy and paste this if you need more grids for other translation categories-->
+    <div class="item" id="kurei" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706326199/translation%20site/masterlist/gzvbbtyfpckiwkxisyue.png');">
+      <a href="/2023/05/30/crazy-anthem/" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Crazy Anthem</h2>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="item" id="kurei" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706326177/translation%20site/masterlist/e9qi69t0ndicvpeaaosl.png');">
+      <a href="[URL HERE]" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>NA NA NA SUMMER NIGHT BeeAT (Unadded)</h2>
+          </div>
+        </div>
+      </a>
+    </div>
+</main>

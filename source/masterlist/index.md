@@ -321,15 +321,90 @@ description: translation masterlist
   }
 </style>
 
+<div style="margin-top: 3%">
+  <style>
+    .hint--error.hint--top-left:before, .hint--error.hint--top-right:before, .hint--error.hint--top:before {
+    border-top-color: #6a3446;
+    }
+    .hint--error:after {
+    background-color: #6a3446;
+    text-shadow: 0 -1px 0px #592726;
+    }
+    [character] {
+      --dark-mode: hsl(var(--hue), 30%, 30%);
+      display: flex;
+    }
+    [character]::before {
+      position: absolute;
+      margin-left: 75px;
+    }
+    [character] p {
+      max-width: calc(100% - 75px);
+      margin-left: 75px;
+      color: inherit;
+    }
+    :root[theme='dark'] [character] p {
+      background: var(--dark-mode);
+    }
+    :root[theme='dark'] [character] p .thought {
+      color: #9f9fff;
+    }
+    :root[theme='light'] [character] p {
+      background: var(--light-mode);
+    }
+    [character] p:first-child {
+      margin-top: 20px;
+      border-top-left-radius: 0px;
+    }
+    [character] p:first-child::before {
+      position: absolute;
+      left: 0;
+    }
+    [character]::after {
+      display: none;
+      left: 65px;
+      top: 37px;
+    }
+    .msr-narration {
+      display: flex;
+      align-items: center;
+      margin: 20px 0px;
+      gap: 5px;
+    }
+    .msr-narration::before {
+      content: "";
+      display: inline-block;
+      background: var(--article-text);
+      height: 1px;
+      width: 15%;
+    }
+    .msr-narration p {
+      margin: 0;
+    }
+    @media (max-width: 650px) {
+    [character] p {
+        margin:0 0 .4em 65px;
+        padding: .72em;
+        margin-left: 55px !important;
+    }
+    [character]::before,[character][hidden]::before,[character][unknown]::before {
+        margin-left: 70px;
+        margin-left: 55px !important;
+    }
+}
+.article-entry img, .article-entry video {
+    margin-bottom: -1em;
+}
+  </style>
 
 
-<strong><p><i>Work in Progress !! Come back later to see the full list!</i></p></strong>
-<h2>Featured Scout Stories: Series 1</h2>
+<strong><p><i>Everything is complete unless marked with "WIP"/"Unadded" !!</i></p></strong>
 <main class="page-content">
   <!-- other things can go in this div -->
+  <h2>Featured Scout Stories: Series 1</h2>
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
-    <div class="item" id="rinne" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112496401079877652/IMG_5030.png');">
+    <div class="item" id="rinne" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322603/translation%20site/masterlist/dniwfmzfzsjylrdmkhd7.webp');">
       <a href="/[STORY_URL_HERE]" class="item-container-link">
         <div class="item-container">
           <div class="title">
@@ -338,16 +413,16 @@ description: translation masterlist
         </div>
       </a>
     </div>
-    <div class="item" id="himeru" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112496004462284910/IMG_5023.png');">
+    <div class="item" id="himeru" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322756/translation%20site/masterlist/pexigkzcejb1n4iaosn3.png');">
       <a href="/2050/07/05/past-present-and/" class="item-container-link">
         <div class="item-container">
           <div class="title">
-            <h2>Past, Present, And...</h2>
+            <h2>Past, Present, And... (WIP)</h2>
           </div>
         </div>
       </a>
     </div>
-    <div class="item" id="niki" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112496782526652456/IMG_5029.png?width=1664&height=844');">
+    <div class="item" id="niki" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322602/translation%20site/masterlist/x58zlxrww39tpurqlrkj.webp');">
       <a href="/[STORY_URL_HERE]" class="item-container-link">
         <div class="item-container">
           <div class="title">
@@ -356,7 +431,7 @@ description: translation masterlist
         </div>
       </a>
     </div>
-    <div class="item" id="kohaku" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112497250531295333/IMG_5024.png');">
+    <div class="item" id="kohaku" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322849/translation%20site/masterlist/ijrxend3aknjsd80io9h.png');">
       <a href="/2050/05/24/sakura-sakura/" class="item-container-link">
         <div class="item-container">
           <div class="title">
@@ -370,7 +445,7 @@ description: translation masterlist
   <!-- other things can go in this div -->
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
-    <div class="item" id="rinne" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1113279959797092442/IMG_5082.png?width=1664&height=768');">
+    <div class="item" id="rinne" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322603/translation%20site/masterlist/x1ab8y3skibltxtdg8ab.webp');">
       <a href="[URL LINK HERE]" class="item-container-link">
         <div class="item-container">
           <div class="title">
@@ -379,7 +454,16 @@ description: translation masterlist
         </div>
       </a>
     </div>
-    <div class="item" id="niki" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1113279960166170714/IMG_5083.png?width=1664&height=768');">
+    <div class="item" id="himeru" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706324123/translation%20site/masterlist/tpviy8cxcxl0cvnjpz7w.png');">
+      <a href="[URL LINK HERE]" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>A Composed Moment (Unadded)</h2>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="item" id="niki" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706323119/translation%20site/masterlist/qlpszm1yy4pd72f5q4qc.png');">
       <a href="/2050/05/22/bon-appetit/" class="item-container-link">
         <div class="item-container">
           <div class="title">
@@ -393,16 +477,16 @@ description: translation masterlist
   <!--- aaaa --->
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
-    <div class="item" id="rinne" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1113227518003130438/IMG_5072.webp?width=1664&height=870');">
+    <div class="item" id="rinne" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706323977/translation%20site/masterlist/amdarqrjuw0a4xxrtqxq.png');">
       <a href="/2050/05/30/number-eight/" class="item-container-link">
         <div class="item-container">
           <div class="title">
-            <h2>Number Eight (In Progress)</h2>
+            <h2>Number Eight (WIP)</h2>
           </div>
         </div>
       </a>
     </div>
-    <div class="item" id="kohaku" style="background-image: url('https://64.media.tumblr.com/9a1b149e13c261bce9f52c62a77de139/0f6d911902a54eb8-78/s1280x1920/e58f7f31a81508f3e2cc7316fc0d1a0537181f2d.png');">
+    <div class="item" id="kohaku" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706323992/translation%20site/masterlist/o3vya2vd23733dvho8ha.png');">
       <a href="/2050/05/27/spider-direc/" class="item-container-link">
         <div class="item-container">
           <div class="title">
@@ -412,11 +496,39 @@ description: translation masterlist
       </a>
     </div>
     </div>
+    <h2>Themed Scout Stories: Series 1</h2>
+  <!--- aaaa --->
+  <div class="grid-container">
+    <!-- copy and paste this if you need more grids for other translation categories-->
+    <div class="item" id="HiMERU" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322603/translation%20site/masterlist/yums1dnylph0vkvaoznz.webp');">
+      <a href="/2050/07/03/rom-date/" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Romantic? Date (Being Transferred)</h2>
+          </div>
+        </div>
+      </a>
+    </div>
+    </div>
+    <h2>Themed Scout Stories: Series 2</h2>
+  <!--- aaaa --->
+  <div class="grid-container">
+    <!-- copy and paste this if you need more grids for other translation categories-->
+    <div class="item" id="rinne" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706323074/translation%20site/masterlist/or06kbz1407iwsbey3uo.png');">
+      <a href="/2050/11/03/moon-banquet/" class="item-container-link">
+        <div class="item-container">
+          <div class="title">
+            <h2>Banquet Under a Shrouded Moon (WIP)</h2>
+          </div>
+        </div>
+      </a>
+    </div>
+    </div>
     <h2> ES 4* Stories: Series 2</h2>
   <!--- aaaa --->
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
-    <div class="item" id="rinne" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112562619598000138/IMG_5041.png?width=1664&height=796');">
+    <div class="item" id="rinne" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322994/translation%20site/masterlist/nkpiavlwllrptyq9tk5o.png');">
       <a href="/2050/05/16/please-god/" class="item-container-link">
         <div class="item-container">
           <div class="title">
@@ -425,7 +537,7 @@ description: translation masterlist
         </div>
       </a>
     </div>
-    <div class="item" id="himeru" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1112563053167382568/IMG_5043.png');">
+    <div class="item" id="himeru" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322950/translation%20site/masterlist/so6ancjsdlreh8powmbc.png');">
       <a href="/2050/05/15/runrun-calamity/" class="item-container-link">
         <div class="item-container">
           <div class="title">
@@ -434,7 +546,7 @@ description: translation masterlist
         </div>
       </a>
     </div>
-    <div class="item" id="niki" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112562620285861978/IMG_5042.png?width=1664&height=796');">
+    <div class="item" id="niki" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706323147/translation%20site/masterlist/ztqchdz31nswmgvr1c6q.png');">
       <a href="/2050/05/15/sweetsroad/" class="item-container-link">
         <div class="item-container">
           <div class="title">
@@ -443,7 +555,7 @@ description: translation masterlist
         </div>
       </a>
     </div>
-    <div class="item" id="kohaku" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112562620801765407/IMG_5044.png?width=1664&height=804');">
+    <div class="item" id="kohaku" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322939/translation%20site/masterlist/t0xdln29oz34ndj6kuud.png');">
       <a href="/2050/05/21/a-curious-step-forward/" class="item-container-link">
         <div class="item-container">
           <div class="title">
@@ -496,6 +608,7 @@ story template looks like this:
 </div>
   
   <h2>Song Translations</h2>
+  <sup><i>If you’d like to use my song translations for lyric videos or edits, you’re welcome to do so as long as there is <b>clear, visible credit</b> either in the video or in the description.</i></sup>
   <div id="songs">
     <div class="song-item">
       <figure class="song-figure">
