@@ -39,9 +39,9 @@ avatar: https://res.cloudinary.com/djq41tb84/image/upload/v1706308067/translatio
 author: aurora
 subtitle: crazywinkP that translates crazyb centered stories | please read my TOS
 links:
-  - name: Twitter
-    icon: fa-brands fa-twitter      # Find icon codes at https://fontawesome.com/search
-    url: https://twitter.com/azurecrystalz
+  - name: Care For Gaza
+    icon: "fa-solid fa-notes-medical"  # Find icon codes at https://fontawesome.com/search
+    url: https://twitter.com/CareForGaza
   - name: Tumblr
     icon: fa-brands fa-tumblr
     url: https://azurecrystalz.tumblr.com
