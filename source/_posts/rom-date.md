@@ -293,7 +293,7 @@ description: romantic date tls
 <!-- more -->
 
 <div style="margin-top: 3%">
-<h2><a href="#1"><b>Ch. 1</b></a> | <a href="#2"><b>Ch. 2</b></a> | <a href="#3"><b>Ch. 3</b></a> | <a href="#4"><b>Ch. 4</b></a> | <a href="#5"><b>Ch. 5</b></a> | <a href="#6"><b>Ch. 6</b></a> | <a href="#7"><b>Ch. 7</b></a> | <a href="#8"><b>Ch. 8</b></a></h2>
+<h2><a href="#1"><b>Ch. 1</b></a> | <a href="#2"><b>Ch. 2</b></a> | <a href="#3"><b>Ch. 3</b></a> | <a href="#4"><b>Ch. 4</b></a> | <a href="#5"><b>Ch. 5</b></a> | <a href="#6"><b>Ch. 6</b></a> | <a href="#7"><b>Ch. 7</b></a> | <a href="#8"><b>Ch. 8</b></a> | <a href="#9"><b>Ch. 9</b></a> | <a href="#10"><b>Ch. 10</b></a> | <a href="#11"><b>Ch. 11</b></a> </h2>
 
 ***
 <h2 id="1">Chapter 1</h2>
@@ -986,7 +986,7 @@ description: romantic date tls
 
 (8): To clarify, when Arashi uses "insensitive" here I don't think she means it like "oh so you think i'm rude/blunt" but rather I think she means it in a way that's like "oh so you think I can't empathize with him" like…to be emotionally cognizant of someone else's feelings.
 
-<h2 id=”5”>Chapter 5</h2>
+<h2 id="5">Chapter 5</h2>
 
 ***
 
@@ -1204,7 +1204,7 @@ description: romantic date tls
 
 (9): "Mario", "Bowser", "Peach". You can't be sued for infringing Nintendo's rights if you don't explicitly say the character names. Also this kind of blanking happened in Honeybee when referring to Monopoly.
 
-<h2 id=”6”>Chapter 6</h2>
+<h2 id="6">Chapter 6</h2>
 
 ***
 
@@ -1368,7 +1368,7 @@ I was lost on what to do. We were really grasping at straws.<sup>**(10)**</sup>
 
 (10): An idiom basically meaning "making blind attempts to succeed in something after all else has failed"
 
-<h2 id=”7”>Chapter 7</h2>
+<h2 id="7">Chapter 7</h2>
 
 ***
 
@@ -1489,11 +1489,11 @@ Fufu. Let's hold hands like we did just a bit ago, and I'll support you.<sup>**(
 ![ily](https://64.media.tumblr.com/b3aee55e0126d51d5ddcbe81be42acd7/f95a372c869f6797-14/s1280x1920/24731286c1118785211664e011551be49f2461ff.png)
 
 {% bubble Tatsumi%}
-Right, gyugyuuuu~<sup>**(12)**</sup>....I love you, HiMERU-san~
+Right, gyugyuuuu<sup>**(12)**</sup>....I love you, HiMERU-san~
 {% endbubble %}
 
 {% bubble HiMERU %}
-------------
+....................
 {% endbubble %}
 
 {% bubble Tatsumi%}
@@ -1552,7 +1552,7 @@ Now that I'm thinking about it, I'm pretty sure I'm living a lonelier life than 
 
 (12): The jp onomatopoeia for a squeezing or clinging gesture
 
-<h2 id=”8”>Chapter 8</h2>
+<h2 id="8">Chapter 8</h2>
 
 ***
 
@@ -1783,8 +1783,686 @@ Oukawa, "I"--
 (13): Yes, Tatsumi does in fact use the word for "married people" here KHFDS Mayoi does so right after as well.
 (14): This reads more like Kohaku is muttering this under his breath.
 
+<h2 id="9">Chapter 9</h2>
 
-  > ***Under Construction!** I'm still in the process of proofing/transferring everything~! You can read the completed unproofed version [here](https://azurecrystalz.tumblr.com/post/707339608925569024/translation-scout-romantic-date) in the meantime, thank you for your patience!*
+***
+
+<div class="msr-narration">
+    <p>A few hours later.</p>
+  </div>
+
+![product](https://64.media.tumblr.com/67351cf23d7fa58b913b2fb23c05eeae/60e41a6b33d773ae-ab/s2048x3072/db688bc4fa350327ac19f2c04f88b865ccf31cb4.png)
+
+{% bubble Tatsumi %}
+Fufu, what a productive day!
+{% endbubble %}
+
+{% bubble Mayoi %}
+U-uuu. Tatsumi-san, I'm glad you're happyyy…
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Oya, Mayoi-san, why do you look so exhausted?
+{% endbubble %}
+
+{% bubble Mayoi %}
+It's odd that you would ask "why"...Tatsumi-san, you lose control so easily. Not just with cars…
+{% endbubble %}
+
+{% bubble Tatsumi %}
+.....?
+{% endbubble %}
+
+{% bubble Mayoi %}
+Eh? Didn't you notice at all? Tatsumi-san, you grabbed my hand and pulled me to all kinds of stores endlessly, and made me try all sorts of beautiful clothes--I was made into a mannequin! 
+
+Not only that, I was pulled into doing things you wanted to do like arcade games and karaoke!
+
+I can't take any more! I've been drained of my strength! I'm completely exhausted!
+{% endbubble %}
+
+{% bubble Tatsumi %}
+I-I didn't even realize that...I'm sorry to have put you through my "fun", Mayoi-san.
+
+I assumed that if I was having fun then you must have been too. It seems that wasn't the case.
+
+I repent. Ohh, I've succumbed to desires at Mayoi-san's expense.
+{% endbubble %}
+
+{% bubble Mayoi %}
+N-no, that's not it! It was a great and dandy time for me too, but there are <i>limits</i>! I’m just tired....!
+
+I'm a human being too, and I can easily break down if I keep getting tossed abouuuut!
+{% endbubble %}
+
+{% bubble Tatsumi %}
+I apologize. I have a bit of a bad habit of losing myself when I'm having a little too much fun. I'll reflect on my actions and do better next time.
+{% endbubble %}
+
+![next](https://64.media.tumblr.com/fe398523e62b71eac069d693b71874e6/60e41a6b33d773ae-af/s2048x3072/0ef73c2cd0dcf9f629bc692f4e9cabaeeb7f1640.png)
+
+{% bubble Mayoi %}
+<i>Next time?!</i> I-if something like this happens again surely I'll diiiiie!
+{% endbubble %}
+
+{% bubble Kohaku %}
+Ahaha. Sounds like you two had a tough date. Our time was more quiet and relaxing.
+{% endbubble %}
+
+{% bubble Mayoi %}
+N-no, um, it was actually a very valuable experience! I just don't know if I even deserve this kind of reward?! But, for a bug like me it was like a miracle....!
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Fufufu~
+{% endbubble %}
+
+{% bubble HiMERU %}
+--Well, by the look of Anzu-san's expression while she filmed the whole time, we probably managed to get some kind of good footage.
+{% endbubble %}
+
+{% bubble Kohaku %}
+Oh, yeah. Anzu-han signaled to us the "OK" from a distance.
+{% endbubble %}
+
+{% bubble Mayoi %}
+It would've been a problem if she hadn't…
+
+I know it was the whole point of this project, but Tatsumi-san kept whispering words of adoration to me at every turn. A-and that's probably why my ears have gone numb…
+
+My eardrums must've melted. No, my heart must've melted too, since it's been pounding so much it's basically butter.
+{% endbubble %}
+
+![pitiful](https://64.media.tumblr.com/c8f583645ec8dfc87324dec147b85ddd/60e41a6b33d773ae-ca/s2048x3072/45903431812a2cd7aacd576b1c9415a09f0fc594.png)
+
+{% bubble HiMERU %}
+Poor thing. HiMERU feels sorry for you. Tatsumi is always the type to drive others crazy and destroy them without realizing.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+How harsh...I want nothing more than to spread love to the people around me.
+{% endbubble %}
+
+{% bubble HiMERU %}
+Sure, that's an idol's job. However, ordinary people are not at all strong enough to endure endless amounts of love.
+{% endbubble %}
+
+{% bubble Mayoi %}
+Uuu, you understand my struggle don't you, HiMERU-san? Since you both attended Reimei, maybe you've gone through it also...?
+{% endbubble %}
+
+{% bubble HiMERU %}
+No. HiMERU never noticed how dangerous Tatsumi was until long after he'd met him.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Dangerous? Me?
+{% endbubble %}
+
+{% bubble HiMERU %}
+......
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Eh, huh? HiMERU-san why aren't you saying "that's not true" or something?
+
+Oh God, am I more of a sinful creature than I'd originally thought?
+{% endbubble %}
+
+{% bubble HiMERU %}
+Are you finally starting to realize it?
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Uuu! From deep in my heart, I repent! I repent! Oh God, guide me from my foolishness!
+{% endbubble %}
+
+{% bubble HiMERU %}
+Instead of looking for wisdom and strength from God, look for it from those around you, like how we did here.
+{% endbubble %}
+
+![dude](https://64.media.tumblr.com/80193b4941c65a28ea8bedd82dae9950/60e41a6b33d773ae-fc/s2048x3072/0005042c098fd5195d2a415dbd85d1bd724b01c8.png)
+
+{% bubble HiMERU %}
+Aah, if only you and "I"--had realized this sooner.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+"Ore"...h-huh? Could it be, you–
+{% endbubble %}
+
+{% bubble HiMERU %}
+Hmph. Tatsumi, there's something that we need to discuss privately, so please come this way. 
+
+Ayase. Oukawa. You both can stay here.
+{% endbubble %}
+
+{% bubble Kohaku %}
+Nn? What's with you two going off to talk in secret...do you not want us to hear what you're talking about?
+{% endbubble %}
+
+{% bubble HiMERU %}
+Yes...please don't worry, this won't take very long.
+{% endbubble %}
+
+![alright](https://64.media.tumblr.com/a454cb8609daa858119173ca2520f241/60e41a6b33d773ae-ed/s2048x3072/d60ab0b7b2354f56ca7ed90450f0b26254f32443.png)
+
+{% bubble HiMERU %}
+--Alright. There's no one here.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+? What's going on, HiMERU-san?
+{% endbubble %}
+
+![max aff](https://64.media.tumblr.com/a33d8e0321dbe5af1ffad22d02ba3f1a/60e41a6b33d773ae-ed/s2048x3072/0181434f3e029e9778931bf34b5691869adfc7b2.png)
+
+> ***[Kazehaya Tatsumi / Relationship: Special / Status: Anxious / Affinity: 100]***
+
+{% bubble HiMERU %}
+...Just how is it possible that the affinity is maxed out when you've been on a date with Ayase this whole time?
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Ummm?
+{% endbubble %}
+
+{% bubble HiMERU %}
+Well, that is what a "special relationship" entails. Or maybe it's special because it's different.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+???
+{% endbubble %}
+
+{% bubble HiMERU %}
+Tatsumi. It seems you were having so much fun that you've forgotten the dire situation HiMERU was in.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Ah, yes. Gaming and reality was blurred for you. I’m still unsure of how that can feel.
+{% endbubble %}
+
+![unbloomed](https://64.media.tumblr.com/0b60b46c96e15860676504073024e55a/60e41a6b33d773ae-23/s2048x3072/65c41467d421f4942d157bca142950545111937d.png)
+
+{% bubble HiMERU %}
+Fufu. Nobody can be aware of how another person feels, or how they perceive the world. That's why…
+{% endbubble %}
+
+{% bubble Tatsumi %}
+....? Hm? Why are you, um, kabedon-ing me? That <i>is</i> what you're doing right?
+{% endbubble %}
+
+{% bubble HiMERU %}
+.....
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Fufu. HiMERU-san, you did this same maneuver during our shoot yesterday. I wonder if you usually like this type of thing.
+{% endbubble %}
+
+{% bubble HiMERU %}
+.......
+{% endbubble %}
+
+{% bubble Tatsumi %}
+I thought so yesterday too, but you're beautiful even up close like this.
+{% endbubble %}
+
+{% bubble HiMERU %}
+<th><i>(Ahh, how naive...you've always loved and trusted others from the depths of your heart, even "me".)</th></i>
+
+<th><i>(That's why you're never distrusting or defensive. You just accept anything that's given to you by others.)</th></i>
+
+<th><i>(That's why you lost everything. Your position, your pride, your leg, a happy life.)</th></i>
+
+<th><i>(Yet, even when you say you've repented, nothing has changed, has it--Kazehaya Tatsumi.)</th></i>
+{% endbubble %}
+
+<h2 id="10">Chapter 10</h2>
+
+***
+
+  > <span style="color: red;">***Content Warning:** Depictions of a character having murderous intrusive thoughts.*</span>
+
+![conf](https://64.media.tumblr.com/d69b3218dbb84e851007346123ecb27f/6eaa79ebbed597d7-2a/s2048x3072/150e203d84494f16fc36e09ce9ee3d38faf75068.png)
+
+![warning](https://64.media.tumblr.com/2eb3c880e352663dddc391beed2d6119/56194fd0f5487762-2e/s1280x1920/85aa444ab1ed2c5db9d672fedf2ace4c8799adb7.jpg)
+
+{% bubble Tatsumi %}
+HiMERU-san...?
+{% endbubble %}
+
+{% bubble HiMERU %}
+<th><i>(Aah, how loathsome. I want to wipe the composure off that face of his.)</th></i>
+
+<th><i>(No, it would be even easier to get rid of it entirely. It doesn't matter what the consequences are.)</th></i>
+
+<th><i>(I'll strangle him, disguise myself, make my escape, and then "I" will become "myself"--a <i>nobody</i>--again.)</th></i>
+
+<th><i>(Today would be the last day that I’d be "HiMERU".)</th></i>
+{% endbubble %}
+
+{% bubble Tatsumi %}
+You look unwell. Here, please rest on my shoulder.
+{% endbubble %}
+
+{% bubble HiMERU %}
+.....
+{% endbubble %}
+
+![clear](https://64.media.tumblr.com/defbe5ede9d41ded5be56785ff32e4d1/56194fd0f5487762-23/s1280x1920/209ef96d5566dc463385dd662de2ec2c9a0e27df.jpg)
+
+{% bubble Tatsumi %}
+There, there. Ufufu, HiMERU-san is human too.
+
+I'm guessing you didn't want Kohaku-san seeing you in such a weak state. And that's why you rushed to this alleyway...but I'm glad you allowed me to see this side of you.
+{% endbubble %}
+
+![friend](https://64.media.tumblr.com/92bd11edd5664558d923ee2148aa7197/6eaa79ebbed597d7-dd/s2048x3072/2819356ac9d5eaad1580ff292ae9f7ada5374323.png)
+
+{% bubble Tatsumi %}
+I've always just wanted to be your friend. 
+
+Not a saint and his follower, not rivals at work...but the kind of relationship where we go out together during vacations, talk about simpler things, and laugh at each other.
+{% endbubble %}
+
+{% bubble HiMERU %}
+<th><i>(Just like always--)</th></i>
+
+<th><i>(--You don't understand <b>anyone</b> or their feelings, and all you spout is nonsense. You've <b>always</b> been like this--)</th></i>
+{% endbubble %}
+
+{% bubble HiMERU %}
+--Kazehaya Tatsumi.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Yes? What is it, HiMERU-san?
+{% endbubble %}
+
+{% bubble HiMERU %}
+Kazehaya Tatsumi, Kazehaya Tatsumi KazehayaTatsumi<i>KazehayaTatsumi–</i>
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Yes. You don't need to keep calling for me, I'm right here.
+{% endbubble %}
+
+{% bubble HiMERU %}
+…Marry "me".
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Eh? I don't want to.
+{% endbubble %}
+
+{% bubble HiMERU %}
+........
+{% endbubble %}
+
+{% bubble Tatsumi %}
+.......
+
+.....HiMERU-san?
+{% endbubble %}
+
+{% bubble HiMERU %}
+--Why did you refuse?!
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Uggghghg?! Please don't choke me! I'll die!
+
+Ah, was it because of my affinity? Because of the game you're playing?
+
+I'm so sorry, I gave a straightforward answer!
+{% endbubble %}
+
+{% bubble HiMERU %}
+Do you hate HiMERU <i>that</i> much?!
+{% endbubble %}
+
+{% bubble Tatsumi %}
+A-absolutely not! I think of you as a very important friend!
+
+But, because of the religious beliefs I grew up with as well as the laws of the country, I feel like I have to say no when a man asks me to marry him...?!
+{% endbubble %}
+
+{% bubble HiMERU %}
+Maybe so! But you needed to say <i>yes</i>!
+
+Oukawa's affinity wouldn't rise above a specific level for some reason, so Tatsumi you were the only option!
+
+Your affinity is at 100--in other words, it's at its "MAX"! 
+{% endbubble %}
+
+![againnn](https://64.media.tumblr.com/0df0ae215e78453cd70da62bd592de1a/6eaa79ebbed597d7-1e/s2048x3072/348d7b6e5302cfa1c8ea11c19dec0acd9f612c66.png)
+
+{% bubble HiMERU %}
+In "Ai-stars", when you raise someone's affinity to 100 you can ask to marry them, and if both parties are in agreement then you get married.
+
+Then the game would be over! And by extension this ridiculous situation will be over too!
+{% endbubble %}
+
+{% bubble Tatsumi %}
+R-right! Is that so? I'll do it then, I'll marry you!
+{% endbubble %}
+
+{% bubble HiMERU %}
+There! Even if you didn't know anything, you should've assumed and did this from the beginning! Ahh, the game is cleared! It's finally over!
+{% endbubble %}
+
+{% bubble Tatsumi %}
+C-congratulations?
+{% endbubble %}
+
+{% bubble HiMERU %}
+Thank you! Actually, Tatsumi, it was good you were around!
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Come again?
+{% endbubble %}
+
+{% bubble HiMERU %}
+...We can never know what's in someone else's heart. For games this might be true, but this is reality.
+
+Therefore, whatever affinity that was shown to HiMERU was only because of HiMERU's perceptions. It was only a number based on HiMERU's five senses and subconsciousness.
+{% endbubble %}
+
+{% bubble HiMERU %}
+<th><i>(Oukawa's affinity didn't exceed a certain point only because HiMERU judged it to be so subconsciously.)</th></i>
+
+<th><i>(Oukawa is still innocent, and he loves easily. However, what Oukawa sees and loves is "HiMERU"--a false mask "I've" created. I don't know how much he would love the real "me".)</th></i>
+{% endbubble %}
+
+![fksjhf](https://64.media.tumblr.com/12d4c1b6f05ef5625e2d101fd5348558/6eaa79ebbed597d7-ef/s2048x3072/82b9552199aae35489d090e12e5d87b8d0fd8ba0.png)
+
+{% bubble HiMERU %}
+<th><i>(And there's no way to know that, because "I" never allow anyone to see the real "me".)</th></i>
+
+<th><i>(The real "me" has no idea how much Oukawa loves him, and so my subconscious acknowledged that and refused to raise his affinity above a certain point.)</th></i>
+
+<th><i>(It doesn't matter how well we may get along on a surface level, if "I" never reveal the true "me" to him, then we will never attain a higher level of friendship.)</th></i>
+
+<th><i>(Fufu. Oukawa considered an online friend, someone he'd never seen before, as his best friend--)</th></i>
+
+<th><i>(He could love "me" even if I were a scrap of paper.)</th></i>
+
+<th><i>(Alas, that's just a theory that my consciousness--my instincts--doesn't seem to agree with. The guilt of deceiving Oukawa was reflected in his affinity.)</th></i>
+
+<th><i>(But. If it were Tatsumi. If it were that saint <i>bastard</i>...)</th></i>
+
+<th><i>(Surely, he would love "me" no matter who I was. He would indiscriminately love "me", "HiMERU", and anyone else.)</th></i>
+
+<th><i>(That's just the kind of person you are, Kazehaya Tatsumi. A winged saint. An absurd saint bastard who would never hold a grudge against anyone, no matter how much they've trampled on him.)</th></i>
+
+<th><i>(For anyone, his affinity would stay high and strong.)</th></i>
+
+<th><i>(Ahh, I can't stand him for being so unpleasant!)</th></i>
+{% endbubble %}
+
+![ambulance](https://64.media.tumblr.com/1014a00089c1367754ecb9c6fd8ccc19/6eaa79ebbed597d7-90/s2048x3072/69459f00c869553a4a1e9d2ca724790b20c64bb2.png)
+
+{% bubble Tatsumi %}
+....HiMERU-san? I-I'll ask you again, are you feeling alright? If it's an extreme condition, should I call an ambulance?
+{% endbubble %}
+
+{% bubble HiMERU %}
+--No. Everything...is fine. Thank you for the assistance, Tatsumi. Because of it, any visions of affinity have all disappeared. HiMERU was likely freed from the game's influence.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Is that so! What a relief! Congratulations! So clearing the game really was the cure for your symptoms after all?
+{% endbubble %}
+
+{% bubble HiMERU %}
+Probably...It could also be that the symptoms wore off with time naturally.
+
+Even when wearing glasses that flip your vision upside down, your brain will correct your vision with time to the way it previously was.
+
+That's just how the human brain works. Over time it will adapt and perceive the world normally again.
+
+A constant state of confusion and illusion simply doesn't exist.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+That's right. If you're ever seeing things that aren't actually there, then that would just mean there's an issue with part of your brain functions. 
+
+However, you will always be perfect, good, and righteous.
+{% endbubble %}
+
+{% bubble HiMERU %}
+Hmph. What's "normal" and what's "right" or not is all dependent on personal beliefs.
+
+If you keep treating others reverently like that you'll only face failure again, Tatsumi.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+I'll keep that in mind.
+{% endbubble %}
+
+{% bubble HiMERU %}
+Fufu. HiMERU is also adapting, albeit slowly, to this strange world. A rather dull world, where there's nothing to love.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Yes. I'll assist you as much as possible, anytime. As your reliable "husband".
+{% endbubble %}
+
+{% bubble HiMERU %}
+No. The game is over, so it's fine to go back to the same relationship we had before. That is to say, as <i>"strangers"</i>.
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Fufu. I was hoping to be at least "friends"...~
+{% endbubble %}
+
+<h2 id="11">Chapter 11</h2>
+
+***
+
+<div class="msr-narration">
+    <p>Later. At Crazy:B’s hangout spot in Cafe Cinnamon.</p>
+  </div>
+
+![life](https://64.media.tumblr.com/4e4f61707e47a28d70ddba1b501d6807/7631d5264da09457-3a/s2048x3072/b927527058c2a1a8d64a4f79bfff1da2e48efcaf.png)
+
+{% bubble HiMERU %}
+–Ahh, a peaceful life is such a wonderful thing.
+{% endbubble %}
+
+{% bubble Kohaku %}
+Y-yeah…it is.
+{% endbubble %}
+
+{% bubble HiMERU %}
+Oya, Oukawa, why are you sitting so far from HiMERU? Could it be that your affinity still isn’t high enough?
+{% endbubble %}
+
+{% bubble Kohaku %}
+Just what do you mean when you say affinity? Human feelings can’t be easily put into numbers y'know.
+{% endbubble %}
+
+{% bubble HiMERU %}
+Agreed. When it comes to love games, that’s what makes them absurd. Yet, “Ai-stars" sales seem to be a success thanks to us.
+{% endbubble %}
+
+{% bubble Kohaku %}
+Seems so... Umm…thanks to all the backbone you put in, HiMERU-han.
+{% endbubble %}
+
+![recording](https://64.media.tumblr.com/c129d8dc653721d0a02e26f78a41ff85/7631d5264da09457-55/s2048x3072/50237517a698459fcca22246f0f372af49333f46.png)
+
+{% bubble HiMERU %}
+Yes. That day, in the alleyway HiMERU proposed all for the sake of "Ai-stars"s recording.
+{% endbubble %}
+
+{% bubble Kohaku %}
+Yeah…we got worried when you two didn’t come back right away, so we went to check up on you and saw but…
+
+You both were there, standing scandalously close to each other and whispering lovey words–
+{% endbubble %}
+
+{% bubble HiMERU %}
+It was *not* scandalous, and we were *not* whispering love to each other.
+{% endbubble %}
+
+{% bubble Kohaku %}
+S-sure it wasn’t. Me and Mayoi-han got a little unsettled, even now we get a little on edge when we see you, HiMERU-han.
+{% endbubble %}
+
+{% bubble HiMERU %}
+Oya, could you be jealous, Oukawa?
+
+Please don’t worry. Of everyone in ES, HiMERU’s affinity for you is the highest.
+{% endbubble %}
+
+{% bubble Kohaku %}
+What even is all this affinity talk anyways? It’s ridiculous…and besides, HiMERU-han, it’s your fault for being so confusing.
+
+If Anzu-san isn’t around filming anymore then keeping up the act of a "character from a dating sim” is pointless isn’t it.
+
+You’re giving me the impression that you’re serious about this…
+{% endbubble %}
+
+{% bubble HiMERU %}
+Impossible. It’s awful even to think about.
+{% endbubble %}
+
+{% bubble HiMERU %}
+<th><i>(Though, it’s true we came up with a poor excuse.)</th></i>
+
+<th><i>(Oukawa came to check on us because he’d gotten worried, and subsequently saw HiMERU and Tatsumi standing close to each other. We had to rush to explain ourselves.)</th></i>
+
+<th><i>(Thankfully, Anzu-san had come to find us sooner and was able to record–)</th></i>
+
+<th><i>(Yes, she had recording equipment with her, and as a result she was able to submit a video that the client was happy with.)</th></i>
+
+<th><i>(They said “Yes, yes! This is exactly what we wanted! Two men, usually calm and composed, exposing their true instincts–” and were satisfied. Whatever that means.)</th></i>
+
+<th><i>(Arguably, it’d be better to fire a crazy person like them as quickly as possible.)</th></i>
+{% endbubble %}
+
+![done](https://64.media.tumblr.com/46a8c6b644158d6c3ec87a5d58459fd9/7631d5264da09457-63/s2048x3072/89346d54ceebe5448d2974e7fb47310ec1cbc0df.png)
+
+{% bubble HiMERU %}
+<th><i>(Well, the fact that the job was done perfectly and excellently as HiMERU always does should be a relief.)</th></i>
+
+<th><i>(It was a chaotic, but certainly rewarding, experience. God is in heaven, and all's right with the world<sup>**(15)**</sup>. This can be called a happy ending.)</th></i>
+{% endbubble %}
+
+{% bubble Tatsumi %}
+HiMERU-saaaaan~
+{% endbubble %}
+
+{% bubble Kohaku %}
+Oh, your “husband” is here to pick you up.
+{% endbubble %}
+
+{% bubble HiMERU %}
+HiMERU: That kind of joke is *unforgivable*, Oukawa.
+{% endbubble %}
+
+{% bubble Kohaku %}
+Scary…
+
+Did you need anything from us, Tatsumi-han? I heard you guys are still booked. Are you sure it’s okay to be spending time here?
+{% endbubble %}
+
+{% bubble Mayoi %}
+Fufu. It’s not okay actually, but…
+{% endbubble %}
+
+{% bubble Kohaku %}
+Oh, Mayoi-han you’re here too. Hi there~
+{% endbubble %}
+
+{% bubble Mayoi %}
+Ah, yes! Hello, Koha-kyun…~
+{% endbubble %}
+
+{% bubble Kohaku %}
+Koha-kyun?
+{% endbubble %}
+
+{% bubble Mayoi %}
+I-I’m sorry! I misspoke!
+{% endbubble %}
+
+{% bubble HiMERU %}
+Did you really? Well, nevermind that. HiMERU was simply offering Oukawa a meal as thanks for helping before.
+
+You both were also useful with help and are welcome to join us if you’d like. Shiina went a little overboard in making the food so we can’t possibly eat it ourselves.
+{% endbubble %}
+
+{% bubble Kohaku %}
+Ah, that’s nice of you, but it was also something we had to do for our sake, so please don’t feel indebted to us.
+{% endbubble %}
+
+{% bubble HiMERU %}
+Yes. We have the same position of work. We’re equals, so there’s no debt involved. And so, please allow HiMERU to show his gratitude with this meal.
+{% endbubble %}
+
+{% bubble Kohaku %}
+No point in arguing Mayoi-han, let HiMERU-han buy you something.
+{% endbubble %}
+
+{% bubble Mayoi %}
+I-if you insist...in actuality, we’ve been so busy lately that all we’ve had to eat are bento boxes and things like that, so I’d be happy to finally eat a proper meal.
+{% endbubble %}
+
+{% bubble Kohaku %}
+Good. Come sit here~
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Fufu. I feel like I’ve been able to gain a better understanding of everyone in “Crazy:B”. It took a lot of hard work, but I believe it was also a good experience.
+{% endbubble %}
+
+{% bubble HiMERU %}
+Yes, HiMERU thought the same. HiMERU will keep gaining more experience in order to better himself as an idol.
+{% endbubble %}
+
+![news](https://64.media.tumblr.com/5d0933e3b41d19ed0be8613490d500d2/7631d5264da09457-ac/s2048x3072/22c201797d37cb143725923a26da87ca15f94d37.png)
+
+{% bubble Tatsumi %}
+Wonderful. I actually have some good news for Crazy:B–specifically, for HiMERU-san.
+{% endbubble %}
+
+{% bubble HiMERU %}
+For HiMERU? What is it?
+{% endbubble %}
+
+{% bubble Tatsumi %}
+It would appear that our first Valentine’s Day event “Ai-stars” was received well by the public. So much that the producer was excited enough to begin working on a sequel event, without anyone asking them to do so.
+{% endbubble %}
+
+{% bubble HiMERU %}
+“Sequel”…?
+{% endbubble %}
+
+{% bubble Tatsumi %}
+Yes. To align with June Bride, the sequel will be titled “Tatsumi and HiMERU’s Lovey Lovey*Newlywed Life”.
+{% endbubble %}
+
+{% bubble HiMERU %}
+…….
+{% endbubble %}
+
+{% bubble Tatsumi %}
+We’ve been offered roles, what will you do?
+{% endbubble %}
+
+{% bubble HiMERU %}
+–Obviously, politely refuse~
+{% endbubble %}
+
+<h4> Translation Notes</h4>
+
+(15): A colloquial expression derived from literature meaning “everything back to normal in its place”. I recognized this quote from “Pippa Passes”, a work of poetry published in the 1900s.
+
 
   <!-- CONTENT GOES HERE -->
 

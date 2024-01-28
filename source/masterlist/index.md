@@ -504,7 +504,7 @@ description: translation masterlist
       <a href="/2050/07/03/rom-date/" class="item-container-link">
         <div class="item-container">
           <div class="title">
-            <h2>Romantic? Date (Being Transferred)</h2>
+            <h2>Romantic? Date</h2>
           </div>
         </div>
       </a>
