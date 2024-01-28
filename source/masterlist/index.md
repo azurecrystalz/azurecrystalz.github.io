@@ -417,7 +417,7 @@ description: translation masterlist
       <a href="/2050/07/05/past-present-and/" class="item-container-link">
         <div class="item-container">
           <div class="title">
-            <h2>Past, Present, And... (WIP)</h2>
+            <h2>Past, Present, And...</h2>
           </div>
         </div>
       </a>
