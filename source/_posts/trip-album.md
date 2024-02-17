@@ -334,10 +334,10 @@ description: trip album song list
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
     <div class="item" id="rinne" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706325660/translation%20site/masterlist/ye1ftcktglgw5yiw0ja9.png');">
-      <a href="/[STORY_URL_HERE]" class="item-container-link">
+      <a href="/2023/05/22/thrill-addict/" class="item-container-link">
         <div class="item-container">
           <div class="title">
-            <h2>Thrill Addict (Unadded)</h2>
+            <h2>Thrill Addict</h2>
           </div>
         </div>
       </a>
