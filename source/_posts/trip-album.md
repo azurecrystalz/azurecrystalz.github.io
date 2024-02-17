@@ -325,6 +325,8 @@ description: trip album song list
   }
 </style>
 
+<sup><i><b>NOTE:</b> I try to follow the cadence of the song while still staying true to the lyrics, so translations may deviate from the concrete meaning.</i></sup>
+
 <main class="page-content">
   <h2>Idol Solos</h2>
   <strong><p><i>Everything is complete unless marked with "WIP"/"Unadded" !!</i></p></strong>
@@ -359,10 +361,10 @@ description: trip album song list
       </a>
     </div>
     <div class="item" id="kohaku" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706325658/translation%20site/masterlist/adigi7l32tpp6cykgzwt.webp');">
-      <a href="[URL HERE]" class="item-container-link">
+      <a href="/2023/05/22/petals-resolution/" class="item-container-link">
         <div class="item-container">
           <div class="title">
-            <h2>Petal's Resolution (Unadded)</h2>
+            <h2>Petal's Resolution</h2>
           </div>
         </div>
       </a>
