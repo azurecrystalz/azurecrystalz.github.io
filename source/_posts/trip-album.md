@@ -385,10 +385,10 @@ description: trip album song list
       </a>
     </div>
     <div class="item" id="kurei" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706402122/translation%20site/masterlist/drsaldpl0rrsyybcqa2o.png');">
-      <a href="[URL HERE]" class="item-container-link">
+      <a href="/2023/05/22/summer-night-beat/" class="item-container-link">
         <div class="item-container">
           <div class="title">
-            <h2>NA NA NA SUMMER NIGHT BeeAT (Unadded)</h2>
+            <h2>NA NA NA SUMMER NIGHT BeeAT</h2>
           </div>
         </div>
       </a>
