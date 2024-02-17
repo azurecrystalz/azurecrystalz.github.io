@@ -129,7 +129,7 @@ description: rinne solo translation
 <span style="color: #bf4d58;">TAKE A RISK FOR SOMEONE now, let’s have some fun!</span>
 ***
 <span style="color: #bf4d58;">Not enough </span><span style="color:grey">(HEY!)</span><span style="color: #bf4d58;"> excitement for you, huh? </span><span style="color:grey">(WOO!)</span>
-<span style="color: #bf4d58;">During lazy times <span style="color:grey">(LOOSE TIMES)</span> <span style="color: #bf4d58;">hesitation won’t get you any <span style="color:grey">(HEY!)</span>
+<span style="color: #bf4d58;">During lazy times <span style="color:grey">(LOOSE TIMES)</span> <span style="color: #bf4d58;">hesitation won’t get you anywhere <span style="color:grey">(HEY!)</span>
 <span style="color: #bf4d58;">Look me right </span><span style="color:grey">(WOO!)</span><span style="color: #bf4d58;"> in the eyes </span><span style="color:grey">(YOUR EYES)</span>
 <span style="color: #bf4d58;">It’ll all make sense when you see it! Show me that you want it.</span>
 ***
