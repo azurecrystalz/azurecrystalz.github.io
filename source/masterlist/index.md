@@ -423,10 +423,10 @@ description: translation masterlist
       </a>
     </div>
     <div class="item" id="niki" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322602/translation%20site/masterlist/x58zlxrww39tpurqlrkj.webp');">
-      <a href="/[STORY_URL_HERE]" class="item-container-link">
+      <a href="/2050/07/05/recipe-for-idols/" class="item-container-link">
         <div class="item-container">
           <div class="title">
-            <h2>A Recipe for Idols (Unadded)</h2>
+            <h2>A Recipe for Idols (WIP)</h2>
           </div>
         </div>
       </a>
