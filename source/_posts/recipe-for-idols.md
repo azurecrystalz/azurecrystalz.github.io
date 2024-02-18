@@ -371,6 +371,163 @@ You’re telling me! But this is <i>Niki-han</i> we’re talking about!
 I feel like I just saw something impossible. I wonder if Rinne-han knows anything about this…?
 {% endbubble %}
 
+<h2>Chapter 2</h2>
+
+***
+
+![outlets](https://res.cloudinary.com/djq41tb84/image/upload/v1708226540/enstars/dialogue/niki%20fs/fs1/ch2/jahaixilvacgqjfxlrsg.png)
+
+{% bubble Niki %}
+Woah. There’s a bunch of clothing outlets around here~
+
+I’ve been here before a lot, but I never really noticed because I don’t find that kinda thing interesting. Nyahaha~
+
+…You’re asking which store I use? Ummm…I wonder…
+
+I don’t actually know. I don’t even think I remember where I got the outfit I’m wearing now.
+
+If it were a restaurant we were talking about, then it’d be more noticeable…oh, by the way…
+
+There’s a new international buffet down the street there. They’ve got phat thai, tacos, and banh mi! You can enjoy all kinds of different foods there!
+
+Sometimes there are dishes that you don’t really see here all that often in Japan, and at times like those I remember just how big the world is. Cooking is super advanced, isn’t it~? The more you think about it the more interesting it gets…
+{% endbubble %}
+
+![sorry](https://res.cloudinary.com/djq41tb84/image/upload/v1708226544/enstars/dialogue/niki%20fs/fs1/ch2/dolhny9yd6zba6hm9qeh.png)
+
+{% bubble Niki %}
+Sorry! I’m back to talking about food again! I’ll refocus on “personalized outfits” now.
+
+…Nnn, you’re asking me to keep talking about cooking? You wanna include my hobbies and interests into the design of the outfit, so you think it’d be helpful, huh…
+
+Nyahaha. If you included stuff that I’m into in the outfit, then you’d just end up with an outfit with cooking themes~
+
+Eh? You say “personalized outfits” like those exist? Which ones…
+
+Oh! Takamine-kun’s outfit! He really *did* look just like a “veggie boy”~!
+
+Then, maybe I could do something with meat…oh, wait. Wouldn’t Ootogari-kun look better with that?
+
+At any rate, I’m glad those kinds of designs are a thing. The bar for how my “personalized outfit” should turn out is a bit lower now.
+
+…Haa. That’s such a relief, I’m starved. Wanna grab something to eat? We can head to that restaurant I just told you about, buuut since we’re here…
+{% endbubble %}
+
+![bench](https://res.cloudinary.com/djq41tb84/image/upload/v1708226537/enstars/dialogue/niki%20fs/fs1/ch2/hytlhnkvc1vsb3nhlvs6.png)
+
+{% bubble Niki %}
+Anzu-neesan, how about we try this bench? Here we go…
+
+You’ve never shopped that much at a konbini before, you say? Nyaha, neither have I. It’s more affordable to cook everything myself.
+
+Nee-san, you probably have a bunch of chances to go out and eat during meetings and stuff. So I went for konbini rice.
+
+It was so kind of them to make a lot of fried stuff since they saw we were buying so much! I’ll start with the fried tofu first, thank you for the meeeaaal~!
+
+Mogumogu…Nee-san, don’t be shy to have some either~! If there isn’t enough, then I’ll run to go buy more.
+{% endbubble %}
+
+![stuffed](https://res.cloudinary.com/djq41tb84/image/upload/v1708226539/enstars/dialogue/niki%20fs/fs1/ch2/se3rhraglwlgnxpt0wja.png)
+
+{% bubble Niki %}
+Aah, I’m stuffed. I’m always at my happiest when I’m eating / Mogumogu…Umm~ about my “personalized outfit”...
+
+I’m sorry! I still can’t come up with any ideas!
+
+I’m a cook, I can’t design costumes~!
+
+Nee-san, what are you smiling for? …You had a feeling I was gonna say that?
+
+You noticed how I said that I didn’t really care much about fashion, so you came up with a design while you were working…That’s Anzu-neesan for you!
+
+I’ll look over your sketchbook…Fumufumu, so the concept is “cook”, huh…
+
+I look really happy when I’m cooking, so you want me to look just as happy while doing idol work too, you say~
+{% endbubble %}
+
+![think](https://res.cloudinary.com/djq41tb84/image/upload/v1708226539/enstars/dialogue/niki%20fs/fs1/ch2/jqm7t36t5mgpttlfnv9f.png)
+
+{% bubble Niki %}
+<th><i>(...Now that I think about it, when I first came to ES, the one thing I wanted to do was to quit being an idol.)</i></th>
+
+<th><i>(Once, I even asked Nee-san directly about it too. That was less than a year ago, but it feels like it’s been forever.)</i></th>
+
+<th><i>(I guess…that means that I’m changing too.)</i></th>
+{% endbubble %}
+
+![unbl](https://res.cloudinary.com/djq41tb84/image/upload/v1708226544/enstars/dialogue/niki%20fs/fs1/ch2/h0b1rouvn41lzoamwkvw.png)
+
+{% bubble Niki %}
+<th><i>(Idols are still something that’s completely new to me, and I’m still trying to figure out my place in it all. When it comes to “personalized outfits”, it doesn’t really matter to me much either.)</i></th>
+
+<th><i>(That’s why, I was honestly relieved when Nee-san chose the design for me. It was just like being at a clothing outlet and the store clerk picking the outfit out for me.)</i></th>
+
+<th><i>(Anything goes. If it’s something Anzu-neesan came up with, then I’m sure it’s exactly what I need.)</i></th>
+
+<th><i>(But, it's not just “anything”–)</i></th>
+{% endbubble %}
+
+{% bubble Niki %}
+I really like this outfit~
+
+I’m a cook, and this fits me perfectly. We can use this one, Nee-san~
+
+You’re going through your bag again…Do you have something else to show me?
+
+…Oh, the fabric! I want it to be 100% made of cotton, just like something a cook would wear!
+
+Awesome. I’m a fan of this material too. It looks pretty sleek and flame resistant. Something a cook would wear.
+{% endbubble %}
+
+{% bubble Niki %}
+…I’m sorry. My phone hasn’t stopped blowing up for a while now. I hope that it isn’t bothering you much!
+
+You want me to check anyway because it might be related to work, huh? Well, if you say so…
+{% endbubble %}
+
+{% bubble Niki %}
+<th><i>(…Ugh~ Rinne-kun’s been spamming my messages.)</i></th>
+
+<th><i>(Asking if I’m still with Nee-san and what we’re doing. He’s acting like how a dad would with a teenage daughter.)</i></th>
+
+<th><i>(Uwah…right as I was typing up a reply I got another message.)</i></th>
+
+<th><i>(So annoying...Oh, I know–)</i></th>
+{% endbubble %}
+
+{% bubble Niki %}
+Nee-san, could you smile and pose with a peace sign?
+
+Like that! Now, don’t move. Okay, cheese~!
+
+Aaaand sent…sorry for making you wait. Please keep going.
+
+Yeah, it’s alright. It wasn’t a work call or anything– / Huh, now it’s a phone call…jeez, he’s so stubborn…hello?
+{% endbubble %}
+
+![huby](https://res.cloudinary.com/djq41tb84/image/upload/v1708226538/enstars/dialogue/niki%20fs/fs1/ch2/w41kzvpry310idov0uo8.png)
+
+{% bubble Rinne %}
+*“Niki you **asshole**! What’s with that picture you just sent me?!”*
+{% endbubble %}
+
+{% bubble Niki %}
+Nyaha, what are you talking about? Sorry I’m kinda busy right about nowww~
+
+I think I’ll turn my phone off, since he’s going to call me again for sure.
+
+You’re asking me if it’s okay to leave Rinne-kun hanging like that? Sure it is. I’m always the one getting pushed around by him, after all.
+
+I’m sure nothing too crazy will come out of turning the tables for once~
+
+I want to talk with you more about my “personalized outfit”, Nee-san, and also…about idols.
+
+I’ve seen and been through a lot until now, so I want to like them too.
+
+So, Anzu-neesan, please tell me all about what you like the most about idols.
+{% endbubble %}
+
+
   <!-- CONTENT GOES HERE -->
 
   <!-- 

@@ -426,7 +426,7 @@ description: translation masterlist
       <a href="/2050/07/05/recipe-for-idols/" class="item-container-link">
         <div class="item-container">
           <div class="title">
-            <h2>A Recipe for Idols (WIP)</h2>
+            <h2>A Recipe for Idols</h2>
           </div>
         </div>
       </a>
