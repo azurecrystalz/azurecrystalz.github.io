@@ -608,7 +608,7 @@ story template looks like this:
 </div>
   
   <h2>Song Translations</h2>
-  <sup><i>If you’d like to use my song translations for lyric videos or edits, you’re welcome to do so as long as there is <b>clear, visible credit</b> either in the video or in the description.</i></sup>
+  <sup><i>If you’d like to use my song translations for edits, you’re welcome to do so as long as there is <b>clear, visible credit</b> either in the video or in the description.</i></sup>
   <div id="songs">
     <div class="song-item">
       <figure class="song-figure">
