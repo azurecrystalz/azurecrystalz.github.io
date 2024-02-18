@@ -328,7 +328,9 @@ Have you finished everything you needed to? Good work today~
 
  …You want me to take my time eating? Don’t worry about that, give me just a second~
 
-Mogumogu…gokkun! Thank you for the food~! / Well, we’ll be off now. See you tomorrow, you two~!
+Mogumogu…gokkun! Thank you for the food~!
+
+Well, we’ll be off now. See you tomorrow, you two~!
 
 Nee-san, where are we headed? I’ll be with you all night~!
 {% endbubble %}
