@@ -6,7 +6,7 @@
   <link href="http://azurecrystalz.github.io/atom.xml" rel="self"/>
   
   <link href="http://azurecrystalz.github.io/"/>
-  <updated>2023-11-10T18:40:11.516Z</updated>
+  <updated>2024-01-27T00:00:48.577Z</updated>
   <id>http://azurecrystalz.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Banquet of a Shrouded Moon</title>
+    <title>Banquet Under a Shrouded Moon</title>
     <link href="http://azurecrystalz.github.io/2050/11/03/moon-banquet/"/>
     <id>http://azurecrystalz.github.io/2050/11/03/moon-banquet/</id>
     <published>2050-11-03T21:25:00.000Z</published>
-    <updated>2023-11-10T18:40:11.516Z</updated>
+    <updated>2024-01-27T00:00:48.577Z</updated>
     
     
     <summary type="html">rinne ts2 5* translation</summary>
@@ -52,7 +52,7 @@
     <link href="http://azurecrystalz.github.io/2050/07/05/past-present-and/"/>
     <id>http://azurecrystalz.github.io/2050/07/05/past-present-and/</id>
     <published>2050-07-06T00:02:00.000Z</published>
-    <updated>2023-09-15T23:17:22.000Z</updated>
+    <updated>2024-03-02T00:52:20.109Z</updated>
     
     
     <summary type="html">himeru fs1 translation</summary>
@@ -75,11 +75,42 @@
   </entry>
   
   <entry>
+    <title>A Recipe for Idols</title>
+    <link href="http://azurecrystalz.github.io/2050/07/05/recipe-for-idols/"/>
+    <id>http://azurecrystalz.github.io/2050/07/05/recipe-for-idols/</id>
+    <published>2050-07-06T00:02:00.000Z</published>
+    <updated>2024-02-18T03:31:29.700Z</updated>
+    
+    
+    <summary type="html">niki fs1 translation</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
+    
+    <category term="Shiina Niki" scheme="http://azurecrystalz.github.io/tags/Shiina-Niki/"/>
+    
+    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
+    
+    <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
+    
+    <category term="Tenma Mitsuru" scheme="http://azurecrystalz.github.io/tags/Tenma-Mitsuru/"/>
+    
+    <category term="Tsukinaga Leo" scheme="http://azurecrystalz.github.io/tags/Tsukinaga-Leo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Romantic Date</title>
     <link href="http://azurecrystalz.github.io/2050/07/03/rom-date/"/>
     <id>http://azurecrystalz.github.io/2050/07/03/rom-date/</id>
     <published>2050-07-03T17:33:00.000Z</published>
-    <updated>2023-09-15T23:17:22.000Z</updated>
+    <updated>2024-03-02T00:55:47.713Z</updated>
     
     
     <summary type="html">romantic date tls</summary>
@@ -110,7 +141,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/30/number-eight/"/>
     <id>http://azurecrystalz.github.io/2050/05/30/number-eight/</id>
     <published>2050-05-30T21:32:00.000Z</published>
-    <updated>2023-09-30T21:46:06.000Z</updated>
+    <updated>2024-03-02T00:18:55.721Z</updated>
     
     
     <summary type="html">n8 chapter directory</summary>
@@ -137,7 +168,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/27/spider-direc/"/>
     <id>http://azurecrystalz.github.io/2050/05/27/spider-direc/</id>
     <published>2050-05-27T15:26:00.000Z</published>
-    <updated>2023-09-15T23:17:22.000Z</updated>
+    <updated>2024-03-02T00:22:28.317Z</updated>
     
     
     <summary type="html">spider translation directory</summary>
@@ -166,30 +197,11 @@
   </entry>
   
   <entry>
-    <title>Idol Birthday Translation List</title>
-    <link href="http://azurecrystalz.github.io/2050/05/25/idol-bday-list/"/>
-    <id>http://azurecrystalz.github.io/2050/05/25/idol-bday-list/</id>
-    <published>2050-05-26T01:54:00.000Z</published>
-    <updated>2023-09-15T23:17:22.000Z</updated>
-    
-    
-    <summary type="html">idol bday masterlist</summary>
-    
-    
-    
-    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
-    
-    
-    <category term="Birthdays" scheme="http://azurecrystalz.github.io/tags/Birthdays/"/>
-    
-  </entry>
-  
-  <entry>
     <title>A Story That&#39;s Mine Alone</title>
     <link href="http://azurecrystalz.github.io/2050/05/25/a-story-thats-mine-alone/"/>
     <id>http://azurecrystalz.github.io/2050/05/25/a-story-thats-mine-alone/</id>
     <published>2050-05-25T20:23:07.000Z</published>
-    <updated>2023-09-15T23:17:22.000Z</updated>
+    <updated>2024-03-02T00:53:18.744Z</updated>
     
     
     <summary type="html">mika fs2 translation</summary>
@@ -222,7 +234,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/24/sakura-sakura/"/>
     <id>http://azurecrystalz.github.io/2050/05/24/sakura-sakura/</id>
     <published>2050-05-25T01:59:01.000Z</published>
-    <updated>2023-09-15T23:17:22.000Z</updated>
+    <updated>2024-03-02T00:33:04.265Z</updated>
     
     
     <summary type="html">kohaku fs1 translation</summary>
@@ -255,7 +267,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/22/bon-appetit/"/>
     <id>http://azurecrystalz.github.io/2050/05/22/bon-appetit/</id>
     <published>2050-05-23T01:38:35.000Z</published>
-    <updated>2023-09-15T23:17:22.000Z</updated>
+    <updated>2024-03-02T00:43:49.667Z</updated>
     
     
     <summary type="html">niki fs2 translation</summary>
@@ -282,7 +294,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/21/a-curious-step-forward/"/>
     <id>http://azurecrystalz.github.io/2050/05/21/a-curious-step-forward/</id>
     <published>2050-05-22T02:20:58.000Z</published>
-    <updated>2023-09-15T23:17:22.000Z</updated>
+    <updated>2024-03-02T00:59:40.095Z</updated>
     
     
     <summary type="html">kohaku es2 4* story tl</summary>
@@ -305,7 +317,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/16/please-god/"/>
     <id>http://azurecrystalz.github.io/2050/05/16/please-god/</id>
     <published>2050-05-16T15:45:34.000Z</published>
-    <updated>2023-09-15T23:17:22.000Z</updated>
+    <updated>2024-03-02T01:06:12.535Z</updated>
     
     
     <summary type="html">rinne es2 4* translation</summary>
@@ -336,7 +348,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/15/sweetsroad/"/>
     <id>http://azurecrystalz.github.io/2050/05/15/sweetsroad/</id>
     <published>2050-05-15T19:19:34.000Z</published>
-    <updated>2023-09-15T23:17:22.000Z</updated>
+    <updated>2024-03-02T01:06:27.665Z</updated>
     
     
     <summary type="html">niki es2 4* translation</summary>
@@ -365,7 +377,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/15/runrun-calamity/"/>
     <id>http://azurecrystalz.github.io/2050/05/15/runrun-calamity/</id>
     <published>2050-05-15T16:42:04.000Z</published>
-    <updated>2023-09-15T23:17:22.000Z</updated>
+    <updated>2024-01-27T00:32:25.805Z</updated>
     
     
     <summary type="html">himeru 4* translation</summary>
@@ -381,11 +393,11 @@
     
     <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
     
+    <category term="Tenma Mitsuru" scheme="http://azurecrystalz.github.io/tags/Tenma-Mitsuru/"/>
+    
     <category term="Hibiki Wataru" scheme="http://azurecrystalz.github.io/tags/Hibiki-Wataru/"/>
     
     <category term="Hakaze Kaoru" scheme="http://azurecrystalz.github.io/tags/Hakaze-Kaoru/"/>
-    
-    <category term="Tenma Mitsuru" scheme="http://azurecrystalz.github.io/tags/Tenma-Mitsuru/"/>
     
   </entry>
   
@@ -394,7 +406,7 @@
     <link href="http://azurecrystalz.github.io/2023/09/30/take-a-chance/"/>
     <id>http://azurecrystalz.github.io/2023/09/30/take-a-chance/</id>
     <published>2023-09-30T17:59:00.000Z</published>
-    <updated>2023-10-08T01:58:46.000Z</updated>
+    <updated>2024-03-02T00:52:24.471Z</updated>
     
     
     <summary type="html">n8 story section take a chance</summary>
@@ -421,7 +433,7 @@
     <link href="http://azurecrystalz.github.io/2023/08/01/yummy-tummy-love/"/>
     <id>http://azurecrystalz.github.io/2023/08/01/yummy-tummy-love/</id>
     <published>2023-08-01T17:53:00.000Z</published>
-    <updated>2023-11-11T22:51:43.262Z</updated>
+    <updated>2024-03-02T00:56:26.291Z</updated>
     
     
     <summary type="html">niki solo translation</summary>
@@ -442,7 +454,7 @@
     <link href="http://azurecrystalz.github.io/2023/06/01/spider-epilogue/"/>
     <id>http://azurecrystalz.github.io/2023/06/01/spider-epilogue/</id>
     <published>2023-06-01T19:56:00.000Z</published>
-    <updated>2023-09-15T21:58:28.000Z</updated>
+    <updated>2024-03-02T00:43:53.456Z</updated>
     
     
     <summary type="html">spider chapter translations</summary>
@@ -496,7 +508,7 @@
     <link href="http://azurecrystalz.github.io/2023/06/01/gratitude/"/>
     <id>http://azurecrystalz.github.io/2023/06/01/gratitude/</id>
     <published>2023-06-01T19:39:00.000Z</published>
-    <updated>2023-09-15T21:30:08.000Z</updated>
+    <updated>2024-01-27T01:23:00.738Z</updated>
     
     
     <summary type="html">spider story chapters</summary>
@@ -523,7 +535,7 @@
     <link href="http://azurecrystalz.github.io/2023/06/01/kohakus-sacrifice/"/>
     <id>http://azurecrystalz.github.io/2023/06/01/kohakus-sacrifice/</id>
     <published>2023-06-01T18:08:00.000Z</published>
-    <updated>2023-09-15T21:40:30.000Z</updated>
+    <updated>2024-01-27T01:21:41.891Z</updated>
     
     
     <summary type="html">spider story chapters</summary>
@@ -550,7 +562,7 @@
     <link href="http://azurecrystalz.github.io/2023/06/01/a-nightmare-downtown/"/>
     <id>http://azurecrystalz.github.io/2023/06/01/a-nightmare-downtown/</id>
     <published>2023-06-01T15:36:00.000Z</published>
-    <updated>2023-09-15T21:10:20.000Z</updated>
+    <updated>2024-01-27T01:17:23.213Z</updated>
     
     
     <summary type="html">spider chapters</summary>
