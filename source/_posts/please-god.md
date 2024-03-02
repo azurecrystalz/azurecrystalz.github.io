@@ -15,7 +15,7 @@ description: rinne es2 4* translation
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1065401186343194667/1108058866907873310/28Auspiciousness_and_Gods29_Rinne_Amagi_Frameless_Bloomed.webp')"></div>
+      <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709341530/translation%20site/masterlist/svuk73ecwyo8svoaxbzf.png')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
               <div class="title-area__title">Please, God</div>

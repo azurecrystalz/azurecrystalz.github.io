@@ -99,7 +99,7 @@ description: spider translation directory
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112042501407252672/IMG_4989.png?width=1698&height=784')"></div>
+      <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709338878/ASSETS%20ALWAYS%20USE%20THIS/KOHAKU/FULL%20BLOOMED/xjcqgg0he6lf6junus04.png')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
               <div class="title-area__title">Spider</div>
@@ -214,11 +214,11 @@ description: spider translation directory
 <div class="story-wrapper mobile-reverse" style="--storyColor: #ec8dab;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
   <div class="grid-wrapper">
       <div class="story-background"
-      style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112042501407252672/IMG_4989.png?width=1698&height=784')">
+      style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709338878/ASSETS%20ALWAYS%20USE%20THIS/KOHAKU/FULL%20BLOOMED/xjcqgg0he6lf6junus04.png')">
     </div>
     <div class="story-box" style="background: #374a5d">
       <div class="story-cover">
-        <div><img src="https://media.discordapp.net/attachments/1110345002015535124/1112041773313822750/IMG_4988.png?width=828&height=1036">
+        <div><img src="https://res.cloudinary.com/djq41tb84/image/upload/v1709338916/ASSETS%20ALWAYS%20USE%20THIS/KOHAKU/BORDERLESS%20UNBL/ugnzqn3pu7h4ywftu5wy.png">
         </div>
       </div>
       <div class="title-area">

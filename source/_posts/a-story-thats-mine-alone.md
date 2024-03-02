@@ -16,7 +16,7 @@ description: mika fs2 translation
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1111437660528070676/IMG_4923.png')"></div>
+      <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709339798/translation%20site/masterlist/iigy19irnokarfdldy58.png')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
               <div class="title-area__title">A Story That's Mine Alone</div>

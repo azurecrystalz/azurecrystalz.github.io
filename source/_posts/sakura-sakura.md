@@ -16,7 +16,7 @@ description: kohaku fs1 translation
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1111111571968643072/kohafs.png')"></div>
+      <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706325658/translation%20site/masterlist/adigi7l32tpp6cykgzwt.webp')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
               <div class="title-area__title">Sakura, Sakura</div>

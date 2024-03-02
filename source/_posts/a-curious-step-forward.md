@@ -11,7 +11,7 @@ description: kohaku es2 4* story tl
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1065401186343194667/1110030254149476422/28One_Step_Into_the_World29_Kohaku_Oukawa_Frameless_Bloomed.webp')"></div>
+      <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709339414/translation%20site/masterlist/v8dcdfffxsydp9dccu15.png')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
               <div class="title-area__title">A Curious Step Forward</div>
@@ -190,7 +190,7 @@ N-Nagisa-han? If you're calling for me, then the one that invited me here....
 ...Was me.
 {% endbubble %}
 
-![special exhibit](https://media.discordapp.net/attachments/1065401186343194667/1110073383934246912/B30046CF-F3AF-4777-8154-FE5DBF8025B0.png?width=1646&height=760)
+![special exhibit](https://64.media.tumblr.com/93db83958fdb58f25688b2d93561dba8/a3e3fe1cea7d4e19-5c/s2048x3072/835ee41ff97a7b32c48a0a97a0b25a53eefa5455.png)
 
 {% bubble Nagisa %}
 ....There's a special exhibit for ores and fossils happening in the museum now. I was looking for someone to accompany me.
@@ -233,7 +233,7 @@ S-sure.
 <th>_(I haven't got the **slightest** clue how to respond! Is it really okay to be following him like this...?!)_</th>
 {% endbubble %}
 
-![what](https://media.discordapp.net/attachments/1065401186343194667/1110073384362049617/6B04702F-7691-438B-994A-22AEA8ED9853.png?width=1646&height=760)
+![what](https://64.media.tumblr.com/44ff4d17e3b46fded0b31fc6236e82c4/a3e3fe1cea7d4e19-48/s2048x3072/ed8a62ce01f412cc20dc87179108e8f8083a7322.png)
 
 {% bubble Kohaku %}
 ...Wh-what in the _world?_ There are huge bones hanging from the ceiling...!
@@ -251,7 +251,7 @@ Isn't being surprised a _normal_ reaction when something this big is dangling in
 ...Well it's a replica, so not really. However these displays' shapes and sizes are meant to get as close as possible to the real thing...same for the colors. Paint is used to show the texture.
 {% endbubble %}
 
-![unblm](https://media.discordapp.net/attachments/1065401186343194667/1110073386480185364/29B43F37-6834-437F-BD18-B59D542081A9.png?width=1646&height=760)
+![unblm](https://64.media.tumblr.com/9dcd2a2655998a4d096a399a6cbd27b0/a3e3fe1cea7d4e19-92/s2048x3072/ab66a51eec1931316beb42f64932e8c6ce05c23d.png)
 
 {% bubble Kohaku %}
 Waaa, it's well made. Everywhere I look there's strange things I haven't seen before...I can't even think of what this is used for.
@@ -300,7 +300,7 @@ But when it comes to going to a _specific_ place, I'm lost all over again. I kno
 
 {% endbubble %}
 
-![same as me](https://media.discordapp.net/attachments/1065401186343194667/1110073386853466112/8A782891-A287-4BFE-884B-DE672CD673E2.png?width=1646&height=760)
+![same as me](https://64.media.tumblr.com/58a3252cc7b38392c0e822ec49c802ff/a3e3fe1cea7d4e19-41/s2048x3072/a4d8be17851e8fe6feabc52a8dde02bf5cae933a.png)
 
 {% bubble Nagisa %}
 ...You're the same as me, Kohaku-kun. I personally grow by absorbing knowledge and information everyday.

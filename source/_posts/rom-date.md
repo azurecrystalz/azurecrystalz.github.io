@@ -91,7 +91,7 @@ description: romantic date tls
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1125482470566015077/28Bitter_Remarks_29_HiMERU_Frameless_Bloomed.png')"></div>
+      <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709340864/translation%20site/masterlist/tp4x8stevk0exc56csrp.png')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
               <div class="title-area__title">Romantic? Date</div>
@@ -205,11 +205,11 @@ description: romantic date tls
 <div class="story-wrapper mobile-reverse" style="--storyColor: #374a5d;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
   <div class="grid-wrapper">
       <div class="story-background"
-      style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1125482207629299812/28Bitter_Remarks_29_HiMERU_CG2.png?width=1560&height=720')">
+      style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709340933/translation%20site/masterlist/rn0t4bzjreac4mbbmv1i.png')">
     </div>
     <div class="story-box" style="background: #374a5d">
       <div class="story-cover">
-        <div><img src="https://media.discordapp.net/attachments/1110345002015535124/1125482207323107471/28Bitter_Remarks_29_HiMERU_Frameless.png?width=828&height=1036">
+        <div><img src="https://res.cloudinary.com/djq41tb84/image/upload/v1706322603/translation%20site/masterlist/yums1dnylph0vkvaoznz.webp">
         </div>
       </div>
       <div class="title-area">

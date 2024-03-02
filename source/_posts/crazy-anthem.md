@@ -10,11 +10,11 @@ description: crazy anthem song lyrics
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1112970174522462218/IMG_5061.webp?width=1664&height=910')"></div>
+      <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1708189802/agfaoj6efmllt62km31u.png')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
-                Contains a translation for "Crazy Anthem" !!
+                Contains a translation for the lyrics of "Crazy Anthem"!
               </div>
           </div>
           <div class="info-item tl">

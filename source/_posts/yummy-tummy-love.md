@@ -10,7 +10,6 @@ description: niki solo translation
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1135994049459925132/IMG_7188.png')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">

@@ -574,16 +574,7 @@ description: translation masterlist
   <div class="stories">
   <div class="story">
     <div class="image">
-      <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1113281201462067290/IMG_5084.png" alt="Idol Birthdays">
-    </div>
-    <a href="/2050/05/25/idol-bday-list/" class="storyName" target="_blank">
-      <span>Idol Birthdays</span> 
-      <span class="read"></span>
-    </a>
-  </div>
-  <div class="story">
-    <div class="image">
-      <img src="https://media.discordapp.net/attachments/1110345002015535124/1111437660175736842/IMG_4924.png?width=828&height=1036" alt="A Story That's Mine Alone">
+      <img src="https://res.cloudinary.com/djq41tb84/image/upload/v1709339798/translation%20site/masterlist/iigy19irnokarfdldy58.png" alt="A Story That's Mine Alone">
     </div>
     <a href="/2050/05/25/a-story-thats-mine-alone/" class="storyName" target="_blank">
       <span>A Story That's Mine Alone</span> 
@@ -617,7 +608,7 @@ story template looks like this:
             <h4>Turbulent Storm</h4>
           </figcaption>
         </a>
-        <img src="https://cdn.discordapp.com/attachments/1110345002015535124/1152359239331885128/2wink__22Turbulent_Storm_22_Ensemble_Stars_21_21_ES_Idol_Song_Season_3.png" class="song-image rotate" />
+        <img src="https://res.cloudinary.com/djq41tb84/image/upload/v1709337756/translation%20site/cyeuwjz9rfdp4t6gnmcn.png" class="song-image rotate" />
       </figure>
     </div>
     <div class="song-item">
@@ -628,7 +619,7 @@ story template looks like this:
               <p>Crazy:B</p>
           </figcaption>
         </a>
-        <img src="https://media.discordapp.net/attachments/1110345002015535124/1112970174027546674/IMG_5061.webp?width=1152&height=1016" class="song-image rotate" />
+        <img src="https://res.cloudinary.com/djq41tb84/image/upload/v1709337910/translation%20site/sfqfdn4fdj4u9l76vcby.png" class="song-image rotate" />
       </figure>
     </div>
     <!--- more songs go here --->

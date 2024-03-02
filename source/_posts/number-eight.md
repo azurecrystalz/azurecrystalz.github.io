@@ -96,7 +96,7 @@ description: n8 chapter directory
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://cdn.discordapp.com/attachments/1110345002015535124/1113244147894202378/37D0250A-140F-487A-97F0-907497E9E01E.jpg')"></div>
+      <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709338356/ASSETS%20ALWAYS%20USE%20THIS/RINNE/FULL%20BLOOMED%20CGS/zcostrims96adq3epna6.png')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
               <div class="title-area__title">Number Eight (WIP: 2/17)</div>
@@ -200,11 +200,11 @@ description: n8 chapter directory
 <div class="story-wrapper mobile-reverse" style="--storyColor: #374a5d;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
   <div class="grid-wrapper">
       <div class="story-background"
-      style="background-image: url('https://media.discordapp.net/attachments/1110345002015535124/1114533379489136711/IMG_5251.png?width=1664&height=768')">
+      style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709338356/ASSETS%20ALWAYS%20USE%20THIS/RINNE/FULL%20BLOOMED%20CGS/zcostrims96adq3epna6.png')">
     </div>
     <div class="story-box" style="background: #374a5d">
       <div class="story-cover">
-        <div><img src="https://media.discordapp.net/attachments/1110345002015535124/1114533379187155054/ABB10B7D-DE5F-4DC9-9188-AA41D45F8DBD.jpg?width=828&height=1036">
+        <div><img src="https://res.cloudinary.com/djq41tb84/image/upload/v1709338702/ASSETS%20ALWAYS%20USE%20THIS/RINNE/FRAMELESS%20UNBLOOMEDS/vmdzhozobb02h3gnppbn.png">
         </div>
       </div>
       <div class="title-area">
