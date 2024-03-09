@@ -147,7 +147,7 @@ description: n8 story chapters
   <p>One day mid-February, over a certain place in the sky.</p>
   </div>
 
-  ![last words](https://media.discordapp.net/attachments/1107908793259524108/1114023014967803964/IMG_5114.png?width=1664&height=768)
+  ![last words](https://res.cloudinary.com/djq41tb84/image/upload/v1709942752/enstars/dialogue/number%208/prologue/whz6ggma1tefiqav7iqr.jpg)
 
   {% bubble Rinne wint_khh %}
     Hey, Niki. I’ve got a few last words to say.
@@ -199,7 +199,7 @@ description: n8 story chapters
     I totally fell for it! Rinne-kun, if you keep messing with people like that, they’re *really* going to have it out for you!
   {% endbubble %}
 
-  ![stfu](https://media.discordapp.net/attachments/1107908793259524108/1114023014678409304/IMG_5132.png?width=1664&height=768)
+  ![stfu](https://res.cloudinary.com/djq41tb84/image/upload/v1709942752/enstars/dialogue/number%208/prologue/xabpagb3tyqpqewhaesb.jpg)
 
   {% bubble HiMERU wint_plain %}
     –Amagi, Shiina, Oukawa. Could you all please quiet down?
@@ -255,7 +255,7 @@ description: n8 story chapters
     On the ground over there, there’s like a big sign or something.
   {% endbubble %}
 
-  ![come here](https://media.discordapp.net/attachments/1107908793259524108/1114023015190122588/IMG_5148.png?width=1664&height=768)
+  ![come here](https://res.cloudinary.com/djq41tb84/image/upload/v1709942752/enstars/dialogue/number%208/prologue/rbsfvqsndejwuif2tgnj.jpg)
 
   {% bubble Niki wint_stare %}
     “COME HERE”...? What’s that for?
@@ -291,7 +291,7 @@ description: n8 story chapters
     Wait. Those people *aren’t* the film crew? They’re actually diving instructors?!
   {% endbubble %}
 
-  ![i can rinne](https://media.discordapp.net/attachments/1107908793259524108/1114023014338678855/IMG_5158.png?width=1664&height=768)
+  ![i can rinne](https://res.cloudinary.com/djq41tb84/image/upload/v1709942752/enstars/dialogue/number%208/prologue/dguxk63jfbfymakihcwy.jpg)
 
   {% bubble Rinne wint_cheer %}
     IIIII CAAAAAN FLYYY*YYYYYY....☆!!!*
@@ -315,7 +315,7 @@ description: n8 story chapters
     Y-you too, Kohaku-chan?!
   {% endbubble %}
 
-  ![HiMERU unbl](https://media.discordapp.net/attachments/1107908793259524108/1114023014040875018/IMG_5164.png?width=1664&height=768)
+  ![HiMERU unbl](https://res.cloudinary.com/djq41tb84/image/upload/v1709942750/enstars/dialogue/number%208/prologue/xtu5mhcqtu3rjndlv9zt.jpg)
 
   {% bubble HiMERU himeru_n8_unbl_temp %}
     Shiina, don’t look so surprised and put on your parachute.
@@ -331,7 +331,7 @@ description: n8 story chapters
     Alright. I can do this! I’ll do it so that I can *definitely* enjoy some yummy food later!
   {% endbubble %}
 
-  ![i can niki](https://cdn.discordapp.com/attachments/1107908793259524108/1114023013730504784/IMG_5171.png)
+  ![i can niki](https://res.cloudinary.com/djq41tb84/image/upload/v1709942751/enstars/dialogue/number%208/prologue/ygyvpcmsmuhp8pzph3rv.jpg)
   {% bubble Niki wint_ugh %}
     IIIII CAAAAAN FLYYY*YYYYYY....!!!*
   {% endbubble %}

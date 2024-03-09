@@ -7,7 +7,7 @@ description: translation masterlist
 <style>
 .stories {
     display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(150px,1fr));
+    grid-template-columns: repeat(auto-fill,minmax(175px,1fr));
     gap: .5em
 }
 
@@ -405,10 +405,10 @@ description: translation masterlist
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
     <div class="item" id="rinne" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322603/translation%20site/masterlist/dniwfmzfzsjylrdmkhd7.webp');">
-      <a href="/[STORY_URL_HERE]" class="item-container-link">
+      <a href="/2050/07/05/bees-knees/" class="item-container-link">
         <div class="item-container">
           <div class="title">
-            <h2>The Bees Knees (Unadded)</h2>
+            <h2>The Bees Knees</h2>
           </div>
         </div>
       </a>
@@ -525,80 +525,46 @@ description: translation masterlist
     </div>
     </div>
     <h2> ES 4* Stories: Series 2</h2>
-  <!--- aaaa --->
-  <div class="grid-container">
-    <!-- copy and paste this if you need more grids for other translation categories-->
-    <div class="item" id="rinne" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322994/translation%20site/masterlist/nkpiavlwllrptyq9tk5o.png');">
-      <a href="/2050/05/16/please-god/" class="item-container-link">
-        <div class="item-container">
-          <div class="title">
-            <h2>Please, God ☆</h2>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div class="item" id="himeru" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322950/translation%20site/masterlist/so6ancjsdlreh8powmbc.png');">
-      <a href="/2050/05/15/runrun-calamity/" class="item-container-link">
-        <div class="item-container">
-          <div class="title">
-            <h2>The Runrun Calamity</h2>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div class="item" id="niki" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706323147/translation%20site/masterlist/ztqchdz31nswmgvr1c6q.png');">
-      <a href="/2050/05/15/sweetsroad/" class="item-container-link">
-        <div class="item-container">
-          <div class="title">
-            <h2>Sweets Road</h2>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div class="item" id="kohaku" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322939/translation%20site/masterlist/t0xdln29oz34ndj6kuud.png');">
-      <a href="/2050/05/21/a-curious-step-forward/" class="item-container-link">
-        <div class="item-container">
-          <div class="title">
-            <h2>A Curious Step Forward</h2>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
-  <!-- more translation categories can go here -->
-</main>
-
-<div>
-  <h2>Other Idols</h2>
-  <sup><i> card code by <a href="https://twitter.com/findermao">findermao</a></i></sup>
+    <sup><i> card code by <a href="https://twitter.com/findermao">findermao</a></i></sup>
   <div class="stories">
   <div class="story">
     <div class="image">
-      <img src="https://res.cloudinary.com/djq41tb84/image/upload/v1709339798/translation%20site/masterlist/iigy19irnokarfdldy58.png" alt="A Story That's Mine Alone">
+      <img src="https://res.cloudinary.com/djq41tb84/image/upload/v1706322994/translation%20site/masterlist/nkpiavlwllrptyq9tk5o.png" alt="Please, God ☆">
     </div>
-    <a href="/2050/05/25/a-story-thats-mine-alone/" class="storyName" target="_blank">
-      <span>A Story That's Mine Alone</span> 
+    <a href="/2050/05/16/please-god/" class="storyName" target="_blank">
+      <span>Please, God ☆</span> 
       <span class="read"></span>
     </a>
   </div>
-<!-- add sections above this point -->
-<!--- 
-story template looks like this:
-      <div class="story">
-      <div class="image">
-        <img src="[UNBL-URL]" alt="[STORY NAME]">
-      </div>
-      <a href="[STORY URL]" class="storyName" target="_blank">
-        <span>Example</span> 
-        <span class="read">
-        </span>
-      </a>
-      </div>
+  <div class="story">
+    <div class="image">
+      <img src="https://res.cloudinary.com/djq41tb84/image/upload/v1706322950/translation%20site/masterlist/so6ancjsdlreh8powmbc.png" alt="The Runrun Calamity">
     </div>
-    --->
+    <a href="/2050/05/15/runrun-calamity/" class="storyName" target="_blank">
+      <span>The Runrun Calamity</span> 
+      <span class="read"></span>
+    </a>
+  </div>
+  <div class="story">
+    <div class="image">
+      <img src="https://res.cloudinary.com/djq41tb84/image/upload/v1706323147/translation%20site/masterlist/ztqchdz31nswmgvr1c6q.png" alt="Sweets Road">
+    </div>
+    <a href="/2050/05/15/sweetsroad/" class="storyName" target="_blank">
+      <span>Sweets Road</span> 
+      <span class="read"></span>
+    </a>
+  </div>
+  <div class="story">
+    <div class="image">
+      <img src="https://res.cloudinary.com/djq41tb84/image/upload/v1706322939/translation%20site/masterlist/t0xdln29oz34ndj6kuud.png" alt="A Curious Step Forward">
+    </div>
+    <a href="/2050/05/21/a-curious-step-forward/" class="storyName" target="_blank">
+      <span>A Curious Step Forward</span> 
+      <span class="read"></span>
+    </a>
+  </div>
 </div>
-  
-  <h2>Song Translations</h2>
+<h2>Song Translations</h2>
   <sup><i>If you’d like to use my song translations for edits, you’re welcome to do so as long as there is <b>clear, visible credit</b> either in the video or in the description.</i></sup>
   <div id="songs">
     <div class="song-item">
@@ -624,4 +590,31 @@ story template looks like this:
     </div>
     <!--- more songs go here --->
   </div>
+  <div>
+  <h2>Other Idols</h2>
+  <a href="/2050/05/25/a-story-thats-mine-alone/">A Story That's Mine Alone (Mika FS2)</a>
+  <!--- aaaa --->
+  <!-- more translation categories can go here -->
+</main>
+<div>
+
+
+
+<!-- add sections above this point -->
+<!--- 
+story template looks like this:
+      <div class="story">
+      <div class="image">
+        <img src="[UNBL-URL]" alt="[STORY NAME]">
+      </div>
+      <a href="[STORY URL]" class="storyName" target="_blank">
+        <span>Example</span> 
+        <span class="read">
+        </span>
+      </a>
+      </div>
+    </div>
+    --->
+</div>
+  
 </div>

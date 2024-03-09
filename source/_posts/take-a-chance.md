@@ -143,9 +143,8 @@ description: n8 story section take a chance
 
   ***
 <h2 id="1">Chapter 1</h2>
-<sup><i>NOTE: mp3 files only compatible on laptop! it's meant to be a silly little addition and the story can still be read just fine without them :3</i></sup>
 
-![niki](https://media.discordapp.net/attachments/1107908793259524108/1157775462408409128/IMG_8221.png?ex=6519d5ec&is=6518846c&hm=19956ae3eaeaa8181deb2ef8db8571e6d2ed89f58c4ee0b1a0960cff9dcfa2ad&=&width=1410&height=652)
+![niki](https://res.cloudinary.com/djq41tb84/image/upload/v1709943841/enstars/dialogue/number%208/take%20a%20chance/ch1/swgajjlcrajr6lbsicdf.jpg)
 
   {% bubble Niki wint_no %}
 
@@ -168,7 +167,7 @@ description: n8 story section take a chance
     <p><b>Flashback, around 10 hours ago.</b></p>
   </div>
 
-  ![niki2](https://media.discordapp.net/attachments/1107908793259524108/1157775462701989939/IMG_8228.png?ex=6519d5ec&is=6518846c&hm=6527bd44ab54167a8383ee0a79ee182f7896be529ffb946fcc523e4ce2af2019&=&width=1410&height=652)
+  ![niki2](https://res.cloudinary.com/djq41tb84/image/upload/v1709943842/enstars/dialogue/number%208/take%20a%20chance/ch1/po4n9ritw4kinjjxectv.jpg)
 
   {% bubble Niki wint_satisfied %}
     Thanks for waiting~ Everyone is here, right?
@@ -212,7 +211,7 @@ description: n8 story section take a chance
     Ahhhhn~
   {% endbubble %}
 
-  ![rinne_itadake](https://media.discordapp.net/attachments/1107908793259524108/1157775463012384890/IMG_8241.png?ex=6519d5ec&is=6518846c&hm=060772b3993f8fc223871d5f069c31f0c38de637e401f420cd0af42416d864bb&=&width=1410&height=652)
+  ![rinne_itadake](https://res.cloudinary.com/djq41tb84/image/upload/v1709943841/enstars/dialogue/number%208/take%20a%20chance/ch1/mlkkyy5lgmpiiefstmh7.jpg)
 
   {% bubble Rinne wint_ehe %}
 
@@ -261,7 +260,7 @@ description: n8 story section take a chance
     *Overseas?!*
   {% endbubble %}
 
-  ![HiMERU](https://media.discordapp.net/attachments/1107908793259524108/1157775463293407292/IMG_8255.png?ex=6519d5ec&is=6518846c&hm=f12eda055449e4fb327ba27d2398d543ca19cad09304cfec7755acf980b27d5f&=&width=1410&height=652)
+  ![HiMERU](https://res.cloudinary.com/djq41tb84/image/upload/v1709943841/enstars/dialogue/number%208/take%20a%20chance/ch1/qb4vzjrq6o6xmsmdogst.jpg)
 
   {% bubble HiMERU wint_pensive %}
     …Hm. On such short notice.
@@ -331,7 +330,7 @@ description: n8 story section take a chance
     Well, Niki-han, you’ve always been the type to prefer dangos over flowers<sup>**(3)**</sup>. Even if I brought you a bit of a sweet treat and accidentally hurt ya, you wouldn’t be angry with me…
   {% endbubble %}
 
-  ![haku](https://media.discordapp.net/attachments/1107908793259524108/1157775463599570944/IMG_8277.png?ex=6519d5ec&is=6518846c&hm=ac0b04eb370f2e769c9d8a942f56c2e5beb22d2f6c58a0b91dae583d891a77cb&=&width=1410&height=652)
+  ![haku](https://res.cloudinary.com/djq41tb84/image/upload/v1709943840/enstars/dialogue/number%208/take%20a%20chance/ch1/hpvav1j6ubwolxg4x1mf.jpg)
 
   {% bubble Kohaku wint_disapprove %}
     But, I should probably hurry and get my stuff ready.
