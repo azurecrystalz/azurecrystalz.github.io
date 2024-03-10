@@ -1,5 +1,5 @@
 ---
-title: A Nonchalant Moment
+title: A Composed Moment
 date: 2050-07-05 20:02:00
 categories:
 - [Enstars , Crazy:B]
@@ -15,7 +15,7 @@ description: himeru fs2 translation
       <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1710025714/ASSETS%20ALWAYS%20USE%20THIS/HIMERU/bloomed/fczf05vr3k1lq64tpyge.png')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
-              <div class="title-area__title">A Nonchalant Moment</div>
+              <div class="title-area__title">A Composed Moment</div>
               <div class="title-area__subtitle">何気ないひととき</div>
               <div class="title-area__start"><a href="/2023/07/05/nonchalant-moment/">Start Reading</a></div>
           </div>
@@ -45,7 +45,7 @@ description: himeru fs2 translation
                           Writer
                       </div>
                       <div class="value">
-                        Haruka Kanata (with H.E. Inc.)
+                        Haruka Kanata (with H.E.)
                       </div>
                   </div>
                   <div class="info-item characters">
@@ -71,7 +71,7 @@ description: himeru fs2 translation
                           Proofreaders
                       </div>
                       <div class="value">
-                          N/A
+                          shay
                       </div>
                   </div>
               </div>
@@ -188,7 +188,7 @@ Ohhh, so that’s how it is. You made your escape after sacrificing Niki-han, Hi
 {% bubble Kohaku %}
 Good that you did. We’re underage, so it wouldn’t be too good for us to be walking around so late anyway.
 
-Now that going to school is starting to be something I’m actually thinking about, I probably won’t have to stick with Rinne-han on his nights off anymore.
+Now that I'm actually thinking about going to school, I probably won’t have to stick with Rinne-han on his nights off anymore.
 
 Well, it’s too late in the day to want to think that far ahead, though.
 {% endbubble %}
@@ -220,7 +220,7 @@ Whether he returns to school or not, HiMERU will continue to live as HiMERU.
 {% endbubble %}
 
 {% bubble Kohaku %}
-That so. Well, I’m sure you might be feeling like it's a little late for you to go to highschool now anyways, HiMERU-han
+That so. Well, I’m sure you feel like it's a little late for you to go to highschool now anyways, HiMERU-han.
 
 But…HiMERU-han? As a student attending <i>school?</i> I can’t wrap my head around that at all.
 
@@ -296,7 +296,7 @@ With the way you were mumbling all of a sudden, Anzu-han, I was starting to thin
 ![hhhhnmieds](https://res.cloudinary.com/djq41tb84/image/upload/v1710033251/enstars/dialogue/himeru%20fs2/ch1/ibnxblkexiyo9oxc7mrh.png)
 
 {% bubble HiMERU %}
-Fufu. Well, whatever the case may have been, HiMERU thinks it would be a great idea to use off-shots of his school life.
+Fufu. Well, whatever the case may have been, HiMERU thinks it would be a great idea to use off-shots<sup>(1)</sup> of his school life.
 
 There may not be many more opportunities to promote HiMERU in that light in the future given his activities with Crazy:B.
 {% endbubble %}
@@ -322,5 +322,218 @@ HiMERU isn’t quite sure what exactly it is you’re imagining, but it’ll pro
 
 HiMERU will always be HiMERU. Regardless of if he’s a student or not, that’s a fact that will never change.
 {% endbubble %}
+
+<h4>Translation Notes</h4>
+
+**(1):** What enstars uses in FS2 stories to refer to as candid (in the moment) pictures of idols in their free time.
+
+<h2>Chapter 2</h2>
+
+***
+
+<div class="msr-narration">
+    <p>A few days later.</p>
+</div>
+
+![longer](https://res.cloudinary.com/djq41tb84/image/upload/v1710103358/enstars/dialogue/himeru%20fs2/ch2/vij3sbtjcra4w9cebnh6.png)
+
+{% bubble HiMERU %}
+<th>*(--Work at Shuutetsu Academy took longer than expected.)*</th>
+
+<th>*(No matter, HiMERU will still be able to arrive at his next job on time while eating something between transitions.)*</th>
+{% endbubble %}
+
+{% bubble Ibara %}
+Oya? Why hello there, HiMERU-shi. It seems like I’ve been crossing paths with you a lot today.
+{% endbubble %}
+
+{% bubble HiMERU %}
+Oh, Vice President. Thank you for your help in the academy earlier.
+{% endbubble %}
+
+{% bubble Ibara %}
+Oh, no need to thank me. I simply assisted after seeing there were a few procedures that were troubling you.
+
+Are you having lunch now? It seems like you’re having a can of coffee<sup>(2)</sup> and a few snacks, will that be enough?
+{% endbubble %}
+
+{% bubble HiMERU %}
+You’ve bought the same, haven’t you? It doesn’t look like what you bought is much different from what HiMERU did.
+{% endbubble %}
+
+{% bubble Ibara %}
+On the contrary, I bought healthy foods. At least that’s a bit better than a few sweets.
+
+I understand not wanting to spend too much precious time eating, however–
+{% endbubble %}
+
+![worry](https://res.cloudinary.com/djq41tb84/image/upload/v1710103361/enstars/dialogue/himeru%20fs2/ch2/w24htiiozjtxqtmkw3wi.png)
+
+{% bubble HiMERU %}
+HiMERU plans to have a proper meal after he’s completed work. He’s only having something small yet because he hasn’t finished yet, so there’s no need to worry.
+{% endbubble %}
+
+{% bubble Ibara %}
+I see, so that’s how it is. In that case, sorry for the unnecessary worry!
+{% endbubble %}
+
+{% bubble HiMERU %}
+–It’s surprising how many times you’ve encountered HiMERU today, Vice President.
+
+Was there something important you needed to tell him?
+{% endbubble %}
+
+{% bubble Ibara %}
+Nooo, not something important. We’re just having a casual chat right now, so there’s no need to be so cynical.
+{% endbubble %}
+
+{% bubble HiMERU %}
+HiMERU didn’t think that you would be doing something that’s not to your benefit, Vice President. Forgive him if that’s offensive.
+{% endbubble %}
+
+{% bubble Ibara %}
+No offense taken. I don’t think that your perception of me is completely incorrect, HiMERU-shi.
+
+Let’s just say I was paying attention to you since you were in a school uniform, a rare thing to see.
+{% endbubble %}
+
+{% bubble HiMERU %}
+Understood. HiMERU will think of it that way.
+{% endbubble %}
+
+![anzuuu](https://res.cloudinary.com/djq41tb84/image/upload/v1710103356/enstars/dialogue/himeru%20fs2/ch2/yw9soknbpjnycczduiza.png)
+
+{% bubble HiMERU %}
+–Oya, excuse me. You seem to have dropped your bag…hm? It looks like Anzu-san is here.
+{% endbubble %}
+
+{% bubble Ibara %}
+Why hello there, Anzu-san! Lucky seeing you here today! Though it is a shame that you’re seeing me like this…
+
+What’s the matter, Anzu-san? You look so surprised that you seem to have also dropped your jaw…
+{% endbubble %}
+
+{% bubble HiMERU %}
+“Are we shooting something?” No. We’re just taking a break…
+
+HiMERU can’t see anything that would make you think it would be a photo shoot…wait, could it be because we’re in school uniforms?
+{% endbubble %}
+
+{% bubble Ibara %}
+That seems to be the case. I see. I suppose it would be surprising for you to see HiMERU-shi in uniform for the first time…
+
+Come again? You’re surprised to see me in uniform as well? But haven’t you already seen me like this before?
+{% endbubble %}
+
+{% bubble HiMERU %}
+Is it because you’ve only ever seen him doing business and production work nowadays? So that’s how it is. HiMERU can agree with that.
+{% endbubble %}
+
+{% bubble Ibara %}
+Well if you’re going to say that, then Anzu-san would be the same. I, for one, am more used to seeing her in a suit myself.
+{% endbubble %}
+
+![uniform](https://res.cloudinary.com/djq41tb84/image/upload/v1710103359/enstars/dialogue/himeru%20fs2/ch2/le5gdkdjitfgxofiyyue.png)
+
+{% bubble HiMERU %}
+–You’re asking why we’re in uniform? HiMERU was simply moving from Shuutetsu Academy to ES as he normally does.
+
+ …What’s wrong? You look displeased, HiMERU isn’t sure how to react…
+
+“You said you’d contact me once you returned to the academy” you say…?
+
+–Yes. HiMERU <i>did</i> say that he’d contact you for a photo shoot for his “Feature Live”. 
+
+However, HiMERU was simply there to finish the procedures needed for his return to school.
+
+HiMERU hasn’t forgotten about that, he just had more work to tend to afterwards.
+
+–Oh, there’s no need to apologize. You understand now, and that’s all that matters.
+{% endbubble %}
+
+{% bubble Ibara %}
+If you’d told me about that, then I would have been able to prepare a set for you. Well, it <i>was</i> just a verbal agreement.
+
+If you intend to host a photo shoot at the school, just let me know. I’ll help with communication.
+{% endbubble %}
+
+{% bubble HiMERU %}
+Thank you. However, since you’re here Anzu-san, then shall we prepare the photo shoot here?
+
+Oya? That sound…
+{% endbubble %}
+
+{% bubble HiMERU %}
+<th>*(Was that Anzu-san’s stomach? She <b>is</b> quite the busy person, so she may not have had the chance to eat yet.)*</th>
+
+<th>*(It would be rude to point it out in an attempt to confirm it, especially since she’s covering her face in embarrassment.)*</th>
+
+<th>*(That shouldn’t constitute ignoring it though. There’s no other choice…)*</th>
+{% endbubble %}
+
+![unbl](https://res.cloudinary.com/djq41tb84/image/upload/v1710103361/enstars/dialogue/himeru%20fs2/ch2/u9e3dxxdd7obgsnkbjrd.png)
+
+{% bubble HiMERU %}
+–Anzu-san, if you’d like, take this.
+
+Please help yourself. Each pack has more than one piece of candy, so there is still more left over.
+
+You've been very busy recently, so there would be no harm in keeping your sugar levels stable.
+
+Perhaps you had a different flavor preference? HiMERU does have more flavors on hand…
+
+Don’t be shy, take as you’d like. Please tell HiMERU if you want more.
+
+He wouldn’t be able to eat all of this himself, so you’d be helping him as well.
+{% endbubble %}
+
+{% bubble HiMERU %}
+Would you also like some, Vice President? There’s no need to hesitate.
+{% endbubble %}
+
+{% bubble Ibara %}
+Like I said before, I already have my share…but since you’re offering so kindly I’ll take one.
+
+It’ll go over my sugar intake for today, but it’s nothing exercise can’t fix.
+
+…Hmph. It’s really sweet.
+{% endbubble %}
+
+![bitter](https://res.cloudinary.com/djq41tb84/image/upload/v1710103362/enstars/dialogue/himeru%20fs2/ch2/mj1jozoe46otycsyccgx.png)
+
+{% bubble HiMERU %}
+Would you prefer one with a bitter flavor?
+
+…Hm? What’s wrong, Anzu-san?
+
+“It’s really refreshing to see you two having a conversation in uniform like students”, you say…?
+{% endbubble %}
+
+{% bubble Ibara %}
+What about the conversation was “student-like”? Was it the fact that we were talking about sharing snacks and eating them?
+{% endbubble %}
+
+{% bubble HiMERU %}
+Well, HiMERU isn’t quite sure. If he’s sure about one thing, it’s that it feels strange to be spending time like this casually together.
+
+–Anzu-san. When did you get your camera…?
+{% endbubble %}
+
+{% bubble Ibara %}
+“I can never miss a picture perfect chance”, you say. That’s just like you, Anzu-san!
+
+I have full faith in your “off-shoot senses”! Now, go right ahead! Take a picture that will perfectly help HiMERU-shi’s “Feature Live”!
+{% endbubble %}
+
+{% bubble HiMERU %}
+Good grief. HiMERU still has work after this, so he didn’t want to start the photo shoot so suddenly.
+
+Well, it’s fine. HiMERU will always be perfect no matter the time or place~
+{% endbubble %}
+
+<h4>Translation Notes</h4>
+
+**(2):** Like prepared iced coffee you could get in a vending machine!
+
 
 </div>

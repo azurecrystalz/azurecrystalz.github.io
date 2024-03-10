@@ -455,10 +455,10 @@ description: translation masterlist
       </a>
     </div>
     <div class="item" id="himeru" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706324123/translation%20site/masterlist/tpviy8cxcxl0cvnjpz7w.png');">
-      <a href="[URL LINK HERE]" class="item-container-link">
+      <a href="/2050/07/05/composed-moment/" class="item-container-link">
         <div class="item-container">
           <div class="title">
-            <h2>A Composed Moment (Unadded)</h2>
+            <h2>A Composed Moment</h2>
           </div>
         </div>
       </a>
