@@ -12,7 +12,7 @@ description: n8 story section take a chance
 ---
 
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@17a4c09080a70cddc8fe40d4bec741abe520b175/expressions.css ">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@4d58a68c34dd8df5bebdc59f91f14ff972ed4976/expressions.css ">
 </head>
 
 <div class="info-area">
@@ -370,35 +370,40 @@ description: n8 story section take a chance
   </div>
 
   ![augh](https://res.cloudinary.com/djq41tb84/image/upload/v1700613628/enstars/dialogue/number%208/take%20a%20chance/ch%202/madrpxz52crkkpxqo6ae.png)
-  {% bubble Niki %}
+
+  {% bubble Niki wint_sigh%}
     Augh…hah! Ah, I thought I was a goner!
+  {% endbubble %}
     
+  {% bubble Niki wint_ugh %}
     Back then, I was *totally* an idiot for being tempted by foreign ingredients!
     
     I’m not doing something crazy like this again unless I’m getting super rare ingredients, like ones that only grow on cliffs or something!
   {% endbubble %}
 
-  {% bubble Kohaku%}
+  {% bubble Kohaku wint_nerv_laugh %}
     Are you…serious…
   {% endbubble %}
 
-  {% bubble Rinne %}
+  {% bubble Rinne wint_cheer %}
     Alright, we had a pretty fun skydive~
     
     Now! Let’s all get amped up for “Number Eight”, our overseas job!
   {% endbubble %}
 
-  {% bubble Kohaku %}
+  {% bubble Kohaku wint_stare %}
     “Number Eight”?
   {% endbubble %}
 
-  {% bubble Niki %}
+  {% bubble Niki wint_stare %}
     What a clever name~. Were we called here since “bee” and “eight” are the same?<sup>**(4)**</sup>
   {% endbubble %}
 
-  {% bubble HiMERU %}
+  {% bubble HiMERU wint_pensive %}
     Number Eight...HiMERU is familiar with it.
+  {% endbubble %}
     
+  {% bubble HiMERU wint_neutral %}
     Are you perhaps referring to the TV program that was once a hit?
     
     Contestants were given a special die made by the program, and were tasked with reaching the goal with instructions from the die before the timer ran out.
@@ -406,30 +411,37 @@ description: n8 story section take a chance
     It’s rumored that the show was discontinued due to its reckless nature and lack of contestants. How is it still relevant?
   {% endbubble %}
 
-  {% bubble Rinne %}
+  {% bubble Rinne wint_happyleft %}
     As expected of ya, Merumeru. Unlike a certain *someone* that’s only got food on the brain, *you* actually know about the industry~
   {% endbubble %}
 
-  {% bubble Niki %}
+  {% bubble Niki wint_graugh %}
     Wh–? You’re not talking about me, are you?
   {% endbubble %}
 
-![bee](https://res.cloudinary.com/djq41tb84/image/upload/v1700613627/enstars/dialogue/number%208/take%20a%20chance/ch%202/gplkszl48jc5zzv1g9dd.png)
-  {% bubble Rinne %}
+  {% bubble Rinne wint_evil %}
     Hm~? Paranoid much?
+  {% endbubble %}
+
+  ![bee](https://res.cloudinary.com/djq41tb84/image/upload/v1700613627/enstars/dialogue/number%208/take%20a%20chance/ch%202/gplkszl48jc5zzv1g9dd.png)
     
+  {% bubble Rinne wint_smile %}
     Niki aside, let’s keep talking.
     
     After we participated in “The Minotaur’s Labyrinth” some old producer noticed how well we did and offered Crazy:B to participate.
-    
+  {% endbubble %}
+
+  {% bubble Rinne wint_cocky %}  
     A special episode to revive the program in its peak time! We’ve even got a chance to be abroad!
     
     *Buuut*, whatever the die says, goes! We’re in the hands of fate…	~
+  {% endbubble %}
     
+  {% bubble Rinne wint_smug %}
     How’s *that?* It’s just the job for us, dontcha think?
   {% endbubble %}
 
-  {% bubble HiMERU %}
+  {% bubble HiMERU wint_plain %}
     —Hm. HiMERU understands now.
     
     So, the helicopter staff didn’t descend with us.
@@ -437,59 +449,65 @@ description: n8 story section take a chance
     In older TV programs, the staff followed the contestants to record; but now handheld video cameras have improved.
   {% endbubble %}
 
-  {% bubble Kohaku %}
+  {% bubble Kohaku wint_think %}
     There’s a car over there, so that probably means we should get in. It’s parked too obviously for it to mean anything else.
   {% endbubble %}
 
-  {% bubble Rinne %}
+  {% bubble Rinne wint_stare %}
     …Waitwaitwait, what’s up with that? That’s not a foreign car, is it?
   {% endbubble %}
 
-  {% bubble HiMERU %}
+  {% bubble HiMERU wint_stare %}
     By the looks of it, it’s simply an ES branded car.
   {% endbubble %}
 
-  {% bubble Rinne %}
+  {% bubble Rinne wint_disapprove %}
     There *has* to be more than *that*. A convertible, with the wheel on the left-side, would be more suited for something like this!
   {% endbubble %}
 
-  {% bubble Niki %}
+  {% bubble Niki wint_nerv_laugh %}
     I won’t lie, that’s a little disappointing. It just doesn’t have that foreign vibe.
   {% endbubble %}
 
 ![look](https://res.cloudinary.com/djq41tb84/image/upload/v1700613626/enstars/dialogue/number%208/take%20a%20chance/ch%202/tdqcpaol02dksbuf008a.png)
-  {% bubble HiMERU %}
+
+  {% bubble HiMERU wint_neutral %}
     Please look. There are multiple cameras supplied in the car. They’re most likely what they want us to use for filming.
     
     There’s also a change of clothes…HiMERU isn’t sure how they retrieved them, but they’re Crazy:B’s practice clothes.
+  {% endbubble %}
     
+  {% bubble HiMERU wint_pensive %}
     Even the die, which is meant to be the program’s symbol, is nowhere to be seen. Perhaps they wanted us to use some of the applications on the tablet they left in the car?
   {% endbubble %}
 
-  {% bubble Niki %}
+  {% bubble Niki wint_idlr2 %}
     That could be it. The tablet only has a few apps.
   {% endbubble %}
 
-  {% bubble Kohaku %}
+  {% bubble Kohaku wint_neutral %}
     Oh right, we had to leave our phones with the staff back when we were leaving Japan.
     
     In other words, Number Eight won’t let us use any maps.
   {% endbubble %}
 
-  {% bubble HiMERU %}
+  {% bubble HiMERU wint_plain %}
     In the older versions of the program, the contestants had to travel without the aid of a map. HiMERU supposes this is a more modernized version of that restriction.
+  {% endbubble %}
     
+  {% bubble HiMERU wint_ghk %}
     However, Number Eight was originally a difficult variety show with comedians as the contestants.
     
     The premise of directions written on the die is what was deemed as “reckless”–hopefully, that aspect of the program has been updated to modern compliance standards as well.
   {% endbubble %}
 
 ![konbu](https://res.cloudinary.com/djq41tb84/image/upload/v1700613626/enstars/dialogue/number%208/take%20a%20chance/ch%202/giqu6xwx2fsj1icuaxav.png)
-  {% bubble Niki %}
+
+  {% bubble Niki wint_idlr %}
     Comp–kelp<sup>**(5)**</sup>? Sounds like the name of an all-new spice.
   {% endbubble %}
 
-  {% bubble HiMERU %}
+  {% bubble HiMERU wint_neut_left %}
     *Compliance.* If the game is too punishing, then the audience will surely be displeased.
     
     But even if it wasn’t a matter of legality, HiMERU would like for them to give us leeway.
@@ -501,56 +519,63 @@ description: n8 story section take a chance
     It’s no fun if we spend too much time chit-chatting. Let’s hurry and roll the dice already.
   {% endbubble %}
 
-  {% bubble Niki %}
+  {% bubble Niki wint_satisfied %}
     Fine by me. I’m already getting hungry, so I wanna get out of here soon.
     
     Who wants to roll first? If nobody wants to, then I can.
   {% endbubble %}
 
-  {% bubble Rinne %}
+  {% bubble Rinne wint_think %}
     Oh right. It would *suck* if it landed on the wrong side and put you in a bad mood, Niki.
+  {% endbubble %}
     
+  {% bubble Rinne wint_cocky %}
     At that point you just gotta take the blame! So go ahead and take the first shot at it, will ya?
   {% endbubble %}
 
-  {% bubble Niki %}
+  {% bubble Niki wint_cheer %}
     Alright. Just leave it to me…~
     
     The first challenge is…here!
   {% endbubble %}
 
 ![lunch](https://res.cloudinary.com/djq41tb84/image/upload/v1700613626/enstars/dialogue/number%208/take%20a%20chance/ch%202/atedg4nj0ysmyef9h3qd.png)
-  {% bubble HiMERU %}
+
+  {% bubble HiMERU wint_smile %}
     “Enjoy a lunch abroad”. Hm, it seems Shiina’s wish was granted, and the initial stakes were more forgiving.
     
     Why don’t we drive to a more populated area first?
   {% endbubble %}
 
-  {% bubble Rinne %}
+  {% bubble Rinne wint_cheer %}
     Right on! Leave the wheel to me!
     
     I got an international driver’s license so that I could hit up a casino whenever I want~
   {% endbubble %}
 
-  {% bubble Niki %}
+  {% bubble Niki wint_sigh %}
     Your obsession with gambling is insufferable.
   {% endbubble %}
 
-  {% bubble Rinne %}
+  {% bubble Rinne wint_superior %}
     Huu~uh? Did you say something, Niki-kyun?
     
     Surely you don’t want to defy *me*, do you? I’m the only one with a license, y’know. Did you want to take this trip on foot~?
   {% endbubble %}
 
-  {% bubble Niki %}
+  {% bubble Niki wint_uso %}
     N-no way! I really *don’t!*
-    
+  {% endbubble %}
+
+  {% bubble Niki wint_ugh %}  
     Ugh. If I’d known Rinne-kun would be holding my life in his hands<sup>**(6)**</sup>, then I *never* would’ve agreed to this job…!
   {% endbubble %}
 
-  {% bubble Rinne %}
+  {% bubble Rinne wint_hah %}
     Ahn? Did you say something, Niki?
+  {% endbubble %}
     
+  {% bubble Rinne wint_cocky %}
     If you’ve got no more complaints left, then let’s go. First stop, “Getting some lunch”!
   {% endbubble %}
 
