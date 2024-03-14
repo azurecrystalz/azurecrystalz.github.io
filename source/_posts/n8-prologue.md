@@ -12,7 +12,7 @@ description: n8 story chapters
 ---
 
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@4d58a68c34dd8df5bebdc59f91f14ff972ed4976/expressions.css ">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@14970fd28e12de52d479dc103a72c197b9c4a633/expressions.css ">
 </head>
 
 <div class="info-area">
@@ -336,7 +336,7 @@ description: n8 story chapters
     IIIII CAAAAAN FLYYY*YYYYYY....!!!*
   {% endbubble %}
 
-   ### <center>[directory](/2023/05/30/number-eight/) | [next](/2023/09/30/take-a-chance) </center>
+   ### <center>[directory](/2050/05/30/number-eight/) | [next](/2023/09/30/take-a-chance) </center>
 
   <!--- content here--->
   <!-- 
