@@ -18,7 +18,7 @@ description: rinne fs1 translation
           <div class="title-area">
               <div class="title-area__title">The Bee's Knees</div>
               <div class="title-area__subtitle">ビーズ・ニーズ</div>
-              <div class="title-area__start"><a href="/2023/07/05/bees-knees/">Start Reading</a></div>
+              <div class="title-area__start"><a href="/2050/07/05/bees-knees/">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">

@@ -16,7 +16,7 @@ description: kohaku es2 4* story tl
           <div class="title-area">
               <div class="title-area__title">A Curious Step Forward</div>
               <div class="title-area__subtitle">踏み出す好奇心</div>
-              <div class="title-area__start"><a href="/2023/05/21/a-curious-step-forward/">Start Reading</a></div>
+              <div class="title-area__start"><a href="/2050/05/21/a-curious-step-forward/">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">

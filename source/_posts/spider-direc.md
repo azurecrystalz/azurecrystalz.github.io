@@ -104,7 +104,7 @@ description: spider translation directory
           <div class="title-area">
               <div class="title-area__title">Spider</div>
               <div class="title-area__subtitle">スパイダー</div>
-              <div class="title-area__start"><a href="/2023/05/27/spider-direc#1">Start Reading</a></div>
+              <div class="title-area__start"><a href="/2050/05/27/spider-direc/">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">

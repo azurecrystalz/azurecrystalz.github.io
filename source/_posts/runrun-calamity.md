@@ -19,7 +19,7 @@ description: himeru 4* translation
           <div class="title-area">
               <div class="title-area__title">The "Runrun" Calamity</div>
               <div class="title-area__subtitle">ルンルンっと一悶着</div>
-              <div class="title-area__start"><a href="/2023/05/15/runrun-calamity">Start Reading</a></div>
+              <div class="title-area__start"><a href="/2050/05/15/runrun-calamity/">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">

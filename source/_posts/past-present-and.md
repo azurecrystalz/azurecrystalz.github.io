@@ -18,7 +18,7 @@ description: himeru fs1 translation
           <div class="title-area">
               <div class="title-area__title">Past, Present, And...</div>
               <div class="title-area__subtitle">過去、現在、そして...</div>
-              <div class="title-area__start"><a href="/2023/07/05/past-present-and/">Start Reading</a></div>
+              <div class="title-area__start"><a href="/2050/07/05/past-present-and/">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">

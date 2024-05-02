@@ -216,7 +216,7 @@ description: romantic date tls
         <div class="title-area__title">Romantic Date</div>
         <div class="title-area__subtitle">ロマンチック？デイト</div>
         <div class="title-area__start">
-          <a href="/2023/07/03/rom-date/">Start Reading</a>
+          <a href="/2050/07/03/rom-date/">Start Reading</a>
         </div>
       </div>
       <div class="info-area">

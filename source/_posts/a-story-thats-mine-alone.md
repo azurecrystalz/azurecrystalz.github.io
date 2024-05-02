@@ -21,7 +21,7 @@ description: mika fs2 translation
           <div class="title-area">
               <div class="title-area__title">A Story That's Mine Alone</div>
               <div class="title-area__subtitle">おれだけの物語</div>
-              <div class="title-area__start"><a href="/2023/05/25/a-story-thats-mine-alone/">Start Reading</a></div>
+              <div class="title-area__start"><a href="/2050/05/25/a-story-thats-mine-alone/">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">

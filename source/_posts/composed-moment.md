@@ -17,7 +17,7 @@ description: himeru fs2 translation
           <div class="title-area">
               <div class="title-area__title">A Composed Moment</div>
               <div class="title-area__subtitle">何気ないひととき</div>
-              <div class="title-area__start"><a href="/2023/07/05/nonchalant-moment/">Start Reading</a></div>
+              <div class="title-area__start"><a href="/2050/07/05/composed-moment/">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
