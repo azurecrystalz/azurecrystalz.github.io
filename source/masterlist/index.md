@@ -5,6 +5,35 @@ description: translation masterlist
 ---
 
 <style>
+
+.other-item{
+  position: relative;
+}
+
+.otherstory-title{
+  font-size:20px;
+}
+
+.newholder {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.newfeature{
+  border-radius: 5px;
+  padding: 5px;
+  transition: transform .1s;
+}
+
+.newfeature:hover {
+  transform: scale(1.03);
+}
+
+.newfeature img{
+  max-width: 135px;
+  max-height: 135px;
+}
+
 .stories {
     display: grid;
     grid-template-columns: repeat(auto-fill,minmax(175px,1fr));
@@ -319,6 +348,11 @@ description: translation masterlist
       margin-right: 3px;
     }
   }
+  @media only screen and (max-width: 600px) {
+    .newholder {
+      grid-template-columns:repeat(auto-fill, minmax(200px,1fr))
+    }
+  }
 </style>
 
 <div style="margin-top: 3%">
@@ -397,7 +431,6 @@ description: translation masterlist
 }
   </style>
 
-
 <strong><p><i>Everything is complete unless marked with "WIP"/"Unadded" !!</i></p></strong>
 <main class="page-content">
   <!-- other things can go in this div -->
@@ -446,7 +479,7 @@ description: translation masterlist
   <div class="grid-container">
     <!-- copy and paste this if you need more grids for other translation categories-->
     <div class="item" id="rinne" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706322603/translation%20site/masterlist/x1ab8y3skibltxtdg8ab.webp');">
-      <a href="[URL LINK HERE]" class="item-container-link">
+      <a href="/2050/07/05/new-game-making-the-rounds/" class="item-container-link">
         <div class="item-container">
           <div class="title">
             <h2>A New Game Making the Rounds (Unadded)</h2>
@@ -473,7 +506,7 @@ description: translation masterlist
       </a>
     </div>
     <div class="item" id="kohaku" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1714609050/translation%20site/masterlist/tlvdgegkhlggsa99jyvt.png');">
-      <a href="/LINK-HERE" class="item-container-link">
+      <a href="/2050/07/05/dear-someone-i-dont-know/" class="item-container-link">
         <div class="item-container">
           <div class="title">
             <h2>Dear Someone I Don't Know (Unadded)</h2>
@@ -574,6 +607,16 @@ description: translation masterlist
       </a>
     </div>
   </div>
+  <h2>Other Idols</h2>
+  <div class="newholder">
+    <div class="newfeature">
+      <div class="otherstory-title">
+        <a href="/2050/05/25/a-story-thats-mine-alone/"><b>Mika FS2</b></a>
+      </div>
+      <a href="/2050/05/25/a-story-thats-mine-alone/">
+        <img src="https://res.cloudinary.com/djq41tb84/image/upload/v1714780298/translation%20site/masterlist/ny3rpxgmxlzeri6ppcbs.png" alt="story img"></a>
+    </div>
+  </div>
   <h2>Song Translations</h2>
   <sup><i>If you’d like to use my song translations for edits, you’re welcome to do so as long as there is <b>clear, visible credit</b> either in the video or in the description.</i></sup>
   <div id="songs">
@@ -601,15 +644,11 @@ description: translation masterlist
     <!--- more songs go here --->
   </div>
   <div>
-  <h2>Other Idols</h2>
-  <a href="/2050/05/25/a-story-thats-mine-alone/">A Story That's Mine Alone (Mika FS2)</a>
+  </div>
   <!--- aaaa --->
   <!-- more translation categories can go here -->
 </main>
 <div>
-
-
-
 <!-- add sections above this point -->
 <!--- 
 story template looks like this:
@@ -626,5 +665,4 @@ story template looks like this:
     </div>
     --->
 </div>
-  
 </div>
