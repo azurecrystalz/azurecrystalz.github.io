@@ -616,6 +616,13 @@ description: translation masterlist
       <a href="/2050/05/25/a-story-thats-mine-alone/">
         <img src="https://res.cloudinary.com/djq41tb84/image/upload/v1714780298/translation%20site/masterlist/ny3rpxgmxlzeri6ppcbs.png" alt="story img"></a>
     </div>
+    <div class="newfeature">
+      <div class="otherstory-title">
+        <a href="/2050/07/05/esu-idolstory-1/"><b>Esu Idol Story 1</b></a>
+      </div>
+      <a href="/2050/07/05/esu-idolstory-1/">
+        <img src="https://res.cloudinary.com/djq41tb84/image/upload/v1715052275/translation%20site/masterlist/dmiderxybuyssfwlhu0n.png" alt="story img"></a>
+    </div>
   </div>
   <h2>Song Translations</h2>
   <sup><i>If you’d like to use my song translations for edits, you’re welcome to do so as long as there is <b>clear, visible credit</b> either in the video or in the description.</i></sup>
