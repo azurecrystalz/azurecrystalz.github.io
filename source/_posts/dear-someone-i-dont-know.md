@@ -155,7 +155,7 @@ description: kohaku fs2 translation
 }    
   </style>
 
-
+> Translation in progress! Come back later!
 
   <!-- CONTENT GOES HERE -->
 

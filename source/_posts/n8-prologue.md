@@ -12,7 +12,7 @@ description: n8 story chapters
 ---
 
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@14970fd28e12de52d479dc103a72c197b9c4a633/expressions.css ">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@3072785b4e7488330170f0d94355c12958b0fd3d/expressions.css ">
 </head>
 
 <div class="info-area">
