@@ -400,7 +400,7 @@ Sigh. Being optimistic is harder than I thought...
 
 {% bubble Niki %}
 
-  <th>*(...Even when it came to my "personalized outfit"<sup>**(3)**. I kept talking about cooking, only because it's something I love and am interested in. I couldn't think of any ideas. This time I really want to come up with my own ideas without Nee-san's help, even if it's just a bit.)*</th>
+  <th>*(...Even when it came to my "personalized outfit"<sup>**(3)**</sup>. I kept talking about cooking, only because it's something I love and am interested in. I couldn't think of any ideas. This time I really want to come up with my own ideas without Nee-san's help, even if it's just a bit.)*</th>
 {% endbubble %}
 
 {% bubble Niki %}

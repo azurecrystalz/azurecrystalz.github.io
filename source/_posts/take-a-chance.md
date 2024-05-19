@@ -139,7 +139,7 @@ description: n8 story section take a chance
     }
 }    
   </style>
-<h3><a href="#1"><b>Ch. 1</b></a> | <a href="#2"><b>Ch.2</b></a> | <a href="#3"><b>Ch.3</b></a> | <a href="#4"><b>Ch.4</b></a></h3>
+<h3><a href="#1"><b>Ch. 1</b></a> | <a href="#2"><b>Ch.2</b></a> | <a href="#3"><b>Ch.3</b></a> | <a href="#4"><b>Ch.4</b></a> | <a href="#5"><b>Ch.5</b></a></h3>
 
   ***
 <h2 id="1">Chapter 1</h2>
@@ -808,7 +808,7 @@ Speaking of coasts, the west coast is famous for their chili dogs~ I’m gonna e
 {% bubble Kohaku %}
 It’s good to see that you’re having your fill.
 
-I had no idea what we ended up on America’s west coast. When I came here for “IFF”, I was on the east coast, so seeing a different environment is pretty interesting.
+I had no idea that we ended up on America’s west coast. When I came here for “IFF”, I was on the east coast, so seeing a different environment is pretty interesting.
 {% endbubble %}
 
 {% bubble HiMERU %}
@@ -912,7 +912,7 @@ Hm. It <i>is</i> hard to believe that the TV industry, which in itself is willin
 {% bubble HiMERU %}
 <th>*(--Apart from that, if it turns out that nothing happens and there isn’t any footage taken, it would mean a harsh blow to Crazy:B.)*</th>
 
-<th>*(As long as there’s enthusiasm in the project, then anything included will suffice. However, the moment that enthusiasm dissipates, nothing done will ever work.)*</th>
+<th>*(As long as there’s enthusiasm in the project, then anything included will suffice. However, the moment that enthusiasm dissipates, there's nothing that can be done.)*</th>
 
 <th>*(It sounds like something from a horror story, but that’s just the fact of the matter.)*</th>
 
@@ -931,6 +931,207 @@ Hm. It <i>is</i> hard to believe that the TV industry, which in itself is willin
 
 (9): This is playing on what HiMERU said in the previous chapter! HiMERU said there’s clouds of uncertainty and now Niki’s saying it’s all clear! Also get it, they’re on the west coast, and the coast is clear…get it…haha <///3
 (10): Niki’s 10/10 English attempt at saying “Could I get another chilidog for takeout? Another order please~!” then gives the owner a thumbs up.
+
+<h2 id="5">Chapter 5</h3>
+ <sup><i>proofread by shay</i></sup>
+
+ ***
+
+ <div class="msr-narration">
+<p>Thirty minutes later.</p>
+</div>
+
+![thanks](https://res.cloudinary.com/djq41tb84/image/upload/v1715964190/enstars/dialogue/number%208/take%20a%20chance/ch5/etbi4lfldx3yb9l47kfo.png)
+
+{% bubble Niki %}
+Thank you, Mister!
+
+We weren’t really here to give out any chili dogs, but thanks for taking our picture~!
+{% endbubble %}
+
+{% bubble Rinne %}
+	We had to give up a chili dog for it, but it looks like we’ve cleared our objective.
+  
+  Oh. The tablet’s sayin’ “GET Reward!” on the screen. What in the world is it gonna be?
+  
+  300 bucks worth of credits. That’ll be enough to cover Niki’s food costs, won’t it?
+  
+  Be a little grateful, will ya, Niki? The program was reeeaaal careful in making sure you don’t starve.
+{% endbubble %}
+
+{% bubble Niki %}
+	What’s with your tone? It’s oddly accusatory.
+{% endbubble %}
+
+{% bubble Rinne %}
+	But I’m <i>right</i>. Just how many chili dogs did you eat earlier? Don’t you think it was enough to blow through our budget?
+{% endbubble %}
+
+{% bubble Niki %}
+	Gulp…W-well, can’t really argue that.
+{% endbubble %}
+
+{% bubble Kohaku %}
+	Looks like it’ll be a good idea to save it just in case we run into trouble. That money might come in handy later.
+{% endbubble %}
+
+{% bubble HiMERU %}
+	HiMERU agrees with Oukawa. Since we’re traveling in an unfamiliar land, it’s always wise to keep some extra money on hand.
+{% endbubble %}
+
+![time](https://res.cloudinary.com/djq41tb84/image/upload/v1715964190/enstars/dialogue/number%208/take%20a%20chance/ch5/ueagryyuzacgbnjyevcc.png)
+
+{% bubble HiMERU %}
+However, we have no time to lose. Let’s open the next objective and some clues to arrive at the goal quickly.
+
+Who should roll the die next? Shiina and Amagi have both already had one roll, so HiMERU or Oukawa should roll it now.
+{% endbubble %}
+
+{% bubble Kohaku %}
+	Right. I’ll take a swing at it.
+  
+  The next objective is…“Leave a review for the town’s local specialty”?
+  
+  Hmm~. That's a pretty average task. Wish I could’ve gotten something a bit better.
+  
+  HiMERU-han said “Number Eight” was revamped to be more modern, but does that mean it’s only gonna stay like this?
+{% endbubble %}
+
+{% bubble HiMERU %}
+………
+{% endbubble %}
+
+{% bubble Kohaku %}
+HiMERU-han?
+{% endbubble %}
+
+{% bubble HiMERU %}
+	–It’s nothing. HiMERU was simply shocked by the amount of simple objectives we keep receiving. He doesn’t mean to sound anxious. However, there is a notable difference from “The Minotaur's Labyrinth”.
+  
+  The rush he felt while skydiving has completely faded now, so it’s starting to feel like “Crazy:B” has been shackled.
+  
+  Wouldn’t you think so, Amagi?
+{% endbubble %}
+
+![awawaaa](https://res.cloudinary.com/djq41tb84/image/upload/v1715964190/enstars/dialogue/number%208/take%20a%20chance/ch5/dzqnaunvrh0tnwlj1yyn.png)
+
+{% bubble Rinne %}
+	Me? No, I don’t really think so.
+  
+  …Oh, I see how it is, I see~
+  
+  “Crazy:B is supposed to be the troublemaker unit! The Crazy:B we know would <i>neeever</i> listen all obediently to the higher-ups!" That’s what you’re trying to say, riiiight~?
+  
+  Gyahaha! Now you’re starting to say that too, Merumeru! You’re definitely the one who understands Crazy:B the most!
+{% endbubble %}
+
+{% bubble HiMERU %}
+	Who are you calling “understanding”.
+  
+  …At any rate, it seems like it was just HiMERU’s concern.
+  
+  If you’re usually the first person to question something like this, but you’re also keeping quiet, then HiMERU has nothing left to add.
+  
+  Now then, let’s attempt the objective of buying the local specialties. Shall we ask the locals what exactly it is they recommend? 
+{% endbubble %}
+
+{% bubble Niki %}
+	Yup~ Should we ask the guy who took our picture?
+  
+  But that guy’s been drinking the whole day, so I don’t think he’d be able to understand what I’m trying to say.
+{% endbubble %}
+
+{% bubble Kohaku %}
+	But he seemed like a pretty nice guy, so it wouldn’t hurt to try asking him, would it?
+  
+  It would only be trouble if he tried offering me a drink, but I don’t think he’d give any to minors.
+{% endbubble %}
+
+{% bubble Rinne %}
+…Alllllright, then y’all go on ahead and take care of this for me!
+{% endbubble %}
+
+{% bubble Niki %}
+	? What’s up, Rinne-kun…?
+  
+  Are you skipping out on doing this objective with us just because you don’t wanna talk to people?! I won’t forgive you if that’s how it is!
+{% endbubble %}
+
+![rinnen](https://res.cloudinary.com/djq41tb84/image/upload/v1715964190/enstars/dialogue/number%208/take%20a%20chance/ch5/nej5glirxzsg48xgfgsh.png)
+
+{% bubble Rinne %}
+	Oioi~ You’ve known me for a while, so wouldn’t you get it? I’m just going to the bathroom.
+  
+  So I’ll leave you guys to take care of that objective of reviewing the locals’ specialties! Toodles!
+{% endbubble %}
+
+{% bubble Niki %}
+	W-Wait, Rinne-kun! Don’t just run off without asking!
+  
+  …Jeez. Rinne-kun’s such an annoying guy isn’t he…~ Of <i>course</i> he’d try to escape doing the work by making up excuses like needing to go to the bathroom.
+{% endbubble %}
+
+{% bubble HiMERU %}
+	HiMERU wonders about that.
+  
+  Throughout his childhood, Amagi was raised to become a chief. That sense of responsibility he was raised with can be observed through “Number Eight” as well.
+{% endbubble %}
+
+{% bubble Kohaku %}
+	True. He’s been this way since MDM–No, even before that.
+  
+  This show was supposed to be a pretty big hit, but all its punch has been taken out and it turned out to be a safer thing. I wonder if Rinne-han has any ideas about it.
+{% endbubble %}
+
+{% bubble Niki %}
+	Mmmm, I dunno…~
+  
+  “Number Eight” <i>is</i> a pretty average and plain show now, but Rinne-kun would probably like it that way.
+{% endbubble %}
+
+![nikiii](https://res.cloudinary.com/djq41tb84/image/upload/v1715964190/enstars/dialogue/number%208/take%20a%20chance/ch5/pknbeniziu9suakeedvp.png)
+
+{% bubble Niki %}
+<i>That’s</i> why I think that he made an excuse to slack off! I’ll put 10 <i>bucks</i> on that!
+{% endbubble %}
+
+{% bubble Rinne %}
+	You think so, Niki? I’ll take those 10 bucks then~
+{% endbubble %}
+
+{% bubble Niki %}
+	Wh?! Y-You're back!
+{% endbubble %}
+
+{% bubble Rinne %}
+	Oioi, don’t look like you’ve been fooled by a tanuki<sup>**(11)**</sup>. Is it because <i>you’re</i> the one that’s been caught slacking off on the objective that you look all pale~?
+  
+  Is that it? Or were you waiting for me to finish using the bathroom because you felt lonely without me~?
+{% endbubble %}
+
+{% bubble HiMERU %}
+	No. We were simply worried that something had happened, Amagi.
+{% endbubble %}
+
+{% bubble Rinne %}
+	Gyahaha, there’s no point in you guys worrying over me. Get back to work, get to it~
+{% endbubble %}
+
+{% bubble Niki %}
+	I don’t want Rinne-kun to be the only one telling me that.
+{% endbubble %}
+
+{% bubble Rinne %}
+	C’mon, c’mon! Let’s get a move on, we don’t have time to lose!
+  
+  Let’s hurry up and finish this next objective so we can keep enjoying our journey across America~! 
+{% endbubble %}
+
+<h4>Translation Notes</h4>
+
+**(11):** A tanuki is a “Raccoon-dog”/Panda looking animal, the Japanese mythology version based on it is a creature that shape shifts and plays harmless, mischievous little tricks on humans just for the sake of enjoyment! It’s tricks are most often compared to that of a kitsune.
+
+
 
   <!-- CONTENT GOES HERE -->
 
