@@ -1,11 +1,13 @@
 ---
 title:
-  '[object Object]': null
+  Footnote test
 date:
-  '[object Object]': null
+  2023-08-01 13:53:00
 categories:
+- [Enstars , Crazy:B]
 tags:
-description:
+- Midori
+description: footnotes /neg
 ---
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
