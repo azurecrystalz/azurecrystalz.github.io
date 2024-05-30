@@ -872,7 +872,7 @@ description: n8 story section take a chance
   {% bubble Niki %}
   Yep! I feel like all the hard work we put in is finally paying off~
 
-  Ah, Owner-san. Could I get another “chiridoggu” for “teiku-auto”? Another “oudaa puriizu”~![^9] (Thumbs up)
+  Ah, Owner-san. Could I get another “chiridoggu” for “teiku-auto”? Another “oudaa puriizu”[^9]~! (Thumbs up)
 
   Huh? That’s a hamburger though! I was hungry for a chili dog!
   {% endbubble %}
