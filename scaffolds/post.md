@@ -36,14 +36,6 @@ description:
                           <!-- NUMBER OF CHAPTERS -->
                       </div>
                   </div>
-                  <div class="info-item writer">
-                      <div class="label">
-                          Writer
-                      </div>
-                      <div class="value">
-                        <!-- STORY WRITER NAME -->
-                      </div>
-                  </div>
                   <div class="info-item characters">
                       <div class="label">
                           Characters
@@ -68,6 +60,7 @@ description:
                           Proofreaders
                       </div>
                       <div class="value">
+                        <a href="https://tumblr.com/starswallowingsea">shay</a> or <a href="https://tumblr.com/pitxroxas">pit</a>
                           <!-- PROOFREADER LIST (IF ANY) -->
                       </div>
                   </div>

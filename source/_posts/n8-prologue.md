@@ -12,7 +12,7 @@ description: n8 story chapters
 ---
 
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@3072785b4e7488330170f0d94355c12958b0fd3d/expressions.css ">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@00f5ded2cb027b9c784d80363468d122361def62/expressions.css ">
 </head>
 
 <div class="info-area">
@@ -317,7 +317,7 @@ description: n8 story chapters
 
   ![HiMERU unbl](https://res.cloudinary.com/djq41tb84/image/upload/v1709942750/enstars/dialogue/number%208/prologue/xtu5mhcqtu3rjndlv9zt.jpg)
 
-  {% bubble HiMERU himeru_n8_unbl_temp %}
+  {% bubble HiMERU n8_unbl %}
     Shiina, don’t look so surprised and put on your parachute.
     
     We don’t have the power to override anything, so it’d be wise not to delay anything further and just follow along with the program’s directions.

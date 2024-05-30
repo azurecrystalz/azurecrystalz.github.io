@@ -14,6 +14,6 @@ Hi I'm Aurora, I'm a CrazywinkP that loves them sooosososo much. I translate mos
 
 ***
 #### Special Shoutouts
-> I wish I could make a whole separate page for this because she definitely deserves it but this is a special shout out to [son](https://twitter.com/HELLOGlRLS) for setting this whole website up, being patient with me, and just. putting in a lot of effort in general into helping me out KJHSDF shout out to you son I can't thank you enough for your help!
+> I wish I could make a whole separate page for this because it's definitely deserved it but this is a special shout out to [son](https://twitter.com/HELLOGlRLS) for setting this whole website up, being patient with me, and putting in a lot of effort in general into helping me out KJHSDF shout out to you son I can't thank you enough for your help!
 ***
-> Another huge thank you goes to my eng proofing group: [mello](https://twitter.com/tattsuhime),[silver](https://twitter.com/morpho_partisian), [shay](https://tumblr.com/starswallowingsea), [pit](https://tumblr.com/pitxroxas), and [eve](https://www.tumblr.com/ohii-san). My translations have had a huge jump in quality because of your help, so thank you guys for your hard work you're the best :3
+> Another huge thank you goes to my eng proofers: [shay](https://tumblr.com/starswallowingsea) and [pit](https://tumblr.com/pitxroxas). My translations have had a huge jump in quality because of your help, so thank you guys for your hard work you're the best :3
