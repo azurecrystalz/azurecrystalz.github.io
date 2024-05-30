@@ -150,9 +150,9 @@ description: n8 story section take a chance
 
     WaaaaaaAAAAAAA*AAAAHHH!*
     
-    We’re falling, we’re falling, we’re *falling!* Please, hurry up and open the parachute already!<sup>**(1)**</sup>
+    I'm falling, I'm falling, I'm *falling!* Hurry up and open the parachute already!
     
-    Huh, I can’t understand what you’re saying! I’m done for, this is *seriously* the end!
+    Huh, my words aren't getting through at <i>all</i>! I’m done for, this is *seriously* the end!
     
     Uwaaa--Ah, it finally opened! What a scare~ This just took 5 years off my lifespan!
   {% endbubble %}
@@ -269,7 +269,7 @@ description: n8 story section take a chance
   {% bubble HiMERU wint_neutral %}
     Amagi, do you even have a passport?
 
-    Shiina has gone abroad to gather ingredients, and Oukawa has gone abroad to attend “IFF”<sup>**(2)**</sup>. So, that would leave you being the only one with no experience abroad, Amagi.
+    Shiina has gone abroad to gather ingredients, and Oukawa has gone abroad to attend “IFF”<sup>**(1)**</sup>. So, that would leave you being the only one with no experience abroad, Amagi.
 
     It’s hardly been a day since the offer was extended to us, so your passport couldn’t have been issued on the same day, correct?
   {% endbubble %}
@@ -327,7 +327,7 @@ description: n8 story section take a chance
   {% bubble Kohaku wint_nerv_laugh %}
     Ah…right. I guess it *is* kinda motivating when a job is convenient isn’t it?
     
-    Well, Niki-han, you’ve always been the type to prefer dangos over flowers<sup>**(3)**</sup>. Even if I brought you a bit of a sweet treat and accidentally hurt ya, you wouldn’t be angry with me…
+    Well, Niki-han, you’ve always been the type to prefer dangos over flowers<sup>**(2)**</sup>. Even if I brought you a bit of a sweet treat and accidentally hurt ya, you wouldn’t be angry with me…
   {% endbubble %}
 
   ![haku](https://res.cloudinary.com/djq41tb84/image/upload/v1709943840/enstars/dialogue/number%208/take%20a%20chance/ch1/hpvav1j6ubwolxg4x1mf.jpg)
@@ -353,12 +353,10 @@ description: n8 story section take a chance
   {% endbubble %}
 
   <h4>Translation Notes</h4>
-  
-  (1): Niki is talking to a skydiving instructor here
 
-  (2): Short for “Idol Film Festival”! This was the festival that took place during the movie “Road to Show”, and it's been referenced in Spring Evenings Respite too!
+  (1): Short for “Idol Film Festival”! This was the festival that took place during the movie “Road to Show”, and it's been referenced in Spring Evenings Respite too!
 
-  (3): An idiom basically meaning that something doesn’t have to look good for it to actually be good. It’s a bit of an optimistic expression :D !!
+  (2): An idiom basically meaning that something doesn’t have to look good for it to actually be good. It’s a bit of an optimistic expression :D !!
 
   <h2 id="2">Chapter 2</h2>
   <sup><i>proofread by shay, pit, and eve</i></sup>
@@ -396,7 +394,7 @@ description: n8 story section take a chance
   {% endbubble %}
 
   {% bubble Niki wint_stare %}
-    What a clever name~. Were we called here since “bee” and “eight” are the same?<sup>**(4)**</sup>
+    What a clever name~. Were we called here since “bee” and “eight” are the same?<sup>**(3)**</sup>
   {% endbubble %}
 
   {% bubble HiMERU wint_pensive %}
@@ -504,7 +502,7 @@ description: n8 story section take a chance
 ![konbu](https://res.cloudinary.com/djq41tb84/image/upload/v1700613626/enstars/dialogue/number%208/take%20a%20chance/ch%202/giqu6xwx2fsj1icuaxav.png)
 
   {% bubble Niki wint_idlr %}
-    Comp–kelp<sup>**(5)**</sup>? Sounds like the name of an all-new spice.
+    Comp–kelp<sup>**(4)**</sup>? Sounds like the name of an all-new spice.
   {% endbubble %}
 
   {% bubble HiMERU wint_neut_left %}
@@ -568,7 +566,7 @@ description: n8 story section take a chance
   {% endbubble %}
 
   {% bubble Niki wint_ugh %}  
-    Ugh. If I’d known Rinne-kun would be holding my life in his hands<sup>**(6)**</sup>, then I *never* would’ve agreed to this job…!
+    Ugh. If I’d known Rinne-kun would be holding my life in his hands<sup>**(5)**</sup>, then I *never* would’ve agreed to this job…!
   {% endbubble %}
 
   {% bubble Rinne wint_hah %}
@@ -584,11 +582,11 @@ description: n8 story section take a chance
 
   <h4>Translation Notes</h4>
 
-  (4): Homophone! “Eight” and “bee” in japanese are both pronounced “hachi”! This kind of reference has been hat-tipped a few times in enstars, but one of the most memorable to me is the fact that Crazy:B’s TRIP album campaign ended on 08.08.2023 !!
+  (3): Homophone! “Eight” and “bee” in japanese are both pronounced “hachi”! This kind of reference has been hat-tipped a few times in enstars, but one of the most memorable to me is the fact that Crazy:B’s TRIP album campaign ended on 08.08.2023 !!
 
-  (5): Niki here is trying to echo HiMERU saying “compliance”/“konpuraiansu” (written in ktkn), but ended up thinking he meant “kelp”/”konbu”. so in the textbox he’s like “konpu…konbu?”
+  (4): Niki here is trying to echo HiMERU saying “compliance”/“konpuraiansu” (written in ktkn), but ended up thinking he meant “kelp”/”konbu”. so in the textbox he’s like “konpu…konbu?”
 
-  (6): 生殺与奪の権を握る - literally meaning “holding power over life and death” but figuratively means “to have full power over a person”. Someone might use this expression to say something like “don’t let others have the power to control your life”, that kinda thing. In context, I think Niki here intends to say that he wouldn’t have accepted if Rinne was gonna control what he did.
+  (5): 生殺与奪の権を握る - literally meaning “holding power over life and death” but figuratively means “to have full power over a person”. Someone might use this expression to say something like “don’t let others have the power to control your life”, that kinda thing. In context, I think Niki here intends to say that he wouldn’t have accepted if Rinne was gonna control what he did.
 
 <h2 id="3">Chapter 3</h3>
  <sup><i>proofread by shay</i></sup>
@@ -706,7 +704,7 @@ description: n8 story section take a chance
   {% bubble Rinne %}
   We’re driving through a pretty open expanse of foreign land.
 
-  It’s no good if you can’t even put up with it this long, y’know.<sup>(7)</sup>
+  It’s no good if you can’t even put up with it this long, y’know.<sup>(6)</sup>
   {% endbubble %}
 
   {% bubble HiMERU %}
@@ -748,7 +746,7 @@ description: n8 story section take a chance
   {% endbubble %}
 
   {% bubble HiMERU %}
-  There may be a cloud of uncertainty<sup>(8)</sup> at the moment since we haven’t completed the objective at hand.
+  There may be a cloud of uncertainty<sup>(7)</sup> at the moment since we haven’t completed the objective at hand.
 
   However, Shiina may be right.
 
@@ -789,8 +787,8 @@ description: n8 story section take a chance
 
   <h4>Translation Notes</h4>
 
-  (7): A bit relevant to the idea Rinne is trying to express, Americans like to say that “you can drive 3 hours in Europe and be in five different countries, but if you drive in America for 3 hours you will still be in America (the same state no less LOL)”.
-  (8): This is like “storm clouds are gathering” or like there’s a looming sense of danger or worry.
+  (6): A bit relevant to the idea Rinne is trying to express, Americans like to say that “you can drive 3 hours in Europe and be in five different countries, but if you drive in America for 3 hours you will still be in America (the same state no less LOL)”.
+  (7): This is like “storm clouds are gathering” or like there’s a looming sense of danger or worry.
 
   <h2 id="4">Chapter 4</h3>
   <sup><i>proofread by shay</i></sup>
@@ -800,7 +798,7 @@ description: n8 story section take a chance
   ![mogus](https://res.cloudinary.com/djq41tb84/image/upload/v1710442697/enstars/dialogue/number%208/take%20a%20chance/ch4/pod7awl48npcsgcifi19.png)
 
   {% bubble Niki %}
-  Mogu mogu~ Ah, the coast is clear<sup>(9)</sup>...
+  Mogu mogu~ Ah, the coast is clear<sup>(8)</sup>...
 
   Speaking of coasts, the west coast is famous for their chili dogs~ I’m gonna eat a bunch!
   {% endbubble %}
@@ -880,7 +878,7 @@ description: n8 story section take a chance
   {% bubble Niki %}
   Yep! I feel like all the hard work we put in is finally paying off~
 
-  Ah, Owner-san. Could I get another “chiridoggu” for “teiku-auto”? Another “oudaa puriizu”~! (Thumbs up)<sup>(10)</sup>
+  Ah, Owner-san. Could I get another “chiridoggu” for “teiku-auto”? Another “oudaa puriizu”~! (Thumbs up)<sup>(9)</sup>
 
   Huh? That’s a hamburger though! I was hungry for a chili dog!
   {% endbubble %}
@@ -929,8 +927,8 @@ description: n8 story section take a chance
 
   <h4>Translation Notes</h4>
 
-  (9): This is playing on what HiMERU said in the previous chapter! HiMERU said there’s clouds of uncertainty and now Niki’s saying it’s all clear! Also get it, they’re on the west coast, and the coast is clear…get it…haha <///3
-  (10): Niki’s 10/10 English attempt at saying “Could I get another chilidog for takeout? Another order please~!” then gives the owner a thumbs up.
+  (8): This is playing on what HiMERU said in the previous chapter! HiMERU said there’s clouds of uncertainty and now Niki’s saying it’s all clear! Also get it, they’re on the west coast, and the coast is clear…get it…haha <///3
+  (9): Niki’s 10/10 English attempt at saying “Could I get another chilidog for takeout? Another order please~!” then gives the owner a thumbs up.
 
   <h2 id="5">Chapter 5</h3>
   <sup><i>proofread by shay</i></sup>
@@ -1104,7 +1102,7 @@ description: n8 story section take a chance
   {% endbubble %}
 
   {% bubble Rinne %}
-    Oioi, don’t look like you’ve been fooled by a tanuki<sup>**(11)**</sup>. Is it because <i>you’re</i> the one that’s been caught slacking off on the objective that you look all pale~?
+    Oioi, don’t look like you’ve been fooled by a tanuki<sup>**(10)**</sup>. Is it because <i>you’re</i> the one that’s been caught slacking off on the objective that you look all pale~?
     
     Is that it? Or were you waiting for me to finish using the bathroom because you felt lonely without me~?
   {% endbubble %}
@@ -1129,8 +1127,7 @@ description: n8 story section take a chance
 
   <h4>Translation Notes</h4>
 
-  **(11):** A tanuki is a “Raccoon-dog”/Panda looking animal, the Japanese mythology version based on it is a creature that shape shifts and plays harmless, mischievous little tricks on humans just for the sake of enjoyment! It’s tricks are most often compared to that of a kitsune.
-
+  **(10):** A tanuki is a “Raccoon-dog”/Panda looking animal, the Japanese mythology version based on it is a creature that shape shifts and plays harmless, mischievous little tricks on humans just for the sake of enjoyment! It’s tricks are most often compared to that of a kitsune.
 
 
   <!-- CONTENT GOES HERE -->
