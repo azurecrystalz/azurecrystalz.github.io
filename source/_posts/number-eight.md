@@ -11,30 +11,6 @@ tags:
 description: n8 chapter directory
 ---
 
-<head>
-  <!-- HTML Meta Tags -->
-  <title>Number Eight</title>
-  <meta name="description" content="n8 chapter directory">
-
-  <!-- Facebook Meta Tags -->
-  <meta property="og:url" content="https://azurecrystalz.github.io/2050/05/30/number-eight/">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Number Eight">
-  <meta property="og:description" content="n8 chapter directory">
-  <meta property="og:image" content="https://res.cloudinary.com/djq41tb84/image/upload/v1709338702/ASSETS%20ALWAYS%20USE%20THIS/RINNE/FRAMELESS%20UNBLOOMEDS/vmdzhozobb02h3gnppbn.png">
-
-  <!-- Twitter Meta Tags -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:domain" content="azurecrystalz.github.io">
-  <meta property="twitter:url" content="https://azurecrystalz.github.io/2050/05/30/number-eight/">
-  <meta name="twitter:title" content="Number Eight">
-  <meta name="twitter:description" content="n8 chapter directory">
-  <meta name="twitter:image" content="https://res.cloudinary.com/djq41tb84/image/upload/v1709338702/ASSETS%20ALWAYS%20USE%20THIS/RINNE/FRAMELESS%20UNBLOOMEDS/vmdzhozobb02h3gnppbn.png">
-
-  <!-- Meta Tags Generated via https://www.opengraph.xyz -->
-</head>
-
-
 <style>
     .chapter-area li {
       background-color: #1a222b;
