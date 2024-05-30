@@ -139,7 +139,7 @@ description: n8 story section take a chance
     }
 }    
   </style>
-<h3><a href="#1"><b>Ch. 1</b></a> | <a href="#2"><b>Ch.2</b></a> | <a href="#3"><b>Ch.3</b></a> | <a href="#4"><b>Ch.4</b></a> | <a href="#5"><b>Ch.5</b></a></h3>
+<h3><a href="#1"><b>Ch. 1</b></a> | <a href="#2"><b>Ch.2</b></a> | <a href="#3"><b>Ch.3</b></a> | <a href="#4"><b>Ch.4</b></a> | <a href="#5"><b>Ch.5</b></a> | <a href="#6"><b>Ch.6</b></a></h3>
 
   ***
 <h2 id="1">Chapter 1</h2>
@@ -1118,6 +1118,182 @@ description: n8 story section take a chance
   {% endbubble %}
 
   [^10]: A tanuki is a “Raccoon-dog”/Panda looking animal, the Japanese mythology version based on it is a creature that shape shifts and plays harmless, mischievous little tricks on humans just for the sake of enjoyment! It’s tricks are most often compared to that of a kitsune.
+
+<h2 id="6">Chapter 6</h2>
+
+***
+
+  <div class="msr-narration">
+  <p>An hour later.</p>
+  </div>
+
+![nomnom](https://res.cloudinary.com/djq41tb84/image/upload/v1717083764/enstars/dialogue/number%208/take%20a%20chance/ch6/ukxvozpci4kw9ldqjvky.png)
+
+{% bubble Niki %}
+	HiMERU-kun. I finished setting up all the local specialties! I’m gonna start reviewing them now, so you’ve got the OK to start rolling~!
+{% endbubble %}
+
+{% bubble HiMERU %}
+	Fufu. HiMERU has already begun filming. Go ahead, please don’t worry.
+{% endbubble %}
+
+{% bubble Niki %}
+	Eeeh, since when?! Have you just been filming me setting up all this food this whole time?!
+{% endbubble %}
+
+{% bubble HiMERU %}
+	Yes. HiMERU was able to record the entirety of you carefully decorating the food, Shiina.
+
+	So long as we don’t have a filming crew, we should continuously record in order to make the program a success. Shiina, your struggles ended up being a nice shot.
+{% endbubble %}
+
+{% bubble Niki %}
+	If that was the case then you should’ve said something! I wanted to show it all off in one go~!
+{% endbubble %}
+
+{% bubble Kohaku %}
+	Koh koh koh~. I think you can figure something out when you get to editing.
+
+	Still. This all looks really good, even if it’s just meant for a food review. It almost sucks that you gotta eat it.
+{% endbubble %}
+
+{% bubble Niki %}
+	Nono. I prepared it so that I could eat it after, y’know! Not being able to eat it after isn’t the goal!
+
+	I didn’t want people to think badly of the local specialties just because I slacked off either, so I gave this my all!
+{% endbubble %}
+
+![alright](https://res.cloudinary.com/djq41tb84/image/upload/v1717083759/enstars/dialogue/number%208/take%20a%20chance/ch6/mcjzwxrw4evaolumq090.png)
+
+{% bubble Rinne %}
+	Alright, alright. Seems like this is moving along swimmingly, isn’t it? Now all that’s left is to dig in~
+
+	Niki eats a tasty meal, and we’ll be taking the shots!
+
+  With that, we’ll be able to make a solid video and we’ll clear the objective!
+{% endbubble %}
+
+{% bubble Niki %}
+	As expected of the directors~, they’ve been doing a pretty good job with giving us clear directions, right?
+
+	But, I would’ve appreciated it more if they helped out with buying some of these specialties.
+{% endbubble %}
+
+{% bubble Rinne %}
+	You don’t work, you don’t eat. Got that, Niki?
+
+	I spent our precious savings on all this, now it's your job to put in the legwork!
+{% endbubble %}
+
+{% bubble Niki %}
+	Jeez. Rinne-kun is always so bossy…
+
+	Well it’s fine. As long as I have a good meal, then nothing else could make me happier!
+
+	Thanks for the meeeaaal! Om! Nom nom…~
+{% endbubble %}
+
+{% bubble Rinne %}
+	Merumeru, are you filming this? We can’t do any retakes, so take this carefully alright~?
+{% endbubble %}
+
+{% bubble HiMERU %}
+	HiMERU knows that already. It’s all in frame, so don’t worry.
+{% endbubble %}
+
+{% bubble Rinne %}
+	Kohaku-chan, could you shine some light down on Niki’s face here? The sun’s going down so it’s getting a bit dark.
+{% endbubble %}
+
+![hakukun](https://res.cloudinary.com/djq41tb84/image/upload/v1717083763/enstars/dialogue/number%208/take%20a%20chance/ch6/ax17eqq4lptscasqfadj.png)
+
+{% bubble Kohaku %}
+  Niki-han’s face, huh… Ummm, like this?
+  
+  I didn’t really think we’d be trying to copy a real filming set with a white cloth just because we didn’t have a reflector[^12]. I have no idea if the shot’s gonna look any good.
+{% endbubble %}
+
+{% bubble Rinne %}
+	That’s when you leave it to The Great Amagi Rinne-kun’s talents!
+{% endbubble %}
+
+{% bubble Niki %}
+	Mogumogu, thank you for the food!
+{% endbubble %}
+
+{% bubble Rinne %}
+	Right, so that’s the shooting. I think we’ve definitely cleared the objective now, right?
+{% endbubble %}
+
+{% bubble Kohaku %}
+  The tablet’s…yup. Looks like we cleared it.
+  
+  I don’t know who’s watching us out there, but I’m glad they are.
+{% endbubble %}
+
+{% bubble Niki %}
+	Mhm! Looks like the reward is some more money! Not only does it pay back for everything we spent on specialties earlier, but it looks like we’ll even have a little left over for some dinner too!
+{% endbubble %}
+
+{% bubble HiMERU %}
+	Don’t jump to thinking about food just yet, Shiina. We received the next objective despite HiMERU not rolling the die.
+{% endbubble %}
+
+![???](https://res.cloudinary.com/djq41tb84/image/upload/v1717083762/enstars/dialogue/number%208/take%20a%20chance/ch6/jvfdxa1sijsddisdrjav.png)
+
+{% bubble Rinne %}
+	“???”...What the?
+{% endbubble %}
+{% bubble Niki %}
+	I think there might be something wrong with the application~...I don’t have a clue what it could be!
+{% endbubble %}
+
+{% bubble HiMERU %}
+	There was a button on the tablet for emergencies, perhaps we should use it.
+
+	The “Number Eight” staff have yet to appear, so HiMERU doubts they’ll respond.
+
+	Since meeting them was Anzu-san’s arrangement, HiMERU doesn’t expect they would treat us idols so carelessly.
+{% endbubble %}
+
+{% bubble Rinne %}
+	…Wait. Guys, look over there.
+{% endbubble %}
+
+{% bubble Niki %}
+	“There”? At what? I can’t see anything.
+{% endbubble %}
+
+{% bubble Rinne %}
+	Did you forget? We parked our car in front of that restaurant to eat lunch, remember?
+
+	Since then, we haven’t moved the car anywhere, right?
+{% endbubble %}
+
+{% bubble Niki %}
+	Yeah, but…huh?
+	
+	That’s weird, where’s our car…?
+{% endbubble %}
+
+{% bubble Kohaku %}
+	 Rinne-han. If I’m not wrong, then this is a sign saying “This is it”.
+{% endbubble %}
+
+{% bubble HiMERU %}
+So that’s how it is. Until this point we’ve been given typical on site shooting objectives, and the moment we lowered our defenses, they hit us with this–and that’s how they’ve set this up.
+{% endbubble %}
+
+{% bubble Rinne %}
+	Yup. Looks like our magnificent iron steed[^13] that took us everywhere was taken from us.
+
+	I’m guessing this is where “Number Eight” <i>really</i> begins. I get it now…~
+{% endbubble %}
+
+
+[^12]: For anyone like me that doesn’t know Anything about photography this is like. A white tarp thing. From what I gathered the flash is directed at the tarp and the white reflector has the light bounce off it.
+[^13]: Metaphor for a locomotive like a car or train, and obviously in this case it's a car.
+
 
 
   <!-- CONTENT GOES HERE -->
