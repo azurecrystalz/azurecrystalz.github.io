@@ -99,7 +99,7 @@ description: n8 chapter directory
       <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709338356/ASSETS%20ALWAYS%20USE%20THIS/RINNE/FULL%20BLOOMED%20CGS/zcostrims96adq3epna6.png')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
-              <div class="title-area__title">Number Eight (WIP: 5/17)</div>
+              <div class="title-area__title">Number Eight (WIP: 7/17)</div>
               <div class="title-area__subtitle">ナンバーエイト</div>
               <div class="title-area__start"><a href="/2050/05/30/number-eight/">Start Reading</a></div>
           </div>
@@ -348,7 +348,7 @@ description: n8 chapter directory
           </div>
         </div>
 <!---og minitalk edns here --->
-      </div>
+    </div>
     </div>
 
 <!-- more -->

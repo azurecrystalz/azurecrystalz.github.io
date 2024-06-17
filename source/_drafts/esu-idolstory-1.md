@@ -9,7 +9,7 @@ description: esu intro story
 ---
 
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@00f5ded2cb027b9c784d80363468d122361def62/expressions.css ">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@7e9dca5d52e9541ad3aa0c4f7e001d672ed1417d/expressions.css ">
 </head>
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">

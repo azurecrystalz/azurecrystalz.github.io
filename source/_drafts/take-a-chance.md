@@ -12,7 +12,7 @@ description: n8 story section take a chance
 ---
 
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@00f5ded2cb027b9c784d80363468d122361def62/expressions.css ">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@7e9dca5d52e9541ad3aa0c4f7e001d672ed1417d/expressions.css ">
 </head>
 
 <div class="info-area">
@@ -126,6 +126,10 @@ description: n8 story section take a chance
     }
     .msr-narration p {
       margin: 0;
+    }
+    .hint--error:after {
+      background-color: #374A5D;
+      text-shadow: 0 -1px 0px #23384C;
     }
     @media (max-width: 650px) {
     [character] p {
@@ -352,10 +356,6 @@ description: n8 story section take a chance
     The dice has been thrown. Let’s all say hi to the Goddess of Fate for our first ever overseas trip~
   {% endbubble %}
 
-  [^1]: Short for “Idol Film Festival”! This was the festival that took place during the movie “Road to Show”, and it's been referenced in Spring Evenings Respite too!
-
-  [^2]: An idiom basically meaning that something doesn’t have to look good for it to actually be good. It’s a bit of an optimistic expression :D !!
-
   <h2 id="2">Chapter 2</h2>
   <sup><i>proofread by shay, pit, and eve</i></sup>
 
@@ -578,12 +578,6 @@ description: n8 story section take a chance
 
   <!-- Translation Notes -->
 
-  [^3]: Homophone! “Eight” and “bee” in japanese are both pronounced “hachi”! This kind of reference has been hat-tipped a few times in enstars, but one of the most memorable to me is the fact that Crazy:B’s TRIP album campaign ended on 08.08.2023 !!
-
-  [^4]: Niki here is trying to echo HiMERU saying “compliance”/“konpuraiansu” (written in ktkn), but ended up thinking he meant “kelp”/”konbu”. so in the textbox he’s like “konpu…konbu?”
-
-  [^5]: 生殺与奪の権を握る - literally meaning “holding power over life and death” but figuratively means “to have full power over a person”. Someone might use this expression to say something like “don’t let others have the power to control your life”, that kinda thing. In context, I think Niki here intends to say that he wouldn’t have accepted if Rinne was gonna control what he did.
-
 <h2 id="3">Chapter 3</h3>
  <sup><i>proofread by shay</i></sup>
 
@@ -596,77 +590,91 @@ description: n8 story section take a chance
   ![niki hum](https://res.cloudinary.com/djq41tb84/image/upload/v1710298508/enstars/dialogue/number%208/take%20a%20chance/ch3/hbsnhlpy4mcfrog14xxx.png)
 
   {% bubble Niki %}
-  …….
+    …….
+  {% endbubble %}
 
+  {% bubble Niki %}
   …Are we there yettttt~? I’m already starving!
   {% endbubble %}
 
-  {% bubble Rinne %}
-  Quit your whining. We <i>just</i> got on the road. Don’t start yapping like that to me for another hour or so.
+  {% bubble Rinne practice_sigh %}
+    Quit your whining. We <i>just</i> got on the road. Don’t start yapping like that to me for another hour or so.
+  {% endbubble %}
 
-  More importantly, how about you two back there? Have you figured out how to put that tablet to good use?
+  {% bubble Rinne practice_yup %}
+    More importantly, how about you two back there? Have you figured out how to put that tablet to good use?
   {% endbubble %}
 
   {% bubble HiMERU %}
-  Yes. There appears to be a document stating the outline of the project in one of the applications. Similar to an instructional guide.
+    --Yes. There appears to be a document stating the outline of the project in one of the applications. Similar to an instructional guide.
 
-  Looking at what the document says, this tablet supplied by “Number Eight” has two primary functions.
+    Looking at what the document says, this tablet supplied by “Number Eight” has two primary functions.
 
-  Firstly, an application to roll a die.
+    Firstly, an application to roll a die.
 
-  It’s monitored so that once the die has been thrown, it can’t be thrown again until the previous objective has been completed.
+    It’s monitored so that once the die has been thrown, it can’t be thrown again until the previous objective has been completed.
+  {% endbubble %}
 
-  The die has twelve sides…a dodecahedron.
+  {% bubble HiMERU %}
+    The die has twelve sides…a dodecahedron.
 
-  It’s also written that by completing the objective at hand, we’ll be rewarded.
+    It’s also written that by completing the objective at hand, we’ll be rewarded.
+  {% endbubble %}
 
-  The rewards can be anything from a beneficial service, money, or even additional applications to the tablet. However–
+  {% bubble HiMERU %}
+    The rewards can be anything from a beneficial service, money, or even additional applications to the tablet. However–
 
-  It also supplies clues in order to complete the bigger goal.
+    It also supplies clues in order to complete the bigger goal.
 
-  We have a 24 hour time limit. If we reach the goal point safely within the allotted time frame, we’ll be rewarded with the ability to perform a new song in new outfits live.
+    We have a 24 hour time limit. If we reach the goal point safely within the allotted time frame, we’ll be rewarded with the ability to perform a new song in new outfits live.
   {% endbubble %}
 
   ![mmmrgh](https://res.cloudinary.com/djq41tb84/image/upload/v1710298508/enstars/dialogue/number%208/take%20a%20chance/ch3/nlpnjnoa28qg6lmcfmnu.png)
 
   {% bubble Niki %}
-  That reminds me, wasn’t our last reward in “The Minotaur's Labyrinth” a new song too? Do they just think that if they dangle a new song over our heads we’re gonna be desperate to grab it?
+    That reminds me, wasn’t our last reward in “The Minotaur's Labyrinth” a new song too? Do they just think that if they dangle a new song over our heads we’re gonna be desperate to grab it?
+  {% endbubble %}
 
-  I personally want a nice big meal over performing a new song live.
+  {% bubble Niki %}
+    I personally want a nice big meal over performing a new song live.
   {% endbubble %}
 
   {% bubble HiMERU %}
-  Just think of it as work then, Shiina. By getting paid “L$”, you’ll be able to buy the food you’d like.
+    Just think of it as work then, Shiina. By getting paid “L$”, you’ll be able to buy the food you’d like.
 
-  Money can’t buy happiness, but it <i>can</i> buy most of the things people want to become happy–that’s the entire premise of capitalism.
+    Money can’t buy happiness, but it <i>can</i> buy most of the things people want to become happy–that’s the entire premise of capitalism.
   {% endbubble %}
 
-  {% bubble Rinne %}
-  I’ve got a grip on how the rules work now. What about the other function you mentioned?
-  {% endbubble %}
-
-  {% bubble HiMERU %}
-  It’s a communication function. Though it looks like it’s solely provided for emergency purposes.
-
-  For instance, if there is an issue with filming, then we could contact the staff–or they could contact us.
-  {% endbubble %}
-
-  {% bubble Rinne %}
-  Hmm…? Seems like it’s not a half bad plan to keep beloved idols safe. Will they just end up doing a little extra if they don’t have enough shots?
+  {% bubble Rinne practice_idlr %}
+    I’ve got a grip on how the rules work now. What about the other function you mentioned?
   {% endbubble %}
 
   {% bubble HiMERU %}
-  Probably. That was the purpose of “Number Eight” to begin with.
+    It’s a communication function. Though it looks like it’s solely provided for emergency purposes.
 
-  At any rate, those are the functions of the tablet. All that’s left is to take the car and get to the goal.
+    For instance, if there is an issue with filming, then we could contact the staff–or they could contact us.
   {% endbubble %}
 
-  {% bubble Rinne %}
-  Yup. It would’ve been useful if that thing came with a map or something, but it’s fine.
+  {% bubble Rinne practice_thinkloud %}
+    Hmm…? Seems like it’s not a half bad plan to keep beloved idols safe. Will they just end up doing a little extra if they don’t have enough shots?
+  {% endbubble %}
 
-  I spent such a long time back at my hometown in nature that I’ll be able to find our way around without a map or GPS.
+  {% bubble HiMERU %}
+    Probably. That was the purpose of “Number Eight” to begin with.
+  {% endbubble %}
 
-  We’ll be there in no time~
+  {% bubble HiMERU %}
+    At any rate, those are the functions of the tablet. All that’s left is to take the car and get to the goal.
+  {% endbubble %}
+
+  {% bubble Rinne practice_yup %}
+    Yup. It would’ve been useful if that thing came with a map or something, but it’s fine.
+
+    I spent such a long time back at my hometown in nature that I’ll be able to find our way around without a map or GPS.
+  {% endbubble %}
+
+  {% bubble Rinne practice_mhm %}
+    We’ll be there in no time~
   {% endbubble %}
 
   <div class="msr-narration">
@@ -675,114 +683,117 @@ description: n8 story section take a chance
 
   ![rinne hum](https://res.cloudinary.com/djq41tb84/image/upload/v1710298507/enstars/dialogue/number%208/take%20a%20chance/ch3/rzs0ugimqlp5nitrllvy.png)
 
-  {% bubble Rinne %}
-  ~♪ ~♪
+  {% bubble Rinne practice_happy %}
+    ~♪ ~♪
   {% endbubble %}
 
   {% bubble Niki %}
-  …Rinne-kun?
+    …Rinne-kun?
   {% endbubble %}
 
-  {% bubble Rinne %}
-  Hm, what’s up? Gonna shower me with how hungry you are again?
+  {% bubble Rinne practice_smile_left %}
+    Hm, what’s up? Gonna shower me with how hungry you are again?
   {% endbubble %}
 
   {% bubble Niki %}
-  No, I wasn’t planning to.
+    No, I wasn’t planning to.
 
-  It’s just that it’s been a while since we’ve last seen anyone. Is that okay? We’re not completely lost are we?
+    It’s just that it’s been a while since we’ve last seen anyone. Is that okay? We’re not completely lost are we?
+  {% endbubble %}
+
+  {% bubble Rinne practice_sigh %}
+    And <i>how</i>, exactly, could I get lost without a map?
   {% endbubble %}
 
   {% bubble Rinne %}
-  And <i>how</i>, exactly, could I get lost without a map?
-  {% endbubble %}
+    We’re driving through a pretty open expanse of foreign land.
 
-  {% bubble Rinne %}
-  We’re driving through a pretty open expanse of foreign land.
-
-  It’s no good if you can’t even put up with it this long, y’know.[^6]
+    It’s no good if you can’t even put up with it this long, y’know.[^6]
   {% endbubble %}
 
   {% bubble HiMERU %}
-  Agreed. In fact, it would be a <i>good</i> thing if we arrived in an hour.
+    Agreed. In fact, it would be a <i>good</i> thing if we arrived in an hour.
 
-  Pray to Buddha all you’d like, Shiina, but it’d be best to sit a bit longer and be patient given you’re the one with the most experience overseas.
+    Pray to Buddha all you’d like, Shiina, but it’d be best to sit a bit longer and be patient given you’re the one with the most experience overseas.
   {% endbubble %}
 
   {% bubble Niki %}
-  No no <i>no!</i> I’m just about ready to eat grass at this point!
+    No no <i>no!</i> I’m just about ready to eat grass at this point!
 
-  Ah, there’s a bit of tumbleweed over there!
+    Ah, there’s a bit of tumbleweed over there!
   {% endbubble %}
 
-  {% bubble Rinne %}
-  God, would you <i>quit</i> being so fussy already? What are you, four?
+  {% bubble Rinne practice_sigh %}
+    God, would you <i>quit</i> being so fussy already? What are you, four?
 
-  Jeez, even <i>you’re</i> being careless, Niki. Why didn’t you bring emergency food if you knew something like this would end up happening?
+    Jeez, even <i>you’re</i> being careless, Niki. Why didn’t you bring emergency food if you knew something like this would end up happening?
   {% endbubble %}
 
   ![obviously](https://res.cloudinary.com/djq41tb84/image/upload/v1710298509/enstars/dialogue/number%208/take%20a%20chance/ch3/w259pfo8mfccf4xummfq.png)
 
   {% bubble Niki %}
-  <i>Obviously</i> I brought some! I just ate it all on the bus and plane rides here!
+    <i>Obviously</i> I brought some! I just ate it all on the bus and plane rides here!
 
-  Rinne-kun, you’re underestimating my appetite. You’ll feel hungry as long as you’re alive~
+    Rinne-kun, you’re underestimating my appetite. You’ll feel hungry as long as you’re alive~
   {% endbubble %}
 
   {% bubble Kohaku %}
-  I guess we really should’ve seen this coming, huh?
+    I guess we really should’ve seen this coming, huh?
   {% endbubble %}
 
-  {% bubble Rinne %}
-  ……
+  {% bubble Rinne practice_seriously %}
+    ……
   {% endbubble %}
 
   {% bubble Niki %}
-  Uwah! Don’t look at me like that, Rinne-kun! Look! Keep your eyes on the road!
+    Uwah! Don’t look at me like that, Rinne-kun! Look! Keep your eyes on the road!
   {% endbubble %}
 
   {% bubble HiMERU %}
-  There may be a cloud of uncertainty[^7] at the moment since we haven’t completed the objective at hand.
+    There may be a cloud of uncertainty[^7] at the moment since we haven’t completed the objective at hand.
 
-  However, Shiina may be right.
+    However, Shiina may be right.
 
-  It seems like not knowing when we’re going to arrive is causing a bit of anxiety.
+    It seems like not knowing when we’re going to arrive is causing a bit of anxiety.
 
-  When we do arrive, it would be in our best interest to buy a map with the voucher we have in the car.
+    When we do arrive, it would be in our best interest to buy a map with the voucher we have in the car.
   {% endbubble %}
 
   ![sichiation](https://res.cloudinary.com/djq41tb84/image/upload/v1710298509/enstars/dialogue/number%208/take%20a%20chance/ch3/vcxbbytfoho7a8gnzpeq.png)
 
   {% bubble Kohaku %}
-  Yeah. I’d rather not be in the kind of situation where I can’t use the Internet to know where I’m going.
+    Yeah. I’d rather not be in the kind of situation where I can’t use the Internet to know where I’m going.
 
-  There’s a bunch of tumbleweeds around here…the kind of tumbleweeds you’d see in western movies. In other words, this is probably America.
+    There’s a bunch of tumbleweeds around here…the kind of tumbleweeds you’d see in western movies. In other words, this is probably America.
   {% endbubble %}
 
-  {% bubble Rinne %}
-  We can’t rule Mexico out either.
+  {% bubble Rinne practice_thinkself %}
+    We can’t rule Mexico out either.
+  {% endbubble %}
 
-  Wherever we are, we’re just gonna have to keep following the road. We’re bound to hit some kind of town eventually.
+  {% bubble Rinne practice_yup %}
+    Wherever we are, we’re just gonna have to keep following the road. We’re bound to hit some kind of town eventually.
+  {% endbubble %}
 
-  …Look, we’re already starting to see road signs.
+  {% bubble Rinne practice_mhm %}
+    …Look, we’re already starting to see road signs.
 
-  Town’s ten kilometers away…looks like we’re finally getting somewhere.
+    Town’s ten kilometers away…looks like we’re finally getting somewhere.
   {% endbubble %}
 
   {% bubble Niki %}
-  Yeah, our luck is starting to change for the better!
+    Yeah, our luck is starting to change for the better!
 
-  I can’t wait~! Step on it, Rinne-kun!
+    I can’t wait~! Step on it, Rinne-kun!
   {% endbubble %}
 
-  {% bubble Rinne %}
-  I’m already on it.
-
-  Just you wait, my gluttonous fiend, we’ll get that lunch in you soon…~
+  {% bubble Rinne practice_sigh %}
+    I’m already on it.
   {% endbubble %}
 
-  [^6]: A bit relevant to the idea Rinne is trying to express, Americans like to say that “you can drive 3 hours in Europe and be in five different countries, but if you drive in America for 3 hours you will still be in America (the same state no less LOL)”.
-  [^7]: This is like “storm clouds are gathering” or like there’s a looming sense of danger or worry.
+  {% bubble Rinne practice_superior %}
+    Just you wait, my gluttonous fiend, we’ll get that lunch in you soon…~
+  {% endbubble %}
 
   <h2 id="4">Chapter 4</h3>
   <sup><i>proofread by shay</i></sup>
@@ -792,135 +803,132 @@ description: n8 story section take a chance
   ![mogus](https://res.cloudinary.com/djq41tb84/image/upload/v1710442697/enstars/dialogue/number%208/take%20a%20chance/ch4/pod7awl48npcsgcifi19.png)
 
   {% bubble Niki %}
-  Mogu mogu~ Ah, the coast is clear[^8]...
+    Mogu mogu~ Ah, the coast is clear[^8]...
 
-  Speaking of coasts, the west coast is famous for their chili dogs~ I’m gonna eat a bunch!
+    Speaking of coasts, the west coast is famous for their chili dogs~ I’m gonna eat a bunch!
   {% endbubble %}
 
   {% bubble Kohaku %}
-  It’s good to see that you’re having your fill.
+    It’s good to see that you’re having your fill.
 
-  I had no idea that we ended up on America’s west coast. When I came here for “IFF”, I was on the east coast, so seeing a different environment is pretty interesting.
+    I had no idea that we ended up on America’s west coast. When I came here for “IFF”, I was on the east coast, so seeing a different environment is pretty interesting.
   {% endbubble %}
 
   {% bubble HiMERU %}
-  Both coasts are thousands of kilometers apart, it’s definitely unlike the landscape of Japan.
+    Both coasts are thousands of kilometers apart, it’s definitely unlike the landscape of Japan.
 
-  In fact, the distance is so far apart that it’s not possible to travel the distance in a day. We should be glad to have been able to get lunch within an hour.
+    In fact, the distance is so far apart that it’s not possible to travel the distance in a day. We should be glad to have been able to get lunch within an hour.
   {% endbubble %}
 
   {% bubble Rinne %}
-  Yeah. We got a GPS as our reward for clearing the objective, too. It’ll make it a lot easier to find our way around now, right?
+    Yeah. We got a GPS as our reward for clearing the objective, too. It’ll make it a lot easier to find our way around now, right?
 
-  Besides that, our biggest problem is the die. Just because our first objective was pretty easy to clear since all we had to do was push through, that doesn’t mean the second one’s gonna be just as simple.
+    Besides that, our biggest problem is the die. Just because our first objective was pretty easy to clear since all we had to do was push through, that doesn’t mean the second one’s gonna be just as simple.
 
-  I’ll throw the dice this time. You guys better start begging God for something good…~
+    I’ll throw the die this time. You guys better start begging God for something good…~
 
-  Here I go…<i>Click</i>~!
+    Here I go…<i>Click</i>~!
 
-  “Snap a photo with a polaroid”...? I didn’t even know those old things were still around nowadays.
+    “Snap a photo with a polaroid”...? I didn’t even know those old things were still around nowadays.
 
-  Did they leave one for us in the trunk?
+    Did they leave one for us in the trunk?
   {% endbubble %}
 
   {% bubble Kohaku %}
-  Not that I can remember. I checked the trunk once we got here, but didn’t see any signs of one.
+    Not that I can remember. I checked the trunk once we got here, but didn’t see any signs of one.
   {% endbubble %}
 
   ![nikikyun](https://res.cloudinary.com/djq41tb84/image/upload/v1710442698/enstars/dialogue/number%208/take%20a%20chance/ch4/uftyabr3gnyvmb6ccsqg.png)
 
   {% bubble Niki %}
-  I don’t remember seeing one either. I was looking for food, so I don’t <i>think</i> I saw anything else?
+    I don’t remember seeing one either. I was looking for food, so I don’t <i>think</i> I saw anything else?
   {% endbubble %}
 
   {% bubble HiMERU %}
-  –Meaning, we could interpret our next objective as “<i>Find someone</i> to snap a photo with a polaroid”.
+    –Meaning, we could interpret our next objective as “<i>Find someone</i> to snap a photo with a polaroid”.
 
-  Luckily, HiMERU can speak a bit of English. Shall we try to ask some of the locals?
+    Luckily, HiMERU can speak a bit of English. Shall we try to ask some of the locals?
   {% endbubble %}
 
   {% bubble Niki %}
-  I have full faith in my body language! I can try to find something by gesturing too!
+    I have full faith in my body language! I can try to find something by gesturing too!
   {% endbubble %}
 
   {% bubble Rinne %}
-  Yeah. Thanks.
+    Yeah. Thanks.
 
-  …Buuuut, is this really okay? How “Number Eight” is going?
+    …Buuuut, is this really okay? How “Number Eight” is going?
 
-  We’ve been getting pretty mellow objectives ‘til now. It’s a lot different from how “The Minotaur’s Labyrinth” ended up.
+    We’ve been getting pretty mellow objectives ‘til now. It’s a lot different from how “The Minotaur’s Labyrinth” ended up.
 
-  There’s not even a hint of the good-ol non-compliant “Number Eight”.
+    There’s not even a hint of the good-ol non-compliant “Number Eight”.
   {% endbubble %}
 
   {% bubble Kohaku %}
-  Yeah. We’re not being chased by any raging bulls or anything. I guess something crazy won’t happen just because we’re abroad.
+    Yeah. We’re not being chased by any raging bulls or anything. I guess something crazy won’t happen just because we’re abroad.
 
-  We’re talking about the show with rumors that it “got so careless it lost cast members” spread around. If it was gonna be changed to fit modern rules, it’d probably be like this.
+    We’re talking about the show with rumors that it “got so careless it lost cast members” spread around. If it was gonna be changed to fit modern rules, it’d probably be like this.
   {% endbubble %}
 
   ![fucker](https://res.cloudinary.com/djq41tb84/image/upload/v1710442694/enstars/dialogue/number%208/take%20a%20chance/ch4/nz89kmczajpnj3kd0sts.png)
 
   {% bubble HiMERU %}
-  HiMERU, for one, thinks it couldn’t be better.
+    HiMERU, for one, thinks it couldn’t be better.
 
-  It’s almost as if they’re giving an easier chance for “Crazy:B” to perform live.
+    It’s almost as if they’re giving an easier chance for “Crazy:B” to perform live.
 
-  It’s unknown if the remaining objectives will have something akin to how “Number Eight” performed in the past, but if it remains like this then winning will be simple.
+    It’s unknown if the remaining objectives will have something akin to how “Number Eight” performed in the past, but if it remains like this then winning will be simple.
   {% endbubble %}
 
   {% bubble Niki %}
-  Yep! I feel like all the hard work we put in is finally paying off~
+    Yep! I feel like all the hard work we put in is finally paying off~
 
-  Ah, Owner-san. Could I get another “chiridoggu” for “teiku-auto”? Another “oudaa puriizu”[^9]~! (Thumbs up)
+    Ah, Owner-san. Could I get another “chiridoggu” for “teiku-auto”? Another “oudaa puriizu”[^9]~! (Thumbs up)
 
-  Huh? That’s a hamburger though! I was hungry for a chili dog!
+    Huh? That’s a hamburger though! I was hungry for a chili dog!
   {% endbubble %}
 
   {% bubble Rinne %}
-  Whatever happened to “having full faith in your body language”?
+    Whatever happened to “having full faith in your body language”?
 
-  Well, I guess there’s no point in rushing. Let’s see if there’s somewhere the four of us can stay for a bit. Maybe one of the locals will be kind enough to let a few traveling strangers in~?
+    Well, I guess there’s no point in rushing. Let’s see if there’s somewhere the four of us can stay for a bit. Maybe one of the locals will be kind enough to let a few traveling strangers in~?
 
-  I’ll go grab one of the cameras from the car so that we can get some footage as we go.
+    I’ll go grab one of the cameras from the car so that we can get some footage as we go.
   {% endbubble %}
 
   {% bubble HiMERU %}
-  –Still, a photograph…
+    –Still, a photograph…
 
-  Is it wrong for HiMERU to be a bit concerned that this is coming a little too easily?
+    Is it wrong for HiMERU to be a bit concerned that this is coming a little too easily?
   {% endbubble %}
 
   ![my nerves are also shot](https://res.cloudinary.com/djq41tb84/image/upload/v1710442695/enstars/dialogue/number%208/take%20a%20chance/ch4/nfmaevwnaoj0f2rsmzft.png)
 
   {% bubble Niki %}
-  Nyahaha! I don’t think so! We’ve just been through so much that our nerves are shot!
+    Nyahaha! I don’t think so! We’ve just been through so much that our nerves are shot!
   {% endbubble %}
 
   {% bubble HiMERU %}
-  Hm. It <i>is</i> hard to believe that the TV industry, which in itself is willing to put performers through torture, would leave the continuation of a program to a few idols.
+    Hm. It <i>is</i> hard to believe that the TV industry, which in itself is willing to put performers through torture, would leave the continuation of a program to a few idols.
   {% endbubble %}
 
   {% bubble HiMERU %}
-  <th>*(--Apart from that, if it turns out that nothing happens and there isn’t any footage taken, it would mean a harsh blow to Crazy:B.)*</th>
+    <th>*(--Apart from that, if it turns out that nothing happens and there isn’t any footage taken, it would mean a harsh blow to Crazy:B.)*</th>
 
-  <th>*(As long as there’s enthusiasm in the project, then anything included will suffice. However, the moment that enthusiasm dissipates, there's nothing that can be done.)*</th>
+    <th>*(As long as there’s enthusiasm in the project, then anything included will suffice. However, the moment that enthusiasm dissipates, there's nothing that can be done.)*</th>
 
-  <th>*(It sounds like something from a horror story, but that’s just the fact of the matter.)*</th>
+    <th>*(It sounds like something from a horror story, but that’s just the fact of the matter.)*</th>
 
-  <th>*(Producers, staging crew, and other behind the scenes staff lose their passion to make their project’s exterior look good, and the end result is a loss of enthusiasm.)*</th>
+    <th>*(Producers, staging crew, and other behind the scenes staff lose their passion to make their project’s exterior look good, and the end result is a loss of enthusiasm.)*</th>
 
-  <th>*(It’s something that happens within the entertainment industry all too often.)*</th>
+    <th>*(It’s something that happens within the entertainment industry all too often.)*</th>
 
-  <th>*(...It’s hard to think that “Number Eight” would even be that kind of program, but it’s another risk entirely to just follow along the whims of the production team.)*</th>
+    <th>*(...It’s hard to think that “Number Eight” would even be that kind of program, but it’s another risk entirely to just follow along the whims of the production team.)*</th>
 
-  <th>*(If it gets to the point where there isn’t enough footage, then Amagi will just stir something up as he always does. It’d be best to keep that in mind.)*</th>
+    <th>*(If it gets to the point where there isn’t enough footage, then Amagi will just stir something up as he always does. It’d be best to keep that in mind.)*</th>
 
-  <th>*(Worst comes to pass, we'll be the only ones to fend for ourselves.)*</th>
+    <th>*(Worst comes to pass, we'll be the only ones to fend for ourselves.)*</th>
   {% endbubble %}
-
-  [^8]: This is playing on what HiMERU said in the previous chapter. HiMERU said there’s clouds of uncertainty and now Niki’s saying it’s all clear! Also get it, they’re on the west coast, and the coast is clear…get it…haha <///3
-  [^9]: Niki’s 10/10 English attempt at saying “Could I get another chilidog for takeout? Another order please~!” then gives the owner a thumbs up.
 
   <h2 id="5">Chapter 5</h3>
   <sup><i>proofread by shay</i></sup>
@@ -1082,7 +1090,7 @@ description: n8 story section take a chance
   ![nikiii](https://res.cloudinary.com/djq41tb84/image/upload/v1715964190/enstars/dialogue/number%208/take%20a%20chance/ch5/pknbeniziu9suakeedvp.png)
 
   {% bubble Niki %}
-  <i>That’s</i> why I think that he made an excuse to slack off! I’ll put 10 <i>bucks</i> on that!
+    <i>That’s</i> why I think that he made an excuse to slack off! I’ll put 10 <i>bucks</i> on that!
   {% endbubble %}
 
   {% bubble Rinne %}
@@ -1117,7 +1125,7 @@ description: n8 story section take a chance
     Let’s hurry up and finish this next objective so we can keep enjoying our journey across America~! 
   {% endbubble %}
 
-  [^10]: A tanuki is a “Raccoon-dog”/Panda looking animal, the Japanese mythology version based on it is a creature that shape shifts and plays harmless, mischievous little tricks on humans just for the sake of enjoyment! It’s tricks are most often compared to that of a kitsune.
+
 
 <h2 id="6">Chapter 6</h2>
 
@@ -1210,7 +1218,7 @@ description: n8 story section take a chance
 {% bubble Kohaku %}
   Niki-han’s face, huh… Ummm, like this?
   
-  I didn’t really think we’d be trying to copy a real filming set with a white cloth just because we didn’t have a reflector[^12]. I have no idea if the shot’s gonna look any good.
+  I didn’t really think we’d be trying to copy a real filming set with a white cloth just because we didn’t have a reflector[^11]. I have no idea if the shot’s gonna look any good.
 {% endbubble %}
 
 {% bubble Rinne %}
@@ -1257,7 +1265,7 @@ description: n8 story section take a chance
 {% endbubble %}
 
 {% bubble Rinne %}
-	…Wait. Guys, look over there.
+	...Hold it. Guys, look over there.
 {% endbubble %}
 
 {% bubble Niki %}
@@ -1281,20 +1289,58 @@ description: n8 story section take a chance
 {% endbubble %}
 
 {% bubble HiMERU %}
-So that’s how it is. Until this point we’ve been given typical on site shooting objectives, and the moment we lowered our defenses, they hit us with this–and that’s how they’ve set this up.
+  So that’s how it is. Until this point we’ve been given typical on site shooting objectives, and the moment we lowered our defenses, they hit us with this–and that’s how they’ve set this up.
 {% endbubble %}
 
 {% bubble Rinne %}
-	Yup. Looks like our magnificent iron steed[^13] that took us everywhere was taken from us.
+	Yup. Looks like our magnificent iron steed[^12] that took us everywhere was taken from us.
 
 	I’m guessing this is where “Number Eight” <i>really</i> begins. I get it now…~
 {% endbubble %}
 
+   ### <center>[directory](/2050/05/30/number-eight/) | [previous](/2023/06/01/n8-prologue/) </center>
 
-[^12]: For anyone like me that doesn’t know Anything about photography this is like. A white tarp thing. From what I gathered the flash is directed at the tarp and the white reflector has the light bounce off it.
-[^13]: Metaphor for a locomotive like a car or train, and obviously in this case it's a car.
+***
 
+<h3> Translation Notes</h3>
+  <sup>
+  (1): Short for “Idol Film Festival”! This was the festival that took place during the movie “Road to Show”, and it's been referenced in Spring Evenings Respite too!
 
+  (2): An idiom basically meaning that something doesn’t have to look good for it to actually be good. It’s a bit of an optimistic expression!!
+
+  (3): Homophone! “Eight” and “bee” in japanese are both pronounced “hachi”! This kind of reference has been hat-tipped a few times in enstars, but one of the most memorable to me is the fact that Crazy:B’s TRIP album campaign ended on 08.08.2023 !!
+
+  (4): Niki here is trying to echo HiMERU saying “compliance”/“konpuraiansu” (written in ktkn), but ended up thinking he meant “kelp”/”konbu”. so in the textbox he’s like “konpu…konbu?”
+
+  (5): 生殺与奪の権を握る - literally meaning “holding power over life and death” but figuratively means “to have full power over a person”. Someone might use this expression to say something like “don’t let others have the power to control your life”, that kinda thing. In context, I think Niki here intends to say that he wouldn’t have accepted if Rinne was gonna control what he did.
+
+  (6): A bit relevant to the idea Rinne is trying to express, Americans like to say that “you can drive 3 hours in Europe and be in five different countries, but if you drive in America for 3 hours you will still be in America (the same state no less LOL)”.
+
+  (7): This is like “storm clouds are gathering” or like there’s a looming sense of danger or worry.
+
+  (8): This is playing on what HiMERU said in the previous chapter. HiMERU said there’s clouds of uncertainty and now Niki’s saying it’s all clear! Also get it, they’re on the west coast, and the coast is clear…get it…haha <///3
+
+  (9): Niki’s 10/10 English attempt at saying “Could I get another chilidog for takeout? Another order please~!” then gives the owner a thumbs up.
+
+  (10): A tanuki is a “Raccoon-dog”, the Japanese mythology version based on it is a creature that shape shifts and plays harmless, mischievous little tricks on humans just for the sake of enjoyment! It’s tricks are most often compared to that of a kitsune.
+
+  (11): For anyone like me that doesn’t know Anything about photography this is like. A white tarp thing. From what I gathered the flash is directed at the tarp and the white reflector has the light bounce off it.
+
+  (12): Metaphor for a locomotive like a car or train, and obviously in this case it's a car.
+  </sup>
+
+  [^1]: Short for “Idol Film Festival”! This was the festival that took place during the movie “Road to Show”, and it's been referenced in Spring Evenings Respite too!
+  [^2]: An idiom basically meaning that something doesn’t have to look good for it to actually be good. It’s a bit of an optimistic expression :D !!
+  [^3]: Homophone! “Eight” and “bee” in japanese are both pronounced “hachi”! This kind of reference has been hat-tipped a few times in enstars, but one of the most memorable to me is the fact that Crazy:B’s TRIP album campaign ended on 08.08.2023 !!
+  [^4]: Niki here is trying to echo HiMERU saying “compliance”/“konpuraiansu” (written in ktkn), but ended up thinking he meant “kelp”/”konbu”. so in the textbox he’s like “konpu…konbu?”
+  [^5]: 生殺与奪の権を握る - literally meaning “holding power over life and death” but figuratively means “to have full power over a person”. Someone might use this expression to say something like “don’t let others have the power to control your life”, that kinda thing. In context, I think Niki here intends to say that he wouldn’t have accepted if Rinne was gonna control what he did.
+  [^6]: A bit relevant to the idea Rinne is trying to express, Americans like to say that “you can drive 3 hours in Europe and be in five different countries, but if you drive in America for 3 hours you will still be in America (the same state no less LOL)”.
+  [^7]: This is like “storm clouds are gathering” or like there’s a looming sense of danger or worry.
+  [^8]: This is playing on what HiMERU said in the previous chapter. HiMERU said there’s clouds of uncertainty and now Niki’s saying it’s all clear! Also get it, they’re on the west coast, and the coast is clear…get it…haha <///3
+  [^9]: Niki’s 10/10 English attempt at saying “Could I get another chilidog for takeout? Another order please~!” then gives the owner a thumbs up.
+  [^10]: A tanuki is a “Raccoon-dog”, the Japanese mythology version based on it is a creature that shape shifts and plays harmless, mischievous little tricks on humans just for the sake of enjoyment! It’s tricks are most often compared to that of a kitsune.
+  [^11]: For anyone like me that doesn’t know Anything about photography this is like. A white tarp thing. From what I gathered the flash is directed at the tarp and the white reflector has the light bounce off it.
+  [^12]: Metaphor for a locomotive like a car or train, and obviously in this case it's a car.
 
   <!-- CONTENT GOES HERE -->
 
