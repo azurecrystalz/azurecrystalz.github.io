@@ -329,7 +329,7 @@ description: rinne ts2 5* translation
   {% endbubble %}
 
   {% bubble Kanata %}
-    Is that so~ Well the key to “Yakizakana"<sup>**(1)**</sup> *is* a “strong heat”. If you do that, then the fish’s outside will be browned and the inside will be soft.
+    Is that so~ Well the key to “Yakizakana"[^1] *is* a “strong heat”. If you do that, then the fish’s outside will be browned and the inside will be soft.
   {% endbubble %}
 
   {% bubble Chiaki %}
@@ -411,7 +411,7 @@ description: rinne ts2 5* translation
   {% bubble Rinne %}
     Yup. There’s not much to do but laze around.
     
-    Just the other day I was going around thinking Kanacchi was the “God of Gambling” and now I’m completely broke<sup>**(2)**</sup>.
+    Just the other day I was going around thinking Kanacchi was the “God of Gambling” and now I’m completely broke[^2].
   {% endbubble %}
 
   {% bubble Hiyori %}
@@ -425,7 +425,7 @@ description: rinne ts2 5* translation
   {% endbubble %}
 
   {% bubble Hiyori %}
-    Ugh. Well when you put it like *that*, it’s painfully true<sup>**(3)**</sup>...
+    Ugh. Well when you put it like *that*, it’s painfully true[^3]...
   {% endbubble %}
 
   ![poor](https://res.cloudinary.com/djq41tb84/image/upload/v1699641407/enstars/dialogue/shrouded%20moons%20banquet/ifjho8zyn2x7t0cyc94t.png)
@@ -497,7 +497,7 @@ description: rinne ts2 5* translation
   {% endbubble %}
 
   {% bubble Rinne %}
-    Hm? Blomary-chan<sup>**(4)**</sup>?
+    Hm? Blomary-chan[^4]?
   {% endbubble %}
 
   {% bubble Hiyori %}
@@ -560,15 +560,17 @@ description: rinne ts2 5* translation
     I’ll just sleep again until Blomary-chan wakes up.
   {% endbubble %}
 
+  [^1]: A specialty grilled fish dish usually served with a bowl of rice and miso soup!
+  [^2]: The next few dialogue lines about Kanata being the god of gambling is a reference to “Please, God” (Rinne’s ES2 4* story!) which you can find a translation by me here on my site!
+  [^3]: Hiyori uses a conversational idiom, 耳が痛い/”mimi ga itai”, here! It literally means “hurts my ears”, but the figurative meaning is used to describe something that’s true but painful. Kinda like “hits close to home” or “a pill that's hard to swallow”.
+  [^4]: Rinne’s nickname for Bloody Mary! Blomary, a combination of both names.
+
   <h4>Translation Notes</h4>
 
-  (1): A specialty grilled fish dish usually served with a bowl of rice and miso soup!
-
-  (2): The next few dialogue lines about Kanata being the god of gambling is a reference to “Please, God” (Rinne’s ES2 4* story!) which you can find a translation by me for [here](https://azurecrystalz.github.io/2050/05/16/please-god/)!
-
-  (3): Hiyori uses a conversational idiom, 耳が痛い/”mimi ga itai”, here! It literally means “hurts my ears”, but the figurative meaning is used to describe something that’s true but painful. Kinda like “hits close to home” or “a pill that's hard to swallow”.
-
-  (4): Rinne’s nickname for Bloody Mary! Blomary, a combination of both names.
+  <sup>(1): A specialty grilled fish dish usually served with a bowl of rice and miso soup!</sup>
+  <sup>(2): The next few dialogue lines about Kanata being the god of gambling is a reference to “Please, God” (Rinne’s ES2 4* story!) which you can find a translation by me for [here](https://azurecrystalz.github.io/2050/05/16/please-god/)!</sup>
+  <sup>(3): Hiyori uses a conversational idiom, 耳が痛い/”mimi ga itai”, here! It literally means “hurts my ears”, but the figurative meaning is used to describe something that’s true but painful. Kinda like “hits close to home” or “a pill that's hard to swallow”.</sup>
+  <sup>(4): Rinne’s nickname for Bloody Mary! Blomary, a combination of both names.</sup>
 
   <!-- 
   SPEECH BUBBLE FORMAT: 

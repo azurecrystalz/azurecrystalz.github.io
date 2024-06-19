@@ -128,6 +128,10 @@ description: himeru fs1 translation
       left: 65px;
       top: 37px;
     }
+    .hint--error:after {
+      background-color: #374A5D;
+      text-shadow: 0 -1px 0px #23384C;
+    }
     .msr-narration {
       display: flex;
       align-items: center;
@@ -167,7 +171,7 @@ description: himeru fs1 translation
   {% endbubble %}
 
   {% bubble Rinne %}
-    Thaaaat's right. It's a game where you gotta pick out the lying wereworlf among your friends by talking to them.<sup>**(1)**</sup>
+    Thaaaat's right. It's a game where you gotta pick out the lying wereworlf among your friends by talking to them.[^1]
 
     A bunch of guys over at Seisou Hall's common room were playing it a while back and I went ahead and joined, it was pretty fun.
 
@@ -341,10 +345,6 @@ description: himeru fs1 translation
   {% endbubble %}
   <!-- Translation Notes -->
 
-<h4>Translation Notes</h4>
-
-  (1): Other games with this same premise that may make this more familiar include Mafia, Town of Salem, and (most commonly known) Among Us.
-
   <h2>Chapter 2</h2>
   
   ***
@@ -513,7 +513,10 @@ I’m excited to see how it’ll turn out!
 Yes, HiMERU is looking forward to it as well.
 {% endbubble %}
 
+[^1]:Other games with this same premise that may make this more familiar include Mafia, Town of Salem, and (most commonly known) Among Us.
 
+<h4>Translation Notes</h4>
+ <sup>(1): Other games with this same premise that may make this more familiar include Mafia, Town of Salem, and (most commonly known) Among Us.</sup>
 
   <!-- CONTENT GOES HERE -->
 

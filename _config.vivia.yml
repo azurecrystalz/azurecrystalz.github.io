@@ -1,9 +1,7 @@
 # Header
 menu:
   Home: /#
-  About: /about
   Rules: /tos
-  Masterlist: /masterlist
 rss: /atom.xml
 
 home:

@@ -142,6 +142,10 @@ description: himeru fs2 translation
     .msr-narration p {
       margin: 0;
     }
+    .hint--error:after {
+      background-color: #374A5D;
+      text-shadow: 0 -1px 0px #23384C;
+    }
     @media (max-width: 650px) {
     [character] p {
         margin:0 0 .4em 65px;
@@ -296,7 +300,7 @@ With the way you were mumbling all of a sudden, Anzu-han, I was starting to thin
 ![hhhhnmieds](https://res.cloudinary.com/djq41tb84/image/upload/v1710033251/enstars/dialogue/himeru%20fs2/ch1/ibnxblkexiyo9oxc7mrh.png)
 
 {% bubble HiMERU %}
-Fufu. Well, whatever the case may have been, HiMERU thinks it would be a great idea to use off-shots<sup>(1)</sup> of his school life.
+Fufu. Well, whatever the case may have been, HiMERU thinks it would be a great idea to use off-shots[^1] of his school life.
 
 There may not be many more opportunities to promote HiMERU in that light in the future given his activities with Crazy:B.
 {% endbubble %}
@@ -322,10 +326,6 @@ HiMERU isn’t quite sure what exactly it is you’re imagining, but it’ll pro
 
 HiMERU will always be HiMERU. Regardless of if he’s a student or not, that’s a fact that will never change.
 {% endbubble %}
-
-<h4>Translation Notes</h4>
-
-**(1):** What enstars uses in FS2 stories to refer to as candid (in the moment) pictures of idols in their free time.
 
 <h2>Chapter 2</h2>
 
@@ -354,7 +354,7 @@ Oh, Vice President. Thank you for your help in the academy earlier.
 {% bubble Ibara %}
 Oh, no need to thank me. I simply assisted after seeing there were a few procedures that were troubling you.
 
-Are you having lunch now? It seems like you’re having a can of coffee<sup>(2)</sup> and a few snacks, will that be enough?
+Are you having lunch now? It seems like you’re having a can of coffee[^2] and a few snacks, will that be enough?
 {% endbubble %}
 
 {% bubble HiMERU %}
@@ -531,9 +531,9 @@ Good grief. HiMERU still has work after this, so he didn’t want to start the p
 Well, it’s fine. HiMERU will always be perfect no matter the time or place~
 {% endbubble %}
 
+[^1]: What enstars uses in FS2 stories to refer to as candid (in the moment) pictures of idols in their free time.
+[^2]: Like prepared iced coffee you could get in a vending machine!
+
 <h4>Translation Notes</h4>
-
-**(2):** Like prepared iced coffee you could get in a vending machine!
-
 
 </div>

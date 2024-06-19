@@ -134,6 +134,10 @@ description: esu intro story
     .msr-narration p {
       margin: 0;
     }
+    .hint--error:after {
+      background-color: #374A5D;
+      text-shadow: 0 -1px 0px #23384C;
+    }
     @media (max-width: 650px) {
     [character] p {
         margin:0 0 .4em 65px;
@@ -188,7 +192,7 @@ Ah! Wait, please! Don’t back up like that?! Don’t look at me like I’m weir
 
 I drank something that tasted like chemicals so my brain was all in a twist!
 
-Quit calling for security, please! I’ll really be in trouble then! Would a dogeza<sup>**(1)**</sup> work? Would it make you feel better if I begged you on my knees?! Craaaaaap!
+Quit calling for security, please! I’ll really be in trouble then! Would a dogeza[^1] work? Would it make you feel better if I begged you on my knees?! Craaaaaap!
 
 But wait! I’m destined to be the man who will rule all mankind…! I never bow down to anyone–
 {% endbubble %}
@@ -200,7 +204,7 @@ Argh~! Fine, fine! I’m sorry! I begged on my knees! Happy now?!
 
 Jeez! You’re so spoiled! Like a spoiled little princess!
 
-Oh right, wasn’t there a show that went like that? Around five years ago<sup>**(2)**</sup>?
+Oh right, wasn’t there a show that went like that? Around five years ago[^2]?
 
 My creepy freeloader kept yapping with complaints like “oh the princess isn’t well portrayed” while watching the show all the time!
 
@@ -304,10 +308,13 @@ Hey, this drink is actually kinda tasty now that I’ve tried it again.
 
 <h4>Translation Footnotes</h4>
 
-**(1):** A japanese body language gesture one would use when trying to show reverence to someone above them or offer a deep apology for something; In which a person gets on their knees and presses their head to the ground.
-**(2):** Might be reaching but I <i>think</i> this could be referencing either “Rosicrucian” or “Cinderella Show” (Basic era Tomoya centric stories), I’m only hesitant since I can’t particularly remember if those were theater performances or televised programs (or both). If anyone has any insight do feel free to let me know.
+[^1]: A japanese body language gesture one would use when trying to show reverence to someone above them or offer a deep apology for something; In which a person gets on their knees and presses their head to the ground.
+[^2]: Might be reaching but I think this could be referencing either “Rosicrucian” or “Cinderella Show” (Basic era Tomoya centric stories), I’m only hesitant since I can’t particularly remember if those were theater performances or televised programs (or both). If anyone has any insight do feel free to let me know.
 
-**TL Notes:** Couple of things! Firstly, since the story is voiced, I tried to match his attitude/tone and express it as much as possible through writing so that you can get a feel for his character. Additionally, after discussing it with Mika, I feel like it’s worth mentioning that Esu's speech is Interesting. Namely, the way he phrases things is strange and, in my point of view, a bit convoluted in a really fun way. It could tie back to how he talks about how he’s bad at communicating in his second idol story.
+<sup><b>(1):</b> A japanese body language gesture one would use when trying to show reverence to someone above them or offer a deep apology for something; In which a person gets on their knees and presses their head to the ground.</sup>
+<sup><b>(2):</b> Might be reaching but I <i>think</i> this could be referencing either “Rosicrucian” or “Cinderella Show” (Basic era Tomoya centric stories), I’m only hesitant since I can’t particularly remember if those were theater performances or televised programs (or both). If anyone has any insight do feel free to let me know.</sup>
+
+<sup><b>TL Notes:</b> Couple of things! Firstly, since the story is voiced, I tried to match his attitude/tone and express it as much as possible through writing so that you can get a feel for his character. Additionally, after discussing it with Mika, I feel like it’s worth mentioning that Esu's speech is Interesting. Namely, the way he phrases things is strange and, in my point of view, a bit convoluted in a really fun way. It could tie back to how he talks about how he’s bad at communicating in his second idol story.</sup>
 
 
 
