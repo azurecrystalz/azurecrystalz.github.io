@@ -1,7 +1,7 @@
 ---
 title: Redirect
 date:
-  '[object Object]': null
+ 2050-07-20
 categories:
 tags:
 description:
