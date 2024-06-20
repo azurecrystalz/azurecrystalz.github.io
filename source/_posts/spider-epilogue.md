@@ -408,7 +408,7 @@ description: spider chapter translations
 
   (4): Recall back to the end of Honeybee! Rinne Cleaning Punishment Counter: 2
 
-  ### <center>[previous](/2023/05/27/if-youre-caught) | [masterlist](/masterlist/)</center>
+  ### <center>[previous](/2023/05/27/if-youre-caught) | [masterlist](https://azurecrystalz.github.io/enstars/)</center>
 
   <!-- CONTENT GOES HERE -->
 
