@@ -6,7 +6,7 @@
   <link href="http://azurecrystalz.github.io/atom.xml" rel="self"/>
   
   <link href="http://azurecrystalz.github.io/"/>
-  <updated>2024-05-31T16:20:52.253Z</updated>
+  <updated>2024-06-20T20:31:10.694Z</updated>
   <id>http://azurecrystalz.github.io/</id>
   
   <author>
@@ -17,11 +17,284 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Redirect</title>
+    <link href="http://azurecrystalz.github.io/2070/07/20/post/"/>
+    <id>http://azurecrystalz.github.io/2070/07/20/post/</id>
+    <published>2070-07-20T00:00:00.000Z</published>
+    <updated>2024-06-20T20:31:10.694Z</updated>
+    
+    
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;permalink-x2F&quot;&gt;&lt;a href=&quot;#permalink-x2F&quot; class=&quot;headerlink&quot; title=&quot;permalink: &amp;#x2F;&quot;&gt;&lt;/a&gt;permalink: &amp;#x2F;&lt;/h2&gt;&lt;script&gt;window.location.replace(&quot;https://azurecrystalz.github.io/home&quot;)&lt;/script&gt;
+
+&lt;div class=&quot;preview-wrapper reverse&quot; style=&quot;--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+      &lt;div class=&quot;preview-background&quot; style=&quot;background-image: url(&#39;[BLOOMED_CARD_URL]&#39;)&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;preview-box&quot; style=&quot;background: calc(var(--card-background) + 2%)&quot;&gt;
+          &lt;div class=&quot;title-area&quot;&gt;
+              &lt;div class=&quot;title-area__title&quot;&gt;&lt;!-- STORY ENG TITLE --&gt;&lt;/div&gt;
+              &lt;div class=&quot;title-area__subtitle&quot;&gt;&lt;!-- STORY JP TITLE --&gt; &lt;/div&gt;
+              &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;[STORY_LINK_GOES_HERE]&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-area&quot;&gt;
+              &lt;div class=&quot;synopsis&quot; style=&quot;width: 90%;&quot;&gt;
+                &lt;!-- SYNOPSIS GOES HERE --&gt;
+              &lt;/div&gt;
+              &lt;div class=&quot;info&quot;&gt;
+                  &lt;div class=&quot;info-item season&quot;&gt;
+                      &lt;div class=&quot;label&quot;&gt;
+                          Season
+                      &lt;/div&gt;
+                      &lt;div class=&quot;value&quot;&gt;
+                        &lt;!-- STORY SEASON --&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;div class=&quot;info-item chapters&quot;&gt;
+                      &lt;div class=&quot;label&quot;&gt;
+                          Chapters
+                      &lt;/div&gt;
+                      &lt;div class=&quot;value&quot;&gt;
+                          &lt;!-- NUMBER OF CHAPTERS --&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;div class=&quot;info-item characters&quot;&gt;
+                      &lt;div class=&quot;label&quot;&gt;
+                          Characters
+                      &lt;/div&gt;
+                      &lt;div class=&quot;value&quot;&gt;
+                        &lt;!-- 
+                          &lt;a href=&quot;/tags/[CHARACTER_LAST_NAME]-[CHARACTER_FIRST_NAME]/&quot; character=&quot;[CHARACTER_FIRST_AME]&quot; title=&quot;[CHARACTER_FIRST_NAME]&quot;&gt;&lt;/a&gt;
+                         --&gt;
+                         &lt;!-- COPY AND PASTE THE ABOVE FOR EACH CHARACTER THAT APPEARS IN THE STORY --&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;div class=&quot;info-item tl&quot;&gt;
+                      &lt;div class=&quot;label&quot;&gt;
+                          Translator
+                      &lt;/div&gt;
+                      &lt;div class=&quot;value&quot;&gt;
+                          &lt;a href=&quot;https://twitter.com/azurecrystalz&quot;&gt;aurora&lt;/a&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;div class=&quot;info-item pr&quot;&gt;
+                      &lt;div class=&quot;label&quot;&gt;
+                          Proofreaders
+                      &lt;/div&gt;
+                      &lt;div class=&quot;value&quot;&gt;
+                        &lt;a href=&quot;https://tumblr.com/starswallowingsea&quot;&gt;shay&lt;/a&gt; or &lt;a href=&quot;https://tumblr.com/pitxroxas&quot;&gt;pit&lt;/a&gt;
+                          &lt;!-- PROOFREADER LIST (IF ANY) --&gt;
+                      &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/div&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Banquet Under a Shrouded Moon</title>
+    <link href="http://azurecrystalz.github.io/2050/11/03/moon-banquet/"/>
+    <id>http://azurecrystalz.github.io/2050/11/03/moon-banquet/</id>
+    <published>2050-11-03T17:25:00.000Z</published>
+    <updated>2024-06-20T20:31:10.694Z</updated>
+    
+    
+    <summary type="html">rinne ts2 5* translation</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
+    
+    <category term="Harukawa Sora" scheme="http://azurecrystalz.github.io/tags/Harukawa-Sora/"/>
+    
+    <category term="Shinkai Kanata" scheme="http://azurecrystalz.github.io/tags/Shinkai-Kanata/"/>
+    
+    <category term="Aoi Yuuta" scheme="http://azurecrystalz.github.io/tags/Aoi-Yuuta/"/>
+    
+    <category term="Tomoe Hiyori" scheme="http://azurecrystalz.github.io/tags/Tomoe-Hiyori/"/>
+    
+    <category term="Morisawa Chiaki" scheme="http://azurecrystalz.github.io/tags/Morisawa-Chiaki/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Bee&#39;s Knees</title>
+    <link href="http://azurecrystalz.github.io/2050/07/05/bees-knees/"/>
+    <id>http://azurecrystalz.github.io/2050/07/05/bees-knees/</id>
+    <published>2050-07-05T20:02:00.000Z</published>
+    <updated>2024-06-20T20:31:10.694Z</updated>
+    
+    
+    <summary type="html">rinne fs1 translation</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
+    
+    <category term="Shiina Niki" scheme="http://azurecrystalz.github.io/tags/Shiina-Niki/"/>
+    
+    <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
+    
+    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sagiri Esu Idol Story 1</title>
+    <link href="http://azurecrystalz.github.io/2050/07/05/esu-idolstory-1/"/>
+    <id>http://azurecrystalz.github.io/2050/07/05/esu-idolstory-1/</id>
+    <published>2050-07-05T20:02:00.000Z</published>
+    <updated>2024-06-20T20:31:10.694Z</updated>
+    
+    
+    <summary type="html">esu intro story</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="4piece" scheme="http://azurecrystalz.github.io/categories/Enstars/4piece/"/>
+    
+    
+    <category term="Sagiri Esu" scheme="http://azurecrystalz.github.io/tags/Sagiri-Esu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Composed Moment</title>
+    <link href="http://azurecrystalz.github.io/2050/07/05/composed-moment/"/>
+    <id>http://azurecrystalz.github.io/2050/07/05/composed-moment/</id>
+    <published>2050-07-05T20:02:00.000Z</published>
+    <updated>2024-06-20T20:31:10.694Z</updated>
+    
+    
+    <summary type="html">himeru fs2 translation</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
+    
+    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
+    
+    <category term="Saegusa Ibara" scheme="http://azurecrystalz.github.io/tags/Saegusa-Ibara/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Past, Present, And...</title>
+    <link href="http://azurecrystalz.github.io/2050/07/05/past-present-and/"/>
+    <id>http://azurecrystalz.github.io/2050/07/05/past-present-and/</id>
+    <published>2050-07-05T20:02:00.000Z</published>
+    <updated>2024-06-20T20:31:10.694Z</updated>
+    
+    
+    <summary type="html">himeru fs1 translation</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
+    
+    <category term="Shiina Niki" scheme="http://azurecrystalz.github.io/tags/Shiina-Niki/"/>
+    
+    <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
+    
+    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Recipe for Idols</title>
+    <link href="http://azurecrystalz.github.io/2050/07/05/recipe-for-idols/"/>
+    <id>http://azurecrystalz.github.io/2050/07/05/recipe-for-idols/</id>
+    <published>2050-07-05T20:02:00.000Z</published>
+    <updated>2024-06-20T20:31:10.694Z</updated>
+    
+    
+    <summary type="html">niki fs1 translation</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
+    
+    <category term="Shiina Niki" scheme="http://azurecrystalz.github.io/tags/Shiina-Niki/"/>
+    
+    <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
+    
+    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
+    
+    <category term="Tenma Mitsuru" scheme="http://azurecrystalz.github.io/tags/Tenma-Mitsuru/"/>
+    
+    <category term="Tsukinaga Leo" scheme="http://azurecrystalz.github.io/tags/Tsukinaga-Leo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Romantic Date</title>
+    <link href="http://azurecrystalz.github.io/2050/07/03/rom-date/"/>
+    <id>http://azurecrystalz.github.io/2050/07/03/rom-date/</id>
+    <published>2050-07-03T13:33:00.000Z</published>
+    <updated>2024-06-20T20:31:10.698Z</updated>
+    
+    
+    <summary type="html">romantic date tls</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
+    
+    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
+    
+    <category term="Narukami Arashi" scheme="http://azurecrystalz.github.io/tags/Narukami-Arashi/"/>
+    
+    <category term="Kazehaya Tatsumi" scheme="http://azurecrystalz.github.io/tags/Kazehaya-Tatsumi/"/>
+    
+    <category term="Ayase Mayoi" scheme="http://azurecrystalz.github.io/tags/Ayase-Mayoi/"/>
+    
+    <category term="Nagumo Tetora" scheme="http://azurecrystalz.github.io/tags/Nagumo-Tetora/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Number Eight</title>
     <link href="http://azurecrystalz.github.io/2050/05/30/number-eight/"/>
     <id>http://azurecrystalz.github.io/2050/05/30/number-eight/</id>
-    <published>2050-05-30T21:32:00.000Z</published>
-    <updated>2024-05-31T16:20:52.253Z</updated>
+    <published>2050-05-30T17:32:00.000Z</published>
+    <updated>2024-06-20T20:31:10.694Z</updated>
     
     
     <summary type="html">n8 chapter directory</summary>
@@ -37,9 +310,328 @@
     
     <category term="Shiina Niki" scheme="http://azurecrystalz.github.io/tags/Shiina-Niki/"/>
     
+    <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
+    
     <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
     
+  </entry>
+  
+  <entry>
+    <title>Spider</title>
+    <link href="http://azurecrystalz.github.io/2050/05/27/spider-direc/"/>
+    <id>http://azurecrystalz.github.io/2050/05/27/spider-direc/</id>
+    <published>2050-05-27T11:26:00.000Z</published>
+    <updated>2024-06-20T20:31:10.698Z</updated>
+    
+    
+    <summary type="html">spider translation directory</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
+    
+    <category term="Shiina Niki" scheme="http://azurecrystalz.github.io/tags/Shiina-Niki/"/>
+    
     <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
+    
+    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
+    
+    <category term="Amagi Hiiro" scheme="http://azurecrystalz.github.io/tags/Amagi-Hiiro/"/>
+    
+    <category term="Aoi Hinata" scheme="http://azurecrystalz.github.io/tags/Aoi-Hinata/"/>
+    
+    <category term="Sazanami Jun" scheme="http://azurecrystalz.github.io/tags/Sazanami-Jun/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Story That&#39;s Mine Alone</title>
+    <link href="http://azurecrystalz.github.io/2050/05/25/a-story-thats-mine-alone/"/>
+    <id>http://azurecrystalz.github.io/2050/05/25/a-story-thats-mine-alone/</id>
+    <published>2050-05-25T16:23:07.000Z</published>
+    <updated>2024-06-20T20:31:10.694Z</updated>
+    
+    
+    <summary type="html">mika fs2 translation</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Other Idols" scheme="http://azurecrystalz.github.io/categories/Enstars/Other-Idols/"/>
+    
+    
+    <category term="Kagehira Mika" scheme="http://azurecrystalz.github.io/tags/Kagehira-Mika/"/>
+    
+    <category term="Itsuki Shu" scheme="http://azurecrystalz.github.io/tags/Itsuki-Shu/"/>
+    
+    <category term="Narukami Arashi" scheme="http://azurecrystalz.github.io/tags/Narukami-Arashi/"/>
+    
+    <category term="Isara Mao" scheme="http://azurecrystalz.github.io/tags/Isara-Mao/"/>
+    
+    <category term="Fushimi Yuzuru" scheme="http://azurecrystalz.github.io/tags/Fushimi-Yuzuru/"/>
+    
+    <category term="Sakuma Ritsu" scheme="http://azurecrystalz.github.io/tags/Sakuma-Ritsu/"/>
+    
+    <category term="Oogami Koga" scheme="http://azurecrystalz.github.io/tags/Oogami-Koga/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sakura, Sakura</title>
+    <link href="http://azurecrystalz.github.io/2050/05/24/sakura-sakura/"/>
+    <id>http://azurecrystalz.github.io/2050/05/24/sakura-sakura/</id>
+    <published>2050-05-24T21:59:01.000Z</published>
+    <updated>2024-06-20T20:31:10.698Z</updated>
+    
+    
+    <summary type="html">kohaku fs1 translation</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
+    
+    <category term="Shiina Niki" scheme="http://azurecrystalz.github.io/tags/Shiina-Niki/"/>
+    
+    <category term="Suou Tsukasa" scheme="http://azurecrystalz.github.io/tags/Suou-Tsukasa/"/>
+    
+    <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
+    
+    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
+    
+    <category term="Ran Nagisa" scheme="http://azurecrystalz.github.io/tags/Ran-Nagisa/"/>
+    
+    <category term="Saegusa Ibara" scheme="http://azurecrystalz.github.io/tags/Saegusa-Ibara/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bon Appetit!</title>
+    <link href="http://azurecrystalz.github.io/2050/05/22/bon-appetit/"/>
+    <id>http://azurecrystalz.github.io/2050/05/22/bon-appetit/</id>
+    <published>2050-05-22T21:38:35.000Z</published>
+    <updated>2024-06-20T20:31:10.694Z</updated>
+    
+    
+    <summary type="html">niki fs2 translation</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Shiina Niki" scheme="http://azurecrystalz.github.io/tags/Shiina-Niki/"/>
+    
+    <category term="Amagi Hiiro" scheme="http://azurecrystalz.github.io/tags/Amagi-Hiiro/"/>
+    
+    <category term="Aoi Hinata" scheme="http://azurecrystalz.github.io/tags/Aoi-Hinata/"/>
+    
+    <category term="Harukawa Sora" scheme="http://azurecrystalz.github.io/tags/Harukawa-Sora/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Curious Step Forward</title>
+    <link href="http://azurecrystalz.github.io/2050/05/21/a-curious-step-forward/"/>
+    <id>http://azurecrystalz.github.io/2050/05/21/a-curious-step-forward/</id>
+    <published>2050-05-21T22:20:58.000Z</published>
+    <updated>2024-06-20T20:31:10.694Z</updated>
+    
+    
+    <summary type="html">kohaku es2 4* story tl</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
+    
+    <category term="Ran Nagisa" scheme="http://azurecrystalz.github.io/tags/Ran-Nagisa/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Please, God ☆</title>
+    <link href="http://azurecrystalz.github.io/2050/05/16/please-god/"/>
+    <id>http://azurecrystalz.github.io/2050/05/16/please-god/</id>
+    <published>2050-05-16T11:45:34.000Z</published>
+    <updated>2024-06-20T20:31:10.694Z</updated>
+    
+    
+    <summary type="html">rinne es2 4* translation</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
+    
+    <category term="Shiina Niki" scheme="http://azurecrystalz.github.io/tags/Shiina-Niki/"/>
+    
+    <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
+    
+    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
+    
+    <category term="Shinkai Kanata" scheme="http://azurecrystalz.github.io/tags/Shinkai-Kanata/"/>
+    
+    <category term="Tomoe Hiyori" scheme="http://azurecrystalz.github.io/tags/Tomoe-Hiyori/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sweets Road</title>
+    <link href="http://azurecrystalz.github.io/2050/05/15/sweetsroad/"/>
+    <id>http://azurecrystalz.github.io/2050/05/15/sweetsroad/</id>
+    <published>2050-05-15T15:19:34.000Z</published>
+    <updated>2024-06-20T20:31:10.698Z</updated>
+    
+    
+    <summary type="html">niki es2 4* translation</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
+    
+    <category term="Shiina Niki" scheme="http://azurecrystalz.github.io/tags/Shiina-Niki/"/>
+    
+    <category term="Suou Tsukasa" scheme="http://azurecrystalz.github.io/tags/Suou-Tsukasa/"/>
+    
+    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
+    
+    <category term="Ayase Mayoi" scheme="http://azurecrystalz.github.io/tags/Ayase-Mayoi/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The &quot;Runrun&quot; Calamity</title>
+    <link href="http://azurecrystalz.github.io/2050/05/15/runrun-calamity/"/>
+    <id>http://azurecrystalz.github.io/2050/05/15/runrun-calamity/</id>
+    <published>2050-05-15T12:42:04.000Z</published>
+    <updated>2024-06-20T20:31:10.698Z</updated>
+    
+    
+    <summary type="html">himeru 4* translation</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
+    
+    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
+    
+    <category term="Tenma Mitsuru" scheme="http://azurecrystalz.github.io/tags/Tenma-Mitsuru/"/>
+    
+    <category term="Hibiki Wataru" scheme="http://azurecrystalz.github.io/tags/Hibiki-Wataru/"/>
+    
+    <category term="Hakaze Kaoru" scheme="http://azurecrystalz.github.io/tags/Hakaze-Kaoru/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Take a Chance</title>
+    <link href="http://azurecrystalz.github.io/2023/09/30/take-a-chance/"/>
+    <id>http://azurecrystalz.github.io/2023/09/30/take-a-chance/</id>
+    <published>2023-09-30T13:59:00.000Z</published>
+    <updated>2024-06-20T20:31:10.698Z</updated>
+    
+    
+    <summary type="html">n8 story section take a chance</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
+    
+    <category term="Shiina Niki" scheme="http://azurecrystalz.github.io/tags/Shiina-Niki/"/>
+    
+    <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
+    
+    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spider / Epilogue</title>
+    <link href="http://azurecrystalz.github.io/2023/06/01/spider-epilogue/"/>
+    <id>http://azurecrystalz.github.io/2023/06/01/spider-epilogue/</id>
+    <published>2023-06-01T15:56:00.000Z</published>
+    <updated>2024-06-20T20:31:10.698Z</updated>
+    
+    
+    <summary type="html">spider chapter translations</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
+    
+    <category term="Shiina Niki" scheme="http://azurecrystalz.github.io/tags/Shiina-Niki/"/>
+    
+    <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
+    
+    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spider / IT/If You&#39;re Caught, It&#39;s Over</title>
+    <link href="http://azurecrystalz.github.io/2023/06/01/if-youre-caught/"/>
+    <id>http://azurecrystalz.github.io/2023/06/01/if-youre-caught/</id>
+    <published>2023-06-01T15:52:00.000Z</published>
+    <updated>2024-06-20T20:31:10.694Z</updated>
+    
+    
+    <summary type="html">spider story chapters</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
+    
+    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
+    
+    
+    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
+    
+    <category term="Shiina Niki" scheme="http://azurecrystalz.github.io/tags/Shiina-Niki/"/>
+    
+    <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
+    
+    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
     
   </entry>
   
