@@ -197,12 +197,12 @@ description: n8 chapter directory
   }
 </style>
 
-<div class="story-wrapper mobile-reverse" style="--storyColor: #374a5d;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
+<div class="story-wrapper mobile-reverse" style="--storyColor: #5A3F47;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
   <div class="grid-wrapper">
       <div class="story-background"
       style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709338356/ASSETS%20ALWAYS%20USE%20THIS/RINNE/FULL%20BLOOMED%20CGS/zcostrims96adq3epna6.png')">
     </div>
-    <div class="story-box" style="background: #374a5d">
+    <div class="story-box" style="background: #5A3F47">
       <div class="story-cover">
         <div><img src="https://res.cloudinary.com/djq41tb84/image/upload/v1709338702/ASSETS%20ALWAYS%20USE%20THIS/RINNE/FRAMELESS%20UNBLOOMEDS/vmdzhozobb02h3gnppbn.png">
         </div>

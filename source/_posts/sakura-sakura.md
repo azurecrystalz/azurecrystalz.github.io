@@ -182,7 +182,7 @@ description: kohaku fs1 translation
 
   <th>*(HiMERU-han's scrolling through his phone, and it looks like he's in a pretty good mood.)*</th>
   
-  <th>*(Is he looking at newbie job posts again? I think it was sometime in the summer when he said that seeing "earnesty" made him smile.<sup>**(1)**</sup> And like I said before, I just don't get it. I really don't understand that kind of hobby...)*</th>
+  <th>*(Is he looking at newbie job posts again? I think it was sometime in the summer when he said that seeing "earnesty" made him smile[^1]. And like I said before, I just don't get it. I really don't understand that kind of hobby...)*</th>
   
   <th>*(Oops. This isn't any time for me to be escaping reality and being on my computer. I've got a problem on my hands.)*</th>
   
@@ -284,13 +284,13 @@ Where...
 
 What's with that weird looking outfit? For some reason, it looks a little like Rinne-han's "personalized outfit". I don't like it much.
 
-If I showed up to a "Crazy:B" live in this, people will just think we're wearing the same outfit.
+If I showed up to a "Crazy:B" performance in this, people will just think we're wearing the same outfit.
 {% endbubble %}
 
 {% bubble Rinne %}
-Heh, "Crazy:B"'s live huh…
+Heh, "Crazy:B"'s performance huh…
 
-You remember when I said "when everyone's personalized outfits are ready, we'll all wear them and put on a live"<sup>**(2)**</sup>? You're pretty sharp, Kohaku-chan~
+You remember when I said "when everyone's personalized outfits are ready, we'll all wear them and put on a show"[^2]? You're pretty sharp, Kohaku-chan~
 {% endbubble %}
 
 {% bubble Kohaku %}
@@ -368,11 +368,11 @@ Vice Prez-han, Nagisa-han...
 {% endbubble %}
 
 {% bubble Ibara %}
-Fumu. It appears as though you've hit a deadlock<sup>**(3)**</sup>.
+Fumu. It appears as though you've hit a deadlock[^3].
 
 Well then, since I'm a member of the same agency, I'd like to offer you a bit of advice from a "producer" standpoint.
 
-If the design is meant to be about the idol themselves, then why not give incorporating "amber"<sup>**(4)**</sup> into the design a try?
+If the design is meant to be about the idol themselves, then why not give incorporating "amber"[^4] into the design a try?
 {% endbubble %}
 
 {% bubble Kohaku %}
@@ -394,12 +394,6 @@ To begin with, the flower was wiped off the earth a long time ago–but since it
 
 ...Amber is a stone of miracles.
 {% endbubble %}
-
-<h4>Translation Notes</h4>
-
-(1): This thought line here is referencing chapter 1 of the story “Honeybee”! HiMERU was looking at newbie jobs and talked about how seeing inexperienced idols quickly try to take every job they see was charming!
-
-(2): This is referring to the end of Rinne’s FS1 story!
 
 # Chapter 2
 
@@ -497,7 +491,7 @@ For the _Design_, I think a Japanese style kimono would fit you best, Koha-kun. 
 {% endbubble %}
 
 {% bubble Kohaku %}
-Don’t you know I’m just a kid of the branch family<sup>**(5)**</sup>? I can’t carry something like sakura.
+Don’t you know I’m just a kid of the branch family[^5]? I can’t carry something like sakura.
 {% endbubble %}
 
 {% bubble Tsukasa %}
@@ -594,7 +588,7 @@ Right. It's a nice looking fit, not any lesser than what we have.
 {% endbubble %}
 
 {% bubble Kohaku %}
-<i>(muttering in sleep)</i><sup>**(6)**</sup> Just what're you on about…
+<i>(muttering in sleep)</i>[^6] Just what're you on about…
 {% endbubble %}
 
 {% bubble Niki %}
@@ -611,15 +605,21 @@ Let's go out flying endlessly and making some noise on stage, Kohaku-chan!
 
 <!-- Translation Notes -->
 
+[^1]: This line here is referencing chapter 1 of the story “Honeybee”! HiMERU was looking at newbie jobs and talked about how seeing inexperienced idols quickly try to take every job they see was charming!
+[^2]: This is referring to the end of Rinne’s FS1 story!
+[^3]: Different from a deadend, a deadlock is when someone is stuck going in circles.
+[^4]: Word play of sorts? “琥珀” is “kohaku”, meaning “amber” (a type of gemstone), which obviously has a connection to Kohaku’s name.
+[^5]: For those unaware of Kohaku and Tsukasa’s relationship as cousins. The Suous are the “main family” and the Oukawas are the “side family” that lived in the same estate.
+[^6]: The onomatopoeia for this written was “むにゃむにゃ”/“muniya muniya” but I left it like this for clarity purposes.
+
 <h4>Translation Notes</h4>
 
-(3): Different from a deadend, a deadlock is when someone is stuck going in circles.
-
-(4): Word play of sorts? “琥珀” is “kohaku”, meaning “amber” (a type of gemstone), which obviously has a connection to Kohaku’s name.
-
-(5): For those unaware of Kohaku and Tsukasa’s relationship as cousins. The Suous are the “main family” and the Oukawas are the “side family” that lived in the same estate.
-
-(6): The onomatopoeia for this written was “むにゃむにゃ”/“muniya muniya” but I left it like this for clarity purposes.
+<sup>(1): This thought line here is referencing chapter 1 of the story “Honeybee”! HiMERU was looking at newbie jobs and talked about how seeing inexperienced idols quickly try to take every job they see was charming!</sup>
+<sup>(2): This is referring to the end of Rinne’s FS1 story!</sup>
+<sup>(3): Different from a deadend, a deadlock is when someone is stuck going in circles.</sup>
+<sup>(4): Word play of sorts? “琥珀” is “kohaku”, meaning “amber” (a type of gemstone), which obviously has a connection to Kohaku’s name.</sup>
+<sup>(5): For those unaware of Kohaku and Tsukasa’s relationship as cousins. The Suous are the “main family” and the Oukawas are the “side family” that lived in the same estate.</sup>
+<sup>(6): The onomatopoeia for this written was “むにゃむにゃ”/“muniya muniya” but I left it like this for clarity purposes.</sup>
 
   <!-- CONTENT GOES HERE -->
 

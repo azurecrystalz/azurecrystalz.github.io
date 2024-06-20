@@ -153,9 +153,9 @@ description: spider chapters
 
   ![crepes](https://64.media.tumblr.com/90392c2d668540802a2e3ac858c7d8b7/bd02ee6f71565a1a-50/s2048x3072/a0283b12c93e6a8daf194343c5eb19220df6c37a.pnj)
 
-  {% bubble Niki %}
-    Oh no, what're you saying, Kohaku-chan? Didn't you know? Crepes are the very definition of "sweets are for a separate stomach"<sup>**(1)**</sup>, they're a groundbreaking sweet treat.
-  {% endbubble %}
+{% bubble Niki %}
+  Oh no, what're you saying, Kohaku-chan? Didn't you know? Crepes are the very definition of "sweets are for a separate stomach"[^1], they're a groundbreaking sweet treat.
+{% endbubble %}
 
   {% bubble Kohaku %}
     Hm?
@@ -205,9 +205,9 @@ description: spider chapters
 
   ![how dare](https://64.media.tumblr.com/86b6cd0c7f9899fe8d2ce9ce551790ad/bd02ee6f71565a1a-a5/s2048x3072/d1370ce8a91bb14b052be67b4ff4de4da6a9c18c.pnj)
 
-  {% bubble Niki %}
-    My crepe! How dare you, how dare you, how dare you, how dare you, how dare you, how *dare you…!*<sup>**(2)**</sup>
-  {% endbubble %}
+{% bubble Niki %}
+  My crepe! How dare you, how dare you, how dare you, how dare you, how dare you, how *dare you…!*[^2]
+{% endbubble %}
 
   {% bubble Rinne %}
     It's *fiiine*, it was just a bite. Don't get so worked up over something so small, Niki.
@@ -305,11 +305,7 @@ description: spider chapters
     —Haaa…HiMERU really regrets being here now.
   {% endbubble %}
 
-<h4>Translation Notes</h4>
 
-(1): I think Niki is talking about when people say they have “dessert stomachs”, which is like basically having extra room for dessert.
-
-(2): In some cases “yokumo” is used as an adverb to describe a feeling of shock but here I think it's used as a demand here which is why I decided to translate it that way
 
   # Chapter 5
   ***
@@ -685,9 +681,11 @@ description: spider chapters
     All my instincts told me to close the browser, but I couldn’t really help but look around.
     
     Then, there it was, a bunch of horrifying stories.
-    
-    There was one about a monster that took the form of a 2-meter tall woman<sup>**(3)**</sup>, and another about a seance that would happen if you played hide-n-seek alone<sup>**(4)**</sup>. Then there was an entire story about a vacant station that nobody knew anything about<sup>**(5)**</sup>.
   {% endbubble %}
+    
+{% bubble Kohaku %}
+  There was one about a monster that took the form of a 2-meter tall woman[^3], and another about a seance that would happen if you played hide-n-seek alone[^4]. Then there was an entire story about a vacant station that nobody knew anything about[^5].
+{% endbubble %}
 
   {% bubble Niki %}
     Ohhh, so that's what you meant by "tragedy". So you saw it and got scared?
@@ -717,13 +715,20 @@ description: spider chapters
 
   <!-- Translation Notes -->
 
+[^1]: I think Niki is talking about when people say they have “dessert stomachs”, which is like basically having extra room for dessert.
+[^2]: In some cases “yokumo” is used as an adverb to describe a feeling of shock but here I think it's used as a demand here which is why I decided to translate it that way
+[^3]: Kohaku here I think is talking about “Hachishakusama”, a Japanese horror myth about an 8ft tall ghost woman dressed in a white hat and dress that abducts children. It's a little confusing because I'm not sure if 2-meters=8ft but it's the closest thing I could think of off the top of my head.
+[^4]: What Kohaku is talking about here is more familiar to me. He's talking about “Hitori Kakurenbo”, literally meaning “Lone Hide-n-Seek”. The general idea of it is that it's a ritual set up involving a ghost possessing a doll/stuffed animal, and you play hide-n-seek with that spirit.
+[^5]: May be referencing “Kisaragi Eki”, a basic horror legend that surfaced in 2005(?) about a woman that takes a train and arrives at an empty train station (Kisaragi Station) with no known activity and had no record of its existence.
+
+
 <h4>Translation Notes</h4>
 
-  (3): Kohaku here I think is talking about “Hachishakusama”, a Japanese horror myth about an 8ft tall ghost woman dressed in a white hat and dress that abducts children. It's a little confusing because I'm not sure if 2-meters=8ft but it's the closest thing I could think of off the top of my head.
-
-  (4): What Kohaku is talking about here is more familiar to me. He's talking about “Hitori Kakurenbo”, literally meaning “Lone Hide-n-Seek”. The general idea of it is that it's a ritual set up involving a ghost possessing a doll/stuffed animal, and you play hide-n-seek with that spirit. If you win then you survive, if not then the spirit possesses/kills you. Fun. 
-
-  (5): If Kohaku here is talking about “Kisaragi Eki” then I think this is just a basic horror legend that surfaced in 2005(?) about a woman that takes a train and arrives at an empty train station (Kisaragi Station) that with no known activity and had no record of its existence. The story was told through an online comment thread somewhere but I'm pretty sure it's a famous story and there's movies made on it.
+<sup>(1): I think Niki is talking about when people say they have “dessert stomachs”, which is like basically having extra room for dessert.</sup>
+<sup>(2): In some cases “yokumo” is used as an adverb to describe a feeling of shock but here I think it's used as a demand here which is why I decided to translate it that way</sup>
+<sup>(3): Kohaku here I think is talking about “Hachishakusama”, a Japanese horror myth about an 8ft tall ghost woman dressed in a white hat and dress that abducts children. It's a little confusing because I'm not sure if 2-meters=8ft but it's the closest thing I could think of off the top of my head.</sup>
+<sup>(4): What Kohaku is talking about here is more familiar to me. He's talking about “Hitori Kakurenbo”, literally meaning “Lone Hide-n-Seek”. The general idea of it is that it's a ritual set up involving a ghost possessing a doll/stuffed animal, and you play hide-n-seek with that spirit.</sup>
+<sup>(5): May be referencing “Kisaragi Eki”, a basic horror legend that surfaced in 2005(?) about a woman that takes a train and arrives at an empty train station (Kisaragi Station) with no known activity and had no record of its existence.</sup>
 
 
   ### <center> [previous](/2023/06/01/one-day-friday/) | [next](/2023/06/01/kohakus-sacrifice/) </center>

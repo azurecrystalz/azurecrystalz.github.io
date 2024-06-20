@@ -197,7 +197,7 @@ N-Nagisa-han? If you're calling for me, then the one that invited me here....
 {% endbubble %}
 
 {% bubble Nagisa %}
-...While I was thinking of who, I decided you'd be best since I've shared rocks with you before<sup>**(1)**</sup>.
+...While I was thinking of who, I decided you'd be best since I've shared rocks with you before[^1].
 {% endbubble %}
 
 {% bubble Kohaku %}
@@ -262,7 +262,7 @@ Waaa, it's well made. Everywhere I look there's strange things I haven't seen be
 {% endbubble %}
 
 {% bubble Kohaku %}
-Yeah, I've never had connections to this kind of place. I remember you mentioned before how the "Antique Market" was kinda like a museum<sup>**(2)**</sup>. I think that was just limited to telling the history of idols.
+Yeah, I've never had connections to this kind of place. I remember you mentioned before how the "Antique Market" was kinda like a museum[^2]. I think that was just limited to telling the history of idols.
 {% endbubble %}
 
 {% bubble Nagisa %}
@@ -294,7 +294,7 @@ I...feel like I'm lost in a strange world. So I'm just looking around me because
 {% endbubble %}
 
 {% bubble Kohaku %}
-Like I was saying, I haven't got any connections to this place. I never did much studying <sup>**(3)**</sup>, so I don't really get what the meaning of all this history is...When I ran out into the world and became an idol, I thought my worldview had gotten just a bit bigger.
+Like I was saying, I haven't got any connections to this place. I never did much studying, so I don't really get what the meaning of all this history is...When I ran out into the world and became an idol, I thought my worldview had gotten just a bit bigger.
 
 But when it comes to going to a _specific_ place, I'm lost all over again. I know learning is a part of life, but I know that whatever I've learned is still only a little bit.
 
@@ -375,14 +375,14 @@ First we can start with that exhibit room so that we can learn the history and e
 Got it. Let's get going...~
 {% endbubble %}
 
+[^1]: Referring to Kohaku's FS1 story which I've tled on my site here!
+[^2]: Referring to the conversation Kohaku and Nagisa had in one of the middle chapters of Antique Legend.
+
 <!-- Translation Notes -->
 <h4>Translation Notes</h4>
 
-(1): Referring to Kohaku's FS1 story which I've tled [here](https://azurecrystalz.github.io/2050/05/24/sakura-sakura/)! Nagisa gives Kohaku some amber.
-
-(2): Referring to the conversation Kohaku and Nagisa had in one of the middle chapters of Antique Legend.
-
-(3): Meaning “I never [had schooling/went to school]”, but I didn't want to stray from the dialogue.
+<sup>(1): Referring to Kohaku's FS1 story which I've tled [here](https://azurecrystalz.github.io/2050/05/24/sakura-sakura/)! Nagisa gives Kohaku some amber.</sup>
+<sup>(2): Referring to the conversation Kohaku and Nagisa had in one of the middle chapters of Antique Legend.</sup>
 
 
   <!--

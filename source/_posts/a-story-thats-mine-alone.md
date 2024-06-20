@@ -185,7 +185,7 @@ description: mika fs2 translation
 {% endbubble %}
 
 {% bubble Mika %}
-Nnah, I'm the one who's sorry. I was the one spreading things all over your desk, sorry for bothering you.<sup>**(1)**</sup>
+Nnah, I'm the one who's sorry. I was the one spreading things all over your desk, sorry for bothering you.
 {% endbubble %}
 
 {% bubble Mao %}
@@ -323,7 +323,7 @@ Then, why not eat something made by me?
 {% endbubble %}
 
 {% bubble Mika %}
-Yuu-kun?!<sup>**(2)**</sup>
+Yuu-kun?!
 {% endbubble %}
 
 {% bubble Arashi %}
@@ -461,9 +461,9 @@ Y-yeah...thanks, you two~...
 ![so](https://64.media.tumblr.com/4343afff3f9669994d66daa1ef774c37/acb634fe10fcf621-c2/s2048x3072/1212ef5c98927234f8a06d25ea8254e78bf2e7ec.pnj)
 
 {% bubble Shu %}
-—So? How is Kagehira's "feature live" progress coming along?<sup>**(3)**</sup>
+—So? How is Kagehira's "feature live" progress coming along?
 
-You were about to go see how he was doing? But it's already night time over there, you wouldn't be allowed at the dormitories at all, little girl<sup>**(4)**</sup>.
+You were about to go see how he was doing? But it's already night time over there, you wouldn't be allowed at the dormitories at all, little girl.
 
 Don't tell me, have you been working at the facility up until now? He's been working in the prop room at ES because you suggested it…fumu. The work environment does affect the work quality, so your concern is appreciated.
 
@@ -573,16 +573,6 @@ As an artist, and as an idol, I'm going to create a stage that nobody else can.
 {% endbubble %}
 
 <!-- Translation Notes -->
-
-<h4>Translation Notes</h4>
-
-(1): I'm not really a ValkyrieP so I'm unfamiliar with how translators write out Mika's accent, and just in general I find it really hard to write out accents. To avoid confusing myself I kept it plain and easy, so please forgive leaving it out ^^;
-
-(2): The way Mika refers to Yuzuru. I'm putting this here because I forgot that's what Mika called him so I had to go back and check the wiki and I'm telling myself I'm not the only one that forgot to make myself feel better.
-
-(3): Shu is talking to Anzu over the phone for the duration of the time he's in the chapter.
-
-(4): How Shu refers to Anzu. Adding this for the same reason I added the note for Yuzuru last chapter.
 
   <!-- CONTENT GOES HERE -->
 

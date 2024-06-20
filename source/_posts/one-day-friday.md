@@ -167,8 +167,10 @@ description: spider story chapters
     Woah…! This tile! It feels good in my hand! Not only that, but these four bumps I feel on my fingers…!
     
     Alllllright! It's here, it's here, it's *here!* I've been waiting for you, Goddess of Luck-chan~!
-    
-    Gyahaha! Today's my lucky day! I'm gonna win this game in a flash! Riichi<sup>**(1)**</sup>!
+  {% endbubble %}
+  
+  {% bubble Rinne %}
+    Gyahaha! Today's my lucky day! I'm gonna win this game in a flash! Riichi[^1]!
   {% endbubble %}
 
   {% bubble HiMERU %}
@@ -186,7 +188,7 @@ description: spider story chapters
   {% endbubble %}
 
   {% bubble Niki %}
-    Kohaku-chan, Kohaku-chan! That tile there is too dangerous, this tile here might be cheaper.<sup>**(2)**</sup>
+    Kohaku-chan, Kohaku-chan! That tile there is too dangerous, this tile here might be cheaper.
   {% endbubble %}
 
   {% bubble Kohaku %}
@@ -218,7 +220,7 @@ description: spider story chapters
   ![agyaga](https://64.media.tumblr.com/5364eea53088f7b5a6c93b467b051974/29c43db49306737a-f7/s2048x3072/39e6880de10a4227141d465d9066915e50386f0d.pnj)
 
   {% bubble Niki %}
-    Agyagaga! Mmphhrmmph<sup>**(3)**</sup> *(As much as I love anything I can eat, I **definitely** won't eat thooose…!)*
+    Agyagaga! Mmphhrmmph *(As much as I love anything I can eat, I **definitely** won't eat thooose…!)*
   {% endbubble %}
 
   {% bubble Kohaku %}
@@ -302,7 +304,7 @@ description: spider story chapters
   {% endbubble %}
 
   {% bubble Kohaku %}
-    That’s because I’ve been “boxed up” in a zashikirou.<sup>**(4)**</sup>
+    That’s because I’ve been “boxed up” in a zashikirou.[^2]
   {% endbubble %}
 
   {% bubble Rinne %}
@@ -322,16 +324,6 @@ description: spider story chapters
   {% bubble Kohaku %}
     Hah…?
   {% endbubble %}
-
- <h4>Translation Notes</h4>
-
-  (1): Calling riichi is a *possibility* of winning mahjong. The player can't change their hand in any way and they have to hope their next drawn tile is a winning one. It's definitely a fitting game for Crazy:B considering it's based on chance.
-
-  (2): Parts of a player's hand have values placed onto them based on the tiles. So Niki ofc here is advising Kohaku with a play that will give him less of a loss of value I think
-
-  (3): Some distressed noises followed by whatever Niki is saying in parenthesis, but muffled.
-
-  (4): For those unaware, a zashikirou is like a confinement room used in the Edo-period. Kohaku spent his childhood in one (reasons why are explained in Sudden Death).
   
   # Chapter 3
   ***
@@ -559,6 +551,14 @@ description: spider story chapters
  <!-- Translation Notes (Chapter 2) -->
 
  ### <center> [previous](/2023/05/27/spider-prologue/) | [next](/2023/06/01/a-nightmare-downtown/) </center>
+
+ [^1]: Calling riichi is a *possibility* of winning mahjong. The player can't change their hand in any way and they have to hope their next drawn tile is a winning one.
+ [^2]: For those unaware, a zashikirou is like a confinement room used in the Edo-period. Kohaku spent his childhood in one (reasons why are explained in Sudden Death)
+
+  <h4>Translation Notes</h4>
+
+  <sup>(1): Calling riichi is a *possibility* of winning mahjong. The player can't change their hand in any way and they have to hope their next drawn tile is a winning one. It's definitely a fitting game for Crazy:B considering it's based on chance.</sup>
+  <sup>(2): For those unaware, a zashikirou is like a confinement room used in the Edo-period. Kohaku spent his childhood in one (reasons why are explained in Sudden Death).</sup>
 
   <!-- CONTENT GOES HERE -->
 

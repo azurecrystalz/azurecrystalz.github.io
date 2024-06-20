@@ -207,7 +207,7 @@ description: spider chapter translations
   {% endbubble %}
 
   {% bubble Rinne %}
-    I say things from poems and maxims<sup>**(1)**</sup> all the time. Don't go mocking me, Rinne-kun, the modern-day Goethe<sup>**(2)**</sup>, okayyy?
+    I say things from poems and maxims[^1] all the time. Don't go mocking me, Rinne-kun, the modern-day Goethe[^2], okayyy?
   {% endbubble %}
 
   {% bubble HiMERU %}
@@ -241,7 +241,7 @@ description: spider chapter translations
   {% endbubble %}
 
   {% bubble HiMERU %}
-    —Or perhaps costumes and it being the day before All Saints Day<sup>**(3)**</sup>?
+    —Or perhaps costumes and it being the day before All Saints Day[^3]?
   {% endbubble %}
 
   {% bubble Kohaku %}
@@ -350,8 +350,10 @@ description: spider chapter translations
 
   {% bubble Rinne %}
     Riiiight.
+  {% endbubble %}
     
-    —This is *so* not fair! We were having such a great time during the live yesterday, so why the hell are me and Niki being bossed around by Kohaku-chan and being told to clean up!<sup>**(4)**</sup>
+  {% bubble Rinne %}
+    —This is *so* not fair! We were having such a great time during the live yesterday, so why the hell are me and Niki being bossed around by Kohaku-chan and being told to clean up!
   {% endbubble %}
 
   {% bubble Niki %}
@@ -396,17 +398,16 @@ description: spider chapter translations
     Mahjong is best when played with four people, after all.
   {% endbubble %}
 
+  [^1]: Maxim is a short, pithy statement expressing a general truth or rule of conduct. Basically a principle or proverb.
+  [^2]: Off the top of my head Goethe is pretty much the German Shakespeare. Idk much about him but take that explanation.
+  [^3]: A Christian holiday that occurs on Nov. 1st
   <!-- Translation Notes (Epilogue) -->
 
 <h4>Translation Notes</h4>
 
-  (1): Maxim - noun, “a short, pithy statement expressing a general truth or rule of conduct.” Basically a principle or proverb.
-
-  (2): Off the top of my head Goethe is pretty much the German Shakespeare. Idk much about him but take that explanation. *Post proofreading:* This just in one of my proofers told me people think Goethe was gay good for him love that
-
-  (3): A Christian holiday that occurs on Nov. 1st *Post proofreading:* It’s often regarded as another form of Halloween, done to honor deceased saints. Some sources cite All Saints Day and Hallow's Eve to be closely linked enough that the only difference is really how they're celebrated, with Halloween now being a popular fun holiday and All Saints Day being for those who observe Christianity.
-
-  (4): Recall back to the end of Honeybee! Rinne Cleaning Punishment Counter: 2
+  <sup>(1): Maxim - noun, “a short, pithy statement expressing a general truth or rule of conduct.” Basically a principle or proverb.</sup>
+  <sup>(2): Off the top of my head Goethe is pretty much the German Shakespeare. Idk much about him but take that explanation. *Post proofreading:* This just in one of my proofers told me people think Goethe was gay good for him love that</sup>
+  <sup>(3): A Christian holiday that occurs on Nov. 1st *Post proofreading:* It’s often regarded as another form of Halloween, done to honor deceased saints. Some sources cite All Saints Day and Hallow's Eve to be closely linked enough that the only difference is really how they're celebrated, with Halloween now being a popular fun holiday and All Saints Day being for those who observe Christianity.</sup>
 
   ### <center>[previous](/2023/05/27/if-youre-caught) | [masterlist](https://azurecrystalz.github.io/enstars/)</center>
 

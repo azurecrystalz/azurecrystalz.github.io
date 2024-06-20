@@ -207,7 +207,7 @@ description: romantic date tls
       <div class="story-background"
       style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709340933/translation%20site/masterlist/rn0t4bzjreac4mbbmv1i.png')">
     </div>
-    <div class="story-box" style="background: #374a5d">
+    <div class="story-box" style="background: #5A3F47">
       <div class="story-cover">
         <div><img src="https://res.cloudinary.com/djq41tb84/image/upload/v1706322603/translation%20site/masterlist/yums1dnylph0vkvaoznz.webp">
         </div>

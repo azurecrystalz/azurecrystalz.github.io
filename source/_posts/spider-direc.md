@@ -216,7 +216,7 @@ description: spider translation directory
       <div class="story-background"
       style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709338878/ASSETS%20ALWAYS%20USE%20THIS/KOHAKU/FULL%20BLOOMED/xjcqgg0he6lf6junus04.png')">
     </div>
-    <div class="story-box" style="background: #374a5d">
+    <div class="story-box" style="background: #5A3F47">
       <div class="story-cover">
         <div><img src="https://res.cloudinary.com/djq41tb84/image/upload/v1709338916/ASSETS%20ALWAYS%20USE%20THIS/KOHAKU/BORDERLESS%20UNBL/ugnzqn3pu7h4ywftu5wy.png">
         </div>

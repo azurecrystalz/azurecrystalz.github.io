@@ -266,7 +266,7 @@ Ohh, I got a pretty good shot~
 {% endbubble %}
 
 {% bubble Niki %}
-What's with this all of a sudden? Are you posting it to SN[^1]?
+What's with this all of a sudden? Are you posting it to SNS[^1]?
 {% endbubble %}
 
 {% bubble Hinata %}
