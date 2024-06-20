@@ -128,10 +128,6 @@ description: himeru fs1 translation
       left: 65px;
       top: 37px;
     }
-    .hint--error:after {
-      background-color: #374A5D;
-      text-shadow: 0 -1px 0px #23384C;
-    }
     .msr-narration {
       display: flex;
       align-items: center;

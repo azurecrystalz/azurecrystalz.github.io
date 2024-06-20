@@ -156,10 +156,6 @@ description: niki fs2 translation
     blockquote {
       margin-bottom: 12px;
     }
-    .hint--error:after {
-      background-color: #374A5D;
-      text-shadow: 0 -1px 0px #23384C;
-    }
     @media (max-width: 650px) {
     [character] p {
         margin:0 0 .4em 65px;
