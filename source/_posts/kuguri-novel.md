@@ -820,7 +820,7 @@ description: Kuguri novel tl
 
 <h5>Liszt's Mazeppa Finale Note</h5>
 
-![liszt](/azurecrystalz.github.io/liszt.png)
+![liszt](https://res.cloudinary.com/djq41tb84/image/upload/v1719278601/liszt.png)
 
 <h4>Translation Notes</h4>
 
