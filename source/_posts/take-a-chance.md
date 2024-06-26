@@ -12,7 +12,7 @@ description: n8 story section take a chance
 ---
 
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@bfcc2c2f1e0607a5f9df7dfa66e0e3e852d285b9/expressions.css ">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@18b10919ec52c106a8e9799ada6bb0abab2860c3/expressions.css ">
 </head>
 
 <div class="info-area">
