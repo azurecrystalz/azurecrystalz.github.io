@@ -634,6 +634,7 @@ description: kuguri initial ssr tl
   [^3]: A type of Hungarian wine.
 
   <h4>Translation Notes</h4>
+  
   <sup>(1): How Kuguri refers to the MC; meaning “kitten” in Hungarian</sup>
   <sup>(2): When Kuguri mentions performing maintenance, he is referring to his prosthetic arms</sup>
   <sup>(3): A type of Hungarian wine.</sup>
