@@ -6,7 +6,7 @@
   <link href="http://azurecrystalz.github.io/atom.xml" rel="self"/>
   
   <link href="http://azurecrystalz.github.io/"/>
-  <updated>2024-06-26T16:12:43.324Z</updated>
+  <updated>2024-07-15T18:35:44.719Z</updated>
   <id>http://azurecrystalz.github.io/</id>
   
   <author>
@@ -17,44 +17,124 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Redirect</title>
-    <link href="http://azurecrystalz.github.io/2070/07/20/post/"/>
-    <id>http://azurecrystalz.github.io/2070/07/20/post/</id>
-    <published>2070-07-20T00:00:00.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <title>Chained Up Scarlet (Side A)</title>
+    <link href="http://azurecrystalz.github.io/2055/07/07/chained-up-scarlet/"/>
+    <id>http://azurecrystalz.github.io/2055/07/07/chained-up-scarlet/</id>
+    <published>2055-07-07T12:23:00.000Z</published>
+    <updated>2024-07-15T18:35:44.719Z</updated>
     
     
-    <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;permalink-x2F&quot;&gt;&lt;a href=&quot;#permalink-x2F&quot; class=&quot;headerlink&quot; title=&quot;permalink: &amp;#x2F;&quot;&gt;&lt;/a&gt;permalink: &amp;#x2F;&lt;/h2&gt;&lt;script&gt;window.location.replace(&quot;https://azurecrystalz.github.io/home&quot;)&lt;/script&gt;
+    <summary type="html">&lt;style&gt;
+    .chapter-area li {
+      background-color: #1a222b;
+      border-radius: 3px;
+      transition: background-color 0.2s;
+    }
+    .chapters li #none {
+      background: none;
+      color: var(--link);
+    }
+    .chapter-area li:hover {
+      background-color: #374a5d;
+    }
+    .mt-label {
+      margin: 5px;
+    }
+    .article-entry a {
+      margin: 2px;
+    }
+    [character] {
+      --dark-mode: hsl(var(--hue), 30%, 30%);
+      display: flex;
+    }
+    [character]::before {
+      position: absolute;
+      margin-left: 75px;
+    }
+    [character] p {
+      max-width: calc(100% - 75px);
+      margin-left: 75px;
+      color: inherit;
+    }
+    :root[theme=&#39;dark&#39;] [character] p {
+      background: var(--dark-mode);
+    }
+    :root[theme=&#39;dark&#39;] [character] p .thought {
+      color: #9f9fff;
+    }
+    :root[theme=&#39;light&#39;] [character] p {
+      background: var(--light-mode);
+    }
+    [character] p:first-child {
+      margin-top: 20px;
+      border-top-left-radius: 0px;
+    }
+    [character] p:first-child::before {
+      position: absolute;
+      left: 0;
+    }
+    [character]::after {
+      display: none;
+      left: 65px;
+      top: 37px;
+    }
+    .msr-narration {
+      display: flex;
+      align-items: center;
+      margin: 20px 0px;
+      gap: 5px;
+    }
+    .msr-narration::before {
+      content: &quot;&quot;;
+      display: inline-block;
+      background: var(--article-text);
+      height: 1px;
+      width: 15%;
+    }
+    .msr-narration p {
+      margin: 0;
+    }
+    @media (max-width: 650px) {
+    [character] p {
+        margin:0 0 .4em 65px;
+        padding: .72em;
+        margin-left: 55px !important;
+    }
+    [character]::before,[character][hidden]::before,[character][unknown]::before {
+        margin-left: 70px;
+        margin-left: 55px !important;
+    }
+}    
+  &lt;/style&gt;
 
 &lt;div class=&quot;preview-wrapper reverse&quot; style=&quot;--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;&quot;&gt;
   &lt;div class=&quot;grid-wrapper&quot;&gt;
-      &lt;div class=&quot;preview-background&quot; style=&quot;background-image: url(&#39;[BLOOMED_CARD_URL]&#39;)&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;preview-background&quot; style=&quot;background-image: url(&#39;https://res.cloudinary.com/dwjkkl8hy/image/upload/v1720384810/chainedupscarlet.jpg&#39;)&quot;&gt;&lt;/div&gt;
       &lt;div class=&quot;preview-box&quot; style=&quot;background: calc(var(--card-background) + 2%)&quot;&gt;
           &lt;div class=&quot;title-area&quot;&gt;
-              &lt;div class=&quot;title-area__title&quot;&gt;&lt;!-- STORY ENG TITLE --&gt;&lt;/div&gt;
-              &lt;div class=&quot;title-area__subtitle&quot;&gt;&lt;!-- STORY JP TITLE --&gt; &lt;/div&gt;
-              &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;[STORY_LINK_GOES_HERE]&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+              &lt;div class=&quot;title-area__title&quot;&gt;Ev3ns Mainstory Side A (8/22)&lt;/div&gt;
+              &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/2055/07/07/chained-up-scarlet/&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
           &lt;/div&gt;
           &lt;div class=&quot;info-area&quot;&gt;
               &lt;div class=&quot;synopsis&quot; style=&quot;width: 90%;&quot;&gt;
+                Contains a Translation for Ev3n&#39;s mainstory, Chained Up Scarlet!
                 &lt;!-- SYNOPSIS GOES HERE --&gt;
               &lt;/div&gt;
               &lt;div class=&quot;info&quot;&gt;
                   &lt;div class=&quot;info-item season&quot;&gt;
                       &lt;div class=&quot;label&quot;&gt;
-                          Season
+                          Chapters
                       &lt;/div&gt;
                       &lt;div class=&quot;value&quot;&gt;
-                        &lt;!-- STORY SEASON --&gt;
+                        22
                       &lt;/div&gt;
                   &lt;/div&gt;
                   &lt;div class=&quot;info-item chapters&quot;&gt;
                       &lt;div class=&quot;label&quot;&gt;
-                          Chapters
+                          Translator
                       &lt;/div&gt;
                       &lt;div class=&quot;value&quot;&gt;
-                          &lt;!-- NUMBER OF CHAPTERS --&gt;
+                          &lt;a href=&quot;https://x.com/azurecrystalz&quot;&gt;aurora&lt;/a&gt;
                       &lt;/div&gt;
                   &lt;/div&gt;
                   &lt;div class=&quot;info-item characters&quot;&gt;
@@ -62,26 +142,23 @@
                           Characters
                       &lt;/div&gt;
                       &lt;div class=&quot;value&quot;&gt;
-                        &lt;!-- 
-                          &lt;a href=&quot;/tags/[CHARACTER_LAST_NAME]-[CHARACTER_FIRST_NAME]/&quot; character=&quot;[CHARACTER_FIRST_AME]&quot; title=&quot;[CHARACTER_FIRST_NAME]&quot;&gt;&lt;/a&gt;
-                         --&gt;
-                         &lt;!-- COPY AND PASTE THE ABOVE FOR EACH CHARACTER THAT APPEARS IN THE STORY --&gt;
+                        Tao, Kinari, Raito, Kuguri, Chihiro, Kodama, MC, Kafka, Conductors
                       &lt;/div&gt;
                   &lt;/div&gt;
                   &lt;div class=&quot;info-item tl&quot;&gt;
                       &lt;div class=&quot;label&quot;&gt;
-                          Translator
+                          JP Proofing and Voice Check
                       &lt;/div&gt;
                       &lt;div class=&quot;value&quot;&gt;
-                          &lt;a href=&quot;https://twitter.com/azurecrystalz&quot;&gt;aurora&lt;/a&gt;
+                          &lt;a href=&quot;https://x.com/taatsums&quot;&gt;dimi&lt;/a&gt;
                       &lt;/div&gt;
                   &lt;/div&gt;
                   &lt;div class=&quot;info-item pr&quot;&gt;
                       &lt;div class=&quot;label&quot;&gt;
-                          Proofreaders
+                          ENG Proofing
                       &lt;/div&gt;
                       &lt;div class=&quot;value&quot;&gt;
-                        &lt;a href=&quot;https://tumblr.com/starswallowingsea&quot;&gt;shay&lt;/a&gt; or &lt;a href=&quot;https://tumblr.com/pitxroxas&quot;&gt;pit&lt;/a&gt;
+                        &lt;a href=&quot;https://tumblr.com/starswallowingsea&quot;&gt;shay&lt;/a&gt; and &lt;a href=&quot;https://x.com/wandasho&quot;&gt;oli&lt;/a&gt;
                           &lt;!-- PROOFREADER LIST (IF ANY) --&gt;
                       &lt;/div&gt;
                   &lt;/div&gt;
@@ -101,7 +178,7 @@
     <link href="http://azurecrystalz.github.io/2050/11/03/moon-banquet/"/>
     <id>http://azurecrystalz.github.io/2050/11/03/moon-banquet/</id>
     <published>2050-11-03T17:25:00.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.723Z</updated>
     
     
     <summary type="html">rinne ts2 5* translation</summary>
@@ -132,7 +209,7 @@
     <link href="http://azurecrystalz.github.io/2050/07/05/bees-knees/"/>
     <id>http://azurecrystalz.github.io/2050/07/05/bees-knees/</id>
     <published>2050-07-05T20:02:00.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.719Z</updated>
     
     
     <summary type="html">rinne fs1 translation</summary>
@@ -159,7 +236,7 @@
     <link href="http://azurecrystalz.github.io/2050/07/05/composed-moment/"/>
     <id>http://azurecrystalz.github.io/2050/07/05/composed-moment/</id>
     <published>2050-07-05T20:02:00.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.719Z</updated>
     
     
     <summary type="html">himeru fs2 translation</summary>
@@ -184,7 +261,7 @@
     <link href="http://azurecrystalz.github.io/2050/07/05/esu-idolstory-1/"/>
     <id>http://azurecrystalz.github.io/2050/07/05/esu-idolstory-1/</id>
     <published>2050-07-05T20:02:00.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.719Z</updated>
     
     
     <summary type="html">esu intro story</summary>
@@ -205,7 +282,7 @@
     <link href="http://azurecrystalz.github.io/2050/07/05/past-present-and/"/>
     <id>http://azurecrystalz.github.io/2050/07/05/past-present-and/</id>
     <published>2050-07-05T20:02:00.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.723Z</updated>
     
     
     <summary type="html">himeru fs1 translation</summary>
@@ -232,7 +309,7 @@
     <link href="http://azurecrystalz.github.io/2050/07/05/recipe-for-idols/"/>
     <id>http://azurecrystalz.github.io/2050/07/05/recipe-for-idols/</id>
     <published>2050-07-05T20:02:00.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.723Z</updated>
     
     
     <summary type="html">niki fs1 translation</summary>
@@ -263,7 +340,7 @@
     <link href="http://azurecrystalz.github.io/2050/07/03/rom-date/"/>
     <id>http://azurecrystalz.github.io/2050/07/03/rom-date/</id>
     <published>2050-07-03T13:33:00.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.723Z</updated>
     
     
     <summary type="html">romantic date tls</summary>
@@ -281,9 +358,9 @@
     
     <category term="Narukami Arashi" scheme="http://azurecrystalz.github.io/tags/Narukami-Arashi/"/>
     
-    <category term="Kazehaya Tatsumi" scheme="http://azurecrystalz.github.io/tags/Kazehaya-Tatsumi/"/>
-    
     <category term="Ayase Mayoi" scheme="http://azurecrystalz.github.io/tags/Ayase-Mayoi/"/>
+    
+    <category term="Kazehaya Tatsumi" scheme="http://azurecrystalz.github.io/tags/Kazehaya-Tatsumi/"/>
     
     <category term="Nagumo Tetora" scheme="http://azurecrystalz.github.io/tags/Nagumo-Tetora/"/>
     
@@ -294,7 +371,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/30/number-eight/"/>
     <id>http://azurecrystalz.github.io/2050/05/30/number-eight/</id>
     <published>2050-05-30T17:32:00.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.723Z</updated>
     
     
     <summary type="html">n8 chapter directory</summary>
@@ -321,7 +398,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/27/spider-direc/"/>
     <id>http://azurecrystalz.github.io/2050/05/27/spider-direc/</id>
     <published>2050-05-27T11:26:00.000Z</published>
-    <updated>2024-06-26T16:12:43.328Z</updated>
+    <updated>2024-07-15T18:35:44.723Z</updated>
     
     
     <summary type="html">spider translation directory</summary>
@@ -354,7 +431,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/25/a-story-thats-mine-alone/"/>
     <id>http://azurecrystalz.github.io/2050/05/25/a-story-thats-mine-alone/</id>
     <published>2050-05-25T16:23:07.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.719Z</updated>
     
     
     <summary type="html">mika fs2 translation</summary>
@@ -387,7 +464,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/24/sakura-sakura/"/>
     <id>http://azurecrystalz.github.io/2050/05/24/sakura-sakura/</id>
     <published>2050-05-24T21:59:01.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.723Z</updated>
     
     
     <summary type="html">kohaku fs1 translation</summary>
@@ -420,7 +497,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/22/bon-appetit/"/>
     <id>http://azurecrystalz.github.io/2050/05/22/bon-appetit/</id>
     <published>2050-05-22T21:38:35.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.719Z</updated>
     
     
     <summary type="html">niki fs2 translation</summary>
@@ -447,7 +524,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/21/a-curious-step-forward/"/>
     <id>http://azurecrystalz.github.io/2050/05/21/a-curious-step-forward/</id>
     <published>2050-05-21T22:20:58.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.719Z</updated>
     
     
     <summary type="html">kohaku es2 4* story tl</summary>
@@ -470,7 +547,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/16/please-god/"/>
     <id>http://azurecrystalz.github.io/2050/05/16/please-god/</id>
     <published>2050-05-16T11:45:34.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.723Z</updated>
     
     
     <summary type="html">rinne es2 4* translation</summary>
@@ -501,7 +578,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/15/sweetsroad/"/>
     <id>http://azurecrystalz.github.io/2050/05/15/sweetsroad/</id>
     <published>2050-05-15T15:19:34.000Z</published>
-    <updated>2024-06-26T16:12:43.328Z</updated>
+    <updated>2024-07-15T18:35:44.723Z</updated>
     
     
     <summary type="html">niki es2 4* translation</summary>
@@ -530,7 +607,7 @@
     <link href="http://azurecrystalz.github.io/2050/05/15/runrun-calamity/"/>
     <id>http://azurecrystalz.github.io/2050/05/15/runrun-calamity/</id>
     <published>2050-05-15T12:42:04.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.723Z</updated>
     
     
     <summary type="html">himeru 4* translation</summary>
@@ -556,10 +633,10 @@
   
   <entry>
     <title>Come, Toward the Sound of Applause</title>
-    <link href="http://azurecrystalz.github.io/2024/06/26/toward-the-sound-of-applause/"/>
-    <id>http://azurecrystalz.github.io/2024/06/26/toward-the-sound-of-applause/</id>
-    <published>2024-06-26T16:12:43.328Z</published>
-    <updated>2024-06-26T16:12:43.328Z</updated>
+    <link href="http://azurecrystalz.github.io/2024/07/15/toward-the-sound-of-applause/"/>
+    <id>http://azurecrystalz.github.io/2024/07/15/toward-the-sound-of-applause/</id>
+    <published>2024-07-15T18:35:44.723Z</published>
+    <updated>2024-07-15T18:35:44.723Z</updated>
     
     
     <summary type="html">kuguri initial ssr tl</summary>
@@ -574,11 +651,38 @@
   </entry>
   
   <entry>
+    <title>Chained Up Scarlet (Side A)</title>
+    <link href="http://azurecrystalz.github.io/2024/07/07/ev3ns-mainstory-A-p1/"/>
+    <id>http://azurecrystalz.github.io/2024/07/07/ev3ns-mainstory-A-p1/</id>
+    <published>2024-07-07T20:02:00.000Z</published>
+    <updated>2024-07-15T18:35:44.719Z</updated>
+    
+    
+    <summary type="html">ev3ns mainstory translation side A</summary>
+    
+    
+    
+    <category term="18trip" scheme="http://azurecrystalz.github.io/categories/18trip/"/>
+    
+    
+    <category term="Domeki Kuguri" scheme="http://azurecrystalz.github.io/tags/Domeki-Kuguri/"/>
+    
+    <category term="Kinochi Tao" scheme="http://azurecrystalz.github.io/tags/Kinochi-Tao/"/>
+    
+    <category term="Kitakata Raito" scheme="http://azurecrystalz.github.io/tags/Kitakata-Raito/"/>
+    
+    <category term="Azekawa Kinari" scheme="http://azurecrystalz.github.io/tags/Azekawa-Kinari/"/>
+    
+    <category term="Natsuyaki Chihiro" scheme="http://azurecrystalz.github.io/tags/Natsuyaki-Chihiro/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Domeki Kuguri Novel</title>
     <link href="http://azurecrystalz.github.io/2024/06/24/kuguri-novel/"/>
     <id>http://azurecrystalz.github.io/2024/06/24/kuguri-novel/</id>
     <published>2024-06-24T00:00:00.000Z</published>
-    <updated>2024-06-26T16:12:43.324Z</updated>
+    <updated>2024-07-15T18:35:44.723Z</updated>
     
     
     <summary type="html">Kuguri novel tl</summary>
@@ -589,33 +693,6 @@
     
     
     <category term="Domeki Kuguri" scheme="http://azurecrystalz.github.io/tags/Domeki-Kuguri/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Take a Chance</title>
-    <link href="http://azurecrystalz.github.io/2023/09/30/take-a-chance/"/>
-    <id>http://azurecrystalz.github.io/2023/09/30/take-a-chance/</id>
-    <published>2023-09-30T13:59:00.000Z</published>
-    <updated>2024-06-26T16:12:43.328Z</updated>
-    
-    
-    <summary type="html">n8 story section take a chance</summary>
-    
-    
-    
-    <category term="Enstars" scheme="http://azurecrystalz.github.io/categories/Enstars/"/>
-    
-    <category term="Crazy:B" scheme="http://azurecrystalz.github.io/categories/Enstars/Crazy-B/"/>
-    
-    
-    <category term="Oukawa Kohaku" scheme="http://azurecrystalz.github.io/tags/Oukawa-Kohaku/"/>
-    
-    <category term="Shiina Niki" scheme="http://azurecrystalz.github.io/tags/Shiina-Niki/"/>
-    
-    <category term="Amagi Rinne" scheme="http://azurecrystalz.github.io/tags/Amagi-Rinne/"/>
-    
-    <category term="HiMERU" scheme="http://azurecrystalz.github.io/tags/HiMERU/"/>
     
   </entry>
   
