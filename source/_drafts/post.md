@@ -18,9 +18,8 @@ permalink: /
       <div class="preview-background" style="background-image: url('[BLOOMED_CARD_URL]')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
-              <div class="title-area__title"><!-- STORY ENG TITLE --></div>
-              <div class="title-area__subtitle"><!-- STORY JP TITLE --> </div>
-              <div class="title-area__start"><a href="[STORY_LINK_GOES_HERE]">Start Reading</a></div>
+              <div class="title-area__title">Ev3ns Mainstory Side A (8/22)</div>
+              <div class="title-area__start"><a href="/2055/07/07/ev3ns-mainstory-A/">Start Reading</a></div>
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
