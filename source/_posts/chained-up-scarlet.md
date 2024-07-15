@@ -5,23 +5,26 @@ date: 2055-07-07 12:23:00
 
 <head>
 <!-- Primary Meta Tags -->
+<!-- HTML Meta Tags -->
 <title>Chained Up Scarlet (Side A)</title>
-<meta name="title" content="Chained Up Scarlet (Side A)" />
-<meta name="description" content="Contains a Translation for Ev3n's mainstory, Chained Up Scarlet!" />
+<meta name="description" content="Contains a Translation for Ev3n's mainstory, Chained Up Scarlet!">
 
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://azurecrystalz.github.io/2055/07/07/chained-up-scarlet/" />
-<meta property="og:title" content="Chained Up Scarlet (Side A)" />
-<meta property="og:description" content="Contains a Translation for Ev3n's mainstory, Chained Up Scarlet!" />
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://azurecrystalz.github.io/2055/07/07/chained-up-scarlet/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Chained Up Scarlet (Side A)">
+<meta property="og:description" content="Contains a Translation for Ev3n's mainstory, Chained Up Scarlet!">
+<meta property="og:image" content="https://res.cloudinary.com/dwjkkl8hy/image/upload/v1720384810/chainedupscarlet.jpg">
 
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content="https://azurecrystalz.github.io/2055/07/07/chained-up-scarlet/" />
-<meta property="twitter:title" content="Chained Up Scarlet (Side A)" />
-<meta property="twitter:description" content="Contains a Translation for Ev3n's mainstory, Chained Up Scarlet!" />
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="azurecrystalz.github.io">
+<meta property="twitter:url" content="https://azurecrystalz.github.io/2055/07/07/chained-up-scarlet/">
+<meta name="twitter:title" content="Chained Up Scarlet (Side A)">
+<meta name="twitter:description" content="Contains a Translation for Ev3n's mainstory, Chained Up Scarlet!">
+<meta name="twitter:image" content="https://res.cloudinary.com/dwjkkl8hy/image/upload/v1720384810/chainedupscarlet.jpg">
 
-<!-- Meta Tags Generated with https://metatags.io -->
+<!-- Meta Tags Generated via https://www.opengraph.xyz -->
 </head>
 
 
