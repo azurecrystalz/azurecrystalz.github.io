@@ -79,6 +79,20 @@ description: ev3ns mainstory translation side A
 
 <div style="margin-top: 3%">
   <style>
+    .announcement {
+      background: RGB(161, 157, 157, 0.25);
+      clip-path: polygon(3% 0,97% 0,100% 10%,100% 90%,97% 100%,3% 100%,0 90%,0 10%);
+      margin: 1em 1.5em;
+      padding: 1em;
+      text-align: center;
+    }
+    .kodama-announcement {
+      background: RGB(197, 216, 193, 0.5);
+      clip-path: polygon(3% 0,97% 0,100% 10%,100% 90%,97% 100%,3% 100%,0 90%,0 10%);
+      margin: 1em 1.5em;
+      padding: 1em;
+      text-align: center;
+    }
     .hint--error.hint--top-left:before, .hint--error.hint--top-right:before, .hint--error.hint--top:before {
     border-top-color: #6a3446;
     }
@@ -287,14 +301,6 @@ description: ev3ns mainstory translation side A
     [character="CamKodama"]::before {
       content: "???"
     }
-    [character="Announcement"] {
-      --color: #7F7F7F;
-      --hue: 240;
-      --name: "Cellmate B";
-    }
-    [character="Announcement"]::before {
-      content: "Announcement"
-    }
     [character="TonedInmateA"] {
       --color: #7F7F7F;
       --hue: 0;
@@ -408,8 +414,6 @@ description: ev3ns mainstory translation side A
 <div class="msr-narration">
 <p><i>Cassette tape stops.</i></p>
 </div>
-
-<br>
 
 ![monkey](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721053748/mainsto/ch1/monkeycage.png)
 
@@ -566,7 +570,7 @@ Don’t lie, a petty crime like that would never get you landed in here. If it d
 {% endbubble %}
 
 {% bubble CellmateC %}
-Oi, fishies, go sleep already.
+Oi, fishies[^1], go sleep already.
 
 If the warden comes here because of your chit-chat then it’ll be a real pain.
 {% endbubble %}
@@ -629,9 +633,9 @@ What would you want to say to those you’d leave behind?
 
 ![announce](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721053752/mainsto/ch1/duties.png)
 
-{% bubble Announcement %}
-<b><i>Attention all inmates, please proceed with your assigned duties immediately. Once again…</i></b>
-{% endbubble %}
+<div class="announcement">
+<p><i>Attention all inmates, please proceed with your assigned duties immediately. Once again…</i></p>
+</div>
 
 {% bubble Tao %}
 <th><i>(Looks like I’m on cleaning duty in the courtyard today. I got lucky getting such an easy job.)</i></th>
@@ -678,7 +682,7 @@ Ohhh! Look who it is, it’s the princess that got here yesterday.
 {% endbubble %}
 
 {% bubble TonedInmateB %}
-500017? A princess? more like a <i>doll</i>!
+500017? A princess? more like a <i>doll</i>[^2]!
 
 What a cute face. Come sit with me for a bit.
 {% endbubble %}
@@ -850,7 +854,7 @@ I’m… Kinouchi Tao.
 {% endbubble %}
 
 {% bubble Raito %}
-Kinari and Tao. In numerology, you two would be 8 and 1.
+Kinari and Tao. In numerology, you two would be 8 and 1[^3].
 
 Those are good numbers.
 {% endbubble %}
@@ -874,7 +878,7 @@ Well, you don’t need to answer right away. My motto is to think fast, but you 
 {% bubble Raito %}
 Just a warning, the leader of my gang’s rival is…
 
-Let’s see… In terms of Euchre, if I were the King, then he’d be the Jack.
+Let’s see… In terms of Euchre[^4], if I were the King, then he’d be the Jack.
 
 He’s dangerous, so be careful.
 {% endbubble %}
@@ -902,7 +906,7 @@ Sigh… What a pain…
 ![kuguintro](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721054328/mainsto/ch2/kuguintro.png)
 
 {% bubble CamKugu %}
-Well hello there, Black Haired <i>Fiú</i>. What's got you sighing like that?
+Well hello there, Black Haired <i>Fiú [^5]</i>. What's got you sighing like that?
 {% endbubble %}
 
 {% bubble Tao %}
@@ -1004,7 +1008,7 @@ Anyway, I’ve gotta get back to cleaning… Pardon me!
 </div>
 
 {% bubble Kuguri %}
-Hmmm… What a <i>maci</i>.
+Hmmm… What a <i>maci [^6]</i>.
 
 This should be a fun way to kill time.
 {% endbubble %}
@@ -1220,7 +1224,7 @@ Kuguri-san… This is the next recreational program...
 {% bubble Kuguri %}
 Oh? Is that so?
 
-What a perfect chance… to show the Naked King despair. 
+What a perfect chance… to show the Naked King[^7] despair. 
 {% endbubble %}
 
 <h2 id="4">003-A04: Welcome to the Cage</h2>
@@ -1480,7 +1484,7 @@ In other words! You can watch the <i>entire</i> audition right here from the com
 
 For an idol survival program, this is the best seat in the house!
 
-Of course, this all comes with assorted color penlights that we’ve prepared right here for when you’ve found your favorite. We also have uchiwas that can be made with just the press of a button!
+Of course, this all comes with assorted color penlights that we’ve prepared right here for when you’ve found your favorite. We also have uchiwas[^8] that can be made with just the press of a button!
 {% endbubble %}
 
 {% bubble Momiji %}
@@ -1555,9 +1559,9 @@ That’s far enough! Take off your blindfolds.
 <p><i>Shuffling.</i></p>
 </div>
 
-{% bubble Announcement %}
-<i><b>Attention all inmates. All prisoners have been routed to their specified starting points.</b></i>
-{% endbubble %}
+<div class="announcement">
+<p><i>Attention all inmates. All prisoners have been routed to their specified starting points.</i></p>
+</div>
 
 {% bubble Tao %}
 <th><i>(? Starting points…?)</i></th>
@@ -1567,11 +1571,10 @@ That’s far enough! Take off your blindfolds.
 I’m heading back to my post. Just listen to the announcement.
 {% endbubble %}
 
-{% bubble Announcement %}
-<i><b>The packs in front of you are camping supplies. Please take one each.</b></i>
-
-<i><b>Five types of paint guns have been prepared for you. Please choose the one you prefer.</b></i>
-{% endbubble %}
+<div class="announcement">
+<p><i>The packs in front of you are camping supplies. Please take one each.</i></p>
+<p><i>Five types of paint guns have been prepared for you. Please choose the one you prefer.</i></p>
+</div>
 
 ![pewpew](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721064717/mainsto/ch5/pewpew.png)
 
@@ -1609,25 +1612,27 @@ I’ll go with the assault rifle.
 <th><i>(! All the guns I didn’t choose just disappeared. Seriously, anything really <b>is</b> possible with science in this era…)</i></th>
 {% endbubble %}
 
-{% bubble Announcement %}
-<i><b>All guards have returned to their posts. At this time, the chief warden will explain today’s recreational proceedings.</b></i>
-{% endbubble %}
+<div class="announcement">
+<p><i>All guards have returned to their posts. At this time, the chief warden will explain today’s recreational proceedings.</i></p>
+</div>
 
-{% bubble Kodama %}
-<i><b>Alright, listen up! Today’s activities are a lot different than usual! Just one shot and you’re out!</b></i>
+<div class="msr-narration">
+<p><i>Intercom switch.</i></p>
+</div>
 
-<i><b>You’d better shoot faster than your ops if you want to live! Your uniforms were specifically tailored! If you get shot, then you’ll get hit with enough volts of electricity to drop a bear!</b></i>
-{% endbubble %}
+<div class="kodama-announcement">
+<p><i>Alright, listen up! Today’s activities are a lot different than usual! Just one shot and you’re out!</i></p>
+<p><i>You’d better shoot faster than your ops if you want to live! Your uniforms were specifically tailored! If you get shot, then you’ll get hit with enough volts of electricity to drop a bear!</i></p>
+</div>
 
 {% bubble Tao %}
 <th><i>(For real…? I’d better steer clear of that.)</i></th>
 {% endbubble %}
 
-{% bubble Kodama %}
-<i><b>Areas inside of buildings and the docks are off limits, but you’re free to move around as much as you want anywhere else! However! The safe zone shrinks every hour!</b></i>
-
-<i><b>Anyone who steps outside the safe zone is automatically out! Use the map and your brains, knuckleheads! Stupidity won’t help you win!</b></i>
-{% endbubble %}
+<div class="kodama-announcement">
+<p><i>Areas inside of buildings and the docks are off limits, but you’re free to move around as much as you want anywhere else! However! The safe zone shrinks every hour!</i></p>
+<p><i>Anyone who steps outside the safe zone is automatically out! Use the map and your brains, knuckleheads! Stupidity won’t help you win!</i></p>
+</div>
 
 {% bubble Tao %}
 There was a map in the pack that I got…
@@ -1647,9 +1652,9 @@ Oh, the areas are color coded. Looks like we’re going to be pushed towards the
 <th><i>(From my starting point, I’m gonna have to wait out the chaos. I should probably move around quietly and let the enemies take each other out.)</i></th>
 {% endbubble %}
 
-{% bubble Kodama %}
-<i><b>For the five of you that manage to make it to the end, there’s a reward waiting for you! It’ssss… a special prison activity! Rejoice!</b></i>
-{% endbubble %}
+<div class="kodama-announcement">
+<p><i>For the five of you that manage to make it to the end, there’s a reward waiting for you! It’ssss… a special prison activity! Rejoice!</i></p>
+</div>
 
 {% bubble Tao %}
 <th><i>(Special prison activity? I wonder what that could be.)</i></th>
@@ -1659,9 +1664,9 @@ Oh, the areas are color coded. Looks like we’re going to be pushed towards the
 <th><i>(It might be in a prison… but my Survival Game Lover instincts are tingling! I don’t care about the rewards, I just want to be the last man standing!)</i></th>
 {% endbubble %}
 
-{% bubble Kodama %}
-<i><b>That’s all! Do your best to stay alive, scumbags! …GLHF!</b></i>
-{% endbubble %}
+<div class="kodama-announcement">
+<p><i>That’s all! Do your best to stay alive, scumbags! …GLHF! [^9]</i></p>
+</div>
 
 <div class="msr-narration">
 <p><i><b>AIR HOOORRRRRRRRN!!!</b></i></p>
@@ -1808,7 +1813,7 @@ If you are assuming command, I will comply.
 {% endbubble %}
 
 {% bubble Raito %}
-Hmmm? Kinari, would you happen to be a Virgo with Mercury as your ruling planet?
+Hmmm? Kinari, would you happen to be a Virgo with Mercury as your ruling planet?[^10]
 
 You strike me as a serious revolutionary.
 {% endbubble %}
@@ -2001,13 +2006,11 @@ He looked a little weak, so he might not be around long.
 
 ![ann](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721066393/mainsto/ch7/announce.png)
 
-{% bubble Announcement %}
-<i><b>―Here is the 5AM update.</b></i>
-
-<i><b>There are 22 contestants remaining.</b></i>
-
-<i><b>Area B-8 is now restricted.</b></i>
-{% endbubble %}
+<div class="announcement">
+<p><i>―Here is the 5AM update.</i></p>
+<p><i>There are 22 contestants remaining.</i></p>
+<p><i>Area B-8 is now restricted.</i></p>
+</div>
 
 {% bubble Tao %}
 U… Ugh, so heavy…
@@ -2266,13 +2269,9 @@ Ghosting?
 {% bubble Raito %}
 They can tell where we are and are leading us to a specific place.
 
-…Well, it’s not hard to guess who's doing this is.
+…Well, it’s not hard to guess who's doing this is. Let’s take the chance and accept their invite.
 
-Let’s take the chance and accept their invite.
-
-Kinari, stay in that building’s shadows.
-
-At this rate, we’ll end up fighting close range, and you’ll be at a disadvantage.
+Kinari, stay in that building’s shadows. At this rate, we’ll end up fighting close range, and you’ll be at a disadvantage.
 {% endbubble %}
 
 ![order](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721066394/mainsto/ch7/order.png)
@@ -2280,9 +2279,7 @@ At this rate, we’ll end up fighting close range, and you’ll be at a disadvan
 {% bubble Kinari %}
 …If that is a command, I will comply.
 
-However, I have no intention of remaining in the game.
-
-Kitakata Raito, do you intend to remain?
+However, I have no intention of remaining in the game. Kitakata Raito, do you intend to remain?
 {% endbubble %}
 
 {% bubble Raito %}
@@ -2356,7 +2353,7 @@ That leaves just one… Hm?
 {% endbubble %}
 
 {% bubble Momiji %}
-<th><i>(Wait a sec. That person with the black haired guy, wasn’t I just on a plane with him not too long ago?!)</i></th>
+<th><i>(Wait a sec. That person with the black haired guy, wasn’t I just on a plane with him not too long ago [^11]?!)</i></th>
 
 <th><i>(I thought he was giving off some strange vibes… but I had no idea he was serving time here!)</i></th>
 
@@ -2447,9 +2444,10 @@ Thanks, Guardy ☆
 <th><i>(<em>Sigh</em>...This whole thing’s gotta be a joke~)</i></th>
 {% endbubble %}
 
-{% bubble Announcement %}
-<i><b>10 remain. In three minutes, the courtyard will be the only safe zone.</b></i>
-{% endbubble %}
+<div class="announcement">
+<p><i>10 remain.</i></p>
+<p><i>In three minutes, the courtyard will be the only safe zone.</i></p>
+</div>
 
 {% bubble Chihiro %}
 <th><i>(Just the courtyard, huh… There’s no cover.)</i></th>
@@ -2517,9 +2515,9 @@ Didn’t I say so already? Our opponent is like the Jack in Euchre.
 He’s the only one that can turn the tables, no matter how strong our hand is.
 {% endbubble %}
 
-{% bubble Announcement %}
-<i><b>Two eliminated. Eight remain.</b></i>
-{% endbubble %}
+<div class="announcement">
+<p><i>2 eliminated. 8 remain.</i></p>
+</div>
 
 {% bubble Raito %}
 And…
@@ -2565,11 +2563,10 @@ Anyway… I can finally show you what despair really is… ♪
 
 ![final](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721067567/mainsto/ch8/final.png)
 
-{% bubble Announcement %}
-<i><b>―It is now the final round.</b></i>
-
-<i><b>All areas outside the courtyard are now prohibited.</b></i>
-{% endbubble %}
+<div class="announcement">
+<p><i>―It is now the final round.</i></p>
+<p><i>All areas outside the courtyard are now prohibited.</i></p>
+</div>
 
 <div class="msr-narration">
 <p><i>Gust of wind sweeps through the area.</i></p>
@@ -2729,11 +2726,10 @@ Wh… Why…? I was aiming for the black haired guy. I didn’t even… hear any
 <p><i>Ding ding!</i></p>
 </div>
 
-{% bubble Announcement %}
-<i><b>That’s the end! Five remaining contestants confirmed!</b></i>
-
-<i><b>The members for the special prison activity have been selected!</b></i>
-{% endbubble %}
+<div class="announcement">
+<p><i>That’s the end! Five remaining contestants confirmed!</i></p>
+<p><i>The members for the special prison activity have been selected!</i></p>
+</div>
 
 {% bubble Kuguri %}
 …I wasn’t done yet.
@@ -2768,7 +2764,7 @@ Look, his name and face are all over the internet.
 {% bubble Momiji %}
 <th><i>(Huh? Wait… Isn’t Nayuki-kun’s last name Kitakata too?)</i></th>
 
-<th><i>(Come to think of it, I think Kafka said that Nayuki-kun played a part in mahorova’s launch as the COO.)</i></th>
+<th><i>(Come to think of it, I think Kafka said that Nayuki-kun played a part in mahorova’s launch as the COO[^12].)</i></th>
 {% endbubble %}
 
 {% bubble Nayuki %}
@@ -2888,7 +2884,7 @@ I am! I’m jazzed～☆
 {% endbubble %}
 
 {% bubble Raito %}
-Hm. I see. Come to think of it, today is Tenshanichi isn’t it?
+Hm. I see. Come to think of it, today is Tenshanichi[^13] isn’t it?
 
 The revolutionary planet, Neptune, and the planet of love, Venus are aligned. Is that what’s happening?
 {% endbubble %}
@@ -2988,7 +2984,7 @@ So you remembered me…
 {% endbubble %}
 
 {% bubble Kuguri %}
-I’ve got a good memory, <i>cicám</i>.
+I’ve got a good memory, <i>cicám [^14]</i>.
 
 Idols, huh… I see how it is.
 {% endbubble %}
@@ -3024,10 +3020,30 @@ See you later.
 <sup>(3): In numerology, 8 means prosperity while 1 means leadership/independence.</sup>
 <sup>(4): Euchre is a card game in which the goal is to be the first to win 10 points. The Jack is the strongest card in the game.</sup>
 <sup>(5): Hungarian for "boy"/"guy"/etc.</sup>
-<sup>(6): Hungarian for "teddy bear"</sup>
-<sup>(7): Digital fans!</sup>
-<sup>(8): "Good Luck, Have Fun!"</sup>
+<sup>(6): Kuguri's nickname for Tao. Hungarian for teddy bear.</sup>
+<sup>(7): Kuguri's name for Raito. JP appellation of the emperor from story most commonly known as The Emperor's New Clothes.</sup>
+<sup>(8): Digital fans!</sup>
+<sup>(9): "Good Luck, Have Fun!"</sup>
+<sup>(10): Mercury is usually the ruling planet of the Virgo/Gemini zodiacs. Typically called the planet of communication in astrology.</sup>
+<sup>(11): Refers to Kuguri from the prologue.</sup>
+<sup>(12): Meaning Chief Operating Officer, which is like a second in command for a CEO.</sup>
+<sup>(13): Believed to be one of the luckiest days of the year, as all the gods rise and completely forgive the sins of people on this day.</sup>
+<sup>(14): Kuguri's nickname for the MC, both Kaede and Momiji. Hungarian for kitten.</sup>
 
+[^1]: A slang term prisoners use to refer to someone who’s newly incarcerated.
+[^2]: The term used in text is “Ohina-sama”. This references “Hina dolls”, which are a type of elegant doll displayed during Hinamatsuri (Doll’s/Girl’s Day)
+[^3]: In numerology, 8 means prosperity while 1 means leadership/independence.
+[^4]: Euchre is a card game in which the goal is to be the first to win 10 points. The Jack is the strongest card in the game.
+[^5]: Hungarian for boy, guy, etc.
+[^6]: Kuguri's nickname for Tao. Hungarian for teddy bear.
+[^7]: Kuguri's name for Raito. JP appellation of the emperor from story most commonly known as The Emperor's New Clothes.
+[^8]: Digital fans!
+[^9]: Good Luck, Have Fun!
+[^10]: Mercury is usually the ruling planet of the Virgo/Gemini zodiacs. Typically called the planet of communication in astrology.
+[^11]: Refers to Kuguri from the prologue.
+[^12]: Meaning Chief Operating Officer, which is like a second in command for a CEO.
+[^13]: Believed to be one of the luckiest days of the year, as all the gods rise and completely forgive the sins of people on this day.
+[^14]: Kuguri's nickname for the MC, both Kaede and Momiji. Hungarian for kitten.
 
 
 
