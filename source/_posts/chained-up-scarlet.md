@@ -3,6 +3,30 @@ title: Chained Up Scarlet (Side A)
 date: 2055-07-07 12:23:00
 ---
 
+<head>
+<!-- Primary Meta Tags -->
+<title>Chained Up Scarlet (Side A)</title>
+<meta name="title" content="Chained Up Scarlet (Side A)" />
+<meta name="description" content="Contains a Translation for Ev3n's mainstory, Chained Up Scarlet!" />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://azurecrystalz.github.io/2055/07/07/chained-up-scarlet/" />
+<meta property="og:title" content="Chained Up Scarlet (Side A)" />
+<meta property="og:description" content="Contains a Translation for Ev3n's mainstory, Chained Up Scarlet!" />
+<meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content="https://azurecrystalz.github.io/2055/07/07/chained-up-scarlet/" />
+<meta property="twitter:title" content="Chained Up Scarlet (Side A)" />
+<meta property="twitter:description" content="Contains a Translation for Ev3n's mainstory, Chained Up Scarlet!" />
+<meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
+
+<!-- Meta Tags Generated with https://metatags.io -->
+</head>
+
+
 
 <style>
     .chapter-area li {
