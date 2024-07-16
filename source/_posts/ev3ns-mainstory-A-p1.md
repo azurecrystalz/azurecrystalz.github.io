@@ -758,6 +758,18 @@ Don’t mention it.  Me? I’m Kitakata Raito.
 I’m also… the one they call “King” on this island.
 {% endbubble %}
 
+<div class="minitalk-option">
+  <div class="minitalk-option_header tab-header__open">
+    <i>Ev3ns Opening Song "Scarlet Scars" Plays</i>
+  </div>
+  <div class="minitalk-option_content" style="display: none;">
+    <div class="msr-line">
+      <p><center>Translation can be found <a href="https://docs.google.com/document/d/1fzARGIAXmEbgQr7CZewGXM9vWquADq0o59AeoAByrts/edit?usp=sharing">here</a></center></p>
+    </div>
+  </div>
+  </div>
+</div>
+
 <h2 id="2">003-A02: Ace in the Hole</h2>
 
 <div class="msr-narration">
@@ -2020,7 +2032,7 @@ U… Ugh, so heavy…
 {% endbubble %}
 
 {% bubble Kuguri %}
-Good morning, <i>macipie</i> ♪
+Good morning, <i>maci-</i>pie ♪
 {% endbubble %}
 
 {% bubble Tao %}
