@@ -364,7 +364,6 @@ description: ev3ns mainstory translation side A
 <center><h5><a href="#1"><b>Track 1</b></a> | <a href="#2"><b>Track 2</b></a> | <a href="#3"><b>Track 3</b></a> | <a href="#4"><b>Track 4</b></a> | <a href="#5"><b>Track 5</b></a> | <a href="#6"><b>Track 6</b></a> | <a href="#7"><b>Track 7</b></a> | <a href="#8"><b>Track 8</b></a></h5></center>
 
 <sup><span style="color: #f2f2c6"><i>Note! I play the game with Momiji, the female MC, so the dialogue may differ slightly from what you'd get if you played with the male MC!</i></span></sup>
-<br>
 <sup><span style="color: #f2f2c6"><i>Additionally, I <b>strongly recommend</b> you watch the voiced version of mainstory while you read in order to get the best experience! I attempted to make the text version as immersive as possible, but text can only do so much. So, keep the voiced version on if you can!</i></span></sup>
 
 ***
