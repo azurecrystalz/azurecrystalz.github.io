@@ -10,7 +10,7 @@ description: kuguri mahorova sr story
 
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@e76efbe8f9b45dd002a4411f4c63d90a17b8bab0/expressions.css ">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@cdde00757833b4fb17258e1914fc04279a0d9f99/expressions.css ">
 </head>
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
@@ -64,7 +64,7 @@ description: kuguri mahorova sr story
                           Proofreaders
                       </div>
                       <div class="value">
-                         <a href="https://x.com/taatsums">dimi (JP)</a> & <a href="https://tumblr.com/starswallowingsea">shay</a> 
+                         <a href="https://x.com/taatsums">dimi (JP)</a> & <a href="https://tumblr.com/starswallowingsea">shay (ENG)</a> 
                       </div>
                   </div>
               </div>
@@ -240,7 +240,7 @@ True, but it doesn’t look big enough to manage something like that.
 {% endbubble %}
 
 {% bubble Nagi %}
-Well then, the only option left would be for it to wrap around my neck and suffocate m–
+Well then, the only option left would be for it to wrap around my neck and suffocate m—
 {% endbubble %}
 
 ![oh](https://files.catbox.moe/yq57a5.PNG)
@@ -268,7 +268,7 @@ Hisssss…!
 {% endbubble %}
 
 {% bubble Nagi %}
-Oh, if you get any closer, it’ll–
+Oh, if you get any closer, it’ll—
 {% endbubble %}
 
 <h2>Track 2</h2>

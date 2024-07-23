@@ -9,7 +9,7 @@ description: kuguri initial ssr tl
 ---
 
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@e76efbe8f9b45dd002a4411f4c63d90a17b8bab0/expressions.css ">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@cdde00757833b4fb17258e1914fc04279a0d9f99/expressions.css ">
 </head>
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">

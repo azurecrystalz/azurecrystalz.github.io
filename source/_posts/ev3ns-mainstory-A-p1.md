@@ -12,7 +12,7 @@ description: ev3ns mainstory translation side A
 ---
 
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@e76efbe8f9b45dd002a4411f4c63d90a17b8bab0/expressions.css ">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@cdde00757833b4fb17258e1914fc04279a0d9f99/expressions.css ">
 </head>
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
@@ -1918,7 +1918,7 @@ You’re meant to be the winner! I just <i>know</i> it!
 {% endbubble %}
 
 {% bubble Chihiro %}
-*Huffs*…
+*(Huffs)*…
 {% endbubble %}
 
 {% bubble Chihiro %}
@@ -1984,7 +1984,7 @@ I’ll see you later!
 ![innocent](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721065506/mainsto/ch6/innocent.png)
 
 {% bubble Chihiro %}
-*Sigh*... “Innocent”, huh…
+*(Sigh)*... “Innocent”, huh…
 
 You aren’t looking at what’s behind the screen. So lazy.
 
@@ -2180,7 +2180,7 @@ A shame, you should’ve savored it more.
 {% bubble Tao %}
 Savored it…? What are you talking about? We’re playing a <i>Survival Game</i>, remember?!
 
-*Sigh*... What a headache.
+*(Sigh)*... What a headache.
 {% endbubble %}
 
 {% bubble Kuguri %}
@@ -2755,7 +2755,7 @@ Kuguri, I’m glad we were able to fight in the end.
 {% endbubble %}
 
 {% bubble Kuguri %}
-<em>Sigh</em>…
+<em>(Sigh)</em>…
 {% endbubble %}
 
 <div class="msr-narration">
