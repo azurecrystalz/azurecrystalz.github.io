@@ -4,7 +4,7 @@ date: 2055-07-07 20:02:00
 categories: 18trip
 tags:
 - Domeki Kuguri
-- kitakata raito
+- Kitakata Raito
 description: kuguri initial sr story
 ---
 
