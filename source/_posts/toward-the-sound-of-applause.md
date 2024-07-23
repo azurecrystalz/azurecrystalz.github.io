@@ -9,7 +9,7 @@ description: kuguri initial ssr tl
 ---
 
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@1ba7a6d75ac5d06f741e58f51e1961b8dc939558/expressions.css ">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@e76efbe8f9b45dd002a4411f4c63d90a17b8bab0/expressions.css ">
 </head>
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
@@ -260,7 +260,7 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Kinari %}
-    Commencing search for “Possible Activities for Domeki Kuguri’s Day Off”.
+    Commencing search for “Possible Activities on Domeki Kuguri’s Day Off”.
 
     —Relevant information unavailable. I can conduct additional research, if you’d like, master?
   {% endbubble %}
@@ -300,11 +300,11 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Granny %}
-    Oya, Takashi-kun. Hello there, are you on a walk?
+    Oya. Hello, youngun. Are you on a walk?
   {% endbubble %}
 
   {% bubble Kuguri %}
-    Yo, Rani. It’s good to see you’re well.
+    Hey there, *lány*[^1]. It’s good to see you’re well.
   {% endbubble %}
 
   {% bubble Granny %}
@@ -316,7 +316,7 @@ description: kuguri initial ssr tl
   {% bubble Kuguri %}
     That’s a secret.
     
-    You always seem to want to pry into my business every time you see me, Rani. Is it…that you like me?
+    You always seem to want to pry into my business every time you see me, *lány*. Is it…that you like me?
   {% endbubble %}
 
   {% bubble Granny %}
@@ -362,7 +362,7 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Kuguri %}
-    —It’s time. See ya. Until fate brings us together again.
+    —It’s time. Bye now, until fate brings us together again.
   {% endbubble %}
 
   {% bubble Momiji %}
@@ -440,7 +440,7 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Kuguri %}
-    Oh my, it seems like you’re deaf too.
+    Oh, it seems like you’re deaf too.
 
     Or are you doing this on purpose to annoy me?
   {% endbubble %}
@@ -474,7 +474,7 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Kuguri %}
-    Oya, what are you doing around here? Cicám.
+    Oya, what are you doing around here? Cicám[^2].
   {% endbubble %}
 
   {% bubble Momiji %}
@@ -482,13 +482,13 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Kuguri %}
-    Fufu…Once I saw your cheerful face I really couldn’t help but play along.
+    Fufu…Once I saw your cheerful face I really couldn’t help but play a bit.
 
     Congrats on reaching your goal. —Are you going to return that handkerchief to me now?
   {% endbubble %}
 
   {% bubble Momiji %}
-    <th>*(So you really did drop it on purpose!)*</th>
+    <th>*(So he really did drop it on purpose!)*</th>
   {% endbubble %}
 
   {% bubble Kuguri %}
@@ -496,11 +496,11 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Momiji %}
-    This isn’t a date…
+    It wasn't a date…
   {% endbubble %}
 
   {% bubble Kuguri %}
-    Oya, you still aren’t satisfied? How greedy of you, cicám[^1].
+    Oya, you still aren’t satisfied? How greedy of you, cicám.
 
     Well then, how about a real date?
   {% endbubble %}
@@ -528,7 +528,7 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Kuguri %}
-    Hey there. As usual, two please.
+    Hey there. As usual, table for two.
   {% endbubble %}
 
   {% bubble Momiji %}
@@ -552,7 +552,7 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Kuguri %}
-    Oya. Maintenance[^2] was done on it today, but I suppose it's because of those delinquents from earlier.
+    Oh. Maintenance[^3] was done on it today, but I suppose it's because of those delinquents from earlier.
 
     This isn’t a big deal. Having scratch marks left on your body is a cute kind of resistance.
   {% endbubble %}
@@ -586,7 +586,7 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Kuguri %}
-    Isn’t it? Tokay[^3] wine has a smooth flavor and it’s quite easy to drink.
+    Isn’t it? Tokay[^4] wine has a smooth flavor and it’s quite easy to drink.
 
     This bar certainly doesn’t disappoint when it comes to Hungarian wine.
   {% endbubble %}
@@ -629,15 +629,17 @@ description: kuguri initial ssr tl
     <th>*(…Nevermind. Kuguri-san really is a mystery.)* </th>
   {% endbubble %}
 
-  [^1]: How Kuguri refers to the MC; meaning “kitten” in Hungarian
-  [^2]: When Kuguri mentions performing maintenance, he is referring to his prosthetic arms
-  [^3]: A type of Hungarian wine.
+  [^1]: Hungarian for girl/lady/etc
+  [^2]: How Kuguri refers to the MC; meaning “kitten” in Hungarian
+  [^3]: When Kuguri mentions performing maintenance, he is referring to his prosthetic arms
+  [^4]: A type of Hungarian wine.
 
   <h4>Translation Notes</h4>
   
-  <sup>(1): How Kuguri refers to the MC; meaning “kitten” in Hungarian</sup>
-  <sup>(2): When Kuguri mentions performing maintenance, he is referring to his prosthetic arms</sup>
-  <sup>(3): A type of Hungarian wine.</sup>
+  <sup>(1): Hungarian for girl/lady/etc</sup>
+  <sup>(2): How Kuguri refers to the MC; meaning “kitten” in Hungarian</sup>
+  <sup>(3): When Kuguri mentions performing maintenance, he is referring to his prosthetic arms</sup>
+  <sup>(4): A type of Hungarian wine.</sup>
 
   <!-- CONTENT GOES HERE -->
 

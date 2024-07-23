@@ -12,7 +12,7 @@ description: ev3ns mainstory translation side A
 ---
 
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@1ba7a6d75ac5d06f741e58f51e1961b8dc939558/expressions.css ">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@e76efbe8f9b45dd002a4411f4c63d90a17b8bab0/expressions.css ">
 </head>
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
@@ -363,8 +363,8 @@ description: ev3ns mainstory translation side A
 
 <center><h5><a href="#1"><b>Track 1</b></a> | <a href="#2"><b>Track 2</b></a> | <a href="#3"><b>Track 3</b></a> | <a href="#4"><b>Track 4</b></a> | <a href="#5"><b>Track 5</b></a> | <a href="#6"><b>Track 6</b></a> | <a href="#7"><b>Track 7</b></a> | <a href="#8"><b>Track 8</b></a></h5></center>
 
-<sup><span style="color: #f2f2c6"><i>Note! I play the game with Momiji, the female MC, so the dialogue may differ slightly from what you'd get if you played with the male MC!</i></span></sup>
-<sup><span style="color: #f2f2c6"><i>Additionally, I <b>strongly recommend</b> you watch the voiced version of mainstory while you read in order to get the best experience! I attempted to make the text version as immersive as possible, but text can only do so much. So, keep the voiced version on if you can!</i></span></sup>
+<sup><i>Note! I play the game with Momiji, the female MC, so the dialogue may differ slightly from what you'd get if you played with the male MC!</i></sup>
+<sup><i>Additionally, I <b>strongly recommend</b> you watch the voiced version of mainstory while you read in order to get the best experience! I attempted to make the text version as immersive as possible, but text can only do so much. So, keep the voiced version on if you can!</i></sup>
 
 ***
 
