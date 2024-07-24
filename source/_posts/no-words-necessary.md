@@ -350,7 +350,7 @@ Oh, you two are the new guys from the evening group. Looks like you’re really 
 {% endbubble %}
 
 <div class="msr-narration">
-<p><i>Sound of treadmills starting, whirring to a fast setting, and runnning footsteps</i></p>
+<p><i>Sound of treadmills starting, whirring to a fast setting, and running footsteps</i></p>
 </div>
 
 ![oh brother](https://files.catbox.moe/z3k8mq.PNG)

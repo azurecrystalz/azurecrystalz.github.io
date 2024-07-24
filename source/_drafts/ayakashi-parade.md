@@ -323,7 +323,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   {% bubble Nanaki %}
-  Tch. “Dr. Ghost Pepper: Hell Edition”...
+  Tch. “Dr. Ghost Pepper: Hell Edition”[^2]...
   {% endbubble %}
 
   {% bubble Ushio %}
@@ -482,6 +482,293 @@ description: kinari event sr story translation
 
 
   <h2 id="2">Track 2</h2>
+
+  <sup>Translated by <a href=”https://x.com/myuntachis”>myun</a></sup>
+
+  <div class="msr-narration">
+  <p><i><b>Location:</b>HAMA House - Conference Room</i></p>
+  </div>
+
+  {% bubble Kafka %}
+  Alright, everyone’s here.
+
+  Now then, let’s begin today’s meeting.
+  {% endbubble %}
+
+  {% bubble Akuta %}
+  Hell yea! It’s about time!
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  I will explain the situation.
+
+  We’ve called you all here today to discuss a collaboration between companies.
+
+  We’ve been asked to participate in “mahorova CosFest vol.1”, also known as “mahoCos” for short. It is a full-dive cosplay event that will take place inside of mahorova.
+  {% endbubble %}
+
+  {% bubble Chihiro %}
+  Ehh, a collab with THE mahorova!?
+  {% endbubble %}
+
+  {% bubble Renga %}
+  That’s a crazy huge deal…!
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  Indeed. The primary objective of mahoCos is to promote the re-release of a costume app that users can set as avatars inside mahorova.
+  {% endbubble %}
+
+  {% bubble Kafka %}
+  HAMA’s been the talk of the town as of late ♪
+
+  Therefore, we want you, as the acting ward mayors, to participate in this event and liven things up.
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  The theme of the event is “Ayakashi [^3]”.
+
+  In order to implement the costumes into the app, we’d like you to prepare designs based on that theme.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  …
+
+  <th><i>(I’m interested in cosplaying in mahorova, but… That theme is <b>so</b> boring. There’s gotta be <b>something</b> more interesting they can do, right?)</i></th>
+  {% endbubble %}
+
+  {% bubble Raito %}
+  Nayuki, have the participating mayors or any potential candidates already been decided?
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  …I feel as though somebody just asked about the participants. Here is what we have as of right now.
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  …N-Nayuki-kun didn’t acknowledge Raito-san at all…
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  The event administration has extended an offer to Domeki-san.
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  Hm? Me?
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  Much to my delight, it seems that someone among the management is a big fan of Ev3ns.
+
+  They’re especially fond of Doumeki-san, so they were really hoping that he would participate.
+
+  Furthermore, Doumeki-san’s disposition suits the “Ayakashi” theme quite well.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  <th><i>(Haah? What the hell. What kind of cheap abuse of power is this?)</i></th>
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  Fufu… It's not like I can help it if that little lamb has such fine taste.
+
+  Alright, I’ll do it.
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  Thank you. Next, I’d like to request someone myself.
+
+  Azekawa-kun, I would like to nominate you as a participant.
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  Command processed.
+
+  Manager, please provide an explanation for your appeal to assist in decision-making.
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  This request also involves reviews of the costume app.
+
+  Thus, I would like you to serve as a record-keeper for the participants’ opinions as well.
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  Master. May I accept this order?
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  Of course you can!
+
+  Kinari-kun’s specialty is collecting data, after all!
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  Understood. Command processed.
+
+  Updating priority queue.
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  Alright, then we’ve decided on two participants.
+
+  If anyone else is interested, please let us know.
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  Ah, if Kugunii… If Doumeki-san is going to be there, I think I’d like to join too.
+
+  I’d like to try working with him.
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  Oh? How cute of you, Nanaki.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  <th><i>(Ughhh. Those relatives sure are all buddy-buddy.)</i></th>
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  Then Nanaki-kun will be joining as well. Anyone else?
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  Oh, right, cosplay is Sakujiro-san’s specialty!
+
+  If he can advise us regarding the costumes—
+  {% endbubble %}
+
+  {% bubble Sakujiro %}
+  I’m terribly sorry, but my schedule is packed full.
+
+  I have not a moment of rest until the day of the event. I fear it will be quite the challenge to provide my expertise this time around.
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  I see… In that case, the rest of us will just have to do our best.
+
+  Ayakashi is a really interesting theme…!
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  …I don’t think so at all.
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  Eh?
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Isn’t it a bit too spontaneous to throw in Domeki-san just because he happens to look the part?
+
+  To start with, Ayakashi is all about yokai, right? That’s pretty basic for a cosplay theme.
+
+  You really wanna use that outdated theme for an app’s PR? Isn’t it missing something fresh and innovative?
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  Um… I… guess so?
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  …Fufu.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  …What’s so funny, Domeki-san?
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  Oh, nothing. I was just wondering what the problem would be with something "basic".
+
+  Isn’t figuring out how to play around with such an everyday theme the fun part?
+
+  Or is that level of creativity a little too challenging for you?
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  That’s not what I’m saying.
+
+  <th><i>(I’m no Karigane-san, but I’m by no means a stranger to cosplay.)</i></th>
+
+  Just… from what you guys were saying earlier, this is an insane offer, but is it really okay to be so nonchalant about this whole thing?
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  *(Sigh)*... You really can’t get enough of complaining about every little thing, can you.
+
+  Just yesterday, wasn’t it you who said “It’s like there’s people who don’t know the basics of communication”?
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Haah?
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  What?
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  You’re still fighting? Calm down, you two–
+
+  …Ah. Deja-vu.
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  A-Ahh…!
+
+  Nagi-kun just tripped over his own two feet…
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  The force of impact from falling into the desk caused Nanamegi-sama and Kurama-sama’s drinks to…
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  Hot… No, it’s cold… No, it’s perfectly room temperature.
+  {% endbubble %}
+
+  {% bubble NU2 %}
+  Why the hell did it only spill directly onto Hachinoya-san!?
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  Huh. The scalding hot coffee canceled out the ice-cold Dr. Ghost Pepper to save me.
+  {% endbubble %}
+
+  {% bubble Kafka %}
+  Ahaha! You’re all perfectly in sync ♪
+
+  Nayuki, as for the remaining members, let’s add Ushio and… It’ll get interesting if we add Nagi, too. Isn’t this a fine team of 5?
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  Well, that’ll do.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Hold up, I never even said I wanted to join…
+  {% endbubble %}
+
+  {% bubble Kafka %}
+  Oh? Are you not confident in your ability to pull it off?
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  …Of course I can do it.
+  {% endbubble %}
+
+  {% bubble Kafka %}
+  Then there’s no problem! Anyways, I’ll leave it to you ♪
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  …!
+
+  This fucking sucks…
+  {% endbubble %}
+
   <h2 id="3">Track 3</h2>
   <h2 id="4">Track 4</h2>
   <h2 id="5">Track 5</h2>
@@ -492,9 +779,15 @@ description: kinari event sr story translation
 
 
 [^1]: Wataame (Cotton Candy in English) is the 18trip equivalent of marshmallow, a JP anonymous question site similar to retrospring or curiouscat.
+[^2]: The drink name is basically just the name of ghost pepper (bhüt jolokia) + Really Spicy so we worked it a little to play on the name of a real soda, Dr. Pepper
+[^3]: Ayakashi and Yokai are similar beings but not exactly the same. Yokai focus on supernatural phenomena, while Ayakashi focuses on beauty/allure/fantasy that things have. Oftentimes Ayakashi are related to the sea, but since pretty much none of the entities chosen by the mayors are sea-based/related, this definition doesn't really work here.
 
 <h4>Translation Notes</h4>
+
 <sup>(1):Wataame (Cotton Candy in English) is the 18trip equivalent of marshmallow, a JP anonymous question site similar to retrospring or curiouscat.</sup>
+<sup>(2):The drink name is basically just the name of ghost pepper (bhüt jolokia) + Really Spicy so we worked it a little to play on the name of a real soda, Dr. Pepper</sup>
+<sup>(3): Ayakashi and Yokai are similar beings but not exactly the same. Yokai focus on supernatural phenomena, while Ayakashi focuses on beauty/allure/fantasy that things have. Oftentimes Ayakashi are related to the sea, but since pretty much none of the entities chosen by the mayors are sea-based/related, this definition doesn't really work here.</sup>
+
   <!-- 
   SPEECH BUBBLE FORMAT: 
   {% bubble [CHARACTER_FIRST_NAME] [ATTRIBUTE(optional)]}
