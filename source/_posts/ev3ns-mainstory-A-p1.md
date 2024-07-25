@@ -3002,7 +3002,7 @@ So you remembered me…
 {% endbubble %}
 
 {% bubble Kuguri %}
-I’ve got a good memory, <i>cicám [^14]</i>.
+I’ve got a good memory, <i>cicá [^14]</i>.
 
 Idols, huh… I see how it is.
 {% endbubble %}

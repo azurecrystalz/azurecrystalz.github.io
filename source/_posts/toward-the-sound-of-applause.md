@@ -474,7 +474,7 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Kuguri %}
-    Oya, what are you doing around here? Cicám[^2].
+    Oya, what are you doing around here? Cicá[^2].
   {% endbubble %}
 
   {% bubble Momiji %}
@@ -492,7 +492,7 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Kuguri %}
-    It was *such* a fun time being under your watchful eye, cicám. What a nice date.
+    It was *such* a fun time being under your watchful eye, cicá. What a nice date.
   {% endbubble %}
 
   {% bubble Momiji %}
@@ -500,7 +500,7 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Kuguri %}
-    Oya, you still aren’t satisfied? How greedy of you, cicám.
+    Oya, you still aren’t satisfied? How greedy of you, cicá.
 
     Well then, how about a real date?
   {% endbubble %}
@@ -536,7 +536,7 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Kuguri %}
-    I’ll treat you to a glass of my favorite Hungarian wine today, cicám.
+    I’ll treat you to a glass of my favorite Hungarian wine today, cicá.
   {% endbubble %}
 
   {% bubble Momiji %}
@@ -574,7 +574,7 @@ description: kuguri initial ssr tl
   {% endbubble %}
 
   {% bubble Kuguri %}
-    Good girl, cicám.
+    Good girl, cicá.
   {% endbubble %}
 
   {% bubble Owner %}

@@ -182,7 +182,7 @@ As for how it fits in with the room’s decor… well it’s definitely not the 
 {% endbubble %}
 
 {% bubble Kuguri %}
-It’s quite nice, isn’t it, <i>cicám</i>?
+It’s quite nice, isn’t it, <i>cicá</i>?
 
 Wouldn’t this chair be a nice fit for you too?
 {% endbubble %}
