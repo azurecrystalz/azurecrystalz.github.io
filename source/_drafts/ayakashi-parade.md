@@ -277,6 +277,8 @@ description: kinari event sr story translation
     <p><i><b>Location:</b> HAMA House - Horse Room</i></p>
   </div>
 
+  ![horsie](https://files.catbox.moe/7kfv3m.PNG)
+
   {% bubble Ushio %}
   ……
   {% endbubble %}
@@ -290,7 +292,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   {% bubble Muneuji %}
-  …<em>Sigh</em>. He’s completely immersed in the world of his fanfiction, huh.
+  …<em>(Sigh)</em>. He’s completely immersed in the world of his fanfiction, huh.
 
   Well, I hope he doesn’t fall down the stairs.
   {% endbubble %}
@@ -299,8 +301,10 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA House - Second Floor Hallway</i></p>
   </div>
 
+  ![sighssss](https://files.catbox.moe/0oy9v3.PNG)
+
   {% bubble Ushio %}
-  …<em>Sigh</em>.
+  …<em>(Sigh)</em>.
 
   “Even while baking sweets that anyone would love, you still make sure your own tastes shine through. That's what makes you a brilliant patissier,” huh…
 
@@ -315,6 +319,8 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA House - Kitchen</i></p>
   </div>
 
+  ![thats](https://files.catbox.moe/rxuajr.PNG)
+
   {% bubble Ushio %}
   <th><i>(That’s…)</th></i>
   {% endbubble %}
@@ -322,6 +328,10 @@ description: kinari event sr story translation
   {% bubble Nanaki %}
   …
   {% endbubble %}
+
+  <div class="msr-narration">
+    <p><i>Sound of coffee pouring</i></p>
+  </div>
 
   {% bubble Ushio %}
   <th><i>(<b>Someone’s</b> already here… Ugh, this sucks. Of course it’s bound to happen with this whole dorm situation, but…)</i></th>
@@ -338,6 +348,10 @@ description: kinari event sr story translation
 
   <th><i>(God, I hate that he’s the spitting image of my oshi…)</i></th>
   {% endbubble %}
+
+  <div class="msr-narration">
+    <p><i>Sound of can opening</i></p>
+  </div>
 
   {% bubble Nanaki %}
   Tch. “Dr. Ghost Pepper: Hell Edition”[^2]...
@@ -377,12 +391,18 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA House - Second Floor Hallway</i></p>
   </div>
 
+  ![nagiwagi](https://files.catbox.moe/crwfic.PNG)
+
+  <div class="msr-narration">
+    <p><i>Sound of message notification</i></p>
+  </div>
+
   {% bubble Nagi %}
   Ah, a message from Nayuki-san…
 
-  “About tomorrow’s meeting”...
-
-  It’s been a while since we’ve had everyone together. I’m looking forward to it. I should tell the others as soon as I—
+  “About tomorrow’s meeting”... It’s been a while since we’ve had everyone together. I’m looking forward to it.
+  
+  I should tell the others as soon as I—
 
   …Hm?
   {% endbubble %}
@@ -390,6 +410,8 @@ description: kinari event sr story translation
   <div class="msr-narration">
   <p><i><b>Location:</b> HAMA House - Kitchen</i></p>
   </div>
+
+  ![roastoff](https://files.catbox.moe/xor5y0.PNG)
 
   {% bubble Ushio %}
   And you, what the hell is up with that smug-ass face while you’re showing off your coffee pouring? Nobody gives a shit.
@@ -413,6 +435,8 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA House - Second Floor Hallway</i></p>
   </div>
 
+  ![arguing](https://files.catbox.moe/k5sk42.PNG)
+
   {% bubble Nagi %}
   I can hear arguing from downstairs…
 
@@ -424,7 +448,17 @@ description: kinari event sr story translation
   {% endbubble %}
 
   <div class="msr-narration">
+    <p><i>Nagi falls from the second floor</i></p>
+  </div>
+
+  ![nagigif](https://files.catbox.moe/zykmhx.gif)
+
+  <div class="msr-narration">
   <p><i><b>Location:</b> HAMA House - Kitchen</i></p>
+  </div>
+
+  <div class="msr-narration">
+    <p><i>THUD!</i></p>
   </div>
 
   {% bubble Ushio %}
@@ -471,6 +505,8 @@ description: kinari event sr story translation
   Ah, r-right… Hey, Andy! Call 911–
   {% endbubble %}
 
+  ![whew](https://files.catbox.moe/ohc560.PNG)
+
   {% bubble Nagi %}
   ………Whew.
   {% endbubble %}
@@ -499,8 +535,10 @@ description: kinari event sr story translation
   <sup>Translated by <a href=”https://x.com/myuntachis”>myun</a></sup>
 
   <div class="msr-narration">
-  <p><i><b>Location:</b>HAMA House - Conference Room</i></p>
+  <p><i><b>Location:</b> HAMA House - Conference Room</i></p>
   </div>
+
+  ![everyoneshere](https://files.catbox.moe/oqiqq5.PNG)
 
   {% bubble Kafka %}
   Alright, everyone’s here.
@@ -537,6 +575,8 @@ description: kinari event sr story translation
 
   Therefore, we want you, as the acting ward mayors, to participate in this event and liven things up.
   {% endbubble %}
+
+  ![theme](https://files.catbox.moe/uqbvgc.PNG)
 
   {% bubble Nayuki %}
   The theme of the event is “Ayakashi [^3]”.
@@ -581,6 +621,8 @@ description: kinari event sr story translation
   {% bubble Ushio %}
   <th><i>(Haah? What the hell. What kind of cheap abuse of power is this?)</i></th>
   {% endbubble %}
+
+  ![pooks](https://files.catbox.moe/xeuui0.PNG)
 
   {% bubble Kuguri %}
   Fufu… It's not like I can help it if that little lamb has such fine taste.
@@ -627,6 +669,8 @@ description: kinari event sr story translation
 
   If anyone else is interested, please let us know.
   {% endbubble %}
+
+  ![kugunii](https://files.catbox.moe/llvafu.PNG)
 
   {% bubble Nanaki %}
   Ah, if Kugunii… If Doumeki-san is going to be there, I think I’d like to join too.
@@ -688,6 +732,8 @@ description: kinari event sr story translation
   …Fufu.
   {% endbubble %}
 
+  ![funny](https://files.catbox.moe/wtsipf.PNG)
+
   {% bubble Ushio %}
   …What’s so funny, Domeki-san?
   {% endbubble %}
@@ -728,6 +774,10 @@ description: kinari event sr story translation
   …Ah. Deja-vu.
   {% endbubble %}
 
+  <div class="msr-narration">
+    <p><i>Nagi trips and falls with a thud.</i></p>
+  </div>
+
   {% bubble Kaede %}
   A-Ahh…!
 
@@ -741,6 +791,8 @@ description: kinari event sr story translation
   {% bubble Nagi %}
   Hot… No, it’s cold… No, it’s perfectly room temperature.
   {% endbubble %}
+
+  ![spill](https://files.catbox.moe/3wp1x0.PNG)
 
   {% bubble NU2 %}
   Why the hell did it only spill directly onto Hachinoya-san!?
@@ -790,6 +842,12 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> mahorova - Shrine Area</i></p>
   </div>
 
+  ![shrine](https://files.catbox.moe/urtlus.PNG)
+
+  <div class="msr-narration">
+    <p><i>Sound of Bio Avatars logging in</i></p>
+  </div>
+
   {% bubble Kaede %}
   Woah, so this is a “Bio Avatar.” This might be the first time I’ve used this kind of thing in mahorova.
   {% endbubble %}
@@ -818,10 +876,12 @@ description: kinari event sr story translation
 
   {% bubble Ushio %}
   …Don’t worry about it.
+  {% endbubble %}
 
-  <th><i>(Damn… even just barely touching is no good.)</i></th>
+  ![daaaamn](https://files.catbox.moe/oaj4rq.PNG)
 
-  <th><i>(So it’s still impossible even through an avatar…)</i></th>
+  {% bubble Ushio %}
+  <th><i>(Damn… it was just a light touch, but I still can’t deal with it even through an avatar…)</i></th>
   {% endbubble %}
 
   {% bubble Kaede %}
@@ -840,12 +900,14 @@ description: kinari event sr story translation
   …Chief. I’m sorry, but let’s triple the amount of flowers planned for tomorrow... No, quintuple—
   {% endbubble %}
 
+  <div class="msr-narration">
+    <p><i>Sound of Bio Avatar logging in</i></p>
+  </div>
+
   {% bubble Nayuki %}
   Apologies for the delay. The briefing session ran a bit long.
 
-  It seems you all managed to login with the Bio Avatars just fine.
-
-  Have you had the chance to try out the costume app?
+  It seems you all managed to login with the Bio Avatars just fine. Have you had the chance to try out the costume app?
   {% endbubble %}
 
   {% bubble Kaede %}
@@ -866,10 +928,10 @@ description: kinari event sr story translation
   This is a perfect opportunity to promote HAMA Tours, so he’s hoping that the five of you will go for the prize.
   {% endbubble %}
 
-  {% bubble Kuguri %}
-  Well then… I'll go for this serpent outfit. It's a bit on the revealing side.
+  ![woofwoof](https://files.catbox.moe/o8bo9q.PNG)
 
-  Reptiles and I are quite compatible creatures, you know.
+  {% bubble Kuguri %}
+  Well then… I'll go for this serpent outfit. It's a bit on the revealing side. Reptiles and I are quite compatible creatures, you know.
 
   Nagi, what do you think? Isn’t it a perfect fit for me?
   {% endbubble %}
@@ -894,10 +956,12 @@ description: kinari event sr story translation
   Look, Nanaki-kun. Isn’t this Kappa costume cute?
   {% endbubble %}
 
+  ![nanaksjfkjhsfd](https://files.catbox.moe/j89y7h.PNG)
+
   {% bubble Nanaki %}
   Eh!? Yeah, Kappa… Um, it’s cute… yeah.
 
-  <span style="font-size:small; line-height: .5em;">I think it would be cuter on you, Chief…</span>
+  <span style="font-size: 80%; line-height: .5em;">I think it would be cuter on you, Chief…</span>
   {% endbubble %}
 
   {% bubble Kaede %}
@@ -905,7 +969,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   {% bubble Nanaki %}
-  T-The Kappa!! I-It’s super cute!!
+  <span style="font-size:145%;">T-The Kappa!! I-It’s super cute!!</span>
   {% endbubble %}
 
   {% bubble Ushio %}
@@ -941,6 +1005,8 @@ description: kinari event sr story translation
 
   Well, at least the foil character was pretty good.
   {% endbubble %}
+
+  ![kinya](https://files.catbox.moe/tqxi4g.PNG)
 
   {% bubble Kinari %}
   …
@@ -978,9 +1044,15 @@ description: kinari event sr story translation
   Eh, what? This blows… Let’s just go.
   {% endbubble %}
 
+  <div class="msr-narration">
+    <p><i>Sound of footsteps hurrying away</i></p>
+  </div>
+
   {% bubble Kaede %}
   U-Ushio-kun! You crossed a line there.
   {% endbubble %}
+
+  ![ahhahasdf](https://files.catbox.moe/qx4143.PNG)
 
   {% bubble Ushio %}
   So what? I thought I’d teach them a lesson, since they <em>clearly</em> can’t recognize bad manners despite their age.
@@ -1017,6 +1089,12 @@ description: kinari event sr story translation
   <div class="msr-narration">
   <p><i><b>Location:</b> Hama Asunaro High School – Classroom</i></p>
   </div>
+
+  <div class="msr-narration">
+    <p><i>School bell rings.</i></p>
+  </div>
+
+  ![school](https://files.catbox.moe/bh8lxd.PNG)
 
   {% bubble Ushio %}
   …
@@ -1066,6 +1144,8 @@ description: kinari event sr story translation
   <p><i>Flashback start.</i></p>
   </div>
 
+  ![schoolflash](https://files.catbox.moe/7zqee8.PNG)
+
   {% bubble Ushio %}
   …Hey, Azekawa-san. You don’t have anything particular in mind for your cosplay outfit, correct?
 
@@ -1095,6 +1175,8 @@ description: kinari event sr story translation
   <div class="msr-narration">
   <p><i>Flashback end.</i></p>
   </div>
+
+  ![presentschool](https://files.catbox.moe/ma8pfw.PNG)
 
   {% bubble Ushio %}
   I’ll leave mine for now, but I have to draft Azekawa-san’s outfit before tomorrow’s meeting.
@@ -1130,6 +1212,8 @@ description: kinari event sr story translation
   I beg to differ. You just said you were putting off your own costume just now. Nanamegi, say something.
   {% endbubble %}
 
+  ![nanaaaaki](https://files.catbox.moe/s4o1i3.PNG)
+
   {% bubble Nanaki %}
   What do you mean by that?
   {% endbubble %}
@@ -1161,7 +1245,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   {% bubble Ushio %}
-  The thing’s bald and smells like ass. And what exactly are you gonna do on the runway? Hold a cucumber and flail around? I think that's pretty damn lame if you ask me.
+  The thing’s bald and smells like ass. And what exactly are you gonna do on the runway? Hold a cucumber[^6] and flail around? I think that's pretty damn lame if you ask me.
   {% endbubble %}
 
   {% bubble Nanaki %}
@@ -1172,9 +1256,15 @@ description: kinari event sr story translation
   Oh, who’s being selfish now? Don’t be a hypocrite.
   {% endbubble %}
 
+  ![uuu](https://files.catbox.moe/rnmeyv.PNG)
+
   {% bubble Nanaki %}
   Uu…
   {% endbubble %}
+
+  <div class="msr-narration">
+    <p><i>School bell rings.</i></p>
+  </div>
 
   {% bubble Ushio %}
   Great, glad we settled that. Why don’t you go back to class now?
@@ -1212,6 +1302,8 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA Tours - Conference Room</i></p>
   </div>
 
+  ![t5](https://files.catbox.moe/khr0pv.PNG)
+
   {% bubble Kaede %}
   Um, everyone. Thanks for all the costume proposals. Nayuki-kun and I have looked them over and—
   {% endbubble %}
@@ -1220,8 +1312,10 @@ description: kinari event sr story translation
   Everyone needs to redo theirs.
   {% endbubble %}
 
+  ![um](https://files.catbox.moe/m0iajr.PNG)
+
   {% bubble Ushio %}
-  …….
+  ......
   {% endbubble %}
 
   {% bubble Kuguri %}
@@ -1233,7 +1327,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   {% bubble Nayuki %}
-  First off, Kurama-kun’s Oni[^6] design… this is just the default outfit. What exactly was your intention behind this?
+  First off, Kurama-kun’s Oni[^7] design… this is just the default outfit. What exactly was your intention behind this?
   {% endbubble %}
 
   {% bubble Ushio %}
@@ -1241,7 +1335,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   {% bubble Nayuki %}
-  This can’t even be called a draft. The reason we called this meeting was to ensure that all of your designs complement each others’ as a group.
+  This can’t even be called a draft. The reason we called this meeting was to ensure that all of your designs complement each other's as a group.
   {% endbubble %}
 
   {% bubble Kaede %}
@@ -1261,7 +1355,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   {% bubble Nagi %}
-  I wanted to give off the image of a bold and stoic Wanyudo[^7].
+  I wanted to give off the image of a bold and stoic Wanyudo[^8].
   {% endbubble %}
 
   {% bubble Nayuki %}
@@ -1270,7 +1364,11 @@ description: kinari event sr story translation
 
   {% bubble Nanaki %}
   U-Umm… I was told my idea was lame, so Muneuji gave me some advice…
+  {% endbubble %}
 
+  ![innovative](https://files.catbox.moe/pg7et2.PNG)
+
+  {% bubble Nanaki %}
   I-It’s…not really giving “innovative” is it… Ahaha…
   {% endbubble %}
 
@@ -1305,6 +1403,8 @@ description: kinari event sr story translation
   {% bubble Nayuki %}
   It is far too flashy and stands out too much.
   {% endbubble %}
+
+  ![stand](https://files.catbox.moe/zygsyj.PNG)
 
   {% bubble Ushio %}
   …Is it bad to have him stand out?
@@ -1342,7 +1442,11 @@ description: kinari event sr story translation
 
   {% bubble Kuguri %}
   Oh… I get it now.
+  {% endbubble %}
 
+  ![MANNNN](https://files.catbox.moe/2blw33.PNG)
+
+  {% bubble Kuguri %}
   Ushio. You designed a costume that <em>you</em> wanted to see on an android, didn’t you?
   {% endbubble %}
 
@@ -1372,7 +1476,11 @@ description: kinari event sr story translation
 
   {% bubble Ushio %}
   …Tch… Azekawa-san, forget it.
+  {% endbubble %}
 
+  ![flamed](https://files.catbox.moe/rlf20z.PNG)
+
+  {% bubble Ushio %}
   Speaking of which, everyone else's drafts got rejected as well, so why am I the only one getting flamed? If we’re just going to waste time like this, can we just end the meeting already?
 
   It’s all good as long as I fix up the designs, right? Then I’ll go do just that.
@@ -1382,12 +1490,16 @@ description: kinari event sr story translation
   Ushio-kun! Wait!
   {% endbubble %}
 
+  <div class="msr-narration">
+    <p><i>Sound of door closing.</i></p>
+  </div>
+
   {% bubble Nanaki %}
   Ehhh…? He actually left like that, wow.
   {% endbubble %}
 
   {% bubble Kinari %}
-  …….
+  ......
   {% endbubble %}
 
   {% bubble Kuguri %}
@@ -1412,6 +1524,12 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA House</i></p>
   </div>
 
+  ![emo](https://files.catbox.moe/g3nfzc.PNG)
+
+  <div class="msr-narration">
+    <p><i>Sound of slow footsteps.</i></p>
+  </div>
+
   {% bubble Ushio %}
   <th><i>(...Domeki-san was right, I didn’t ask Azekawa-san about what he wanted at all.)</i></th>
 
@@ -1421,6 +1539,8 @@ description: kinari event sr story translation
   <div class="msr-narration">
   <p><i>Flashback start</i></p>
   </div>
+
+  ![kuguflashback](https://files.catbox.moe/mths6i.PNG)
 
   {% bubble Kuguri %}
   Ushio. You designed a costume that <em>you</em> wanted to see on an android, correct?
@@ -1438,6 +1558,8 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> Present; HAMA House</i></p>
   </div>
 
+  ![resumfnssdkjh](https://files.catbox.moe/xhw4rv.PNG)
+
   {% bubble Ushio %}
   <th><i>(I… really didn’t ask Azekawa-san about anything at all. And not just that—)</i></th>
 
@@ -1447,12 +1569,14 @@ description: kinari event sr story translation
   {% endbubble %}
 
   <div class="msr-narration">
-  <p><i>Beep!</i></p>
+    <p><i>Sound of message notification</i></p>
   </div>
 
   {% bubble Ushio %}
   …A message from Hachinoya-san?
   {% endbubble %}
+
+  ![message](https://files.catbox.moe/a0246t.png)
 
 <div class="minitalk" character="Nagi">
   <div class="minitalk-option">
@@ -1468,7 +1592,7 @@ description: kinari event sr story translation
           <div class="msr-line">
             <p>Come to the company rooftop after school tomorrow.</p>
             <p>Ah, don’t worry I’m not trying to shake you down.</p>
-            <p>Just wanted to relay what Nayuki told us after you left.</p>
+            <p>Just wanted to relay what Nayuki-san told us after you left.</p>
             <p>*sticker*</p>
           </div>
         </div>
@@ -1495,7 +1619,6 @@ description: kinari event sr story translation
 
   <sup>Translated by <a href=”https://x.com/azurecrystalz”>aurora</a></sup>
 
-
   <h2 id="9">Track 9</h2>
 
   <sup>Translated by <a href=”https://x.com/azurecrystalz”>aurora</a></sup>
@@ -1506,8 +1629,9 @@ description: kinari event sr story translation
 [^3]: Ayakashi and Yokai are similar beings but not exactly the same. Yokai focus on supernatural phenomena, while Ayakashi focuses on beauty/allure/fantasy that things have. Oftentimes Ayakashi are related to the sea, but since pretty much none of the entities chosen by the mayors are sea-based/related, this definition doesn't really work here.
 [^4]: Short for cosplay outfit.
 [^5]: A type of creature known for their pride, wisdom, and power.
-[^6]: One of the most well known creatures in the Ayakashi/Yokai groups. Most similar to a devil/demon.
-[^7]: Type of creature that takes the form of a wheel with the head of a man/monk as the axel.
+[^6]: Kappas are typically associated with cucumbers.
+[^7]: One of the most well known creatures in the Ayakashi/Yokai groups. Most similar to a devil/demon.
+[^8]: Type of creature that takes the form of a wheel with the head of a man/monk as the axel.
 
 <h4>Translation Notes</h4>
 
@@ -1516,8 +1640,9 @@ description: kinari event sr story translation
 <sup>(3): Ayakashi and Yokai are similar beings but not exactly the same. Yokai focus on supernatural phenomena, while Ayakashi focuses on beauty/allure/fantasy that things have. Oftentimes Ayakashi are related to the sea, but since pretty much none of the entities chosen by the mayors are sea-based/related, this definition doesn't really work here.</sup>
 <sup>(4): Short for cosplay outfit.</sup>
 <sup>(5): A type of yokai known for their pride, wisdom, and power.</sup>
-<sup>(6): One of the most well known creatures in the Ayakashi/Yokai groups. Most similar to a devil/demon.</sup>
-<sup>(7): Type of creature that takes the form of a wheel with the head of a man/monk as the axel.</sup>
+<sup>(6): Kappas are typically associated with cucumbers.</sup>
+<sup>(7): One of the most well known creatures in the Ayakashi/Yokai groups. Most similar to a devil/demon.</sup>
+<sup>(8): Type of creature that takes the form of a wheel with the head of a man/monk as the axel.</sup>
 
   <!-- 
   SPEECH BUBBLE FORMAT: 
