@@ -2019,7 +2019,7 @@ He looked a little weak, so he might not be around long.
 <p><i><b>Location:</b> Forest</i></p>
 </div>
 
-![ann](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721066393/mainsto/ch7/announce.png)
+![ann](https://files.catbox.moe/80ffsq.png)
 
 <div class="announcement">
 <p><i>―Here is the 5AM update.</i></p>
@@ -2095,7 +2095,7 @@ Agh…!
 Kuguri-san, I got them!
 {% endbubble %}
 
-![impressive](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721066438/mainsto/ch7/impressive.png)
+![impressive](https://files.catbox.moe/7gibd2.png)
 
 {% bubble Kuguri %}
 Impressive! That makes ten ♪
@@ -2143,7 +2143,7 @@ Hold on a second!
 ...!
 {% endbubble %}
 
-![oh](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721066389/mainsto/ch7/oh.png)
+![oh](https://files.catbox.moe/drzp1l.png)
 
 {% bubble Kuguri %}
 Hu…h?
@@ -2169,7 +2169,7 @@ I only did that because you wandered out into the open!
 Didn’t I tell you you’d be an easy target for snipers if you stand around with no cover?!
 {% endbubble %}
 
-![kuguheadspace](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721066441/mainsto/ch7/kuguspress.png)
+![kuguheadspace](https://files.catbox.moe/m4tlya.png)
 
 {% bubble Kuguri %}
 Oh, getting off of me already?
@@ -2239,7 +2239,7 @@ Don’t worry, I have a <i>fantastic</i> meat shield here.
 <p><i>Gunshot.</i></p>
 </div>
 
-![gottem](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721066397/mainsto/ch7/gottem.png)
+![gottem](https://files.catbox.moe/qzccu4.png)
 
 {% bubble Raito %}
 Got him, let’s keep moving.
@@ -2289,7 +2289,7 @@ They can tell where we are and are leading us to a specific place.
 Kinari, stay in that building’s shadows. At this rate, we’ll end up fighting close range, and you’ll be at a disadvantage.
 {% endbubble %}
 
-![order](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721066394/mainsto/ch7/order.png)
+![order](https://files.catbox.moe/8tut9k.png)
 
 {% bubble Kinari %}
 …If that is a command, I will comply.
