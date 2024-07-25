@@ -412,6 +412,8 @@ description: ev3ns mainstory translation side A
 
 <center><i>To devote this empty heart to.</i></center> <br>
 
+<br>
+
 <div class="msr-narration">
 <p><i>Cassette tape stops.</i></p>
 </div>
