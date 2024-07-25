@@ -412,13 +412,11 @@ description: ev3ns mainstory translation side A
 
 <center><i>To devote this empty heart to.</i></center> <br>
 
-<br>
-
 <div class="msr-narration">
 <p><i>Cassette tape stops.</i></p>
 </div>
 
-![monkey](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721053748/mainsto/ch1/monkeycage.png)
+![monkey](https://files.catbox.moe/qvb2nh.png)
 
 {% bubble InmateA %}
 Look! There it is… The “Monkey’s Cage”...
@@ -442,7 +440,7 @@ Is that where I’m going to be locked up…?
 <p><i><b>Location:</b> Central Courtyard</i></p>
 </div>
 
-![damaintro](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721053751/mainsto/ch1/damaintro.png)
+![damaintro](https://files.catbox.moe/qzdsv0.png)
 
 {% bubble CamKodama %}
 Line up straight! The name’s Kodama. I'm the chief warden and instructor around here!
@@ -506,7 +504,7 @@ I, the kind Chief Warden-sama, will answer just one question for you lot!
 Alright, No. 500017! If you’ve got something to say, spit it out!
 {% endbubble %}
 
-![kinaintro](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721053751/mainsto/ch1/kinaintro.png)
+![kinaintro](https://files.catbox.moe/niwuof.png)
 
 {% bubble 500017 %}
 …The tag number 500017 is used to identify me.
@@ -558,7 +556,7 @@ No. 500010! What do you think you’re doing? Get to your quarters, now!
 <p><i><b>Location:</b> Cell Block</i></p>
 </div>
 
-![cellblock](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721053751/mainsto/ch1/cellblock.png)
+![cellblock](https://files.catbox.moe/70bzb5.png)
 
 {% bubble CellmateA %}
 No. 10, what’d they lock you up for?
@@ -634,7 +632,7 @@ What would you want to say to those you’d leave behind?
 <p><i><b>Location:</b> Central Courtyard</i></p>
 </div>
 
-![announce](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721053752/mainsto/ch1/duties.png)
+![announce](https://files.catbox.moe/d10hk6.png)
 
 <div class="announcement">
 <p><i>Attention all inmates, please proceed with your assigned duties immediately. Once again…</i></p>
@@ -722,7 +720,7 @@ What’s your deal? Aren’t you one of the newbies that got here yesterday too?
 <th><i>(N-not good! It’s good that I jumped in to help, but I’m not any good at brawling…!)</i></th>
 {% endbubble %}
 
-![firstapprai](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721053749/mainsto/ch1/raitofirst.png)
+![firstapprai](https://files.catbox.moe/xkgs5x.png)
 
 {% bubble CamRaito %}
 Hmmm, this isn’t a very pretty view. It's not easy on the eyes either.
@@ -1089,8 +1087,6 @@ Chiitizeeens~! If you thought today’s lunch looked super good, hit that like b
 <div class="msr-narration">
 <p><i>Video recording stops.</i></p>
 </div>
-
-<br>
 
 ![edit](https://files.catbox.moe/0t7dpm.png)
 
