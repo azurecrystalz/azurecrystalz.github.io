@@ -1693,7 +1693,7 @@ Oh, the areas are color coded. Looks like we’re going to be pushed towards the
 <p><i><b>Location:</b> Near the Dock</i></p>
 </div>
 
-![fighting](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721065486/mainsto/ch6/fighting.png)
+![fighting](https://files.catbox.moe/2bkgtv.png)
 
 <div class="msr-narration">
 <p><i>Gunfire.</i></p>
@@ -1753,7 +1753,7 @@ Shooting first, warning after? So sneaky.
 So there is a feisty side to you. I’m starting to like you a lot more ♪
 {% endbubble %}
 
-![cat](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721065475/mainsto/ch6/cat.png)
+![cat](https://files.catbox.moe/xnhvc5.png)
 
 {% bubble Tao %}
 Augh, wh–?! Let me go!
@@ -1773,7 +1773,7 @@ Now, let’s go. Stay in front of me and walk, m’kay? Or else I might just sho
 <p><i><b>Location:</b> Forest</i></p>
 </div>
 
-![forest](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721065503/mainsto/ch6/forest.png)
+![forest](https://files.catbox.moe/pqg3eh.png)
 
 {% bubble Kinari %}
 ……
@@ -1811,7 +1811,7 @@ I’ve been trying to find a sniper to team up with.
 I’d appreciate having you cover me.
 {% endbubble %}
 
-![command](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721065505/mainsto/ch6/command.png)
+![command](https://files.catbox.moe/owjbht.png)
 
 {% bubble Kinari %}
 …Is that a command?
@@ -1851,7 +1851,7 @@ Command processed.
 <p><i><b>Location:</b> Control Room</i></p>
 </div>
 
-![control](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721065476/mainsto/ch6/control.png)
+![control](https://files.catbox.moe/d3s5g4.png)
 
 {% bubble GuardA %}
 Prisoner numbers 300005 and 498887 are working together, so are numbers 477771 and 500010.
@@ -1903,7 +1903,7 @@ Come on… Lose and die already…
 <p><i><b>Location:</b> Cell Block</i></p>
 </div>
 
-![chii](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721065506/mainsto/ch6/chii.png)
+![chii](https://files.catbox.moe/cb8mjt.png)
 
 {% bubble Chihiro %}
 Guardy, what’s going on~? Didn’t Kodamacchi say that hiding out in buildings was a no-go?
@@ -1981,7 +1981,7 @@ I’ll see you later!
 <p><i>Running footsteps fading, door closes.</i></p>
 </div>
 
-![innocent](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721065506/mainsto/ch6/innocent.png)
+![innocent](https://files.catbox.moe/qp51jq.png)
 
 {% bubble Chihiro %}
 *(Sigh)*... “Innocent”, huh…
