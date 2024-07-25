@@ -2341,7 +2341,7 @@ You only live once. Once you die you can’t feel happiness or suffering.
 <p><i><b>Location:</b> Control Room</i></p>
 </div>
 
-![yawn](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721066387/mainsto/ch7/yawn.png)
+![yawn](https://files.catbox.moe/g66y13.png)
 
 {% bubble Momiji %}
 <em>Yaaaawn</em>…
@@ -2391,7 +2391,7 @@ He’s a criminal.
 <th><i>(Whaaat? No, I’ve definitely seen him somewhere.)</i></th>
 {% endbubble %}
 
-![kodama](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721066361/mainsto/ch7/AAA.png)
+![kodama](https://files.catbox.moe/dy6tju.png)
 
 {% bubble Kodama %}
 Ah… AaaaaAAAAHHHHH!
@@ -2437,7 +2437,7 @@ I’m not biased or anything… but still! It’s good that… he made it this f
 <p><i><b>Location:</b> Central Plaza</i></p>
 </div>
 
-![hide](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721066394/mainsto/ch7/moreguard.png)
+![hide](https://files.catbox.moe/f0o919.png)
 
 {% bubble GuardB %}
 Chii, if you hide in here you’ll be safe!
@@ -2472,7 +2472,7 @@ Thanks, Guardy ☆
 <th><i>(Someone’s here!)</i></th>
 {% endbubble %}
 
-![first](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721066397/mainsto/ch7/first.png)
+![first](https://files.catbox.moe/vfa4q6.png)
 
 {% bubble Raito %}
 Seems like we’re the first ones here.
@@ -2544,7 +2544,7 @@ It seems that trump card is making himself known.
 <th><i>(Two more people are here…)</i></th>
 {% endbubble %}
 
-![second](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721066397/mainsto/ch7/second.png)
+![second](https://files.catbox.moe/0omyaf.png)
 
 {% bubble Chihiro %}
 <th><i>(! No way! Is that…)</i></th>
@@ -2576,7 +2576,7 @@ Anyway… I can finally show you what despair really is… ♪
 <p><i><b>Location:</b> Central Courtyard</i></p>
 </div>
 
-![final](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721067567/mainsto/ch8/final.png)
+![final](https://files.catbox.moe/9x76bc.png)
 
 <div class="announcement">
 <p><i>―It is now the final round.</i></p>
@@ -2629,7 +2629,7 @@ Stand down, <i>maci</i>. You’ve done well until now, but…
 <p><i>Gunfire and exchanging blows.</i></p>
 </div>
 
-![kuguriii](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721067567/mainsto/ch8/mainsto.png)
+![kuguriii](https://files.catbox.moe/ieein3.png)
 
 {% bubble Chihiro %}
 <th><i>(Woah…! Raitin and Kugurin are shooting at each other and fighting at the same time?!)</i></th>
@@ -2683,7 +2683,7 @@ Taotao! Use mine!
 ?! A shotgun…?!
 {% endbubble %}
 
-![die](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721067566/mainsto/ch8/die.png)
+![die](https://files.catbox.moe/t9esc7.png)
 
 {% bubble Tao %}
 RaaaAAA<i>AAAH! DIE, MOTHER<b>FUCKERS!</b></i>
