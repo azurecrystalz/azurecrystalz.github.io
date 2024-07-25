@@ -1034,7 +1034,7 @@ This should be a fun way to kill time.
 <p><i><b>Location:</b> Mess Hall</i></p>
 </div>
 
-![sigh](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721055604/mainsto/ch3/sighs.png)
+![sigh](https://files.catbox.moe/wdu7xz.png)
 
 {% bubble Tao %}
 <th><i>(Sigh. I accidentally got myself wrapped up with someone dangerous… Anyone who has the guards doing their bidding is definitely bad news.)</i></th>
@@ -1048,7 +1048,7 @@ This seat’s empty… I guess I’ll eat here.
 <th><i>(Well, at least there’s food here in prison… Even if it <b>does</b> look and smell like garbage. Compared to being out on the streets, this is heaven.)</i></th>
 {% endbubble %}
 
-![chiintro](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721055604/mainsto/ch3/chiination.png)
+![chiintro](https://files.catbox.moe/w2os7b.png)
 
 {% bubble CamChi %}
 Oissu-chii~! Chiitizensss! Are you all aliiive?
@@ -1092,7 +1092,7 @@ Chiitizeeens~! If you thought today’s lunch looked super good, hit that like b
 
 <br>
 
-![edit](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721055603/mainsto/ch3/edit.png)
+![edit](https://files.catbox.moe/0t7dpm.png)
 
 {% bubble CamChi %}
 Alright, here's today's videoooo~ Guard-san, edit it all nice and spiffy~!
@@ -1176,7 +1176,7 @@ Huhhh~? Well even if Chii’s on duty, he’s still pretty buddy-buddy with the 
 Didn’t they call you a fraud…?
 {% endbubble %}
 
-![fraud](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721063460/mainsto/ch3/fraud.png)
+![fraud](https://files.catbox.moe/qg6dio.png)
 
 {% bubble Chihiro %}
 Well yeah, because Chii’s in for fraud.
@@ -1230,7 +1230,7 @@ There’s. Gonna. Be. <i>Waaar</i> ♪
 <p><i><b>Location:</b> Maximum Security Unit</i></p>
 </div>
 
-![guard](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721063462/mainsto/ch3/guard.png)
+![guard](https://files.catbox.moe/xsi8zx.png)
 
 {% bubble SG %}
 Kuguri-san… This is the next recreational program...
