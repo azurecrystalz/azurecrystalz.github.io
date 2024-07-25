@@ -780,7 +780,7 @@ I’m also… the one they call “King” on this island.
 <p><i>Morning bell sounds.</i></p>
 </div>
 
-![duty](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721054326/mainsto/ch2/duty.png)
+![duty](https://files.catbox.moe/ymrp14.png)
 
 {% bubble Tao %}
 <th><i>(Apparently cleaning duty for today is a solitary confinement cell for a dangerous criminal... Let’s just get this over with...)</i></th>
@@ -846,7 +846,7 @@ A command system has already been implemented by the guards.
 Multiple command systems run the risk of lag in computational processing.
 {% endbubble %}
 
-![processing](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721054327/mainsto/ch2/processing.png)
+![processing](https://files.catbox.moe/v671k3.png)
 
 {% bubble Raito %}
 Processing…?
@@ -902,7 +902,7 @@ He’s dangerous, so be careful.
 <p><i><b>Location:</b> Present, Maximum Security Unit</i></p>
 </div>
 
-![euchre](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721054330/mainsto/ch2/euchre.png)
+![euchre](https://files.catbox.moe/dvicun.png)
 
 {% bubble Tao %}
 <th><i>(By Euchre… He meant the card game, right?)</i></th>
@@ -918,7 +918,7 @@ He’s dangerous, so be careful.
 Sigh… What a pain…
 {% endbubble %}
 
-![kuguintro](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721054328/mainsto/ch2/kuguintro.png)
+![kuguintro](https://files.catbox.moe/tfm38x.png)
 
 {% bubble CamKugu %}
 Well hello there, Black Haired <i>Fiú [^5]</i>. What's got you sighing like that?
@@ -950,7 +950,7 @@ Cleaning? Why don’t you stop doing such a boring chore and come chat with me i
 Ohhh… Are you one of the new ones that got here yesterday? Number 500010… What a perfect number. We should have a waltz to celebrate.
 {% endbubble %}
 
-![massage](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721055139/mainsto/ch2/massage.png)
+![massage](https://files.catbox.moe/idu43w.png)
 
 {% bubble Tao %}
 <th><i>(What’s… with this guy? Wait a second, why is there a guard inside the cell…? And why is the guard giving him a <b>back massage</b>?!)</i></th>
@@ -986,7 +986,7 @@ I-I’ll pass, thanks…
 I heard the King offered you an invitation to his gang yesterday. You haven’t joined it yet though, right?
 {% endbubble %}
 
-![introkugu](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721054328/mainsto/ch2/kuguwui.png)
+![introkugu](https://files.catbox.moe/ssatgh.png)
 
 {% bubble Kuguri %}
 I’m Domeki Kuguri. This island’s Emperor, and the guy who’s one step above the King.
@@ -1008,7 +1008,7 @@ Oh um… I’m sorry, I’m not really interested in the whole “gangs” thing
 Ahaha… Well, anyone that ends up in a place like this has to have some despair in them.
 {% endbubble %}
 
-![expression](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721054330/mainsto/ch2/GOD.png)
+![expression](https://files.catbox.moe/qkbpfa.png)
 
 {% bubble Kuguri %}
 ……
