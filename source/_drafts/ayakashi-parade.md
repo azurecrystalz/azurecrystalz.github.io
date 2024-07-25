@@ -1433,7 +1433,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   {% bubble Ushio %}
-  You’re the evening group’s conductor, so of course you know his circumstances right? Is it okay for someone like you to have such a conservative mindset?
+  You’re the Evening Team's conductor, so of course you know his circumstances right? Is it okay for someone like you to have such a conservative mindset?
   {% endbubble %}
 
   {% bubble Nanaki %}
