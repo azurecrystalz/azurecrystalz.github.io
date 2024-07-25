@@ -1248,7 +1248,7 @@ What a perfect chance… to show the Naked King[^7] despair.
 <p><i><b>Location:</b> On the Ferry</i></p>
 </div>
 
-![ferry](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721064052/mainsto/ch4/ferry.png)
+![ferry](https://files.catbox.moe/mjigha.png)
 
 {% bubble Momiji %}
 Oh, I’m starting to see it!
@@ -1306,7 +1306,7 @@ Yes, Bocchama’s idea is quite insightful. Establishing a bit of variety with a
 What about you, Nayuki? Any thoughts?
 {% endbubble %}
 
-![yuu](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721063902/mainsto/ch4/yuu.png)
+![yuu](https://files.catbox.moe/cd97ti.png)
 
 {% bubble Nayuki %}
 …Even if I had any, hasn’t everything already been decided?
@@ -1352,7 +1352,7 @@ When I think about how many idols have disappeared that way…
 Fuefuki-kun. Your nose is running, allow me to wipe it for you. There, there.
 {% endbubble %}
 
-![cry](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721063901/mainsto/ch4/cry.png)
+![cry](https://files.catbox.moe/ju2buc.png)
 
 {% bubble Yachiyo %}
 <i>Hic. Sobs.</i> You’re too kind, <i><em>blubbering</em></i> Thankyousomuchhh…<i>sniff</i>…
@@ -1388,7 +1388,7 @@ This is a gamble I think I can win.
 <p><i>Flashback end</i></p>
 </div>
 
-![prison](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721064607/mainsto/ch4/prison.png)
+![prison](https://files.catbox.moe/u7koae.png)
 
 {% bubble Momiji %}
 <th><i>(Making an idol group with prisoners as members who have negative reputations right from the get-go… There’s no way…)</i></th>
@@ -1432,7 +1432,7 @@ N-Nayuki-kun…?
 <p><i><b>Location:</b> Central Courtyard</i></p>
 </div>
 
-![welcome](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721064609/mainsto/ch4/cage.png)
+![welcome](https://files.catbox.moe/rg3ecm.png)
 
 {% bubble Kodama %}
 Welcome to the Land of The Apes, the “Monkey’s Cage”!
@@ -1484,7 +1484,7 @@ That Kafka… So he’s already laid out the groundwork, huh… He’s trying to
 <p><i><b>Location:</b> Control Room</i></p>
 </div>
 
-![incredible](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721064716/mainsto/ch5/incredible.png)
+![incredible](https://files.catbox.moe/htgdxv.png)
 
 {% bubble Momiji %}
 This is… incredible! All of this is footage of the island?
@@ -1518,7 +1518,7 @@ So… Could you give us more information about this audition?
 Certainly. The prisoners will be using this while participating in the survival game.
 {% endbubble %}
 
-![gun](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721064716/mainsto/ch5/demo.png)
+![gun](https://files.catbox.moe/t1vg6m.png)
 
 {% bubble Momiji %}
 This is… a digital paint gun, right? Like the kind that’s used in airsoft games and shoots some kind of special ink.
@@ -1560,7 +1560,7 @@ Ugh… What a headache…
 <p><i><b>Location:</b> Near the Dock</i></p>
 </div>
 
-![far](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721064717/mainsto/ch5/far.png)
+![far](https://files.catbox.moe/gx0cuc.png)
 
 {% bubble GuardA %}
 That’s far enough! Take off your blindfolds.
@@ -1591,7 +1591,7 @@ I’m heading back to my post. Just listen to the announcement.
 <p><i>Five types of paint guns have been prepared for you. Please choose the one you prefer.</i></p>
 </div>
 
-![pewpew](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721064717/mainsto/ch5/pewpew.png)
+![pewpew](https://files.catbox.moe/q74kxu.png)
 
 {% bubble Tao %}
 There’s… sniper rifles and assault rifles… Submachine guns, shotguns, and handguns too…?
@@ -1637,6 +1637,9 @@ I’ll go with the assault rifle.
 
 <div class="kodama-announcement">
 <p><i>Alright, listen up! Today’s activities are a lot different than usual! Just one shot and you’re out!</i></p>
+</div>
+
+<div class="kodama-announcement">
 <p><i>You’d better shoot faster than your ops if you want to live! Your uniforms were specifically tailored! If you get shot, then you’ll get hit with enough volts of electricity to drop a bear!</i></p>
 </div>
 
@@ -1646,6 +1649,8 @@ I’ll go with the assault rifle.
 
 <div class="kodama-announcement">
 <p><i>Areas inside of buildings and the docks are off limits, but you’re free to move around as much as you want anywhere else! However! The safe zone shrinks every hour!</i></p>
+</div>
+<div class="kodama-announcement">
 <p><i>Anyone who steps outside the safe zone is automatically out! Use the map and your brains, knuckleheads! Stupidity won’t help you win!</i></p>
 </div>
 
@@ -1653,7 +1658,7 @@ I’ll go with the assault rifle.
 There was a map in the pack that I got…
 {% endbubble %}
 
-![map](https://res.cloudinary.com/dwjkkl8hy/image/upload/v1721064716/mainsto/ch5/map.png)
+![map](https://files.catbox.moe/qrmycn.png)
 
 {% bubble Tao %}
 Oh, the areas are color coded. Looks like we’re going to be pushed towards the center…
