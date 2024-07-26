@@ -330,7 +330,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   <div class="msr-narration">
-    <p><i>Sound of coffee pouring</i></p>
+    <p><i>Sound of coffee pouring.</i></p>
   </div>
 
   {% bubble Ushio %}
@@ -350,7 +350,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   <div class="msr-narration">
-    <p><i>Sound of can opening</i></p>
+    <p><i>Sound of can opening.</i></p>
   </div>
 
   {% bubble Nanaki %}
@@ -394,7 +394,7 @@ description: kinari event sr story translation
   ![nagiwagi](https://files.catbox.moe/crwfic.PNG)
 
   <div class="msr-narration">
-    <p><i>Sound of message notification</i></p>
+    <p><i>Sound of message notification.</i></p>
   </div>
 
   {% bubble Nagi %}
@@ -448,7 +448,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   <div class="msr-narration">
-    <p><i>Nagi falls from the second floor</i></p>
+    <p><i>Nagi falls from the second floor.</i></p>
   </div>
 
   ![nagigif](https://files.catbox.moe/zykmhx.gif)
@@ -845,7 +845,7 @@ description: kinari event sr story translation
   ![shrine](https://files.catbox.moe/urtlus.PNG)
 
   <div class="msr-narration">
-    <p><i>Sound of Bio Avatars logging in</i></p>
+    <p><i>Sound of Bio Avatars logging in.</i></p>
   </div>
 
   {% bubble Kaede %}
@@ -901,7 +901,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   <div class="msr-narration">
-    <p><i>Sound of Bio Avatar logging in</i></p>
+    <p><i>Sound of Bio Avatar logging in.</i></p>
   </div>
 
   {% bubble Nayuki %}
@@ -1045,7 +1045,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   <div class="msr-narration">
-    <p><i>Sound of footsteps hurrying away</i></p>
+    <p><i>Sound of footsteps hurrying away.</i></p>
   </div>
 
   {% bubble Kaede %}
@@ -1537,7 +1537,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   <div class="msr-narration">
-  <p><i>Flashback start</i></p>
+  <p><i>Flashback start.</i></p>
   </div>
 
   ![kuguflashback](https://files.catbox.moe/mths6i.PNG)
@@ -1569,7 +1569,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   <div class="msr-narration">
-    <p><i>Sound of message notification</i></p>
+    <p><i>Sound of message notification.</i></p>
   </div>
 
   {% bubble Ushio %}
