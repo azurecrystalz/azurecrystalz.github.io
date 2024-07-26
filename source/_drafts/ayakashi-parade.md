@@ -13,7 +13,7 @@ description: kinari event sr story translation
 
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@cdde00757833b4fb17258e1914fc04279a0d9f99/expressions.css ">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@f2379fc3c44ba73a4725698aeb4ed72858ed8877/expressions.css ">
 </head>
 
 <div style="margin-top: 3%">
@@ -1561,7 +1561,7 @@ description: kinari event sr story translation
   ![resumfnssdkjh](https://files.catbox.moe/xhw4rv.PNG)
 
   {% bubble Ushio %}
-  <th><i>(I… really didn’t ask Azekawa-san about anything at all. And not just that—)</i></th>
+  <th><i>(I… I wasn’t seeing him for himself at all. And not just that—)</i></th>
 
   <th><i>(I preached so much about designing an outfit where he wouldn’t be made fun of for “being an android” and how he could stand on the center stage “even as an android”…)</i></th>
 
@@ -1611,9 +1611,569 @@ description: kinari event sr story translation
 
   <sup>Translated by <a href=”https://x.com/jellyfish_apple”>jelly</a></sup>
 
+  <div class="msr-narration">
+  <p><i><b>Location:</b>HAMA Tours - Rooftop</i></p>
+  </div>
+
+  ![came](https://files.catbox.moe/82dpy0.PNG)
+
+  {% bubble Nagi %}
+  Ushio, you came. Thank you.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Hachinoya-san… and Azekawa-san…?
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  I learned about Kinari’s “circumstances” from the chief yesterday.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  …
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  I was surprised… but then again we have aliens, so I guess it’s not really weird for there to be all sorts of people out there.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Aliens? …Are you talking about Muneuji’s helmet?
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  Ah, no… Don't worry about it.
+
+  Anyways, I get why you got mad at Nayuki-san during the meeting. But I thought you should maybe try discussing things with Kinari first.
+
+  Sorry if I’m being meddlesome.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  You’re not…
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  Kurama-sama. I apologize for my shortcomings.
+  {% endbubble %}
+
+  ![didn'tdo](https://files.catbox.moe/gs70xl.PNG)
+
+  {% bubble Ushio %}
+  …Azekawa-san, you didn’t do anything wrong.
+
+  —The thing is, I've spent more of my life around robots than humans, so I kinda can’t deal with people who don’t see them as equals and such…
+
+  There are narrow-minded people who see machines as just objects… but I don’t think that’s true. I can’t see robots like that. I just don’t understand it.
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  …I think I get what you mean. It’s like how Sonia is family to me.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  That’s why I… overreacted to Nayuki-san’s words and suddenly left like that… I ended up showing you guys that… unsightly side of myself.
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  Not at all. You allocated a big portion of your time for my sake.
+
+  I would like to interpret this as Kurama-sama’s own form of hospitality. I am ever so grateful for your actions.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  My… hospitality…?
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  However, it was true that I allowed Kurama-sama to take care of all matters concerning the outfit, despite the fact that Master specifically instructed the two of us to collaborate.
+
+  I believe we should work together to come up with revisions this time around—what are your thoughts?
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  …! Of course. Please, let me redeem myself.
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  …Ah, while we’re on the topic, could I ask for some help on my Wanyudo design as well? After some thought, I feel like there still aren't enough wheels.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  …I don’t mean to be rude or anything, but I don't think that’s the problem.
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  In that case, may I propose that we invite Kuguri and Nanamegi-sama to discuss as well?
+
+  —Reproducing the manager’s words after Kurama-sama left.
+  {% endbubble %}
+
+  <div class="msr-narration">
+  <p><i>Flashback start.</i></p>
+  </div>
+
+  ![flashnayu](https://files.catbox.moe/i4lkog.PNG)
+
+  {% bubble Nayuki %}
+  <em>(Sigh)</em>… Everyone, please revise them within 3 days. Also—
+
+  I failed to say this earlier, but… there is no sense of coordination as a group whatsoever in everyone’s designs.
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  You mean… the fact that there are no shared motifs?
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  Exactly. Please base your revisions around complementing each other’s designs, and please adhere to the deadline.
+  {% endbubble %}
+
+  <div class="msr-narration">
+  <p><i><b>Location:</b> Present; HAMA Tours - Rooftop</i></p>
+  </div>
+
+  {% bubble Nagi %}
+  Oh yeah. Shared motifs…
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  If there are no problems, may I contact the other two?
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  …No, I’ll tell them myself when I get back to the dorms. Though it might be kinda ironic since I’m the one that left mid-meeting.
+
+  <th><i>(Which is why—)</i></th>
+
+  …I feel like I need to be more transparent with them.
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  Understood. In that case, I shall book a conference room.
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  Okay, then to end our discussion…
+
+  Shall we shout out our resolutions for the event?
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Why??
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  Because from now on, it’s the real deal. I heard that high schoolers do this sometimes to refresh themselves—shouting from the rooftop, I mean.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Um, and where exactly did you hear that from? Don’t tell me, you’re gonna make us do what Idiotake did during his Hospitality Tour?
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  Hm? Akuta’s Hospitality Tour?
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  Day2’s tour information is not inputted in my database. I came across the idea while sifting through communal broadcast records from the past and proposed it to Hachinoya-sama.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Eh… Ah, I see…
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  This is the essence of what they call ‘youth’. I'm sure HAMA Tours’s rooftop was also specifically made for this.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Yeah, definitely not…
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  Now then, don’t be shy.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  That’s… easier said than done…
+  {% endbubble %}
+
+  ![tamaya](https://files.catbox.moe/y35ixu.PNG)
+
+  {% bubble Kinari %}
+  <span style="font-size: x-large"><b><i>TAAAAMAYAAAAAAAAA.</i></b></span>[^9]
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  !?
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  How was that?
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  Mm. A nice shout.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Um, this isn’t really the time to be shouting “tamaya,” though…?
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  Apologies. It seems an address error occurred during the data fetching process. Data fetching logic needs refactoring.
+
+  Kurama-sama. Can you provide me with an example of a correct shout?
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  ......
+
+  …Th......
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  Th?
+  {% endbubble %}
+
+  ![banging](https://files.catbox.moe/exyfvc.PNG)
+
+  {% bubble Ushio %}
+  This time… I’ll make a banging design…
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  <span style="font-size: x-large"><i><b>…THIS TIIIIIIIIIME. I’LL MAKE A BANGING DESIIIIIIIIIGN.</b></i></span>
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Th-...... That no one… will complain… about…
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  <span style="font-size: x-large"><i><b>THAAAAAAAAAT. NO ONE WILL COMPLAIN ABOUUUUUUUUUUT.</b></i></span>
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  K-Kill me please…
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  <span style="font-size: x-large"><i><b>PLEASE LIIIIIIIIIVE.</b></i></span>
+  {% endbubble %}
+
   <h2 id="7">Track 7</h2>
 
   <sup>Translated by <a href=”https://x.com/azurecrystalz”>aurora</a></sup>
+
+  <div class="msr-narration">
+  <p><i><b>Location:</b> HAMA House - Second Floor Hallway</i></p>
+  </div>
+
+  ![roomsss](https://files.catbox.moe/cumg17.PNG)
+
+  {% bubble Ushio %}
+  <th><i>(Okay… I should head to Nanaki’s room first…)</i></th>
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  …Ah.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  !
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  Oh? Fancy seeing you here, Ushio.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Uh, um…
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  Perfect timing.
+
+  Kugunii and I were just talking about how we can fix up the designs.
+
+  I wanted to talk about it with everyone.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Oh…
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  Looks like you were thinking the same thing. That certainly speeds things along.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  You’re not mad…?
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  Mad? …Oh, about the meeting?
+
+  Actually, I’m more happy I got to see a cuter side of you.
+  {% endbubble %}
+
+  ![tantrum](https://files.catbox.moe/u1u1xj.PNG)
+
+  {% bubble Nanaki %}
+  Kugunii’s so mature. It looked like a tantrum to me.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  …
+
+  <th><i>(Keep it together, me… Remember the promise I made on the roof…)</i></th>
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  But… I felt that scrapping the Tengu design you came up with would be a waste.
+
+  Especially all the neon bits… They might not directly connect with the Ayakashi theme, but we can still try to use them.
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  If adding it to only Plüss’s outfit is too over the top and makes him stick out in a bad way, we should just add it to everyone’s outfits.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  I… guess so…
+  {% endbubble %}
+
+  <div class="msr-narration">
+    <p><i>Sound of message notification.</i></p>
+  </div>
+
+  {% bubble Kuguri %}
+  Oh, Plüss already booked a conference room for tomorrow. We’ll talk more about it then.
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  Don’t run away halfway through tomorrow’s meeting too.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Constantly bringing up someone’s past mistakes, huh? What a <i>great</i> personality you’ve got there.
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  I was just worried about the local toddler throwing a tantrum.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Haah?
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  What?
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  You’re like children squabbling over who’s taller.
+  {% endbubble %}
+
+  <div class="msr-narration">
+  <p><i><b>Location:</b> HAMA Tours - Conference Room</i></p>
+  </div>
+
+  ![leader](https://files.catbox.moe/pqerdu.PNG)
+
+  {% bubble Nagi %}
+  Errr… As the leader of the Night Team, I’ll take the liberty to coordinate this meeting. I’m sorry if I’m overstepping at all.
+
+  First, Ushio had an idea…
+
+  Oh wait, it looks like he had something else to say. Go ahead.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  I’m… ry… out yesterday…
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  Hm? What was that?
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  Hey, Andy. Play that back. At max volume.
+  {% endbubble %}
+
+  <div class="msr-narration">
+    <p><i>Andy beeps.</i></p>
+  </div>
+
+  {% bubble Andy %}
+  “I’m sorry… about… yesterday…”
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  GiyaaaAAAH?! Nanaki! You <i>asshole…!</i>
+  {% endbubble %}
+
+  ![clap](https://files.catbox.moe/j4605f.PNG)
+
+  {% bubble Nagi %}
+  Amazing apology. Everyone clap.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  G-Gghh…!
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  And your idea?
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Oh… right.  I was thinking of adding neon parts to everyone’s Ayakashi costumes, but…
+
+  Thinking about where we’re gonna cosplay is important too.
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  Is it?
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Th-That’s just what it said online… so…
+
+  If we're making all of our outfits match, then we should make it match the event venue too.
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  That’s not a bad idea… Could we do something like that?
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  Sending an inquiry to mahoCos management through their established contact page…
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  So fast…
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  Awaiting response… awaiting response… awaiting response…
+  {% endbubble %}
+
+  ![response](https://files.catbox.moe/nwotsg.PNG)
+
+  {% bubble Kinari %}
+  Response received.
+
+  There would be no issue with additions made to the program.
+
+  Awaiting command to implement changes.
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  I see. It’s doable since it’s in mahorova. Then, Kinari can handle all the technical stuff.
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  Oh, and I had an idea too…
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  Is it turning us into UFOs from the legs down?
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  Stooop, it isn’t.
+
+  How about some music to go along with our show? I don’t mind writing it.
+  
+  I can probably manage to throw together a track that loops by the time we need it.
+
+  Unless… having Kugunii to help me out would make me pretty happy.
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  If someone as spoiled as you is asking, then I don’t have much of a choice.
+
+  I’ll lend a hand, though pop music isn’t quite my forte.
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  Oh… I had something I wanted to ask you all too.
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  Oh? Do say?
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  What’s the ideal number of wheels to put on a Wanyudo?
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  You’re so fixated on wheels…
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  Yeah. The whole reason why I like motorcycles and wanted to cosplay as a Wanyudo was because I like wheels.
+
+  I thought… that I should probably focus more on the wheels.
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  Understood. Updating the “Skills and Hobbies” section of database.
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  Apart from me becoming a Kappa UFO… it’d be fine to keep all the other ideas.
+
+  Being cohesive is important when it comes to making a concept album, but that doesn’t mean everything has to be the same.
+  {% endbubble %}
+
+  ![nananskfakjf](https://files.catbox.moe/2bwvn7.PNG)
+
+  {% bubble Nanaki %}
+  While we worked through all of these, the only things that couldn’t be scrapped at the end of it all are the things that make each of us shine.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  ! Th-That line. It’s… Sanseiu’s…
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  Sanseiu?
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  F-Forget about it.
+
+  <th><i>(For a second there, it was like my oshi was standing right in front of me…)</i></th>
+  {% endbubble %}
+
+  <div class="msr-narration">
+  <p><i><b>Location:</b> HAMA Tours Stairwell</i></p>
+  </div>
+
+  ![staaaairsss](https://files.catbox.moe/4ulr5s.PNG)
+
+  {% bubble Kaede %}
+  I just happened to peek in, but…
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  It doesn’t seem like there’s anything to be worried about.
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  That reminds me, yesterday I heard someone yelling like a madman from the roof… Did you hear it too, Nayuki-kun?
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  I did.
+
+  I wondered if they were trying to hone their core strength, but now I’m looking forward to seeing their designs.
+  {% endbubble %}
 
   <h2 id="8">Track 8</h2>
 
@@ -1632,6 +2192,7 @@ description: kinari event sr story translation
 [^6]: Kappas are typically associated with cucumbers.
 [^7]: One of the most well known creatures in the Ayakashi/Yokai groups. Most similar to a devil/demon.
 [^8]: Type of creature that takes the form of a wheel with the head of a man/monk as the axel.
+[^9]: A word typically shouted during fireworks.
 
 <h4>Translation Notes</h4>
 
@@ -1643,6 +2204,8 @@ description: kinari event sr story translation
 <sup>(6): Kappas are typically associated with cucumbers.</sup>
 <sup>(7): One of the most well known creatures in the Ayakashi/Yokai groups. Most similar to a devil/demon.</sup>
 <sup>(8): Type of creature that takes the form of a wheel with the head of a man/monk as the axel.</sup>
+<sup>(9): A word typically shouted during fireworks. Tamaya is one of the two great firework crafter shops from the Edo period of Japan (the other is Kagiya. During this time, there would be firework competitions held between the two shops and voters would should the name of the shop that they liked the fireworks of. The tradition has been passed onto today with Tamaya being the more common saying due to different reasons, one of which being, it simply sounds better.</sup>
+
 
   <!-- 
   SPEECH BUBBLE FORMAT: 
