@@ -3,11 +3,12 @@ title: Ayakashi Parade in mahorova
 date: 2055-07-07 20:02:00
 categories: 18trip
 tags:
-- Domeki Kuguri
-- Kinochi Tao
-- Kitakata Raito
+- Kurama Ushio
 - Azekawa Kinari
-- Natsuyaki Chihiro
+- Domeki Kuguri
+- Nanaki Nanamegi
+- Hachinoya Nagi
+- Kitakata Nayuki
 description: kinari event sr story translation
 ---
 
@@ -65,6 +66,14 @@ description: kinari event sr story translation
       --hue: 0;
       --name: "Participant";
     }
+    [character="KKNN"] {
+      --color: #7F7F7F;
+      --hue: 0;
+      --name: "Kinari, Nanaki, Kuguri, Nagi";
+    }
+    [character="KKNN"]::before {
+      content: "Kinari, Nanaki, Kuguri, Nagi"
+    }
     [character="AIA"] {
       --color: #7F7F7F;
       --hue: 0;
@@ -75,11 +84,59 @@ description: kinari event sr story translation
     }
     [character="AIB"] {
       --color: #7F7F7F;
-      --hue: 20;
+      --hue: 200;
       --name: "Arrogant Influencer B";
+    }
+    [character="AIAB"]::before {
+      content: "Arrogant Influencers A & B"
+    }
+        [character="AIAB"] {
+      --color: #7F7F7F;
+      --hue: 2000;
+      --name: "Arrogant Influencers A & B";
     }
     [character="AIB"]::before {
       content: "Arrogant Influencer B"
+    }
+    [character="PPA"] {
+      --color: #7F7F7F;
+      --hue: 80;
+      --name: "Parade Participant A";
+    }
+    [character="PPA"]::before {
+      content: "Parade Participant A"
+    }
+    [character="PPB"] {
+      --color: #7F7F7F;
+      --hue: 40;
+      --name: "Parade Participant B";
+    }
+    [character="PPB"]::before {
+      content: "Parade Participant B"
+    }
+    [character="PPC"] {
+      --color: #7F7F7F;
+      --hue: 120;
+      --name: "Parade Participant C";
+    }
+    [character="PPC"]::before {
+      content: "Parade Participant C"
+    }
+    [character="SpectatorA"] {
+      --color: #7F7F7F;
+      --hue: 140;
+      --name: "Spectator A";
+    }
+    [character="SpectatorA"]::before {
+      content: "Spectator A"
+    }
+    [character="SpectatorB"] {
+      --color: #7F7F7F;
+      --hue: 40;
+      --name: "Spectator B";
+    }
+    [character="SpectatorB"]::before {
+      content: "Spectator B"
     }
     .msr-narration {
       display: flex;
@@ -124,7 +181,7 @@ description: kinari event sr story translation
           </div>
           <div class="info-area">
               <div class="synopsis" style="width: 90%;">
-              SYNOPSIS HERE woah this is a really cool synopsis thats really long and informative and gives the reader a good sense of what the fuck goes on in this story wow isnt this a really good synopsis.
+              HAMA Tours received a request for individuals to participate in a cosplay event in mahorova. The team selected to participate consisted of Kuguri, Nanaki, Kinari, Nagi, and Ushio. However, the group faces unexpected creative differences while presenting cosplay ideas...
                 <!-- SYNOPSIS GOES HERE -->
               </div>
               <div class="info">
@@ -218,7 +275,7 @@ description: kinari event sr story translation
       </div>
       <div class="info-area">
         <div class="synopsis">
-          SYNOPSIS HERE woah this is a really cool synopsis thats really long and informative and gives the reader a good sense of what the fuck goes on in this story wow isnt this a really good synopsis.
+          HAMA Tours received a request for individuals to participate in a cosplay event in mahorova. The team selected to participate consisted of Kuguri, Nanaki, Kinari, Nagi, and Ushio. However, the group faces unexpected creative differences while presenting cosplay ideas...
           <!-- SYNOPSIS HERE -->
         </div>
         <div class="info">
@@ -1938,7 +1995,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   {% bubble Kuguri %}
-  If adding it to only Plüss’s outfit is too over the top and makes him stick out in a bad way, we should just add it to everyone’s outfits.
+  If adding them to Plüss’s outfit is too flashy and makes it stand out too much, we should just add it to everyone’s outfits.
   {% endbubble %}
 
   {% bubble Ushio %}
@@ -1984,11 +2041,11 @@ description: kinari event sr story translation
   ![leader](https://files.catbox.moe/pqerdu.PNG)
 
   {% bubble Nagi %}
-  Errr… As the leader of the Night Team, I’ll take the liberty to coordinate this meeting. I’m sorry if I’m overstepping at all.
+  Errr… As the leader of the Night Team, I’ll take the liberty of coordinating this meeting. I’m sorry if I’m overstepping at all.
 
   First, Ushio had an idea…
 
-  Oh wait, it looks like he had something else to say. Go ahead.
+  Oh wait, it looks like he has something else to say. Go ahead.
   {% endbubble %}
 
   {% bubble Ushio %}
@@ -2030,7 +2087,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   {% bubble Ushio %}
-  Oh… right.  I was thinking of adding neon parts to everyone’s Ayakashi costumes, but…
+  Oh… right. It’s about how we said we’d add neon parts to everyone’s Ayakashi costumes…
 
   Thinking about where we’re gonna cosplay is important too.
   {% endbubble %}
@@ -2072,7 +2129,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   {% bubble Nagi %}
-  I see. It’s doable since it’s in mahorova. Then, Kinari can handle all the technical stuff.
+  I see, it’s doable since it’s in mahorova. Then, Kinari can handle all the technical stuff.
   {% endbubble %}
 
   {% bubble Nanaki %}
@@ -2084,7 +2141,7 @@ description: kinari event sr story translation
   {% endbubble %}
 
   {% bubble Nanaki %}
-  Stooop, it isn’t.
+  Heh. Of course not.
 
   How about some music to go along with our show? I don’t mind writing it.
   
@@ -2179,20 +2236,574 @@ description: kinari event sr story translation
 
   <sup>Translated by <a href=”https://x.com/azurecrystalz”>aurora</a></sup>
 
+  <div class="msr-narration">
+  <p><i><b>Location:</b> mahorova - Shrine Area</i></p>
+  </div>
+
+  ![hurry](https://files.catbox.moe/u2nryh.PNG)
+
+  {% bubble Kafka %}
+  Guys, hurry!
+
+  The show’s already started!
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  I-It’s so crowded that we had a hard time getting to the central plaza…
+  {% endbubble %}
+
+  {% bubble Chihiro %}
+  Woah, the cosplay quality is sooo top notch!
+
+  Even the people who aren’t on the runway went all out!
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  It doesn’t seem like it’s HAMA Tours’s turn yet…
+  {% endbubble %}
+
+  <div class="msr-narration">
+    <p><i>Cheers and applause.</i></p>
+  </div>
+
+  {% bubble PPA %}
+  How do you like this?! Look how shiny my Nue’s[^10] fur is!
+  {% endbubble %}
+
+  {% bubble PPB %}
+  And I put extra effort into my Jorōgumo's[^11] legs.
+  {% endbubble %}
+
+  {% bubble PPC %}
+  Take a look at the quality of my Onmoraki[^12] feathers!
+  {% endbubble %}
+
+  {% bubble Renga %}
+  H-Hey… Is cosplay really this complicated?! The craftsmanship of some of these are crazy realistic…!
+  {% endbubble %}
+
+  {% bubble Raito %}
+  It’s like an Ayakashi Hundred Demon Parade.
+
+  Just looking at it makes my heart race.
+  {% endbubble %}
+
+  {% bubble Akuta %}
+  Yooo, I wanna use effects like that in my next movie!
+  {% endbubble %}
+
+  {% bubble Kiroku %}
+  Amazing… Everyone here… has good taste… too.
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  The quality is better than I thought…
+  {% endbubble %}
+
+  {% bubble Kafka %}
+  Oh? Were you not confident in our members’ design ideas?
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  Umm, they told me to look over their final drafts, but I never really got a chance to.
+
+  I think Nayuki-kun was able to get a look though…
+  {% endbubble %}
+
+  {% bubble Nayuki %}
+  Ah, apologies.
+
+  Everything exceeded my expectations, so there's no need to worry. Look─
+  {% endbubble %}
+
+  <div class="msr-narration">
+  <p><i><b>Location:</b> mahorova - Cyberpunkified Shrine Area</i></p>
+  </div>
+
+  ![dark](https://files.catbox.moe/ztzpdg.PNG)
+
+  {% bubble SpectatorA %}
+  Uh… What? It got all dark all of a sudden…
+  {% endbubble %}
+
+  {% bubble SpectatorB %}
+  And the music changed too…?
+  {% endbubble %}
+
+  {% bubble Raito %}
+  That’s…
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  Kuguri-san and Nanaki-kun…!
+
+  The runway turned into a red bridge…
+  {% endbubble %}
+
+  {% bubble Kafka %}
+  Above us! There are giant serpent and Kappa holograms!
+  {% endbubble %}
+
+  ![bloomedkugu](https://files.catbox.moe/hyn244.PNG)
+
+  {% bubble Kuguri maho %}
+  Won’t you come a little closer if you want me to swallow you whole?
+  {% endbubble %}
+
+  {% bubble Nanaki maho %}
+  Or come towards me and I’ll drag you to the depths… Heh, gotcha.
+  {% endbubble %}
+
+  {% bubble Kuguri maho %}
+  Oh? Are you trying to steal a lamb away from me? What a naughty boy, Nanaki.
+  {% endbubble %}
+
+  <div class="msr-narration">
+    <p><i>Cheers and applause.</i></p>
+  </div>
+
+  {% bubble Chihiro %}
+  Wowowowza! Kugurin is suuuuuper sexy!
+  {% endbubble %}
+
+  {% bubble Tao %}
+  So he got the OK to show that much skin, huh…
+  {% endbubble %}
+
+  {% bubble Akuta %}
+  Nanaki’s Kappa look is so cooool!! So Koolppa!!
+  {% endbubble %}
+
+  {% bubble Muneuji %}
+  Hm… It seems the UFO idea was rejected… but this is truly magnificent, Nanamegi.
+  {% endbubble %}
+
+  {% bubble Raito %}
+  I see, so it’s a combination of Ayakashi and cyberpunk… One might even call it Neo-Ayakashi. They managed to stand out from the other participants, who took a more realistic approach.
+  {% endbubble %}
+
+  <div class="msr-narration">
+    <p><i>ZAP!</i></p>
+  </div>
+
+  {% bubble Kuguri maho %}
+  Ufufu… Well done.
+
+  We really caught everyone’s eye.
+  {% endbubble %}
+
+  {% bubble Nanaki maho %}
+  <em>(Sigh)</em>… Even though all we were doing was walking, I was still a little nervous.
+
+  I wonder if the chief was watching…
+  {% endbubble %}
+
+  {% bubble Kuguri maho %}
+  Your turn, Nagi.
+  {% endbubble %}
+
+  ![supp](https://files.catbox.moe/weqcv0.PNG)
+
+  {% bubble Nagi maho %}
+  Right, “Supporting Role • Hachinoya Nagi”, heading out.
+  {% endbubble %}
+
+  <div class="msr-narration">
+    <p><i>ZAP!</i></p>
+  </div>
+
+  {% bubble Nagi maho %}
+  Whoops…
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  Ah… I thought a hologram of Nagi-kun as a Wanyudo had appeared, but he crashed into a sardine avatar that happened to wander into the runway instead–
+  {% endbubble %}
+
+  {% bubble Nagi maho %}
+  …Ah.
+  {% endbubble %}
+
+  {% bubble Renga %}
+  –It looks like the wheels around his body are floating…
+  {% endbubble %}
+
+  {% bubble Nagi maho %}
+  Uwah–
+  {% endbubble %}
+
+  <div class="msr-narration">
+    <p><i>Applause.</i></p>
+  </div>
+
+  {% bubble Kafka %}
+  Floating while hula hooping… That’s a pretty impressive talent ♪
+  {% endbubble %}
+
+  <div class="msr-narration">
+    <p><i>ZAP!</i></p>
+  </div>
+
+  {% bubble Nagi maho %}
+  Whew… I’m done.
+
+  I thought something like that might happen, so I evened out my luck[^14] before logging into mahorova by stomping in a puddle with brand new white sneakers on.
+  {% endbubble %}
+
+  {% bubble Kinari maho %}
+  Correlation between luck and white sneakers: 0 matches.
+  {% endbubble %}
+
+  {% bubble Nagi maho %}
+  Well… Oh, there’s no time for that now, so I’ll explain later.
+
+  Kinari, you’re up next. Give it your best.
+  {% endbubble %}
+
+  {% bubble Kinari maho %}
+  Understood. Departing.
+  {% endbubble %}
+
+  <div class="msr-narration">
+    <p><i>ZAP!</i></p>
+  </div>
+
+  ![bloomedkina](https://files.catbox.moe/dktcyi.PNG)
+
+  {% bubble Nayuki %}
+  Azekawa-kun, the pure white of the Tengu robe looks wonderful on you.
+
+  The neon accents were a nice addition as well.
+  {% endbubble %}
+
+  {% bubble Kinari maho %}
+  Runway distance: sixty meters. Pause halfway for two seconds.
+
+  Pose, then return.
+  {% endbubble %}
+
+  {% bubble Chihiro %}
+  Ooooh! His wings are all spread out~!
+
+  Kinyari’s getup looks soooo stunning~!
+  {% endbubble %}
+
+  {% bubble AIAB %}
+  Ah…
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  Hm? Someone’s over there…
+  {% endbubble %}
+
+  <div class="msr-narration">
+  <p><i>Flashback start</i></p>
+  </div>
+
+  ![pfffftkjsfs](https://files.catbox.moe/5bcsgp.PNG)
+
+  {% bubble AIA %}
+  Pffft. Did you hear that? “Master’s discretion,” he said.
+  {% endbubble %}
+
+  {% bubble AIB %}
+  Oh, did you catch the film show last Friday? The one with the android in the supporting role. Doesn’t this remind you of it?
+  {% endbubble %}
+
+  <div class="msr-narration">
+  <p><i><b>Location:</b> Present; mahorova - Cyberpunkified Shrine Area</i></p>
+  </div>
+
+  ![aura](https://files.catbox.moe/s6m7nw.PNG)
+
+  {% bubble AIA %}
+  What a divine aura…
+  {% endbubble %}
+
+  {% bubble AIB %}
+  Oh man, he’s so elegant I could cry…
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  Wow… I’ll have to tell Kinari-kun all about that when he gets back.
+  {% endbubble %}
+
+  {% bubble Nagi maho %}
+  We were only able to pull off our costumes’ theme because of Ushio’s idea. Let’s finish this with a bang.
+  {% endbubble %}
+
+  {% bubble Nanaki maho %}
+  It’s a little annoying how you’re the one that gets to do the final act, but I’ll let it slide.
+  {% endbubble %}
+
+  {% bubble Kuguri maho %}
+  Because, of course, the finale should be Enma’s guard[^15] chasing away all the yokai.
+  {% endbubble %}
+
+  {% bubble Ushio maho %}
+  Alright, I'll go, I'll go.
+  {% endbubble %}
+
+  {% bubble Kinari maho %}
+  Kurama-sama. I was able to record a valuable experience today.
+
+  Processing this command was a good decision.
+  {% endbubble %}
+
+  {% bubble Ushio maho %}
+  I…
+
+  <th><i>(I felt a little on the fence about this at first since Oguro-san kept insisting, but…)</i></th>
+
+  …I didn’t think this was half bad either.
+  {% endbubble %}
+
+  <div class="msr-narration">
+    <p><i>ZAP!</i></p>
+  </div>
+
+  ![bloomedushi](https://files.catbox.moe/ofjsgn.PNG)
+
+  {% bubble Akuta %}
+  Wooaaaaaah! All hail Ushio-sama! He's going all out on the offensive with that super strong 'n assertive aura!
+  {% endbubble %}
+
+  {% bubble Kiroku %}
+  It… looks good…
+  {% endbubble %}
+
+  {% bubble Muneuji %}
+  Hm. The Amanojaku[^16] was a splendid choice. His defiant, arrogant attitude with a dash of stubbornness suits the look well.
+  {% endbubble %}
+
+  {% bubble Kaede %}
+  Ahaha, I think so too.
+
+  This turned out to be… sorta fun, didn’t it?
+  {% endbubble %}
+
   <h2 id="9">Track 9</h2>
 
   <sup>Translated by <a href=”https://x.com/azurecrystalz”>aurora</a></sup>
 
+  <div class="msr-narration">
+  <p><i><b>Location:</b>HAMA House Living Room</i></p>
+  </div>
+
+  ![toast](https://files.catbox.moe/421wh2.PNG)
+
+  {% bubble Nagi %}
+  To HAMA Tours’s Neo-Ayakashi collection winning the award from the judges…
+  {% endbubble %}
+
+  {% bubble KKNN %}
+  Cheers!
+  {% endbubble %}
+
+  <div class="msr-narration">
+  <p><i>CLINK!</i></p>
+  </div>
+
+  {% bubble Sakujiro %}
+  I am incredibly moved. Bravo, everyone.
+  {% endbubble %}
+
+  {% bubble Kafka %}
+  How was it from the eyes of a pro?
+  {% endbubble %}
+
+  {% bubble Sakujiro %}
+  I can assure you, the award was given free of biases.
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  I didn’t think that Saku-chan-sensei would be one of the judges for mahoCos… You should've said so.
+  {% endbubble %}
+
+  {% bubble Sakujiro %}
+  In order to maintain a level of fairness to the other participants, I thought to remain uninvolved until the day of the event.
+  {% endbubble %}
+
+  {% bubble Kafka %}
+  That’s so like you, Sakujiro.
+  {% endbubble %}
+
+  {% bubble Sakujiro %}
+  However, I feel a deep regret for forgoing the opportunity to witness new talents blooming.
+
+  So, if there is a next time, please allow me to oversee it.
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  That’s good to hear.
+  {% endbubble %}
+
+  ![wherehskdjfh](https://files.catbox.moe/4l5bfs.PNG)
+
+  {% bubble Sakujiro %}
+  By the way, where could Kurama-kun be?
+
+  I had a mind to provide personal feedback on his splendid ideas.
+  {% endbubble %}
+
+  {% bubble Nanaki %}
+  Mister Lone Wolf grabbed some snacks and juice then immediately holed himself up in his room.[^17]
+  {% endbubble %}
+
+  {% bubble Nagi %}
+  How about dancing in front of his room?
+
+  Will you come, Chief?
+  {% endbubble %}
+
+  <div class="msr-narration">
+  <p><i>Frantic typing sounds.</i></p>
+  </div>
+
+  {% bubble Kaede %}
+  Sorry, my hands are a little full at the moment…
+
+  Since the reward for you all winning the award was advertising rights, I’ve been getting a lot of inquiries since the event ended…
+  {% endbubble %}
+
+  {% bubble Kuguri %}
+  That would be what we call a “pleasant problem”.
+  {% endbubble %}
+
+  {% bubble Kinari %}
+  I will provide backup, Master.
+  {% endbubble %}
+
+  <div class="msr-narration">
+  <p><i><b>Location:</b>HAMA House - Horse Room</i></p>
+  </div>
+
+  ![muuchannn](https://files.catbox.moe/cxdzjr.PNG)
+
+  <div class="msr-narration">
+  <p><i>Door closes.</i></p>
+  </div>
+
+  {% bubble Muneuji %}
+  I have returned.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  …
+  {% endbubble %}
+
+  {% bubble Muneuji %}
+  There was a small celebration held in the living room. Karigane-sensei was praising everyone’s designs.
+
+  You should have attended, rather than staying here in your room and staring at your phone.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  ……
+  {% endbubble %}
+
+  {% bubble Muneuji %}
+  I had concerns about how it would turn out at times, but… you did a good job, Uu-chan.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  ………
+  {% endbubble %}
+
+  {% bubble Muneuji %}
+  <em>(Sigh)</em>… I suppose this would be what’s called relaxing after a large project.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  H…uh…
+  {% endbubble %}
+
+  {% bubble Muneuji %}
+  Hm? Like I was saying, now that you’re done–
+  {% endbubble %}
+
+  ![susfsljhkdjsgfsdz](https://files.catbox.moe/5yfl4q.jpeg)
+
+  {% bubble Ushio %}
+  Bwah?! H… Hang on…
+
+  Th…Th-Th-Th-Th-Th…!
+  {% endbubble %}
+
+  {% bubble Muneuji %}
+  Why are you suddenly doing a radio static impression?
+
+  It’s quite accurate.
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  This is…!
+  {% endbubble %}
+
+  {% bubble Muneuji %}
+  What? …Oh.
+  {% endbubble %}
+
+  ![posfsfds](https://files.catbox.moe/obpego.PNG)
+
+  <center><i>"The cosplay event yesterday had such high quality that I was brimming with inspiration!"</i></center><br>
+
+  <center><i>"We’re allowed to post screenshots… so check out this awesome Oni cosplayer ♪"</i></center><br>
+
+  <center><i>"I think I’ll make Neo-Ayakashi the theme for my next release."</i></center><br>
+
+  <center><i>#mahoCos #ayakashi</i></center>
+  <center><i>#EveryoneLovesCyberpunk</i></center><br>
+
+  {% bubble Muneuji %}
+  That’s… the account that you admire.
+
+  That’s great, Uu-cha–
+  {% endbubble %}
+
+  {% bubble Ushio %}
+  Euaaaah… Noticed by God…
+
+  Is this real? Am I hallucinating?
+
+  Inspiration? Me? For God…?
+
+  Yeah, no.
+  {% endbubble %}
+
+  <div class="msr-narration">
+  <p><i>Ushio faints.</i></p>
+  </div>
+
+  {% bubble Muneuji %}
+  Ushio. Heeeeey.
+
+  I thought he’d be happy about it… Looks like that’s not the case.
+
+  Even though we have known each other for a long time…
+
+  Uu-chan’s feelings are still a mystery.
+  {% endbubble %}
+
+***
 
 [^1]: Wataame (Cotton Candy in English) is the 18trip equivalent of marshmallow, a JP anonymous question site similar to retrospring or curiouscat.
 [^2]: The drink name is basically just the name of ghost pepper (bhüt jolokia) + Really Spicy so we worked it a little to play on the name of a real soda, Dr. Pepper
-[^3]: Ayakashi and Yokai are similar beings but not exactly the same. Yokai focus on supernatural phenomena, while Ayakashi focuses on beauty/allure/fantasy that things have. Oftentimes Ayakashi are related to the sea, but since pretty much none of the entities chosen by the mayors are sea-based/related, this definition doesn't really work here.
+[^3]: Ayakashi and Yokai are similar beings but not exactly the same. Yokai focus on supernatural phenomena, while Ayakashi focuses on beauty/allure/fantasy that things have.
 [^4]: Short for cosplay outfit.
 [^5]: A type of creature known for their pride, wisdom, and power.
 [^6]: Kappas are typically associated with cucumbers.
 [^7]: One of the most well known creatures in the Ayakashi/Yokai groups. Most similar to a devil/demon.
 [^8]: Type of creature that takes the form of a wheel with the head of a man/monk as the axel.
 [^9]: A word typically shouted during fireworks.
+[^10]: A type of creature with the torso of a monkey, legs of a cheetah, and tail of a reptile.
+[^11]: A type of creature that looks like a typical human woman, but has spider legs sprouting from its back.
+[^12]: A type of creature with a human face, yet bird like anatomy.
+[^13]: Hyakki yakō, literally meaning Night Parade of a Hundred Demons. Event where all yokai, ghosts, and other supernatural beings parade through japan to spread chaos.
+[^14]: Nagi is very particular about his luck, the term he uses here is yajirobe, which is like a toy that acts like a balance!
+[^15]: Enma is the ruler of hell in japanese mythos.
+[^16]: A subtype of oni in japanese mythos.
+[^17]: Given the event is tied to japanese mythology, we decided to tl it like this to mirror Amaterasu's self confinement in the cave!
 
 <h4>Translation Notes</h4>
 
@@ -2205,7 +2816,14 @@ description: kinari event sr story translation
 <sup>(7): One of the most well known creatures in the Ayakashi/Yokai groups. Most similar to a devil/demon.</sup>
 <sup>(8): Type of creature that takes the form of a wheel with the head of a man/monk as the axel.</sup>
 <sup>(9): A word typically shouted during fireworks. Tamaya is one of the two great firework crafter shops from the Edo period of Japan (the other is Kagiya. During this time, there would be firework competitions held between the two shops and voters would should the name of the shop that they liked the fireworks of. The tradition has been passed onto today with Tamaya being the more common saying due to different reasons, one of which being, it simply sounds better.</sup>
-
+<sup>(10): A type of creature with the torso of a monkey, legs of a cheetah, and tail of a reptile.</sup>
+<sup>(11): A type of creature that looks like a typical human woman, but has spider legs sprouting from its back.</sup>
+<sup>(12): A type of creature with a human face, yet bird like anatomy.</sup>
+<sup>(13): Hyakki yakō, literally meaning Night Parade of a Hundred Demons. Event where all yokai, ghosts, and other supernatural beings parade through japan to spread chaos.</sup>
+<sup>(14): Nagi is very particular about his luck, the term he uses here is yajirobe, which is like a toy that acts like a balance!</sup>
+<sup>(15): Enma is the ruler of hell in japanese mythos.</sup>
+<sup>(16): A subtype of oni in japanese mythos.</sup>
+<sup>(17): Given the event is tied to japanese mythology, we decided to tl it like this to mirror Amaterasu's self confinement in the cave!</sup>
 
   <!-- 
   SPEECH BUBBLE FORMAT: 
