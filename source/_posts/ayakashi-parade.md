@@ -259,7 +259,7 @@ description: kinari event sr story translation
 <div class="story-wrapper mobile-reverse" style="--storyColor: #374a5d;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
   <div class="grid-wrapper">
       <div class="story-background"
-      style="background-image: url('https://files.catbox.moe/vev0p8.png')">
+      style="background-image: url('https://files.catbox.moe/trxm8m.png')">
     </div>
     <div class="story-box" style="background: #5A3F47">
       <div class="story-cover">
