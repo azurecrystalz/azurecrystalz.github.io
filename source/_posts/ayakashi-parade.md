@@ -172,7 +172,7 @@ description: kinari event sr story translation
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
-      <div class="preview-background" style="background-image: url('https://files.catbox.moe/1qtw1v.png')"></div>
+      <div class="preview-background" style="background-image: url('https://files.catbox.moe/hct6bm.png')"></div>
       <div class="preview-box" style="background: calc(var(--card-background) + 2%)">
           <div class="title-area">
               <div class="title-area__title">Ayakashi Parade in mahorova</div>
@@ -263,7 +263,7 @@ description: kinari event sr story translation
     </div>
     <div class="story-box" style="background: #5A3F47">
       <div class="story-cover">
-        <div><img src="https://files.catbox.moe/1qtw1v.png">
+        <div><img src="https://files.catbox.moe/hct6bm.png">
         </div>
       </div>
       <div class="title-area">
@@ -1928,7 +1928,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA House - Second Floor Hallway</i></p>
   </div>
 
-  ![roomsss](https://files.catbox.moe/cumg17.PNG)
+  ![roomsss](https://files.catbox.moe/vi1t14.png)
 
   {% bubble Ushio %}
   <th><i>(Okay… I should head to Nanaki’s room first…)</i></th>
@@ -1976,7 +1976,7 @@ description: kinari event sr story translation
   Actually, I’m more happy I got to see a cuter side of you.
   {% endbubble %}
 
-  ![tantrum](https://files.catbox.moe/u1u1xj.PNG)
+  ![tantrum](https://files.catbox.moe/ggghh5.png)
 
   {% bubble Nanaki %}
   Kugunii’s so mature. It looked like a tantrum to me.
@@ -2038,7 +2038,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA Tours - Conference Room</i></p>
   </div>
 
-  ![leader](https://files.catbox.moe/pqerdu.PNG)
+  ![leader](https://files.catbox.moe/m2rls8.png)
 
   {% bubble Nagi %}
   Errr… As the leader of the Night Team, I’ll take the liberty of coordinating this meeting. I’m sorry if I’m overstepping at all.
@@ -2072,7 +2072,7 @@ description: kinari event sr story translation
   GiyaaaAAAH?! Nanaki! You <i>asshole…!</i>
   {% endbubble %}
 
-  ![clap](https://files.catbox.moe/j4605f.PNG)
+  ![clap](https://files.catbox.moe/lr32xe.png)
 
   {% bubble Nagi %}
   Amazing apology. Everyone clap.
@@ -2118,7 +2118,7 @@ description: kinari event sr story translation
   Awaiting response… awaiting response… awaiting response…
   {% endbubble %}
 
-  ![response](https://files.catbox.moe/nwotsg.PNG)
+  ![response](https://files.catbox.moe/uvxfhj.png)
 
   {% bubble Kinari %}
   Response received.
@@ -2188,7 +2188,7 @@ description: kinari event sr story translation
   Being cohesive is important when it comes to making a concept album, but that doesn’t mean everything has to be the same.
   {% endbubble %}
 
-  ![nananskfakjf](https://files.catbox.moe/2bwvn7.PNG)
+  ![nananskfakjf](https://files.catbox.moe/wkzsjf.png)
 
   {% bubble Nanaki %}
   While we worked through all of these, the only things that couldn’t be scrapped at the end of it all are the things that make each of us shine.
@@ -2212,7 +2212,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA Tours Stairwell</i></p>
   </div>
 
-  ![staaaairsss](https://files.catbox.moe/4ulr5s.PNG)
+  ![staaaairsss](https://files.catbox.moe/uugwra.png)
 
   {% bubble Kaede %}
   I just happened to peek in, but…
@@ -2240,7 +2240,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> mahorova - Shrine Area</i></p>
   </div>
 
-  ![hurry](https://files.catbox.moe/u2nryh.PNG)
+  ![hurry](https://files.catbox.moe/dtnzpt.png)
 
   {% bubble Kafka %}
   Guys, hurry!
@@ -2320,7 +2320,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> mahorova - Cyberpunkified Shrine Area</i></p>
   </div>
 
-  ![dark](https://files.catbox.moe/ztzpdg.PNG)
+  ![dark](https://files.catbox.moe/7hvuai.png)
 
   {% bubble SpectatorA %}
   Uh… What? It got all dark all of a sudden…
@@ -2344,7 +2344,7 @@ description: kinari event sr story translation
   Above us! There are giant serpent and Kappa holograms!
   {% endbubble %}
 
-  ![bloomedkugu](https://files.catbox.moe/hyn244.PNG)
+  ![bloomedkugu](https://files.catbox.moe/xw1z0m.png)
 
   {% bubble Kuguri maho %}
   Won’t you come a little closer if you want me to swallow you whole?
@@ -2402,7 +2402,7 @@ description: kinari event sr story translation
   Your turn, Nagi.
   {% endbubble %}
 
-  ![supp](https://files.catbox.moe/weqcv0.PNG)
+  ![supp](https://files.catbox.moe/wycypz.png)
 
   {% bubble Nagi maho %}
   Right, “Supporting Role • Hachinoya Nagi”, heading out.
@@ -2468,7 +2468,7 @@ description: kinari event sr story translation
     <p><i>ZAP!</i></p>
   </div>
 
-  ![bloomedkina](https://files.catbox.moe/dktcyi.PNG)
+  ![bloomedkina](https://files.catbox.moe/6upg0j.png)
 
   {% bubble Nayuki %}
   Azekawa-kun, the pure white of the Tengu robe looks wonderful on you.
@@ -2500,7 +2500,7 @@ description: kinari event sr story translation
   <p><i>Flashback start</i></p>
   </div>
 
-  ![pfffftkjsfs](https://files.catbox.moe/5bcsgp.PNG)
+  ![pfffftkjsfs](https://files.catbox.moe/tejahx.png)
 
   {% bubble AIA %}
   Pffft. Did you hear that? “Master’s discretion,” he said.
@@ -2514,7 +2514,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> Present; mahorova - Cyberpunkified Shrine Area</i></p>
   </div>
 
-  ![aura](https://files.catbox.moe/s6m7nw.PNG)
+  ![aura](https://files.catbox.moe/xb8725.png)
 
   {% bubble AIA %}
   What a divine aura…
@@ -2562,7 +2562,7 @@ description: kinari event sr story translation
     <p><i>ZAP!</i></p>
   </div>
 
-  ![bloomedushi](https://files.catbox.moe/ofjsgn.PNG)
+  ![bloomedushi](https://files.catbox.moe/trxm8m.png)
 
   {% bubble Akuta %}
   Wooaaaaaah! All hail Ushio-sama! He's going all out on the offensive with that super strong 'n assertive aura!
@@ -2590,7 +2590,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b>HAMA House Living Room</i></p>
   </div>
 
-  ![toast](https://files.catbox.moe/421wh2.PNG)
+  ![toast](https://files.catbox.moe/es9ufx.png)
 
   {% bubble Nagi %}
   To HAMA Tours’s Neo-Ayakashi collection winning the award from the judges…
@@ -2638,7 +2638,7 @@ description: kinari event sr story translation
   That’s good to hear.
   {% endbubble %}
 
-  ![wherehskdjfh](https://files.catbox.moe/4l5bfs.PNG)
+  ![wherehskdjfh](https://files.catbox.moe/dhm3d2.png)
 
   {% bubble Sakujiro %}
   By the way, where could Kurama-kun be?
@@ -2678,7 +2678,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b>HAMA House - Horse Room</i></p>
   </div>
 
-  ![muuchannn](https://files.catbox.moe/cxdzjr.PNG)
+  ![muuchannn](https://files.catbox.moe/5m0pu9.png)
 
   <div class="msr-narration">
   <p><i>Door closes.</i></p>
@@ -2722,7 +2722,7 @@ description: kinari event sr story translation
   Hm? Like I was saying, now that you’re done–
   {% endbubble %}
 
-  ![susfsljhkdjsgfsdz](https://files.catbox.moe/5yfl4q.jpeg)
+  ![susfsljhkdjsgfsdz](https://files.catbox.moe/owd6at.jpeg)
 
   {% bubble Ushio %}
   Bwah?! H… Hang on…
@@ -2744,7 +2744,7 @@ description: kinari event sr story translation
   What? …Oh.
   {% endbubble %}
 
-  ![posfsfds](https://files.catbox.moe/obpego.PNG)
+  ![posfsfds](https://files.catbox.moe/4lak07.png)
 
   <center><i>"The cosplay event yesterday had such high quality that I was brimming with inspiration!"</i></center><br>
 
