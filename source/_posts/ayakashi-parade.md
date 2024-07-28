@@ -1359,7 +1359,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA Tours - Conference Room</i></p>
   </div>
 
-  ![t5](https://files.catbox.moe/khr0pv.PNG)
+  ![t5](https://files.catbox.moe/lzmy5e.png)
 
   {% bubble Kaede %}
   Um, everyone. Thanks for all the costume proposals. Nayuki-kun and I have looked them over and—
@@ -1369,7 +1369,7 @@ description: kinari event sr story translation
   Everyone needs to redo theirs.
   {% endbubble %}
 
-  ![um](https://files.catbox.moe/m0iajr.PNG)
+  ![um](https://files.catbox.moe/kx2l3v.png)
 
   {% bubble Ushio %}
   ......
@@ -1423,7 +1423,7 @@ description: kinari event sr story translation
   U-Umm… I was told my idea was lame, so Muneuji gave me some advice…
   {% endbubble %}
 
-  ![innovative](https://files.catbox.moe/pg7et2.PNG)
+  ![innovative](https://files.catbox.moe/dnxa9r.png)
 
   {% bubble Nanaki %}
   I-It’s…not really giving “innovative” is it… Ahaha…
@@ -1461,7 +1461,7 @@ description: kinari event sr story translation
   It is far too flashy and stands out too much.
   {% endbubble %}
 
-  ![stand](https://files.catbox.moe/zygsyj.PNG)
+  ![stand](https://files.catbox.moe/1xolbh.png)
 
   {% bubble Ushio %}
   …Is it bad to have him stand out?
@@ -1501,7 +1501,7 @@ description: kinari event sr story translation
   Oh… I get it now.
   {% endbubble %}
 
-  ![MANNNN](https://files.catbox.moe/2blw33.PNG)
+  ![MANNNN](https://files.catbox.moe/nladaa.png)
 
   {% bubble Kuguri %}
   Ushio. You designed a costume that <em>you</em> wanted to see on an android, didn’t you?
@@ -1535,7 +1535,7 @@ description: kinari event sr story translation
   …Tch… Azekawa-san, forget it.
   {% endbubble %}
 
-  ![flamed](https://files.catbox.moe/rlf20z.PNG)
+  ![flamed](https://files.catbox.moe/a6d3c9.png)
 
   {% bubble Ushio %}
   Speaking of which, everyone else's drafts got rejected as well, so why am I the only one getting flamed? If we’re just going to waste time like this, can we just end the meeting already?
@@ -1581,7 +1581,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA House</i></p>
   </div>
 
-  ![emo](https://files.catbox.moe/g3nfzc.PNG)
+  ![emo](https://files.catbox.moe/coh7vw.png)
 
   <div class="msr-narration">
     <p><i>Sound of slow footsteps.</i></p>
@@ -1597,7 +1597,7 @@ description: kinari event sr story translation
   <p><i>Flashback start.</i></p>
   </div>
 
-  ![kuguflashback](https://files.catbox.moe/mths6i.PNG)
+  ![kuguflashback](https://files.catbox.moe/r7os0p.png)
 
   {% bubble Kuguri %}
   Ushio. You designed a costume that <em>you</em> wanted to see on an android, correct?
@@ -1615,7 +1615,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> Present; HAMA House</i></p>
   </div>
 
-  ![resumfnssdkjh](https://files.catbox.moe/xhw4rv.PNG)
+  ![resumfnssdkjh](https://files.catbox.moe/blnre9.png)
 
   {% bubble Ushio %}
   <th><i>(I… I wasn’t seeing him for himself at all. And not just that—)</i></th>
@@ -1633,7 +1633,7 @@ description: kinari event sr story translation
   …A message from Hachinoya-san?
   {% endbubble %}
 
-  ![message](https://files.catbox.moe/a0246t.png)
+  ![message](https://files.catbox.moe/bp4mkc.png)
 
 <div class="minitalk" character="Nagi">
   <div class="minitalk-option">
@@ -1672,7 +1672,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b>HAMA Tours - Rooftop</i></p>
   </div>
 
-  ![came](https://files.catbox.moe/82dpy0.PNG)
+  ![came](https://files.catbox.moe/e7fg1x.png)
 
   {% bubble Nagi %}
   Ushio, you came. Thank you.
@@ -1714,7 +1714,7 @@ description: kinari event sr story translation
   Kurama-sama. I apologize for my shortcomings.
   {% endbubble %}
 
-  ![didn'tdo](https://files.catbox.moe/gs70xl.PNG)
+  ![didn'tdo](https://files.catbox.moe/bdbp5n.png)
 
   {% bubble Ushio %}
   …Azekawa-san, you didn’t do anything wrong.
@@ -1770,7 +1770,7 @@ description: kinari event sr story translation
   <p><i>Flashback start.</i></p>
   </div>
 
-  ![flashnayu](https://files.catbox.moe/i4lkog.PNG)
+  ![flashnayu](https://files.catbox.moe/mbwx5i.png)
 
   {% bubble Nayuki %}
   <em>(Sigh)</em>… Everyone, please revise them within 3 days. Also—
@@ -1856,7 +1856,7 @@ description: kinari event sr story translation
   That’s… easier said than done…
   {% endbubble %}
 
-  ![tamaya](https://files.catbox.moe/y35ixu.PNG)
+  ![tamaya](https://files.catbox.moe/n78i75.png)
 
   {% bubble Kinari %}
   <span style="font-size: x-large"><b><i>TAAAAMAYAAAAAAAAA.</i></b></span>[^9]
@@ -1894,7 +1894,7 @@ description: kinari event sr story translation
   Th?
   {% endbubble %}
 
-  ![banging](https://files.catbox.moe/exyfvc.PNG)
+  ![banging](https://files.catbox.moe/jpojjj.png)
 
   {% bubble Ushio %}
   This time… I’ll make a banging design…
