@@ -508,8 +508,6 @@ description: kinari event sr story translation
     <p><i>Nagi falls from the second floor.</i></p>
   </div>
 
-  ![nagigif](https://files.catbox.moe/zykmhx.gif)
-
   <div class="msr-narration">
   <p><i><b>Location:</b> HAMA House - Kitchen</i></p>
   </div>
