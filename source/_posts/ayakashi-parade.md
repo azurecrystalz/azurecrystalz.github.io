@@ -259,7 +259,7 @@ description: kinari event sr story translation
 <div class="story-wrapper mobile-reverse" style="--storyColor: #374a5d;--storyColor-rgb: 236,141,171;--storyColor-h: 341.1;--storyColor-s: 71.4%;--storyColor-l: 73.9%;">
   <div class="grid-wrapper">
       <div class="story-background"
-      style="background-image: url('https://files.catbox.moe/pddrw5.png')">
+      style="background-image: url('https://files.catbox.moe/vev0p8.png')">
     </div>
     <div class="story-box" style="background: #5A3F47">
       <div class="story-cover">
@@ -334,7 +334,7 @@ description: kinari event sr story translation
     <p><i><b>Location:</b> HAMA House - Horse Room</i></p>
   </div>
 
-  ![horsie](https://files.catbox.moe/7kfv3m.PNG)
+  ![horsie](https://files.catbox.moe/nsn5us.png)
 
   {% bubble Ushio %}
   ……
@@ -358,7 +358,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA House - Second Floor Hallway</i></p>
   </div>
 
-  ![sighssss](https://files.catbox.moe/0oy9v3.PNG)
+  ![sighssss](https://files.catbox.moe/ud2zt3.png)
 
   {% bubble Ushio %}
   …<em>(Sigh)</em>.
@@ -376,7 +376,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA House - Kitchen</i></p>
   </div>
 
-  ![thats](https://files.catbox.moe/rxuajr.PNG)
+  ![thats](https://files.catbox.moe/jjrwl1.png)
 
   {% bubble Ushio %}
   <th><i>(That’s…)</th></i>
@@ -448,7 +448,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA House - Second Floor Hallway</i></p>
   </div>
 
-  ![nagiwagi](https://files.catbox.moe/crwfic.PNG)
+  ![nagiwagi](https://files.catbox.moe/d8y372.png)
 
   <div class="msr-narration">
     <p><i>Sound of message notification.</i></p>
@@ -468,7 +468,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA House - Kitchen</i></p>
   </div>
 
-  ![roastoff](https://files.catbox.moe/xor5y0.PNG)
+  ![roastoff](https://files.catbox.moe/exd8hn.png)
 
   {% bubble Ushio %}
   And you, what the hell is up with that smug-ass face while you’re showing off your coffee pouring? Nobody gives a shit.
@@ -492,7 +492,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA House - Second Floor Hallway</i></p>
   </div>
 
-  ![arguing](https://files.catbox.moe/k5sk42.PNG)
+  ![arguing](https://files.catbox.moe/2h09zi.png)
 
   {% bubble Nagi %}
   I can hear arguing from downstairs…
@@ -507,6 +507,8 @@ description: kinari event sr story translation
   <div class="msr-narration">
     <p><i>Nagi falls from the second floor.</i></p>
   </div>
+
+  ![nagigif](https://files.catbox.moe/zykmhx.gif)
 
   <div class="msr-narration">
   <p><i><b>Location:</b> HAMA House - Kitchen</i></p>
@@ -560,7 +562,7 @@ description: kinari event sr story translation
   Ah, r-right… Hey, Andy! Call 911–
   {% endbubble %}
 
-  ![whew](https://files.catbox.moe/ohc560.PNG)
+  ![whew](https://files.catbox.moe/0is3yf.png)
 
   {% bubble Nagi %}
   ………Whew.
@@ -593,7 +595,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> HAMA House - Conference Room</i></p>
   </div>
 
-  ![everyoneshere](https://files.catbox.moe/oqiqq5.PNG)
+  ![everyoneshere](https://files.catbox.moe/6fmdw6.png)
 
   {% bubble Kafka %}
   Alright, everyone’s here.
@@ -631,7 +633,7 @@ description: kinari event sr story translation
   Therefore, we want you, as the acting ward mayors, to participate in this event and liven things up.
   {% endbubble %}
 
-  ![theme](https://files.catbox.moe/uqbvgc.PNG)
+  ![theme](https://files.catbox.moe/ezy5ot.png)
 
   {% bubble Nayuki %}
   The theme of the event is “Ayakashi [^3]”.
@@ -677,7 +679,7 @@ description: kinari event sr story translation
   <th><i>(Haah? What the hell. What kind of cheap abuse of power is this?)</i></th>
   {% endbubble %}
 
-  ![pooks](https://files.catbox.moe/xeuui0.PNG)
+  ![pooks](https://files.catbox.moe/8u8fdw.png)
 
   {% bubble Kuguri %}
   Fufu… It's not like I can help it if that little lamb has such fine taste.
@@ -725,7 +727,7 @@ description: kinari event sr story translation
   If anyone else is interested, please let us know.
   {% endbubble %}
 
-  ![kugunii](https://files.catbox.moe/llvafu.PNG)
+  ![kugunii](https://files.catbox.moe/mmdkid.png)
 
   {% bubble Nanaki %}
   Ah, if Kugunii… If Doumeki-san is going to be there, I think I’d like to join too.
@@ -787,7 +789,7 @@ description: kinari event sr story translation
   …Fufu.
   {% endbubble %}
 
-  ![funny](https://files.catbox.moe/wtsipf.PNG)
+  ![funny](https://files.catbox.moe/qlikw7.png)
 
   {% bubble Ushio %}
   …What’s so funny, Domeki-san?
@@ -847,7 +849,7 @@ description: kinari event sr story translation
   Hot… No, it’s cold… No, it’s perfectly room temperature.
   {% endbubble %}
 
-  ![spill](https://files.catbox.moe/3wp1x0.PNG)
+  ![spill](https://files.catbox.moe/rtil9f.png)
 
   {% bubble NU2 %}
   Why the hell did it only spill directly onto Hachinoya-san!?
@@ -897,7 +899,7 @@ description: kinari event sr story translation
   <p><i><b>Location:</b> mahorova - Shrine Area</i></p>
   </div>
 
-  ![shrine](https://files.catbox.moe/urtlus.PNG)
+  ![shrine](https://files.catbox.moe/tmpdr9.png)
 
   <div class="msr-narration">
     <p><i>Sound of Bio Avatars logging in.</i></p>
@@ -933,7 +935,7 @@ description: kinari event sr story translation
   …Don’t worry about it.
   {% endbubble %}
 
-  ![daaaamn](https://files.catbox.moe/oaj4rq.PNG)
+  ![daaaamn](https://files.catbox.moe/5m8k13.png)
 
   {% bubble Ushio %}
   <th><i>(Damn… it was just a light touch, but I still can’t deal with it even through an avatar…)</i></th>
@@ -983,7 +985,7 @@ description: kinari event sr story translation
   This is a perfect opportunity to promote HAMA Tours, so he’s hoping that the five of you will go for the prize.
   {% endbubble %}
 
-  ![woofwoof](https://files.catbox.moe/o8bo9q.PNG)
+  ![woofwoof](https://files.catbox.moe/f9ro8x.png)
 
   {% bubble Kuguri %}
   Well then… I'll go for this serpent outfit. It's a bit on the revealing side. Reptiles and I are quite compatible creatures, you know.
@@ -1011,7 +1013,7 @@ description: kinari event sr story translation
   Look, Nanaki-kun. Isn’t this Kappa costume cute?
   {% endbubble %}
 
-  ![nanaksjfkjhsfd](https://files.catbox.moe/j89y7h.PNG)
+  ![nanaksjfkjhsfd](https://files.catbox.moe/8fbidq.png)
 
   {% bubble Nanaki %}
   Eh!? Yeah, Kappa… Um, it’s cute… yeah.
@@ -1061,7 +1063,7 @@ description: kinari event sr story translation
   Well, at least the foil character was pretty good.
   {% endbubble %}
 
-  ![kinya](https://files.catbox.moe/tqxi4g.PNG)
+  ![kinya](https://files.catbox.moe/l82i6j.png)
 
   {% bubble Kinari %}
   …
@@ -1107,7 +1109,7 @@ description: kinari event sr story translation
   U-Ushio-kun! You crossed a line there.
   {% endbubble %}
 
-  ![ahhahasdf](https://files.catbox.moe/qx4143.PNG)
+  ![ahhahasdf](https://files.catbox.moe/plklqj.png)
 
   {% bubble Ushio %}
   So what? I thought I’d teach them a lesson, since they <em>clearly</em> can’t recognize bad manners despite their age.
@@ -1149,7 +1151,7 @@ description: kinari event sr story translation
     <p><i>School bell rings.</i></p>
   </div>
 
-  ![school](https://files.catbox.moe/bh8lxd.PNG)
+  ![school](https://files.catbox.moe/rmkd5h.png)
 
   {% bubble Ushio %}
   …
@@ -1199,7 +1201,7 @@ description: kinari event sr story translation
   <p><i>Flashback start.</i></p>
   </div>
 
-  ![schoolflash](https://files.catbox.moe/7zqee8.PNG)
+  ![schoolflash](https://files.catbox.moe/gcmfyw.png)
 
   {% bubble Ushio %}
   …Hey, Azekawa-san. You don’t have anything particular in mind for your cosplay outfit, correct?
@@ -1231,7 +1233,7 @@ description: kinari event sr story translation
   <p><i>Flashback end.</i></p>
   </div>
 
-  ![presentschool](https://files.catbox.moe/ma8pfw.PNG)
+  ![presentschool](https://files.catbox.moe/991pfz.png)
 
   {% bubble Ushio %}
   I’ll leave mine for now, but I have to draft Azekawa-san’s outfit before tomorrow’s meeting.
@@ -1267,7 +1269,7 @@ description: kinari event sr story translation
   I beg to differ. You just said you were putting off your own costume just now. Nanamegi, say something.
   {% endbubble %}
 
-  ![nanaaaaki](https://files.catbox.moe/s4o1i3.PNG)
+  ![nanaaaaki](https://files.catbox.moe/m08oec.png)
 
   {% bubble Nanaki %}
   What do you mean by that?
@@ -1311,7 +1313,7 @@ description: kinari event sr story translation
   Oh, who’s being selfish now? Don’t be a hypocrite.
   {% endbubble %}
 
-  ![uuu](https://files.catbox.moe/rnmeyv.PNG)
+  ![uuu](https://files.catbox.moe/lf0c3p.png)
 
   {% bubble Nanaki %}
   Uu…
