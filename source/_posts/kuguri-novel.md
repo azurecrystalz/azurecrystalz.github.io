@@ -148,7 +148,7 @@ description: Kuguri novel tl
 
 ![cover](https://res.cloudinary.com/djq41tb84/image/upload/v1719270416/kuguri%20novel.jpg)
 
-<center><span style="color: #E53D3D;"><i><b>Spoiler Warning:</b> Kuguri’s novel, as well as all other 18trip novels, contain major main story spoilers and is better read/understood after the main story.</i></span></center>
+<center><span style="color: #E53D3D;"><i><b>Spoiler Warning:</b> Kuguri’s novel, as well as all other 18trip novels, contain major main story spoilers and is better read/understood after the main story.</i></span></center> <br>
 
 <h2 id="1">Track One - “99 • 95”</h2>
 
