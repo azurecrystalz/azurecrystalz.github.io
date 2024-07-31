@@ -1,0 +1,46 @@
+---
+interface Props {
+    type: string;
+}
+
+const { type } = Astro.props;
+---
+
+<div class:list={["box", type]}>
+    <slot />
+</div>
+
+<style lang="scss">
+    .box {
+        line-height: 1.2;
+
+        &.radio {
+            background-color: var(--box-radio-bg);
+            text-align: center;
+            padding: 0.5em 1em;
+            margin: 1em 1.5em;
+            clip-path: polygon(
+                3% 0,
+                97% 0,
+                100% 10%,
+                100% 90%,
+                97% 100%,
+                3% 100%,
+                0 90%,
+                0 10%
+            );
+
+            :global(p) {
+                margin: 0.5em 0;
+            }
+        }
+
+        &.paper {
+            background-color: var(--paper-bg);
+            color: var(--paper-text);
+            padding: 1em;
+            margin: 0 2em 1em;
+            filter: var(--img-filter);
+        }
+    }
+</style>

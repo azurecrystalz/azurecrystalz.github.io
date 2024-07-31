@@ -1,0 +1,239 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main {
+    width: 720px;
+    max-width: calc(100% - 2em);
+    margin: calc(var(--header-height) + 2em) auto auto;
+    padding-bottom: 5em;
+}
+
+h1 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1.2em;
+
+    &::after {
+        content: "";
+        height: 1px;
+        width: 25%;
+        border-bottom: 1px solid rgb(var(--accent-color));
+        margin-top: 0.85em;
+    }
+}
+
+img {
+    margin: 1em 0;
+    border-radius: var(--img-border-radius);
+    transition: var(--transition);
+
+    &:first-child {
+        margin: 0 0 1em;
+    }
+}
+
+ol {
+    padding-left: 0;
+    margin: 0 0 0 20px;
+
+    p {
+        margin: 0 0 0.35em 0;
+    }
+}
+
+a {
+    text-decoration: none;
+}
+
+sup {
+    display: inline-flex;
+    vertical-align: middle;
+
+    a {
+        color: rgb(var(--text-primary));
+        line-height: 1;
+        font-size: 0.5rem;
+        font-weight: 700;
+        border-radius: 3px;
+        border: solid 1px rgba(var(--text-primary), 0.3);
+        padding: 1px 3px;
+        margin-left: 2px;
+        background-color: rgba(var(--text-primary), 0.3);
+    }
+}
+
+.t {
+    color: var(--bubble-text-thought) !important;
+}
+
+.controls__wrapper {
+    z-index: 2;
+    position: fixed;
+    bottom: 10px;
+    display: grid;
+    grid-template: 1fr / 1fr 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+    width: 720px;
+    max-width: calc(100% - 2em);
+}
+
+lite-youtube {
+    border-radius: var(--img-border-radius);
+    filter: var(--img-filter);
+    transition: var(--transition);
+
+    &::before {
+        font-family: unset !important;
+        font-size: 1.13rem !important;
+        padding: 1em 1.2em !important;
+    }
+
+    // > .lty-playbtn {
+    //     background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 48"><path d="M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z" fill="#ea76cb"/><path d="M45 24 27 14v20" fill="white"/></svg>') !important;
+    // }
+}
+
+// effects
+.obj {
+    display: flex;
+    justify-content: center;
+    margin: 1em 0;
+
+    img {
+        height: 175px;
+        width: auto;
+        margin: 0 !important;
+        border-radius: 0;
+    }
+}
+
+.cg img {
+    @extend %fit-image;
+
+    &:hover {
+        aspect-ratio: 64 / 41;
+    }
+}
+
+.bg img {
+    @extend %fit-image;
+}
+
+.sepia {
+    filter: sepia(75%) brightness(80%);
+
+    &-less {
+        filter: sepia(25%) brightness(95%);
+    }
+}
+
+.grayscale {
+    filter: grayscale(100%);
+}
+
+.green {
+    color: rgb(var(--green));
+}
+
+.big {
+    font-size: 1.35rem !important;
+}
+
+.small {
+    font-size: 0.8rem !important;
+}
+
+.vignette::before {
+    box-shadow: inset 0 0 200px rgba(0, 0, 0, 0.4);
+}
+
+.hologram {
+    position: relative;
+    overflow: hidden;
+    margin: 1em 0;
+    border-radius: var(--img-border-radius);
+
+    &:first-child {
+        margin: 0 0 1em;
+    }
+
+    img {
+        margin: 0 !important; // without this it'll overflow
+    }
+
+    &:hover img {
+        filter: unset;
+    }
+
+    &::before {
+        // https://gist.github.com/lmas/6a1bd445bc7a7145245085f4a740d3f5
+        @extend %scanlines;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        background-size: 100% 5px, 5px 100%;
+        z-index: 1;
+    }
+
+    &::after {
+        // https://codepen.io/tnixc/pen/OJeMvaW
+        @extend %scanlines;
+        top: -150px;
+        width: 100%;
+        height: calc(100% + 150px);
+        background-size: 100% 150px;
+        animation: scan 5s linear infinite;
+    }
+}
+
+@keyframes scan {
+    from {
+        transform: translateY(150px);
+    }
+    to {
+        transform: translateY(0px);
+    }
+}
+
+// mobile
+@media only screen and (max-width: 812px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .obj img {
+        height: 100px;
+    }
+}
+
+// dark mode
+html.dark {
+    img,
+    lite-youtube {
+        &:hover {
+            filter: unset;
+        }
+    }
+}
+
+%scanlines {
+    content: "";
+    display: block;
+    position: absolute;
+    background-image: linear-gradient(
+        rgba(16, 16, 18, 0) 50%,
+        rgba(255, 255, 255, 0.15) 50%
+    );
+    left: 0;
+}
+
+%fit-image {
+    aspect-ratio: 19.5 / 9;
+    object-fit: cover;
+}
