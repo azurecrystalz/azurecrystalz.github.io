@@ -1,0 +1,43 @@
+@use "sass:color";
+@use "../palette/catppuccin/latte";
+@use "../palette/catppuccin/mocha";
+
+// shadow colors generated from
+// https://www.joshwcomeau.com/shadow-palette
+
+@function toRGB($color) {
+    @return red($color), green($color), blue($color);
+}
+
+html {
+    --text-primary: #{toRGB(latte.$text)};
+    --text-secondary: #{toRGB(latte.$subtext0)};
+    --text-tertiary: #{toRGB(latte.$overlay2)};
+    --background-primary: #{toRGB(latte.$base)};
+    --background-secondary: #{toRGB(latte.$mantle)};
+    --background-tertiary: #{toRGB(latte.$surface0)};
+    --accent-color: #{toRGB(latte.$pink)};
+    --header-background: #{toRGB(latte.$crust)};
+    --blockquote-color: #{toRGB(latte.$surface2)};
+
+    --shadow-color: 221, 8%, 56%;
+
+    --header-height: 33px;
+    --img-border-radius: 10px;
+    --transition: 0.2s ease;
+}
+
+html.dark {
+    --text-primary: #{toRGB(mocha.$text)};
+    --text-secondary: #{toRGB(mocha.$subtext0)};
+    --text-tertiary: #{toRGB(mocha.$overlay2)};
+    --background-primary: #{toRGB(mocha.$base)};
+    --background-secondary: #{toRGB(mocha.$mantle)};
+    --background-tertiary: #{toRGB(mocha.$surface0)};
+    --accent-color: #{toRGB(mocha.$pink)};
+    --header-background: #{toRGB(mocha.$crust)};
+    --blockquote-color: #{toRGB(mocha.$surface2)};
+    --img-filter: brightness(80%);
+
+    --shadow-color: 240, 34%, 5%;
+}
