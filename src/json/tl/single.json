@@ -1,8 +1,20 @@
 [
     {
-        "slug": "botanical_prince/1",
-        "title": "When I Turn Around, It’s Always You",
-        "cover": "assets/voyage_with_you/card06_014_009_1.jpg",
+        "slug": "sound_of_applause/1",
+        "title": "Come, Towards the Sound of Applause",
+        "cover": "file/reitoouji/ro_66aae85e0lu36XZ0.webp?timestamp=1722476645399",
+        "position": "62%"
+    },
+    {
+        "slug": "no_words/1",
+        "title": "No Words Necessary",
+        "cover": "file/reitoouji/ro_wD66aae661ZO2yZ2.webp?timestamp=1722476136637",
+        "position": "62%"
+    },
+    {
+        "slug": "snakes_gaze/1",
+        "title": "A Florist Under a Snake's Gaze",
+        "cover": "file/reitoouji/ro_P9a66aae661eiHl3.webp?timestamp=1722476137821",
         "position": "62%"
     }
 ]

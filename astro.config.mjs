@@ -8,7 +8,7 @@ import react from "@astrojs/react";
 
 // https://astro.build/config
 export default defineConfig({
-    site: "https://yukikaze.love",
+    site: "https://azurecrystalz.github.io",
     image: {
         domains: ["f002.backblazeb2.com"],
     },

@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = "azurecrystalz";
 export const SITE_DESCRIPTION = "Ensemble Stars and 18TRIP Translations";
-export const SITE_CDN = "https://res.cloudinary.com";
+export const SITE_CDN = "https://f005.backblazeb2.com";

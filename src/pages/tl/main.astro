@@ -1,0 +1,274 @@
+---
+import StoryDirectory from "@/layouts/StoryDirectory.astro";
+
+import "@/styles/variables/tl.scss";
+import "@/styles/tl/directory.scss";
+// import "@/styles/series/18trip.scss";
+
+const title = "003: Chained Up Scarlet";
+const description =
+    "Contains a translation for 18trip's Ev3ns Main Story!";
+const slug = "main";
+// const chapterTotal = 47;
+const storyTheme = "blue";
+
+const translators: Translators[] = [
+    {
+        name: "aurora",
+        href: "https://x.com/azurecrystalz",
+    },
+];
+
+const proofreaders: Proofreaders[] = [
+    {
+        name: "dimi",
+        href: "https://x.com/taatsums",
+    },
+    {
+        name: "oli",
+        href: "https://x.com/wandasho",
+    },
+    {
+        name: "shay",
+        href: "https://starswallowingsea.tumblr.com/",
+    },
+];
+
+const chapterSections = [
+    {
+        title: "Side A",
+        chapters: [
+            {
+                // label: "King of the Island",
+                label: 1,
+                href: 1,
+            },
+            {
+                // label: "Ace in the Hole",
+                label: 2,
+                href: 2,
+            },
+            {
+                // label: "Before the Storm",
+                label: 3,
+                href: 3,
+            },
+            {
+                // label: "Welcome to the Cage",
+                label: 4,
+                href: 4,
+            },
+            {
+                // label: "Good Luck, Have Fun!",
+                label: 5,
+                href: 5,
+            },
+            {
+                // label: "First Blood",
+                label: 6,
+                href: 6,
+            },
+            {
+                // label: "Ghosting Cheater",
+                label: 7,
+                href: 7,
+            },
+            {
+                // label: "Close Combat",
+                label: 8,
+                href: 8,
+            },
+            {
+                // label: "Death Prophecy",
+                label: 9,
+                href: 9,
+            },
+            {
+                // label: "First Note",
+                label: 10,
+                href: 10,
+            },
+            {
+                // label: "Authentication",
+                label: 11,
+                href: 11,
+            },
+            {
+                // label: "Ambassador of Hell",
+                label: 12,
+                href: 12,
+            },
+            {
+                // label: "Evening Lesson",
+                label: 13,
+                href: 13,
+            },
+            {
+                // label: "Sprinkle Glitter",
+                label: 14,
+                href: 14,
+            },
+            {
+                // label: "Harbor Song",
+                label: 15,
+                href: 15,
+            },
+            {
+                // label: "Beau Soir",
+                label: 16,
+                href: 16,
+            },
+            {
+                // label: "Cried Wolf",
+                label: 17,
+                href: 17,
+            },
+            {
+                // label: "Stray Celluloid",
+                label: 18,
+                href: 18,
+            },
+            {
+                // label: "Be in Chaos",
+                label: 19,
+                href: 19,
+            },
+            {
+                // label: "Blood Pond Stage",
+                label: 20,
+                href: 20,
+            },
+            {
+                // label: "Sunset Glow",
+                label: 21,
+                href: 21,
+            },
+            {
+                // label: "What is Love?",
+                label: 22,
+                href: 22,
+            },
+        ],
+    },
+    {
+        title: "Side B",
+        chapters: [
+            {
+                label: 1,
+                href: 24,
+            },
+            {
+                label: 2,
+                href: 25,
+            },
+            {
+                label: 3,
+                href: 26,
+            },
+            {
+                label: 4,
+                href: 27,
+            },
+            {
+                label: 5,
+                href: 28,
+            },
+            {
+                label: 6,
+                href: 29,
+            },
+            {
+                label: 7,
+                href: 30,
+            },
+            {
+                label: 8,
+                href: 31,
+            },
+            {
+                label: 9,
+                href: 32,
+            },
+            {
+                label: 10,
+                href: 33,
+            },
+            {
+                label: 11,
+                href: 34,
+            },
+            {
+                label: 12,
+                href: 35,
+            },
+            {
+                label: 13,
+                href: 36,
+            },
+            {
+                label: 14,
+                href: 37,
+            },
+            {
+                label: 15,
+                href: 38,
+            },
+            {
+                label: 16,
+                href: 39,
+            },
+            {
+                label: 17,
+                href: 40,
+            },
+            {
+                label: 18,
+                href: 41,
+            },
+            {
+                label: 19,
+                href: 42,
+            },
+            {
+                label: 20,
+                href: 43,
+            },
+            {
+                label: 21,
+                href: 44,
+            },
+            {
+                label: 22,
+                href: 45,
+            },
+            {
+                label: 23,
+                href: 46,
+            },
+            {
+                label: 24,
+                href: 47,
+            },
+        ],
+    },
+];
+
+const banner = "file/reitoouji/ro_NzdCaB66aae0f9i6.webp?timestamp=1722474749507";
+const bannerPosition = "50% 32%";
+const heroImage = banner;
+---
+
+<html lang="en">
+    <StoryDirectory
+        banner={banner}
+        bannerPosition={bannerPosition}
+        title={title}
+        chapterSections={chapterSections}
+        description={description}
+        slug={slug}
+        storyTheme={storyTheme}
+        translators={translators}
+        proofreaders={proofreaders}
+        heroImage={heroImage}
+    >
+</html>
