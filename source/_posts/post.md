@@ -11,7 +11,7 @@ hidden: true
 ---
 permalink: /
 ---
-<script>window.location.replace("https://azurecrystalz.github.io/home")</script>
+<script>window.location.replace("https://kuguri.moe")</script>
 
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
