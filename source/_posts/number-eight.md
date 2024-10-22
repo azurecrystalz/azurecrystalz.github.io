@@ -11,6 +11,11 @@ tags:
 description: n8 chapter directory
 ---
 
+---
+permalink: /
+---
+<script>window.location.replace("https://kuguri.moe/tl/enstars/number_eight")</script>
+
 <style>
     .chapter-area li {
       background-color: #1a222b;
