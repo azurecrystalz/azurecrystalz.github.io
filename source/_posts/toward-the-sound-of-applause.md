@@ -8,6 +8,11 @@ tags:
 description: kuguri initial ssr tl
 ---
 
+---
+permalink: /
+---
+<script>window.location.replace("https://kuguri.moe/tl/18trip/sound_of_applause/1")</script>
+
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@f2379fc3c44ba73a4725698aeb4ed72858ed8877/expressions.css ">
 </head>
