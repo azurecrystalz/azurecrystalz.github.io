@@ -11,6 +11,11 @@ tags:
 description: niki fs2 translation
 ---
 
+---
+permalink: /
+---
+<script>window.location.replace("https://kuguri.moe/tl/enstars/bon_appetit/1")</script>
+
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
       <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709340184/translation%20site/masterlist/tdwythwmfdjkcsdpmqxc.png')"></div>
