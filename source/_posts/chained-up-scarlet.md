@@ -3,6 +3,11 @@ title: Chained Up Scarlet (Side A)
 date: 2055-07-07 12:23:00
 ---
 
+---
+permalink: /
+---
+<script>window.location.replace("https://kuguri.moe/tl/18trip/main")</script>
+
 <head>
 <!-- Primary Meta Tags -->
 <!-- HTML Meta Tags -->
