@@ -12,6 +12,11 @@ tags:
 description: niki es2 4* translation
 ---
 
+---
+permalink: /
+---
+<script>window.location.replace("https://kuguri.moe/tl/enstars/sweets_road/1")</script>
+
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
       <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1709341533/translation%20site/masterlist/cusrlzuvb8kp45fj6ph2.png')"></div>
