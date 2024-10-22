@@ -8,6 +8,11 @@ tags:
 description: Kuguri novel tl
 ---
 
+---
+permalink: /
+---
+<script>window.location.replace("https://kuguri.moe/tl/18trip/kuguri_novel")</script>
+
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
       <div class="preview-box" style="width:120%; background: calc(var(--card-background) + 2%)">
