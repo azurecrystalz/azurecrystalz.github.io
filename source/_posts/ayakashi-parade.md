@@ -15,7 +15,7 @@ description: kinari event sr story translation
 ---
 permalink: /
 ---
-<script>window.location.replace("[https://kuguri.moe](https://kuguri.moe/tl/18trip/ayakashi_parade)")</script>
+<script>window.location.replace("https://kuguri.moe/tl/18trip/ayakashi_parade")</script>
 
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
