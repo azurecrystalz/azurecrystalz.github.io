@@ -14,6 +14,11 @@ tags:
 description: spider translation directory
 ---
 
+---
+permalink: /
+---
+<script>window.location.replace("https://kuguri.moe/tl/enstars/spider")</script>
+
 <style>
     .chapter-area li {
       background-color: #1a222b;
