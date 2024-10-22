@@ -12,6 +12,12 @@ tags:
 - Nagumo Tetora
 description: romantic date tls
 ---
+
+---
+permalink: /
+---
+<script>window.location.replace("https://kuguri.moe/tl/enstars/romantic_date")</script>
+
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
 </head>
