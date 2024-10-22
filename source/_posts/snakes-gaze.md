@@ -8,6 +8,11 @@ tags:
 description: kuguri mahorova sr story
 ---
 
+---
+permalink: /
+---
+<script>window.location.replace("https://kuguri.moe/tl/18trip/snakes_gaze/1")</script>
+
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/azurecrystalz/css@f2379fc3c44ba73a4725698aeb4ed72858ed8877/expressions.css ">
