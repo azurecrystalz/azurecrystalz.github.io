@@ -14,6 +14,11 @@ tags:
 description: kohaku fs1 translation
 ---
 
+---
+permalink: /
+---
+<script>window.location.replace("https://kuguri.moe/tl/enstars/sakura/1")</script>
+
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
       <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706325658/translation%20site/masterlist/adigi7l32tpp6cykgzwt.webp')"></div>
