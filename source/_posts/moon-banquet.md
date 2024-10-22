@@ -13,6 +13,11 @@ tags:
 description: rinne ts2 5* translation
 ---
 
+---
+permalink: /
+---
+<script>window.location.replace("https://kuguri.moe/tl/enstars/shrouded_moons_banquet")</script>
+
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
 </head>
