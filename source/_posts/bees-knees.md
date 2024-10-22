@@ -11,6 +11,11 @@ tags:
 description: rinne fs1 translation
 ---
 
+---
+permalink: /
+---
+<script>window.location.replace("https://kuguri.moe/tl/enstars/bees_knees/1")</script>
+
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
       <div class="preview-background" style="background-image: url('https://res.cloudinary.com/djq41tb84/image/upload/v1706325660/translation%20site/masterlist/ye1ftcktglgw5yiw0ja9.png')"></div>
