@@ -12,6 +12,11 @@ tags:
 description: himeru 4* translation
 ---
 
+---
+permalink: /
+---
+<script>window.location.replace("https://kuguri.moe/tl/enstars/runrun_calamity/1")</script>
+
 <div class="preview-wrapper reverse" style="--storyColor: #hex;--storyColor-rgb: r,g,b;--storyColor-h: hue;--storyColor-s: saturation%;--storyColor-l: lightness%;">
   <div class="grid-wrapper">
       <div class="preview-background" style="background-image: url('https://assets.enstars.link/assets/card_still_full1_3210_evolution.png')"></div>
